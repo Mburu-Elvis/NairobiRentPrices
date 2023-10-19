@@ -1,0 +1,2744 @@
+,City,Location,Bedrooms,Bathrooms,Parking,Price
+0,Westlands,Spring Valley,4.0,,1.0,3000
+1,Westlands,Westlands Area,2.0,2.0,1.0,150000
+2,Westlands,Riverside,3.0,3.0,1.0,200000
+3,Nairobi,Upper Hill,1.0,1.0,1.0,100000
+4,Westlands,Brookside,4.0,3.0,1.0,120000
+5,Westlands,Riverside,2.0,2.0,1.0,210000
+6,Westlands,Riverside,2.0,2.0,1.0,180000
+7,Westlands,Riverside,3.0,3.0,1.0,300000
+8,Nairobi,Kilimani,3.0,3.0,1.0,200000
+9,Westlands,Riverside,4.0,4.0,1.0,160000
+10,Westlands,Riverside,3.0,3.0,1.0,325000
+11,Westlands,Westlands Area,3.0,3.0,1.0,137000
+12,Nairobi,Lavington,3.0,3.0,1.0,140000
+13,Westlands,General Mathenge,3.0,3.0,1.0,330000
+14,Westlands,Riverside,2.0,2.0,1.0,140000
+15,Westlands,Parklands,3.0,3.0,1.0,250000
+16,Westlands,General Mathenge,3.0,3.0,1.0,150000
+17,Westlands,Brookside,3.0,4.0,1.0,225000
+18,Westlands,Riverside,3.0,4.0,1.0,120000
+19,Westlands,Parklands,3.0,3.0,1.0,300000
+20,Westlands,Parklands,2.0,2.0,1.0,200000
+21,Westlands,Spring Valley,2.0,2.0,1.0,150000
+22,Westlands,Spring Valley,4.0,4.0,1.0,400000
+23,Westlands,Spring Valley,3.0,3.0,1.0,190000
+24,Westlands,Westlands Area,2.0,2.0,1.0,200000
+25,Westlands,Mountain View,2.0,2.0,1.0,55000
+26,Westlands,Rosslyn,1.0,1.0,1.0,150000
+27,Westlands,Mountain View,3.0,3.0,1.0,60000
+28,Westlands,Gigiri,2.0,2.0,1.0,200000
+29,Westlands,Loresho,3.0,2.0,1.0,60000
+30,Westlands,Westlands Area,2.0,2.0,1.0,350000
+31,Nairobi,Kilimani,2.0,2.0,1.0,170000
+32,Westlands,Riverside,2.0,2.0,1.0,300000
+33,Westlands,General Mathenge,3.0,3.0,1.0,120000
+34,Nyali,Nyali Area,3.0,4.0,1.0,120000
+35,Nairobi,Kilimani,3.0,3.0,1.0,140000
+36,Westlands,General Mathenge,4.0,4.0,1.0,450000
+37,Westlands,Rosslyn,2.0,2.0,1.0,220000
+38,Westlands,Spring Valley,4.0,4.0,1.0,450000
+39,Nairobi,State House,3.0,3.0,1.0,350000
+40,Nairobi,Lavington,3.0,3.0,1.0,280000
+41,Nairobi,Kileleshwa,3.0,3.0,1.0,150000
+42,Westlands,Westlands Area,3.0,3.0,1.0,170000
+43,Westlands,Spring Valley,2.0,2.0,1.0,95000
+44,Westlands,Riverside,3.0,3.0,1.0,150000
+45,Westlands,Riverside,3.0,3.0,1.0,350000
+46,Westlands,Runda,2.0,2.0,1.0,170000
+47,Westlands,General Mathenge,3.0,3.0,1.0,130000
+48,Westlands,Spring Valley,3.0,3.0,1.0,400000
+49,Nairobi,Kileleshwa,4.0,4.0,1.0,270000
+50,Westlands,Riverside,3.0,4.0,1.0,350000
+51,Nairobi,Lavington,2.0,2.0,1.0,220000
+52,Nairobi,Lavington,2.0,2.0,1.0,200000
+53,Westlands,General Mathenge,3.0,4.0,1.0,150000
+54,Westlands,Spring Valley,3.0,3.0,1.0,180000
+55,Westlands,Westlands Area,3.0,4.0,1.0,250000
+56,Westlands,Westlands Area,3.0,3.0,1.0,150000
+57,Nairobi,Kilimani,2.0,2.0,1.0,250000
+58,Westlands,Riverside,3.0,3.0,1.0,230000
+59,Nairobi,Westlands,,,,
+60,Nairobi,Kilimani,,,,
+61,Nairobi,Lavington,3.0,3.0,1.0,220000
+62,Westlands,Spring Valley,4.0,4.0,1.0,3300
+63,Nairobi,Kilimani,2.0,2.0,1.0,95000
+64,Westlands,Riverside,3.0,3.0,1.0,180000
+65,Westlands,Westlands Area,4.0,4.0,1.0,180000
+66,Westlands,Westlands Area,1.0,1.0,1.0,180000
+67,Westlands,Westlands Area,2.0,2.0,1.0,180000
+68,Westlands,Westlands Area,2.0,2.0,1.0,55000
+69,Westlands,Westlands Area,3.0,3.0,1.0,60000
+70,Kiambu County,Ruaka,2.0,2.0,1.0,35000
+71,Westlands,Waiyaki Way,3.0,3.0,1.0,60000
+72,Westlands,Waiyaki Way,2.0,2.0,1.0,55000
+73,Westlands,Brookside,3.0,3.0,1.0,2750
+74,Nairobi,Kiambu Road,3.0,3.0,1.0,55000
+75,Westlands,Westlands Area,2.0,2.0,1.0,250000
+76,Nairobi,Lavington,3.0,4.0,1.0,100000
+77,Nairobi,Kileleshwa,3.0,4.0,1.0,110000
+78,Nairobi,Kilimani,2.0,2.0,1.0,200000
+79,Westlands,General Mathenge,3.0,3.0,1.0,145000
+80,Nairobi,Kilimani,2.0,2.0,1.0,130000
+81,Nairobi,Kilimani,3.0,2.0,1.0,85000
+82,Nairobi,Kileleshwa,,,,
+83,Westlands,Parklands,3.0,4.0,1.0,280000
+84,Westlands,Westlands Area,3.0,4.0,1.0,150000
+85,Nairobi,Thika Road,2.0,2.0,0.0,170000
+86,Kiambu County,Kiambu Town,2.0,1.0,1.0,33000
+87,Nairobi,Thika Road,2.0,2.0,0.0,140000
+88,Westlands,Gigiri,3.0,3.0,1.0,250000
+89,Kiambu County,Ruaka,2.0,2.0,1.0,50000
+90,Nairobi,Kilimani,2.0,2.0,1.0,180000
+91,Westlands,Westlands Area,3.0,3.0,1.0,200000
+92,Nairobi,Riara Road,3.0,2.0,1.0,75000
+93,Nairobi,Muthaiga,2.0,3.0,1.0,250000
+94,Westlands,Westlands Area,3.0,3.0,1.0,85000
+95,Westlands,Riverside,4.0,4.0,0.0,200000
+96,Mombasa Island,Mombasa CBD,4.0,5.0,1.0,150000
+97,Westlands,Rosslyn,2.0,2.0,1.0,200000
+98,Nairobi,Kilimani,2.0,2.0,1.0,100000
+99,Roysambu,Garden Estate,2.0,2.0,1.0,100000
+100,Nairobi,Kilimani,2.0,2.0,1.0,180000
+101,Westlands,Riverside,3.0,2.0,1.0,90000
+102,Nyali,Nyali Area,3.0,4.0,1.0,110000
+103,Nairobi,Kilimani,3.0,3.0,1.0,289000
+104,Westlands,Westlands Area,2.0,2.0,1.0,140000
+105,Kiambu County,Ruaka,2.0,,1.0,40000
+106,Nairobi,Kileleshwa,3.0,3.0,0.0,250000
+107,Westlands,Westlands Area,3.0,3.0,0.0,130000
+108,Nairobi,Kilimani,3.0,3.0,1.0,160000
+109,Westlands,Riverside,4.0,5.0,1.0,300000
+110,Westlands,Westlands Area,3.0,4.0,1.0,75000
+111,Westlands,Westlands Area,0.0,1.0,1.0,90000
+112,Nairobi,Kileleshwa,3.0,3.0,1.0,135000
+113,Westlands,Parklands,3.0,3.0,1.0,125000
+114,Westlands,Parklands,3.0,2.0,1.0,180000
+115,Westlands,General Mathenge,4.0,4.0,1.0,250000
+116,Nairobi,Kilimani,3.0,4.0,1.0,230000
+117,Nairobi,Kileleshwa,3.0,3.0,1.0,80000
+118,Westlands,Parklands,3.0,3.0,1.0,280000
+119,Nyali,Nyali Area,3.0,4.0,1.0,200000
+120,Westlands,Gigiri,3.0,,1.0,180000
+121,Mombasa Island,Mombasa CBD,3.0,3.0,1.0,75000
+122,Nairobi,Kilimani,3.0,2.0,1.0,75000
+123,Nairobi,Utawala,1.0,1.0,1.0,16000
+124,Nairobi,Lavington,3.0,3.0,1.0,150000
+125,Nairobi,Kileleshwa,3.0,4.0,0.0,130000
+126,Machakos County,Athi River,2.0,2.0,1.0,290000
+127,Westlands,Parklands,3.0,3.0,1.0,400000
+128,Nairobi,Nairobi CBD,1.0,1.0,0.0,110000
+129,Nairobi,Kileleshwa,1.0,1.0,1.0,55000
+130,Nairobi,Kilimani,3.0,3.0,0.0,160000
+131,Westlands,Westlands Area,3.0,3.0,1.0,300000
+132,Westlands,Parklands,2.0,2.0,1.0,160000
+133,Nairobi,Kileleshwa,3.0,3.0,1.0,250000
+134,Nairobi,Kilimani,2.0,2.0,1.0,200000
+135,Nairobi,Lavington,2.0,2.0,1.0,70000
+136,Westlands,Riverside,3.0,2.0,1.0,135000
+137,Mombasa Island,Tudor,2.0,3.0,1.0,12000
+138,Nyali,Nyali Area,1.0,1.0,1.0,4500
+139,Nairobi,Kilimani,2.0,3.0,1.0,80000
+140,Nairobi,South C,3.0,3.0,1.0,160000
+141,Westlands,General Mathenge,3.0,4.0,1.0,250000
+142,Nairobi,Muthaiga,3.0,2.0,1.0,170000
+143,Nairobi,Kileleshwa,3.0,3.0,1.0,320000
+144,Nairobi,Kilimani,3.0,4.0,1.0,150000
+145,Kilifi County,Mtwapa,2.0,2.0,1.0,28000
+146,Nairobi,Kileleshwa,3.0,2.0,1.0,85000
+147,Nairobi,Kileleshwa,3.0,3.0,1.0,180000
+148,Westlands,Brookside,2.0,2.0,1.0,100000
+149,Nairobi,Lavington,3.0,3.0,1.0,95000
+150,Westlands,Westlands Area,2.0,2.0,1.0,280000
+151,Westlands,Mountain View,2.0,2.0,1.0,55000
+152,Westlands,General Mathenge,3.0,3.0,0.0,140000
+153,Westlands,Westlands Area,3.0,4.0,1.0,650000
+154,Westlands,Rhapta Road,3.0,3.0,1.0,130000
+155,Nyali,Nyali Area,3.0,4.0,1.0,115000
+156,Nairobi,Lavington,1.0,1.0,1.0,160000
+157,Nairobi,Ngong Road,3.0,2.0,1.0,65000
+158,Nairobi,Kilimani,2.0,,1.0,190000
+159,Nairobi,Upper Hill,1.0,1.0,1.0,150000
+160,Nairobi,Kileleshwa,2.0,2.0,1.0,65000
+161,Westlands,Kitisuru,2.0,2.0,1.0,230000
+162,Nairobi,Lavington,5.0,5.0,1.0,130000
+163,Westlands,Westlands Area,4.0,2.0,0.0,95000
+164,Ruiru,Tatu City,3.0,3.0,1.0,180000
+165,Westlands,Rosslyn,2.0,2.0,1.0,240000
+166,Westlands,Brookside,3.0,3.0,1.0,90000
+167,Westlands,Westlands Area,4.0,4.0,1.0,440000
+168,Westlands,Westlands Area,2.0,3.0,1.0,110000
+169,Westlands,Westlands Area,4.0,4.0,1.0,450000
+170,Nairobi,Kileleshwa,2.0,2.0,1.0,78000
+171,Westlands,Rhapta Road,2.0,2.0,1.0,90000
+172,Nairobi,Kilimani,3.0,3.0,1.0,100000
+173,Westlands,Westlands Area,3.0,3.0,1.0,300000
+174,Nairobi,Kilimani,1.0,1.0,1.0,100000
+175,Westlands,Westlands Area,2.0,2.0,1.0,210000
+176,Westlands,Parklands,4.0,4.0,1.0,280000
+177,Westlands,Westlands Area,3.0,3.0,1.0,130000
+178,Westlands,Westlands Area,1.0,1.0,1.0,95000
+179,Nairobi,Kilimani,2.0,2.0,1.0,150000
+180,Limuru,Tigoni,2.0,2.0,1.0,35000
+181,Nairobi,Upper Hill,2.0,2.0,0.0,220000
+182,Westlands,Riverside,3.0,,1.0,250000
+183,Nairobi,Kileleshwa,2.0,2.0,1.0,165000
+184,Westlands,Westlands Area,2.0,2.0,1.0,230000
+185,Nairobi,Kilimani,2.0,2.0,1.0,75000
+186,Nairobi,Kilimani,3.0,4.0,1.0,110000
+187,Nairobi,Kilimani,4.0,4.0,1.0,90000
+188,Nairobi,Kileleshwa,2.0,2.0,1.0,110000
+189,Nairobi,Kileleshwa,3.0,3.0,1.0,180000
+190,Nairobi,Lavington,3.0,3.0,1.0,170000
+191,Westlands,Riverside,3.0,2.0,0.0,250000
+192,Westlands,Spring Valley,3.0,3.0,1.0,320000
+193,Westlands,Brookside,3.0,2.0,1.0,185000
+194,Westlands,Rhapta Road,1.0,1.0,1.0,60000
+195,Nyali,Mkomani,3.0,4.0,,105000
+196,Westlands,Brookside,2.0,2.0,1.0,200000
+197,Roysambu,Garden Estate,2.0,2.0,1.0,130000
+198,Westlands,Rhapta Road,1.0,1.0,1.0,160000
+199,Nyali,Nyali Area,1.0,2.0,1.0,100000
+200,Kiambu County,Ruaka,2.0,2.0,1.0,50000
+201,Westlands,Parklands,2.0,2.0,1.0,200000
+202,Nairobi,Kileleshwa,4.0,4.0,1.0,160000
+203,Nairobi,Lavington,4.0,4.0,1.0,140000
+204,Nairobi,Lavington,1.0,1.0,1.0,150000
+205,Nairobi,Lavington,3.0,4.0,1.0,120000
+206,Westlands,Brookside,2.0,3.0,1.0,300000
+207,Westlands,General Mathenge,4.0,4.0,1.0,250000
+208,Nairobi,Kileleshwa,1.0,1.0,0.0,130000
+209,Westlands,Parklands,3.0,4.0,1.0,175000
+210,Westlands,General Mathenge,3.0,3.0,1.0,160000
+211,Nairobi,Upper Hill,2.0,2.0,1.0,200000
+212,Westlands,Westlands Area,4.0,5.0,1.0,350000
+213,Nairobi,Kileleshwa,1.0,1.0,1.0,120000
+214,Nyali,Nyali Area,3.0,2.0,1.0,50000
+215,Westlands,Waiyaki Way,1.0,1.0,0.0,23000
+216,Nairobi,Lavington,3.0,3.0,1.0,160000
+217,Nairobi,Lavington,2.0,3.0,1.0,220000
+218,Westlands,Rhapta Road,2.0,2.0,1.0,200000
+219,Westlands,Westlands Area,1.0,1.0,1.0,120000
+220,Mombasa,Bamburi,3.0,3.0,1.0,15000
+221,Nairobi,Kileleshwa,2.0,3.0,0.0,260000
+222,Nairobi,Kileleshwa,3.0,3.0,1.0,120000
+223,Nairobi,Kilimani,1.0,1.0,1.0,140000
+224,Westlands,General Mathenge,3.0,3.0,1.0,180000
+225,Nairobi,Kileleshwa,3.0,3.0,1.0,340000
+226,Westlands,Riverside,3.0,4.0,1.0,230000
+227,Nairobi,Kileleshwa,2.0,3.0,1.0,220000
+228,Westlands,Waiyaki Way,3.0,2.0,0.0,60000
+229,Nairobi,Kileleshwa,2.0,2.0,1.0,75000
+230,Westlands,Kitisuru,2.0,3.0,1.0,230000
+231,Nairobi,Kileleshwa,2.0,3.0,1.0,80000
+232,Westlands,Westlands Area,4.0,4.0,1.0,180000
+233,Westlands,Gigiri,3.0,2.0,1.0,375000
+234,Nairobi,Kilimani,3.0,2.0,1.0,70000
+235,Westlands,Rhapta Road,4.0,3.0,1.0,120000
+236,Westlands,Spring Valley,2.0,2.0,1.0,230000
+237,Westlands,Rhapta Road,3.0,2.0,1.0,70000
+238,Nairobi,Kileleshwa,3.0,4.0,1.0,250000
+239,Nairobi,Kilimani,3.0,3.0,1.0,120000
+240,Westlands,Kitisuru,2.0,,1.0,180000
+241,Nairobi,Kilimani,2.0,2.0,1.0,180000
+242,Nairobi,Kilimani,2.0,2.0,1.0,100000
+243,Nairobi,Kileleshwa,3.0,4.0,1.0,130000
+244,Nairobi,Lavington,2.0,2.0,1.0,75000
+245,Westlands,Westlands Area,3.0,3.0,1.0,250000
+246,Nairobi,Kilimani,2.0,2.0,1.0,65000
+247,Westlands,Parklands,3.0,3.0,1.0,120000
+248,Westlands,Gigiri,2.0,3.0,1.0,247000
+249,Mombasa Island,Tudor,3.0,4.0,1.0,100000
+250,Nairobi,Utawala,2.0,1.0,1.0,25000
+251,Nairobi,Kileleshwa,1.0,2.0,1.0,6500
+252,Westlands,General Mathenge,3.0,,0.0,170000
+253,Nairobi,Kileleshwa,3.0,,0.0,60000
+254,Nairobi,Lavington,2.0,3.0,1.0,200000
+255,Westlands,Rhapta Road,2.0,3.0,1.0,145000
+256,Westlands,Westlands Area,4.0,4.0,1.0,170000
+257,Nairobi,Kilimani,2.0,,1.0,120000
+258,Westlands,Westlands Area,2.0,2.0,1.0,220000
+259,Nairobi,Kilimani,2.0,2.0,1.0,100000
+260,Nairobi,Ngara,2.0,1.0,0.0,38000
+261,Westlands,Kitisuru,2.0,2.0,1.0,240000
+262,Nairobi,Kilimani,2.0,2.0,1.0,230000
+263,Westlands,Parklands,2.0,2.0,1.0,250000
+264,Westlands,Riverside,2.0,,1.0,140000
+265,Westlands,Riverside,1.0,2.0,0.0,90000
+266,Westlands,Parklands,2.0,2.0,0.0,160000
+267,Westlands,Westlands Area,2.0,2.0,1.0,170000
+268,Westlands,Riverside,3.0,3.0,1.0,140000
+269,Nairobi,Kileleshwa,3.0,4.0,1.0,180000
+270,Mombasa Island,Tudor,3.0,4.0,1.0,70000
+271,Nairobi,Lavington,3.0,3.0,1.0,100000
+272,Westlands,Westlands Area,3.0,4.0,1.0,200000
+273,Nairobi,Muthaiga,3.0,2.0,1.0,300000
+274,Westlands,Parklands,3.0,4.0,1.0,164000
+275,Nyali,Nyali Area,2.0,2.0,1.0,6000
+276,Westlands,Kitisuru,2.0,3.0,1.0,250000
+277,Machakos County,Athi River,2.0,2.0,0.0,28000
+278,Nairobi,Kilimani,3.0,4.0,1.0,170000
+279,Westlands,Rhapta Road,1.0,,1.0,120000
+280,Nairobi,Kilimani,2.0,2.0,1.0,324000
+281,Nairobi,Lavington,3.0,4.0,1.0,140000
+282,Westlands,Spring Valley,1.0,1.0,1.0,200000
+283,Nairobi,Kileleshwa,2.0,3.0,1.0,100000
+284,Nairobi,Kileleshwa,2.0,2.0,1.0,55000
+285,Westlands,Brookside,2.0,2.0,1.0,100000
+286,Westlands,Riverside,3.0,3.0,1.0,130000
+287,Nyali,Nyali Area,3.0,2.0,1.0,50000
+288,Nairobi,Kilimani,2.0,2.0,1.0,85000
+289,Westlands,Westlands Area,2.0,2.0,1.0,180000
+290,Nairobi,Kileleshwa,3.0,3.0,1.0,95000
+291,Nairobi,Kilimani,4.0,4.0,1.0,330000
+292,Nairobi,Lavington,2.0,2.0,1.0,190000
+293,Nairobi,Thika Road,2.0,2.0,1.0,89000
+294,Westlands,Riverside,5.0,6.0,1.0,370000
+295,Nairobi,Kileleshwa,1.0,1.0,1.0,110000
+296,Nairobi,Kileleshwa,3.0,3.0,0.0,150000
+297,Nyali,Nyali Area,3.0,4.0,1.0,120000
+298,Westlands,Westlands Area,2.0,2.0,1.0,65000
+299,Nairobi,Kilimani,2.0,2.0,1.0,160000
+300,Nyali,Nyali Area,3.0,4.0,1.0,180000
+301,Westlands,Brookside,3.0,4.0,1.0,350000
+302,Nairobi,Upper Hill,3.0,,1.0,75000
+303,Nairobi,Kileleshwa,2.0,2.0,1.0,75000
+304,Kiambu County,Ruaka,2.0,2.0,1.0,25000
+305,Nairobi,Naivasha Road,1.0,1.0,1.0,40000
+306,Nairobi,Kilimani,2.0,2.0,1.0,150000
+307,Kikuyu,Kikuyu Town,2.0,1.0,0.0,27500
+308,Nairobi,Kilimani,3.0,3.0,1.0,245000
+309,Nairobi,Kilimani,3.0,3.0,0.0,100000
+310,Westlands,Spring Valley,3.0,3.0,1.0,350000
+311,Nairobi,Kileleshwa,3.0,3.0,1.0,170000
+312,Nairobi,Naivasha Road,2.0,2.0,1.0,40000
+313,Westlands,Parklands,2.0,2.0,1.0,120000
+314,Mombasa Island,Mombasa CBD,3.0,2.0,1.0,100000
+315,Nairobi,Kileleshwa,2.0,3.0,1.0,200000
+316,Westlands,Riverside,4.0,4.0,1.0,280000
+317,Nairobi,Kilimani,3.0,2.0,1.0,85000
+318,Nairobi,Kilimani,2.0,2.0,1.0,150000
+319,Nyali,Nyali Area,3.0,4.0,1.0,170000
+320,Nairobi,Kilimani,1.0,1.0,1.0,140000
+321,Mombasa Island,Mombasa CBD,3.0,3.0,1.0,200000
+322,Westlands,Mountain View,3.0,2.0,1.0,60000
+323,Kiambu County,Ruaka,2.0,2.0,1.0,42000
+324,Nairobi,Kileleshwa,3.0,3.0,1.0,160000
+325,Nairobi,Kilimani,2.0,2.0,1.0,120000
+326,Westlands,Riverside,3.0,3.0,1.0,95000
+327,Westlands,Brookside,3.0,3.0,0.0,250000
+328,Westlands,Spring Valley,3.0,3.0,0.0,225000
+329,Westlands,Riverside,3.0,4.0,1.0,120000
+330,Nairobi,Kileleshwa,4.0,4.0,1.0,80000
+331,Nairobi,Upper Hill,2.0,2.0,1.0,75000
+332,Nairobi,Kileleshwa,4.0,4.0,1.0,140000
+333,Westlands,General Mathenge,3.0,3.0,1.0,180000
+334,Kiambu County,Ruaka,2.0,2.0,1.0,45000
+335,Nairobi,Embakasi,3.0,2.0,1.0,80000
+336,Nairobi,Lavington,0.0,1.0,1.0,120000
+337,Nairobi,Lavington,3.0,,0.0,250000
+338,Nyali,Nyali Area,1.0,1.0,1.0,85000
+339,Westlands,General Mathenge,3.0,4.0,1.0,160000
+340,Nairobi,Kilimani,3.0,3.0,1.0,130000
+341,Nairobi,Kileleshwa,2.0,2.0,1.0,110000
+342,Nairobi,Upper Hill,1.0,2.0,1.0,140000
+343,Nairobi,Lavington,2.0,2.0,1.0,180000
+344,Westlands,Westlands Area,2.0,2.0,1.0,195000
+345,Nairobi,Kilimani,3.0,3.0,1.0,95000
+346,Nairobi,Lavington,1.0,1.0,1.0,180000
+347,Nairobi,Muthaiga,2.0,2.0,1.0,220000
+348,Nairobi,Kileleshwa,3.0,2.0,1.0,100000
+349,Nairobi,Lavington,3.0,3.0,1.0,120000
+350,Nairobi,Kilimani,4.0,3.0,1.0,110000
+351,Westlands,Westlands Area,2.0,2.0,1.0,160000
+352,Kiambu County,Ruaka,2.0,3.0,1.0,35000
+353,Nyali,Nyali Area,2.0,2.0,1.0,15000
+354,Westlands,Riverside,3.0,4.0,1.0,250000
+355,Nairobi,Lavington,2.0,2.0,0.0,297000
+356,Nairobi,Uthiru,2.0,1.0,0.0,16000
+357,Westlands,Parklands,3.0,4.0,1.0,250000
+358,Nairobi,Lavington,3.0,,1.0,200000
+359,Nairobi,Lavington,2.0,2.0,1.0,120000
+360,Nyali,Nyali Area,3.0,2.0,1.0,100000
+361,Nairobi,Kiambu Road,3.0,2.0,1.0,65000
+362,Nyali,Nyali Area,3.0,4.0,1.0,65000
+363,Mombasa Island,Mombasa CBD,2.0,3.0,0.0,25000
+364,Nairobi,Kilimani,3.0,2.0,1.0,130000
+365,Westlands,Westlands Area,1.0,1.0,1.0,100000
+366,Nairobi,Kileleshwa,2.0,,,50000
+367,Nairobi,Kilimani,3.0,2.0,1.0,90000
+368,Westlands,Rhapta Road,2.0,2.0,1.0,250000
+369,Nairobi,Kileleshwa,3.0,3.0,1.0,110000
+370,Nairobi,Kileleshwa,3.0,2.0,1.0,85000
+371,Nairobi,Kileleshwa,2.0,,0.0,150000
+372,Westlands,Spring Valley,3.0,4.0,1.0,400000
+373,Nairobi,Lavington,2.0,2.0,1.0,175000
+374,Nairobi,Kilimani,3.0,3.0,1.0,75000
+375,Nairobi,Kilimani,1.0,1.0,1.0,150000
+376,Nairobi,Kilimani,4.0,4.0,1.0,639000
+377,Nyali,Nyali Area,3.0,3.0,1.0,55000
+378,Nairobi,Kileleshwa,2.0,2.0,1.0,75000
+379,Westlands,Brookside,3.0,4.0,1.0,210000
+380,Nairobi,Lavington,4.0,4.0,0.0,150000
+381,Nyali,Nyali Area,1.0,1.0,1.0,5000
+382,Westlands,Westlands Area,3.0,3.0,1.0,135000
+383,Nairobi,Kilimani,2.0,2.0,1.0,270000
+384,Westlands,Riverside,3.0,,0.0,150000
+385,Westlands,Spring Valley,4.0,5.0,1.0,400000
+386,Westlands,Westlands Area,2.0,2.0,1.0,230000
+387,Westlands,Rosslyn,3.0,4.0,1.0,180000
+388,Nairobi,Kilimani,3.0,3.0,0.0,140000
+389,Westlands,Westlands Area,1.0,1.0,1.0,125000
+390,Nyali,Mkomani,4.0,3.0,1.0,95000
+391,Nairobi,Lavington,2.0,2.0,1.0,90000
+392,Nairobi,Upper Hill,2.0,2.0,1.0,180000
+393,Nairobi,Kilimani,3.0,3.0,1.0,95000
+394,Kiambu County,Ruaka,1.0,1.0,1.0,33000
+395,Westlands,Westlands Area,2.0,3.0,1.0,220000
+396,Nyali,Nyali Area,2.0,,1.0,12000
+397,Nairobi,Thika Road,2.0,2.0,0.0,95000
+398,Westlands,Parklands,3.0,2.0,0.0,119500
+399,Westlands,Nyari,2.0,2.0,1.0,250000
+400,Westlands,Rhapta Road,2.0,2.0,1.0,125000
+401,Westlands,Spring Valley,3.0,4.0,1.0,305000
+402,Nairobi,Kilimani,1.0,1.0,1.0,65000
+403,Westlands,Runda,4.0,4.0,1.0,400000
+404,Westlands,General Mathenge,3.0,4.0,1.0,200000
+405,Nairobi,Lavington,3.0,3.0,1.0,150000
+406,Westlands,Parklands,4.0,5.0,1.0,250000
+407,Nairobi,Thika Road,3.0,3.0,1.0,85000
+408,Nairobi,Kilimani,2.0,2.0,1.0,70000
+409,Nairobi,Kilimani,2.0,2.0,1.0,290000
+410,Kiambu County,Ruaka,0.0,1.0,1.0,10000
+411,Nairobi,Kilimani,2.0,2.0,1.0,160000
+412,Nairobi,Muthaiga,3.0,3.0,1.0,250000
+413,Westlands,Westlands Area,2.0,2.0,1.0,240000
+414,Nairobi,Lavington,2.0,,0.0,75000
+415,Nairobi,Kileleshwa,3.0,,1.0,85000
+416,Nyali,Nyali Area,3.0,3.0,0.0,180000
+417,Roysambu,Garden Estate,3.0,2.0,1.0,65000
+418,Nyali,Nyali Area,2.0,2.0,1.0,10000
+419,Nairobi,Kilimani,2.0,2.0,1.0,120000
+420,Nairobi,Lavington,3.0,3.0,1.0,95000
+421,Westlands,Westlands Area,3.0,3.0,1.0,90000
+422,Nyali,Kongowea,1.0,1.0,,4500
+423,Westlands,Westlands Area,3.0,2.0,1.0,130000
+424,Nairobi,Kileleshwa,2.0,2.0,1.0,85000
+425,Nairobi,Lavington,3.0,4.0,1.0,150000
+426,Nairobi,Kilimani,3.0,3.0,1.0,110000
+427,Westlands,Westlands Area,4.0,4.0,1.0,190000
+428,Nairobi,Riara Road,3.0,2.0,0.0,50000
+429,Nairobi,Karen,0.0,,0.0,15000
+430,Nairobi,Kileleshwa,2.0,3.0,1.0,120000
+431,Westlands,Kitisuru,1.0,1.0,1.0,70000
+432,Kiambu County,Ruaka,2.0,2.0,1.0,35000
+433,Nairobi,Kilimani,3.0,4.0,1.0,140000
+434,Westlands,Brookside,3.0,3.0,1.0,135000
+435,Westlands,Riverside,4.0,2.0,0.0,190000
+436,Westlands,General Mathenge,3.0,4.0,0.0,175000
+437,Nairobi,Kilimani,2.0,2.0,1.0,200000
+438,Nairobi,Kileleshwa,3.0,3.0,1.0,130000
+439,Nairobi,Kilimani,3.0,3.0,1.0,170000
+440,Kiambu County,Kiambu Town,3.0,2.0,1.0,30000
+441,Nairobi,Kileleshwa,3.0,2.0,1.0,100000
+442,Nairobi,Kileleshwa,1.0,1.0,1.0,200000
+443,Nairobi,Lavington,4.0,3.0,1.0,230000
+444,Westlands,Westlands Area,0.0,1.0,1.0,100000
+445,Nyali,Mkomani,2.0,2.0,1.0,120000
+446,Nyali,Nyali Area,4.0,5.0,1.0,165000
+447,Westlands,Parklands,2.0,2.0,1.0,130000
+448,Westlands,Westlands Area,2.0,2.0,1.0,220000
+449,Nairobi,Kilimani,3.0,3.0,1.0,130000
+450,Westlands,Westlands Area,4.0,5.0,0.0,250000
+451,Nyali,Nyali Area,3.0,3.0,1.0,95000
+452,Westlands,Riverside,1.0,1.0,1.0,150000
+453,Westlands,Riverside,1.0,,1.0,85000
+454,Nairobi,Kilimani,2.0,2.0,1.0,70000
+455,Westlands,Spring Valley,3.0,3.0,1.0,331000
+456,Nairobi,Kileleshwa,4.0,3.0,0.0,170000
+457,Nairobi,Lavington,4.0,5.0,1.0,120000
+458,Nairobi,Kilimani,3.0,3.0,1.0,120000
+459,Westlands,Riverside,3.0,4.0,1.0,180000
+460,Kiambu County,Ruiru,3.0,2.0,1.0,45000
+461,Nairobi,Upper Hill,1.0,2.0,1.0,130000
+462,Nyali,Nyali Area,1.0,1.0,1.0,65000
+463,Westlands,Riverside,3.0,2.0,1.0,85000
+464,Westlands,Waiyaki Way,1.0,1.0,1.0,120000
+465,Westlands,Westlands Area,2.0,2.0,1.0,215000
+466,Ruiru,Kamakis,2.0,2.0,1.0,30000
+467,Nairobi,Kilimani,3.0,3.0,1.0,170000
+468,Westlands,Riverside,3.0,3.0,1.0,180000
+469,Nairobi,Lavington,3.0,4.0,1.0,95000
+470,Westlands,Riverside,3.0,3.0,1.0,145000
+471,Westlands,General Mathenge,2.0,2.0,1.0,200000
+472,Westlands,Nyari,2.0,1.0,0.0,160000
+473,Westlands,Brookside,1.0,1.0,1.0,70000
+474,Nairobi,Langata,3.0,2.0,1.0,35000
+475,Westlands,Gigiri,2.0,3.0,1.0,270000
+476,Kikuyu,Kikuyu Town,2.0,2.0,0.0,23000
+477,Nairobi,Kilimani,2.0,2.0,1.0,180000
+478,Nairobi,Kilimani,3.0,5.0,1.0,120000
+479,Nairobi,Lavington,2.0,2.0,1.0,130000
+480,Nairobi,Thika Road,2.0,2.0,0.0,100000
+481,Nairobi,Kileleshwa,2.0,3.0,1.0,8000
+482,Nairobi,State House,3.0,3.0,1.0,300000
+483,Westlands,Rhapta Road,2.0,,1.0,130000
+484,Nyali,Nyali Area,3.0,4.0,1.0,90000
+485,Westlands,Riverside,3.0,4.0,1.0,330000
+486,Nairobi,Lavington,3.0,4.0,1.0,110000
+487,Westlands,Parklands,3.0,,1.0,115000
+488,Nairobi,Kilimani,3.0,3.0,1.0,110000
+489,Westlands,Riverside,3.0,3.0,1.0,180000
+490,Westlands,Spring Valley,3.0,2.0,1.0,220000
+491,Nairobi,Ngong Road,2.0,2.0,1.0,65000
+492,Nairobi,Kilimani,3.0,3.0,0.0,150000
+493,Nairobi,Kilimani,3.0,3.0,1.0,82000
+494,Nairobi,Thika Road,3.0,3.0,1.0,120000
+495,Nyali,Nyali Area,3.0,4.0,1.0,60000
+496,Nyali,Nyali Area,1.0,2.0,1.0,80000
+497,Nairobi,Riara Road,2.0,2.0,1.0,85000
+498,Nyali,Nyali Area,3.0,4.0,1.0,100000
+499,Nairobi,Kilimani,3.0,2.0,0.0,65000
+500,Nairobi,Karen,2.0,,0.0,55000
+501,Nairobi,Kilimani,4.0,4.0,1.0,200000
+502,Nairobi,Kileleshwa,2.0,3.0,0.0,85000
+503,Nairobi,Kileleshwa,3.0,4.0,1.0,140000
+504,Nairobi,Kileleshwa,3.0,3.0,1.0,150000
+505,Westlands,Rhapta Road,1.0,1.0,0.0,120000
+506,Embu,,0.0,1.0,1.0,7000
+507,Westlands,Westlands Area,1.0,1.0,1.0,150000
+508,Nairobi,South B,2.0,2.0,1.0,55000
+509,Nairobi,Lavington,3.0,4.0,1.0,70000
+510,Nairobi,Kileleshwa,2.0,2.0,1.0,180000
+511,Westlands,Parklands,2.0,3.0,1.0,200000
+512,Nairobi,Kileleshwa,2.0,1.0,0.0,110000
+513,Westlands,Riverside,3.0,3.0,1.0,110000
+514,Nairobi,Kileleshwa,3.0,3.0,1.0,150000
+515,Nairobi,Kilimani,3.0,3.0,1.0,90000
+516,Westlands,Westlands Area,2.0,2.0,1.0,160000
+517,Nairobi,Kileleshwa,2.0,2.0,0.0,140000
+518,Nairobi,Kilimani,2.0,2.0,1.0,150000
+519,Westlands,Waiyaki Way,4.0,4.0,1.0,100000
+520,Westlands,Spring Valley,3.0,3.0,1.0,350000
+521,Westlands,Westlands Area,1.0,2.0,1.0,130000
+522,Nairobi,Kilimani,3.0,4.0,1.0,250000
+523,Nyali,Nyali Area,1.0,2.0,1.0,10000
+524,Nairobi,Kileleshwa,3.0,2.0,0.0,140000
+525,Nairobi,Karen,2.0,2.0,1.0,45000
+526,Westlands,Spring Valley,3.0,4.0,1.0,300000
+527,Westlands,Westlands Area,2.0,2.0,0.0,321000
+528,Westlands,Westlands Area,3.0,3.0,1.0,135000
+529,Machakos County,Mlolongo,0.0,,0.0,6000
+530,Westlands,Runda,5.0,,1.0,551600
+531,Nairobi,Lavington,4.0,4.0,1.0,170000
+532,Nairobi,Kilimani,1.0,1.0,1.0,45000
+533,Nairobi,Ngong Road,3.0,4.0,1.0,85000
+534,Westlands,Riverside,3.0,4.0,1.0,200000
+535,Westlands,Westlands Area,3.0,4.0,1.0,400000
+536,Westlands,Rhapta Road,2.0,2.0,1.0,100000
+537,Nyali,Kongowea,3.0,4.0,0.0,13000
+538,Nairobi,Lavington,3.0,3.0,1.0,85000
+539,Westlands,Spring Valley,2.0,2.0,1.0,250000
+540,Nairobi,Kilimani,3.0,3.0,1.0,130000
+541,Nairobi,Kileleshwa,3.0,4.0,0.0,200000
+542,Westlands,Westlands Area,2.0,2.0,1.0,90000
+543,Westlands,Westlands Area,3.0,3.0,1.0,270000
+544,Nairobi,Kiambu Road,2.0,2.0,1.0,55000
+545,Westlands,Parklands,2.0,2.0,1.0,160000
+546,Nairobi,Lavington,4.0,4.0,1.0,150000
+547,Nairobi,Lavington,3.0,3.0,1.0,150000
+548,Nairobi,Kilimani,4.0,5.0,1.0,400000
+549,Nairobi,Kileleshwa,3.0,3.0,1.0,100000
+550,Westlands,Parklands,3.0,4.0,1.0,270000
+551,Nairobi,Kiambu Road,2.0,2.0,1.0,56600
+552,Nairobi,Kileleshwa,1.0,1.0,0.0,130000
+553,Westlands,Lower Kabete,4.0,4.0,1.0,160000
+554,Westlands,Westlands Area,3.0,3.0,1.0,135000
+555,Westlands,Riverside,4.0,5.0,1.0,300000
+556,Westlands,General Mathenge,4.0,4.0,1.0,150000
+557,Westlands,Riverside,2.0,,1.0,165000
+558,Westlands,Spring Valley,3.0,4.0,1.0,250000
+559,Westlands,Westlands Area,3.0,2.0,1.0,90000
+560,Westlands,Riverside,2.0,2.0,1.0,250000
+561,Mombasa Island,Tudor,3.0,2.0,1.0,70000
+562,Nairobi,Kileleshwa,3.0,3.0,0.0,150000
+563,Nairobi,Kileleshwa,2.0,2.0,1.0,140000
+564,Nairobi,Kilimani,2.0,3.0,1.0,180000
+565,Nairobi,Kilimani,1.0,,1.0,120000
+566,Kilifi County,Malindi,2.0,1.0,1.0,5000
+567,Nairobi,Kilimani,2.0,2.0,1.0,120000
+568,Nairobi,Kileleshwa,1.0,1.0,0.0,60000
+569,Nairobi,Kilimani,3.0,3.0,1.0,160000
+570,Nairobi,Kileleshwa,2.0,2.0,1.0,65000
+571,Westlands,Westlands Area,2.0,2.0,1.0,150000
+572,Nairobi,Kilimani,1.0,1.0,1.0,150000
+573,Nairobi,Kilimani,3.0,3.0,1.0,200000
+574,Nairobi,Lavington,6.0,4.0,1.0,200000
+575,Kiambu County,Ruaka,2.0,2.0,,40000
+576,Kiambu County,Ruaka,2.0,2.0,1.0,33000
+577,Westlands,Kitisuru,4.0,5.0,1.0,90000
+578,Nyali,Nyali Area,1.0,1.0,1.0,70000
+579,Nairobi,Kilimani,4.0,4.0,1.0,150000
+580,Westlands,Runda,1.0,2.0,1.0,120000
+581,Westlands,Westlands Area,3.0,,,250000
+582,Nairobi,Kileleshwa,4.0,4.0,1.0,140000
+583,Westlands,Spring Valley,2.0,3.0,1.0,200000
+584,Nairobi,Kilimani,3.0,3.0,1.0,150000
+585,Westlands,Nyari,2.0,2.0,1.0,150000
+586,Westlands,Westlands Area,3.0,3.0,1.0,220000
+587,Nairobi,Kilimani,2.0,2.0,1.0,70000
+588,Westlands,General Mathenge,2.0,2.0,1.0,150000
+589,Westlands,Westlands Area,3.0,3.0,1.0,250000
+590,Nairobi,Lavington,2.0,2.0,1.0,100000
+591,Nairobi,Kilimani,2.0,2.0,1.0,75000
+592,Westlands,Parklands,2.0,3.0,1.0,150000
+593,Westlands,Riverside,3.0,3.0,1.0,250000
+594,Nyali,Nyali Area,3.0,4.0,1.0,180000
+595,Nairobi,Kileleshwa,4.0,4.0,1.0,150000
+596,Westlands,Westlands Area,2.0,,1.0,170000
+597,Westlands,Karura,4.0,4.0,1.0,320000
+598,Westlands,Westlands Area,2.0,2.0,1.0,240000
+599,Nairobi,Kilimani,3.0,2.0,1.0,320000
+600,Westlands,Brookside,4.0,4.0,1.0,150000
+601,Nairobi,Lavington,3.0,2.0,1.0,220000
+602,Westlands,Rosslyn,1.0,1.0,1.0,100000
+603,Nairobi,Lavington,3.0,4.0,1.0,150000
+604,Nyali,Nyali Area,3.0,4.0,1.0,105000
+605,Westlands,Spring Valley,3.0,3.0,1.0,150000
+606,Nairobi,Ngong Road,3.0,2.0,1.0,65000
+607,Westlands,Runda,1.0,1.0,1.0,70000
+608,Nyali,Nyali Area,3.0,4.0,1.0,15000
+609,Nyali,Nyali Area,3.0,2.0,1.0,15000
+610,Nairobi,Kileleshwa,3.0,3.0,1.0,220000
+611,Westlands,Westlands Area,3.0,3.0,1.0,250000
+612,Westlands,Westlands Area,1.0,1.0,1.0,150000
+613,Nairobi,Kileleshwa,3.0,3.0,1.0,120000
+614,Nairobi,Lavington,4.0,4.0,1.0,230000
+615,Westlands,Westlands Area,2.0,2.0,1.0,150000
+616,Nairobi,Kileleshwa,2.0,2.0,0.0,75000
+617,Nairobi,Kileleshwa,1.0,1.0,1.0,100000
+618,Nairobi,Kileleshwa,2.0,2.0,1.0,85000
+619,Westlands,Westlands Area,3.0,3.0,1.0,340000
+620,Westlands,Riverside,4.0,4.0,1.0,150000
+621,Nairobi,Kileleshwa,3.0,4.0,0.0,320000
+622,Westlands,General Mathenge,4.0,5.0,1.0,220000
+623,Westlands,Westlands Area,3.0,,0.0,not
+624,Nairobi,Upper Hill,2.0,2.0,1.0,180000
+625,Westlands,Westlands Area,0.0,1.0,1.0,27000
+626,Nairobi,Thika Road,1.0,1.0,1.0,68000
+627,Nairobi,Kilimani,2.0,3.0,1.0,130000
+628,Westlands,Brookside,2.0,3.0,1.0,95000
+629,Westlands,Spring Valley,4.0,4.0,1.0,570000
+630,Westlands,Spring Valley,3.0,4.0,1.0,250000
+631,Nairobi,Kilimani,2.0,3.0,1.0,85000
+632,Nairobi,Lavington,3.0,3.0,1.0,100000
+633,Nairobi,Kilimani,3.0,4.0,0.0,180000
+634,Nairobi,Lavington,2.0,2.0,1.0,55000
+635,Westlands,Riverside,3.0,3.0,1.0,280000
+636,Westlands,Westlands Area,3.0,3.0,1.0,337500
+637,Westlands,General Mathenge,3.0,3.0,1.0,190000
+638,Westlands,Westlands Area,4.0,4.0,0.0,267000
+639,Nairobi,Kileleshwa,3.0,2.0,1.0,95000
+640,Nairobi,Kileleshwa,2.0,2.0,1.0,55000
+641,Nairobi,Kilimani,2.0,2.0,1.0,9000
+642,Westlands,Westlands Area,3.0,3.0,1.0,180000
+643,Nairobi,Kilimani,2.0,,1.0,220000
+644,Nairobi,Lavington,,,,
+645,Nairobi,Lavington,3.0,2.0,1.0,65000
+646,Westlands,Westlands Area,2.0,2.0,1.0,140000
+647,Nairobi,Lavington,3.0,2.0,1.0,55000
+648,Nairobi,Kiambu Road,2.0,2.0,1.0,135000
+649,Westlands,Westlands Area,3.0,3.0,1.0,120000
+650,Westlands,Riverside,2.0,2.0,1.0,270000
+651,Mombasa Island,Tudor,3.0,4.0,,70000
+652,Nairobi,Kileleshwa,3.0,2.0,1.0,80000
+653,Nairobi,Kilimani,3.0,3.0,1.0,150000
+654,Westlands,Karura,4.0,5.0,1.0,550000
+655,Westlands,Riverside,4.0,3.0,1.0,120000
+656,Westlands,Westlands Area,3.0,3.0,1.0,260000
+657,Nairobi,Ngong Road,2.0,2.0,,65000
+658,Nairobi,Kileleshwa,3.0,3.0,1.0,250000
+659,Westlands,Riverside,3.0,,1.0,300000
+660,Westlands,Rhapta Road,1.0,1.0,1.0,160000
+661,Nairobi,Lavington,3.0,3.0,1.0,100000
+662,Westlands,Rhapta Road,2.0,3.0,0.0,200000
+663,Westlands,Westlands Area,3.0,3.0,1.0,350000
+664,Westlands,Riverside,3.0,3.0,1.0,200000
+665,Nairobi,Kileleshwa,2.0,2.0,0.0,45000
+666,Nairobi,Kiambu Road,2.0,2.0,1.0,120000
+667,Nairobi,Kileleshwa,3.0,3.0,1.0,130000
+668,Nairobi,Ngong Road,2.0,,1.0,150000
+669,Nairobi,Kileleshwa,2.0,2.0,1.0,70000
+670,Westlands,Westlands Area,1.0,1.0,1.0,130000
+671,Nairobi,Kilimani,2.0,3.0,0.0,160000
+672,Nyali,Nyali Area,3.0,4.0,1.0,110000
+673,Nairobi,Kilimani,3.0,3.0,1.0,150000
+674,Westlands,Brookside,4.0,4.0,1.0,150000
+675,Nyali,Nyali Area,2.0,2.0,1.0,100000
+676,Nairobi,Kilimani,2.0,2.0,1.0,65000
+677,Nairobi,Upper Hill,1.0,1.0,1.0,10000
+678,Mombasa Island,Tudor,3.0,3.0,1.0,180000
+679,Westlands,Rhapta Road,2.0,3.0,1.0,250000
+680,Nairobi,Kilimani,2.0,2.0,1.0,130000
+681,Nairobi,Kilimani,2.0,1.0,1.0,55000
+682,Nairobi,Lavington,3.0,4.0,1.0,120000
+683,Westlands,Parklands,4.0,,1.0,270000
+684,Nairobi,Kilimani,3.0,2.0,1.0,75000
+685,Westlands,Riverside,3.0,3.0,1.0,350000
+686,Nairobi,Kilimani,2.0,2.0,1.0,130000
+687,Nyali,Nyali Area,3.0,3.0,1.0,80000
+688,Nairobi,Kileleshwa,3.0,3.0,1.0,90000
+689,Westlands,Westlands Area,2.0,,1.0,180000
+690,Westlands,Westlands Area,3.0,3.0,1.0,380000
+691,Westlands,Rhapta Road,2.0,2.0,1.0,175000
+692,Westlands,Westlands Area,3.0,4.0,1.0,200000
+693,Nairobi,Kileleshwa,3.0,3.0,1.0,300000
+694,Nairobi,Kilimani,2.0,2.0,1.0,75000
+695,Westlands,Rosslyn,1.0,1.0,1.0,130000
+696,Westlands,Westlands Area,2.0,1.0,1.0,70000
+697,Nyali,Mkomani,2.0,2.0,1.0,85000
+698,Nairobi,Kileleshwa,2.0,2.0,1.0,70000
+699,Westlands,Runda,3.0,4.0,1.0,230000
+700,Westlands,General Mathenge,3.0,4.0,1.0,165000
+701,Westlands,Spring Valley,3.0,2.0,0.0,170000
+702,Westlands,Westlands Area,3.0,3.0,1.0,300000
+703,Nyali,Nyali Area,2.0,3.0,1.0,100000
+704,Westlands,Westlands Area,3.0,3.0,1.0,300000
+705,Westlands,Brookside,2.0,,1.0,165000
+706,Westlands,Riverside,3.0,,0.0,200000
+707,Nairobi,Kilimani,2.0,3.0,0.0,95000
+708,Nairobi,Muthaiga,3.0,2.0,1.0,200000
+709,Westlands,Westlands Area,0.0,,1.0,164340
+710,Nairobi,Ngara,3.0,2.0,1.0,90000
+711,Nairobi,Kilimani,1.0,1.0,1.0,105000
+712,Nyali,Kongowea,3.0,4.0,1.0,90000
+713,Nairobi,Kileleshwa,3.0,3.0,1.0,170000
+714,Machakos County,Athi River,3.0,,1.0,35000
+715,Nairobi,Nairobi West,1.0,1.0,1.0,85000
+716,Nairobi,Kasarani,3.0,3.0,0.0,200000
+717,Nairobi,Kileleshwa,3.0,2.0,0.0,90000
+718,Nyali,Nyali Area,4.0,5.0,1.0,200000
+719,Kiambu County,Ruaka,2.0,2.0,1.0,22000
+720,Westlands,Parklands,1.0,1.0,1.0,125000
+721,Nairobi,Kilimani,2.0,2.0,1.0,80000
+722,Westlands,Kitisuru,2.0,2.0,1.0,230000
+723,Westlands,Westlands Area,1.0,1.0,1.0,90000
+724,Nairobi,Kiambu Road,0.0,,1.0,14000
+725,Nairobi,Kilimani,2.0,,0.0,80000
+726,Westlands,Riverside,3.0,2.0,1.0,110000
+727,Roysambu,Mirema,1.0,1.0,1.0,25000
+728,Nairobi,Kilimani,3.0,3.0,1.0,200000
+729,Westlands,Riverside,3.0,3.0,1.0,150000
+730,Westlands,Mountain View,3.0,2.0,1.0,110000
+731,Westlands,Brookside,2.0,2.0,1.0,250000
+732,Nairobi,Lavington,1.0,2.0,1.0,150000
+733,Nairobi,Lavington,2.0,3.0,1.0,120000
+734,Nairobi,Kileleshwa,6.0,6.0,0.0,160000
+735,Nairobi,Lavington,3.0,4.0,1.0,260000
+736,Westlands,Rhapta Road,3.0,4.0,1.0,150000
+737,Kiambu County,Ruaka,1.0,1.0,1.0,35000
+738,Westlands,Rosslyn,3.0,,1.0,220000
+739,Westlands,Waiyaki Way,4.0,3.0,1.0,75000
+740,Westlands,General Mathenge,3.0,3.0,0.0,200000
+741,Westlands,Rosslyn,1.0,1.0,1.0,100000
+742,Westlands,Riverside,4.0,5.0,1.0,300000
+743,Westlands,Nyari,3.0,3.0,1.0,435750
+744,Nyali,Nyali Area,3.0,4.0,1.0,65000
+745,Nairobi,Lavington,5.0,5.0,1.0,250000
+746,Westlands,Brookside,2.0,2.0,0.0,235000
+747,Westlands,Westlands Area,1.0,1.0,1.0,90000
+748,Nairobi,Kilimani,3.0,2.0,1.0,95000
+749,Nairobi,Kileleshwa,4.0,4.0,0.0,250000
+750,Nyali,Nyali Area,2.0,3.0,1.0,20000
+751,Nairobi,Kilimani,2.0,2.0,1.0,75000
+752,Nairobi,Lavington,3.0,3.0,1.0,90000
+753,Westlands,Westlands Area,2.0,2.0,1.0,170000
+754,Nairobi,Lavington,3.0,3.0,1.0,100000
+755,Westlands,Westlands Area,1.0,1.0,1.0,45000
+756,Nyali,Nyali Area,4.0,5.0,1.0,200000
+757,Kiambu County,Ruaka,3.0,2.0,1.0,55000
+758,Nyali,Kongowea,3.0,4.0,1.0,90000
+759,Westlands,Riverside,3.0,3.0,1.0,280000
+760,Westlands,Spring Valley,2.0,2.0,1.0,265000
+761,Nairobi,Ngong Road,3.0,2.0,1.0,60000
+762,Nairobi,Kileleshwa,3.0,1.0,1.0,65000
+763,Westlands,Rhapta Road,2.0,3.0,1.0,140000
+764,Westlands,Westlands Area,4.0,4.0,1.0,250000
+765,Westlands,Nyari,3.0,3.0,1.0,563200
+766,Nyali,Nyali Area,2.0,2.0,1.0,35000
+767,Nairobi,Kilimani,1.0,2.0,1.0,70000
+768,Nairobi,Kilimani,2.0,3.0,,170000
+769,Westlands,Parklands,3.0,4.0,1.0,230000
+770,Nairobi,Lavington,2.0,2.0,1.0,75000
+771,Westlands,Westlands Area,2.0,2.0,1.0,100000
+772,Nairobi,Kileleshwa,3.0,4.0,1.0,150000
+773,Westlands,Rhapta Road,3.0,3.0,1.0,100000
+774,Westlands,Westlands Area,3.0,3.0,1.0,220000
+775,Westlands,Westlands Area,2.0,2.0,1.0,260000
+776,Nairobi,Kilimani,1.0,1.0,1.0,65000
+777,Westlands,General Mathenge,4.0,,0.0,270000
+778,Nairobi,Lavington,3.0,3.0,0.0,350000
+779,Nairobi,Kileleshwa,2.0,2.0,0.0,140000
+780,Nairobi,Karen Hardy,3.0,3.0,1.0,150000
+781,Nairobi,Kasarani,1.0,1.0,0.0,14000
+782,Nairobi,Kilimani,2.0,3.0,1.0,120000
+783,Westlands,Waiyaki Way,4.0,4.0,1.0,160000
+784,Westlands,General Mathenge,4.0,5.0,1.0,220000
+785,Nairobi,Kileleshwa,4.0,5.0,1.0,160000
+786,Nairobi,Kileleshwa,2.0,2.0,1.0,190000
+787,Westlands,Loresho,2.0,2.0,1.0,55000
+788,Kiambu County,Ruaka,1.0,1.0,1.0,18000
+789,Westlands,Riverside,4.0,3.0,1.0,130000
+790,Westlands,General Mathenge,3.0,4.0,0.0,130000
+791,Westlands,Parklands,3.0,3.0,0.0,not
+792,Nyali,Mkomani,3.0,2.0,1.0,100000
+793,Westlands,Riverside,1.0,2.0,1.0,190000
+794,Westlands,Rhapta Road,3.0,3.0,1.0,240000
+795,Westlands,General Mathenge,1.0,1.0,1.0,270000
+796,Nairobi,Kilimani,2.0,2.0,1.0,100000
+797,Westlands,Brookside,4.0,4.0,1.0,220000
+798,Nyali,Nyali Area,3.0,3.0,1.0,98000
+799,Westlands,Parklands,3.0,3.0,1.0,220000
+800,Nairobi,Thika Road,3.0,3.0,1.0,150000
+801,Nairobi,Kilimani,2.0,,1.0,90000
+802,Westlands,Nyari,2.0,3.0,1.0,150000
+803,Westlands,Spring Valley,3.0,4.0,1.0,330000
+804,Nairobi,Valley Arcade,3.0,3.0,1.0,130000
+805,Nairobi,Kilimani,2.0,3.0,1.0,160000
+806,Nairobi,Kilimani,3.0,4.0,1.0,150000
+807,Nyali,Nyali Area,3.0,3.0,1.0,108000
+808,Westlands,Brookside,4.0,5.0,1.0,400000
+809,Nairobi,Kilimani,2.0,3.0,1.0,220000
+810,Nairobi,Kilimani,2.0,3.0,1.0,70000
+811,Westlands,Riverside,3.0,4.0,1.0,150000
+812,Nairobi,Lavington,3.0,3.0,1.0,90000
+813,Nairobi,Kilimani,3.0,3.0,1.0,83000
+814,Mombasa,Bamburi,1.0,1.0,1.0,17500
+815,Nairobi,Lavington,4.0,4.0,1.0,170000
+816,Nairobi,Kileleshwa,3.0,3.0,1.0,100000
+817,Westlands,Westlands Area,3.0,4.0,1.0,250000
+818,Nairobi,Kilimani,2.0,2.0,1.0,65000
+819,Nairobi,Kileleshwa,2.0,2.0,1.0,47000
+820,Nairobi,Kilimani,3.0,4.0,1.0,150000
+821,Westlands,Gigiri,1.0,1.0,1.0,200000
+822,Westlands,Riverside,4.0,5.0,1.0,650000
+823,Nairobi,Kileleshwa,3.0,2.0,1.0,130000
+824,Nyali,Nyali Area,4.0,5.0,1.0,230000
+825,Westlands,Westlands Area,1.0,1.0,1.0,140000
+826,Nairobi,Lavington,2.0,2.0,1.0,70000
+827,Mombasa,Bamburi,2.0,,1.0,25000
+828,Nairobi,Kilimani,3.0,3.0,1.0,80000
+829,Nairobi,Upper Hill,3.0,3.0,1.0,250000
+830,Nairobi,Kileleshwa,3.0,4.0,1.0,170000
+831,Nairobi,Kilimani,2.0,3.0,1.0,150000
+832,Nairobi,Kilimani,2.0,,1.0,65000
+833,Westlands,Riverside,3.0,3.0,1.0,250000
+834,Westlands,Rhapta Road,1.0,2.0,1.0,100000
+835,Westlands,Westlands Area,3.0,3.0,1.0,85000
+836,Westlands,Westlands Area,2.0,3.0,1.0,117500
+837,Nairobi,Lavington,5.0,6.0,0.0,300000
+838,Westlands,Westlands Area,3.0,3.0,1.0,250000
+839,Kiambu County,Ruaka,2.0,,,35000
+840,Nairobi,Kileleshwa,2.0,3.0,1.0,180000
+841,Kikuyu,Kikuyu Town,1.0,1.0,1.0,12500
+842,Westlands,Westlands Area,3.0,3.0,1.0,240000
+843,Nairobi,Kileleshwa,3.0,3.0,1.0,140000
+844,Nyali,Nyali Area,3.0,4.0,1.0,100000
+845,Nairobi,Kileleshwa,2.0,2.0,1.0,85000
+846,Westlands,Parklands,3.0,3.0,1.0,180000
+847,Nairobi,Kileleshwa,2.0,3.0,1.0,120000
+848,Nyali,Nyali Area,3.0,2.0,1.0,30000
+849,Westlands,Parklands,3.0,4.0,1.0,200000
+850,Nyali,Nyali Area,3.0,4.0,1.0,130000
+851,Westlands,Runda,4.0,6.0,1.0,290000
+852,Westlands,Westlands Area,3.0,4.0,1.0,155000
+853,Westlands,Westlands Area,1.0,1.0,1.0,110000
+854,Westlands,Parklands,3.0,3.0,1.0,250000
+855,Nairobi,Kilimani,1.0,1.0,1.0,130000
+856,Westlands,Parklands,4.0,5.0,1.0,165000
+857,Nairobi,Kilimani,2.0,,1.0,130000
+858,Nairobi,Thika Road,1.0,1.0,0.0,64000
+859,Westlands,Riverside,4.0,4.0,1.0,110000
+860,Westlands,Westlands Area,3.0,3.0,1.0,150000
+861,Nyali,Nyali Area,3.0,4.0,1.0,100000
+862,Westlands,Westlands Area,2.0,3.0,1.0,150000
+863,Westlands,Parklands,3.0,4.0,1.0,300000
+864,Mombasa Island,Tudor,3.0,4.0,1.0,80000
+865,Westlands,Spring Valley,3.0,3.0,1.0,320000
+866,Westlands,Riverside,1.0,1.0,1.0,200000
+867,Kiambu County,Ruaka,2.0,2.0,1.0,40000
+868,Westlands,Riverside,3.0,3.0,1.0,100000
+869,Westlands,Riverside,3.0,3.0,0.0,300000
+870,Kiambu County,Thika,2.0,1.0,1.0,20000
+871,Roysambu,Garden Estate,2.0,3.0,1.0,9000
+872,Westlands,Parklands,2.0,2.0,1.0,60000
+873,Nairobi,Muthaiga,3.0,4.0,1.0,250000
+874,Nyali,Nyali Area,3.0,4.0,1.0,120000
+875,Nyali,Nyali Area,4.0,5.0,1.0,45000
+876,Kiambu County,Ruaka,2.0,2.0,1.0,45000
+877,Westlands,Westlands Area,2.0,2.0,1.0,250000
+878,Nairobi,Kilimani,1.0,,1.0,170000
+879,Westlands,Westlands Area,2.0,1.0,1.0,380000
+880,Westlands,Riverside,2.0,3.0,1.0,80000
+881,Westlands,Westlands Area,2.0,2.0,1.0,200000
+882,Nyali,Nyali Area,3.0,4.0,1.0,110000
+883,Nairobi,Kilimani,3.0,3.0,1.0,230000
+884,Westlands,Riverside,3.0,4.0,1.0,250000
+885,Nairobi,Kilimani,3.0,3.0,1.0,350000
+886,Westlands,General Mathenge,3.0,4.0,1.0,250000
+887,Nyali,Nyali Area,4.0,5.0,1.0,160000
+888,Westlands,Riverside,2.0,,0.0,200000
+889,Nyali,Nyali Area,3.0,2.0,1.0,130000
+890,Westlands,Kitisuru,2.0,2.0,1.0,200000
+891,Nairobi,Muthaiga,3.0,2.0,0.0,200000
+892,Nairobi,Lavington,3.0,2.0,1.0,80000
+893,Nairobi,Kilimani,0.0,1.0,1.0,110000
+894,Westlands,Westlands Area,1.0,2.0,1.0,100000
+895,Nyali,Nyali Area,3.0,4.0,1.0,185000
+896,Westlands,Kitisuru,3.0,3.0,1.0,250000
+897,Nairobi,Kileleshwa,6.0,6.0,1.0,170000
+898,Nairobi,Lavington,3.0,3.0,1.0,70000
+899,Nairobi,Waithaka,4.0,4.0,1.0,390000
+900,Nairobi,Lavington,2.0,2.0,1.0,75000
+901,Nairobi,Lavington,1.0,1.0,0.0,65000
+902,Nairobi,Kilimani,3.0,3.0,1.0,170000
+903,Nairobi,Kileleshwa,3.0,2.0,1.0,75000
+904,Kiambu County,Ruaka,3.0,3.0,1.0,55000
+905,Nairobi,Lavington,2.0,2.0,1.0,85000
+906,Kilifi County,Mtwapa,3.0,3.0,1.0,85000
+907,Westlands,Westlands Area,1.0,1.0,1.0,100000
+908,Nairobi,Lavington,4.0,4.0,1.0,170000
+909,Nairobi,Kileleshwa,2.0,2.0,1.0,75000
+910,Westlands,Riverside,3.0,3.0,1.0,170000
+911,Nairobi,State House,3.0,3.0,1.0,130000
+912,Nairobi,Upper Hill,2.0,2.0,0.0,200000
+913,Nyali,Nyali Area,2.0,2.0,1.0,120000
+914,Nyali,Mkomani,2.0,1.0,1.0,55000
+915,Nyali,Nyali Area,4.0,6.0,1.0,180000
+916,Kiambu County,Ruaka,2.0,2.0,,45000
+917,Westlands,Westlands Area,2.0,2.0,1.0,70000
+918,Nairobi,Kilimani,2.0,3.0,1.0,90000
+919,Nairobi,Kilimani,2.0,2.0,1.0,9000
+920,Westlands,Waiyaki Way,2.0,2.0,1.0,260000
+921,Westlands,Parklands,3.0,3.0,1.0,85000
+922,Westlands,Westlands Area,3.0,4.0,1.0,445000
+923,Nairobi,Lavington,1.0,2.0,1.0,120000
+924,Nairobi,Kileleshwa,2.0,2.0,1.0,72000
+925,Nairobi,Kileleshwa,4.0,4.0,1.0,200000
+926,Nairobi,Lavington,4.0,4.0,1.0,245000
+927,Westlands,Rhapta Road,3.0,3.0,1.0,100000
+928,Westlands,Westlands Area,2.0,2.0,1.0,190000
+929,Nairobi,Madaraka,2.0,2.0,0.0,90000
+930,Nairobi,Kilimani,2.0,2.0,1.0,100000
+931,Nairobi,Riara Road,3.0,4.0,1.0,150000
+932,Nairobi,Kilimani,2.0,2.0,1.0,160000
+933,Westlands,Westlands Area,3.0,3.0,1.0,200000
+934,Nyali,Nyali Area,3.0,3.0,1.0,40000
+935,Nairobi,Kileleshwa,3.0,3.0,0.0,140000
+936,Westlands,Kitisuru,2.0,1.0,,17000
+937,Westlands,Brookside,4.0,5.0,1.0,200000
+938,Nairobi,Kilimani,2.0,2.0,1.0,200000
+939,Nairobi,Kilimani,2.0,3.0,1.0,150000
+940,Nairobi,Kileleshwa,3.0,3.0,1.0,85000
+941,Westlands,Riverside,3.0,2.0,1.0,240000
+942,Nairobi,Langata,2.0,2.0,1.0,50000
+943,Westlands,Kitisuru,1.0,1.0,1.0,23000
+944,Nairobi,Kilimani,4.0,4.0,1.0,110000
+945,Westlands,Spring Valley,3.0,2.0,0.0,200000
+946,Nairobi,Kiambu Road,3.0,3.0,1.0,55000
+947,Nairobi,Kilimani,3.0,3.0,1.0,100000
+948,Nairobi,Lavington,2.0,2.0,1.0,80000
+949,Westlands,Parklands,3.0,3.0,1.0,250000
+950,Nairobi,Kileleshwa,1.0,1.0,1.0,150000
+951,Nairobi,Kileleshwa,1.0,1.0,1.0,110000
+952,Nairobi,Kilimani,2.0,2.0,1.0,170000
+953,Nairobi,Kilimani,2.0,2.0,1.0,65000
+954,Nyali,Nyali Area,3.0,2.0,1.0,60000
+955,Nyali,Nyali Area,2.0,2.0,1.0,100000
+956,Westlands,Parklands,2.0,2.0,1.0,155000
+957,Westlands,Riverside,3.0,,1.0,220000
+958,Westlands,Brookside,4.0,3.0,1.0,220000
+959,Nairobi,Thika Road,2.0,2.0,0.0,145000
+960,Westlands,Riverside,1.0,1.0,1.0,190000
+961,Westlands,Parklands,2.0,2.0,0.0,75000
+962,Nairobi,Kilimani,2.0,3.0,1.0,220000
+963,Westlands,Riverside,3.0,3.0,1.0,150000
+964,Westlands,Kitisuru,3.0,2.0,1.0,100000
+965,Nairobi,Kileleshwa,4.0,5.0,1.0,160000
+966,Westlands,Westlands Area,3.0,4.0,1.0,180000
+967,Westlands,Riverside,1.0,2.0,1.0,190000
+968,Nairobi,Kilimani,2.0,2.0,1.0,112000
+969,Westlands,Kitisuru,2.0,2.0,1.0,170000
+970,Westlands,Rhapta Road,3.0,4.0,1.0,275000
+971,Westlands,General Mathenge,2.0,3.0,1.0,280000
+972,Westlands,Westlands Area,2.0,2.0,1.0,140000
+973,Nairobi,Lavington,4.0,4.0,1.0,130000
+974,Nairobi,Kilimani,2.0,3.0,1.0,80000
+975,Kiambu County,Thindigua,2.0,2.0,1.0,45000
+976,Nairobi,Kilimani,3.0,4.0,1.0,140000
+977,Nairobi,Lavington,2.0,,1.0,200000
+978,Nairobi,Lavington,3.0,4.0,1.0,120000
+979,Roysambu,Kahawa West,2.0,2.0,1.0,35000
+980,Westlands,General Mathenge,3.0,4.0,1.0,350000
+981,Nairobi,Hurlingham,2.0,,1.0,200000
+982,Westlands,Rhapta Road,3.0,3.0,1.0,85000
+983,Nairobi,Kileleshwa,3.0,3.0,1.0,85000
+984,Nairobi,Kilimani,2.0,2.0,1.0,90000
+985,Westlands,Westlands Area,3.0,3.0,0.0,not
+986,Nairobi,State House,2.0,,0.0,130000
+987,Westlands,Parklands,4.0,4.0,1.0,280000
+988,Westlands,Westlands Area,1.0,1.0,0.0,150000
+989,Nyali,Nyali Area,4.0,4.0,1.0,120000
+990,Westlands,Westlands Area,1.0,1.0,0.0,130000
+991,Nairobi,Riara Road,2.0,1.0,0.0,25000
+992,Nairobi,Thika Road,2.0,,0.0,50000
+993,Nairobi,Kilimani,2.0,2.0,1.0,70000
+994,Westlands,Parklands,1.0,1.0,1.0,50000
+995,Nairobi,Kileleshwa,3.0,3.0,1.0,230000
+996,Nyali,Nyali Area,3.0,4.0,1.0,220000
+997,Kiambu County,Ruaka,1.0,,0.0,20000
+998,Kilifi County,Mtwapa,3.0,2.0,1.0,35000
+999,Nairobi,Kilimani,2.0,2.0,1.0,160000
+1000,Nairobi,Lavington,3.0,2.0,1.0,75000
+1001,Roysambu,Garden Estate,3.0,4.0,1.0,150000
+1002,Nairobi,Kilimani,2.0,3.0,1.0,85000
+1003,Westlands,Parklands,3.0,2.0,1.0,130000
+1004,Westlands,Parklands,4.0,5.0,0.0,205000
+1005,Westlands,Westlands Area,2.0,2.0,1.0,140000
+1006,Nyali,Mkomani,3.0,4.0,1.0,90000
+1007,Westlands,Westlands Area,1.0,1.0,1.0,95000
+1008,Nairobi,Utawala,2.0,2.0,1.0,25000
+1009,Westlands,Westlands Area,3.0,4.0,1.0,170000
+1010,Westlands,Westlands Area,3.0,3.0,1.0,300000
+1011,Westlands,Westlands Area,2.0,2.0,1.0,250000
+1012,Nairobi,Kilimani,4.0,3.0,1.0,135000
+1013,Westlands,Gigiri,1.0,1.0,1.0,120000
+1014,Westlands,Rhapta Road,2.0,2.0,1.0,160000
+1015,Westlands,Westlands Area,2.0,2.0,1.0,230000
+1016,Westlands,Westlands Area,3.0,3.0,1.0,280000
+1017,Nairobi,Kilimani,2.0,,1.0,150000
+1018,Westlands,Karura,3.0,4.0,1.0,300000
+1019,Nairobi,Kilimani,1.0,1.0,1.0,120000
+1020,Nairobi,Lavington,3.0,,1.0,150000
+1021,Westlands,Brookside,3.0,3.0,1.0,100000
+1022,Roysambu,Garden Estate,3.0,3.0,1.0,160000
+1023,Nairobi,Kileleshwa,3.0,4.0,1.0,250000
+1024,Westlands,General Mathenge,3.0,3.0,0.0,180000
+1025,Nairobi,Kilimani,3.0,3.0,1.0,180000
+1026,Westlands,Westlands Area,2.0,2.0,1.0,280000
+1027,Nairobi,Lavington,1.0,1.0,0.0,150000
+1028,Nairobi,Kilimani,2.0,2.0,1.0,65000
+1029,Kiambu County,Ruaka,2.0,2.0,1.0,30000
+1030,Kiambu County,Ruaka,2.0,2.0,1.0,100000
+1031,Westlands,Runda,2.0,1.0,1.0,not
+1032,Nairobi,Ngong Road,3.0,2.0,1.0,75000
+1033,Nyali,Nyali Area,4.0,5.0,1.0,145000
+1034,Westlands,Loresho,2.0,3.0,,55000
+1035,Westlands,General Mathenge,3.0,3.0,1.0,330000
+1036,Kiambu County,Kiambu Town,3.0,2.0,1.0,45000
+1037,Westlands,Brookside,2.0,2.0,1.0,75000
+1038,Nairobi,Ruaraka,2.0,2.0,0.0,200000
+1039,Nyali,Nyali Area,3.0,4.0,1.0,100000
+1040,Nairobi,Kileleshwa,4.0,4.0,1.0,140000
+1041,Nyali,Nyali Area,3.0,4.0,1.0,160000
+1042,Westlands,Rhapta Road,2.0,2.0,1.0,150000
+1043,Westlands,Westlands Area,1.0,2.0,1.0,not
+1044,Westlands,Westlands Area,0.0,1.0,1.0,90000
+1045,Nairobi,Lavington,3.0,3.0,0.0,90000
+1046,Kajiado County,Ongata Rongai,2.0,1.0,1.0,25000
+1047,Nairobi,Lavington,3.0,3.0,1.0,85000
+1048,Nairobi,Kilimani,3.0,3.0,1.0,270000
+1049,Nairobi,Kilimani,2.0,3.0,1.0,160000
+1050,Nairobi,Kilimani,3.0,3.0,1.0,125000
+1051,Westlands,Riverside,3.0,,0.0,220000
+1052,Kiambu County,Thika,1.0,1.0,1.0,7500
+1053,Westlands,Westlands Area,1.0,1.0,1.0,100000
+1054,Westlands,Spring Valley,3.0,3.0,1.0,300000
+1055,Nairobi,Lavington,2.0,,0.0,70000
+1056,Westlands,Westlands Area,3.0,3.0,1.0,85000
+1057,Kiambu County,Ruaka,2.0,2.0,1.0,45000
+1058,Nairobi,Upper Hill,3.0,3.0,1.0,200000
+1059,Westlands,Parklands,2.0,2.0,1.0,70000
+1060,Westlands,Rhapta Road,4.0,4.0,1.0,140000
+1061,Nairobi,Kilimani,3.0,2.0,1.0,70000
+1062,Nyali,Nyali Area,4.0,4.0,0.0,293000
+1063,Nyali,Nyali Area,4.0,5.0,1.0,150000
+1064,Nairobi,Kilimani,2.0,3.0,1.0,10000
+1065,Nairobi,Kilimani,3.0,3.0,1.0,80000
+1066,Kilifi County,Mtwapa,3.0,3.0,1.0,85000
+1067,Westlands,Parklands,4.0,4.0,1.0,320000
+1068,Westlands,Runda,3.0,3.0,1.0,250000
+1069,Westlands,Loresho,2.0,2.0,1.0,65000
+1070,Westlands,Westlands Area,2.0,2.0,1.0,150000
+1071,Nairobi,Kilimani,3.0,,1.0,160000
+1072,Roysambu,Garden Estate,2.0,2.0,1.0,190000
+1073,Westlands,Westlands Area,3.0,3.0,1.0,130000
+1074,Nairobi,Kileleshwa,4.0,4.0,1.0,230000
+1075,Nairobi,Kilimani,2.0,2.0,1.0,170000
+1076,Nairobi,Highrise,2.0,2.0,0.0,38000
+1077,Nairobi,Kilimani,3.0,3.0,1.0,115000
+1078,Nairobi,Kileleshwa,3.0,4.0,1.0,150000
+1079,Westlands,Rhapta Road,3.0,3.0,0.0,150000
+1080,Nairobi,Lavington,2.0,2.0,1.0,75000
+1081,Westlands,Rosslyn,2.0,2.0,1.0,150000
+1082,Mombasa Island,Mombasa CBD,3.0,2.0,,50000
+1083,Kilifi County,Mtwapa,3.0,3.0,1.0,8000
+1084,Nairobi,Kilimani,3.0,3.0,1.0,87000
+1085,Westlands,Westlands Area,3.0,2.0,1.0,120000
+1086,Westlands,Riverside,3.0,,1.0,170000
+1087,Westlands,Rhapta Road,3.0,3.0,,190000
+1088,Nairobi,Kilimani,2.0,2.0,1.0,170000
+1089,Westlands,Gigiri,3.0,4.0,1.0,260000
+1090,Westlands,Brookside,2.0,3.0,1.0,95000
+1091,Nyali,Nyali Area,3.0,3.0,1.0,15000
+1092,Roysambu,Garden Estate,2.0,2.0,1.0,95000
+1093,Westlands,Spring Valley,2.0,2.0,1.0,200000
+1094,Westlands,Riverside,3.0,3.0,1.0,160000
+1095,Nyali,Nyali Area,3.0,4.0,1.0,65000
+1096,Westlands,Parklands,4.0,,1.0,90000
+1097,Nyali,Nyali Area,3.0,3.0,1.0,88000
+1098,Westlands,Riverside,3.0,3.0,1.0,150000
+1099,Nairobi,Kileleshwa,1.0,1.0,1.0,115000
+1100,Kiambu County,Ruaka,2.0,2.0,0.0,30000
+1101,Nairobi,Kileleshwa,3.0,4.0,1.0,100000
+1102,Nairobi,Kileleshwa,2.0,3.0,1.0,80000
+1103,Westlands,Westlands Area,2.0,2.0,1.0,95000
+1104,Roysambu,Garden Estate,2.0,2.0,1.0,180000
+1105,Westlands,Brookside,2.0,2.0,0.0,230000
+1106,Nyali,Nyali Area,3.0,3.0,1.0,90000
+1107,Nairobi,Kilimani,3.0,3.0,0.0,375000
+1108,Westlands,Kitisuru,2.0,,1.0,240000
+1109,Nairobi,Kilimani,1.0,1.0,1.0,130000
+1110,Westlands,Westlands Area,3.0,2.0,1.0,90000
+1111,Westlands,Kitisuru,1.0,1.0,1.0,180000
+1112,Nairobi,Kileleshwa,1.0,1.0,1.0,125000
+1113,Nyali,Nyali Area,1.0,2.0,0.0,55000
+1114,Nairobi,Kileleshwa,2.0,2.0,1.0,115000
+1115,Nairobi,Kilimani,3.0,3.0,1.0,80000
+1116,Nairobi,Kilimani,2.0,2.0,1.0,75000
+1117,Nairobi,Kileleshwa,3.0,4.0,1.0,90000
+1118,Nairobi,Valley Arcade,2.0,2.0,0.0,70000
+1119,Kiambu County,Ruaka,1.0,1.0,1.0,15000
+1120,Westlands,Rosslyn,3.0,3.0,1.0,300000
+1121,Westlands,Spring Valley,4.0,,1.0,440100
+1122,Nairobi,Kileleshwa,3.0,3.0,1.0,130000
+1123,Nairobi,Kileleshwa,2.0,2.0,1.0,70000
+1124,Nairobi,Kiambu Road,3.0,2.0,1.0,160000
+1125,Nairobi,Thika Road,2.0,3.0,1.0,140000
+1126,Nyali,Nyali Area,3.0,3.0,1.0,16000
+1127,Westlands,Westlands Area,3.0,4.0,1.0,140000
+1128,Roysambu,Roysambu Area,4.0,3.0,1.0,80000
+1129,Kilifi County,Mtwapa,3.0,1.0,0.0,25000
+1130,Nairobi,Lavington,3.0,2.0,1.0,90000
+1131,Nairobi,Kileleshwa,3.0,3.0,1.0,not
+1132,Nairobi,Kilimani,3.0,3.0,1.0,189000
+1133,Nairobi,Kileleshwa,3.0,4.0,1.0,130000
+1134,Westlands,Westlands Area,1.0,1.0,1.0,75000
+1135,Westlands,Westlands Area,2.0,2.0,1.0,225127
+1136,Nairobi,Kileleshwa,3.0,3.0,0.0,125000
+1137,Ruiru,Tatu City,2.0,2.0,1.0,45000
+1138,Westlands,Gigiri,3.0,3.0,1.0,500000
+1139,Nairobi,Kilimani,0.0,1.0,1.0,60000
+1140,Westlands,General Mathenge,2.0,,1.0,90000
+1141,Westlands,General Mathenge,4.0,5.0,1.0,300000
+1142,Westlands,Westlands Area,2.0,2.0,1.0,100000
+1143,Westlands,Brookside,2.0,2.0,1.0,200000
+1144,Westlands,Brookside,2.0,2.0,1.0,180000
+1145,Nairobi,Kilimani,4.0,4.0,0.0,150000
+1146,Nairobi,Kilimani,2.0,3.0,1.0,180000
+1147,Nyali,Nyali Area,3.0,4.0,1.0,98000
+1148,Nyali,Nyali Area,5.0,4.0,1.0,100000
+1149,Nairobi,Kileleshwa,3.0,5.0,,140000
+1150,Nyali,Nyali Area,3.0,4.0,1.0,135000
+1151,Kiambu County,Ruaka,1.0,1.0,1.0,25000
+1152,Machakos County,Syokimau,2.0,,1.0,23000
+1153,Westlands,Westlands Area,2.0,2.0,1.0,120000
+1154,Westlands,Parklands,3.0,,1.0,250000
+1155,Westlands,Westlands Area,1.0,1.0,1.0,95000
+1156,Westlands,Westlands Area,2.0,3.0,1.0,90000
+1157,Nairobi,Lavington,3.0,4.0,1.0,250000
+1158,Westlands,General Mathenge,3.0,3.0,0.0,140000
+1159,Westlands,Westlands Area,2.0,2.0,1.0,200000
+1160,Westlands,Karura,3.0,4.0,1.0,330000
+1161,Nairobi,Kileleshwa,1.0,1.0,1.0,not
+1162,Nairobi,Lavington,3.0,3.0,1.0,230000
+1163,Nairobi,Kilimani,3.0,3.0,1.0,180000
+1164,Nairobi,Kilimani,3.0,2.0,1.0,180000
+1165,Westlands,Parklands,3.0,3.0,1.0,280000
+1166,Westlands,Spring Valley,2.0,,1.0,150000
+1167,Westlands,General Mathenge,3.0,2.0,1.0,160000
+1168,Nairobi,Valley Arcade,4.0,5.0,1.0,230000
+1169,Westlands,Westlands Area,3.0,3.0,1.0,300000
+1170,Nyali,Nyali Area,3.0,4.0,1.0,90000
+1171,Nairobi,Lavington,3.0,2.0,1.0,105000
+1172,Nairobi,Kilimani,1.0,1.0,1.0,120000
+1173,Nairobi,Kileleshwa,3.0,3.0,0.0,75000
+1174,Nairobi,Lavington,3.0,3.0,1.0,130000
+1175,Westlands,Kitisuru,2.0,2.0,1.0,244460
+1176,Westlands,Westlands Area,2.0,2.0,1.0,160000
+1177,Westlands,Westlands Area,0.0,,0.0,117000
+1178,Nairobi,Kileleshwa,3.0,3.0,1.0,130000
+1179,Nairobi,Muthaiga,3.0,3.0,1.0,190000
+1180,Nairobi,Lavington,1.0,1.0,1.0,180000
+1181,Westlands,Westlands Area,1.0,1.0,1.0,200000
+1182,Machakos County,Syokimau,4.0,4.0,1.0,100000
+1183,Nairobi,Kilimani,2.0,3.0,1.0,190000
+1184,Nyali,Nyali Area,2.0,2.0,1.0,110000
+1185,Westlands,Westlands Area,3.0,3.0,1.0,330000
+1186,Westlands,Spring Valley,2.0,2.0,1.0,230000
+1187,Nairobi,Kileleshwa,3.0,4.0,1.0,120000
+1188,Nairobi,Ruaraka,2.0,1.0,1.0,17000
+1189,Nairobi,Kilimani,1.0,1.0,1.0,110000
+1190,Nairobi,Kileleshwa,2.0,3.0,1.0,120000
+1191,Westlands,General Mathenge,3.0,3.0,1.0,150000
+1192,Westlands,Parklands,3.0,4.0,1.0,250000
+1193,Nairobi,Kileleshwa,4.0,4.0,1.0,150000
+1194,Roysambu,Garden Estate,3.0,3.0,1.0,80000
+1195,Nyali,Nyali Area,3.0,4.0,1.0,85000
+1196,Nairobi,Lavington,3.0,2.0,1.0,150000
+1197,Westlands,Westlands Area,4.0,4.0,1.0,270000
+1198,Nairobi,Kilimani,2.0,2.0,1.0,140000
+1199,Nairobi,Kilimani,2.0,2.0,1.0,170000
+1200,Nairobi,Kilimani,2.0,2.0,1.0,260000
+1201,Nairobi,Kileleshwa,1.0,1.0,1.0,130000
+1202,Westlands,Westlands Area,3.0,4.0,1.0,170000
+1203,Nairobi,Kilimani,3.0,3.0,1.0,170000
+1204,Westlands,Gigiri,2.0,2.0,1.0,200000
+1205,Westlands,Westlands Area,2.0,2.0,1.0,200000
+1206,Kiambu County,Kiambu Town,1.0,1.0,1.0,3000
+1207,Nairobi,Lavington,4.0,5.0,1.0,250000
+1208,Nyali,Nyali Area,3.0,4.0,1.0,181000
+1209,Nairobi,Kileleshwa,3.0,3.0,0.0,200000
+1210,Nairobi,Lavington,2.0,3.0,1.0,260000
+1211,Westlands,Parklands,3.0,2.0,1.0,119000
+1212,Westlands,Rhapta Road,3.0,4.0,1.0,120000
+1213,Nairobi,Kileleshwa,2.0,3.0,1.0,75000
+1214,Westlands,Rhapta Road,1.0,1.0,1.0,100000
+1215,Nairobi,Kileleshwa,3.0,3.0,1.0,80000
+1216,Nyali,Nyali Area,3.0,3.0,1.0,125000
+1217,Westlands,Parklands,3.0,4.0,0.0,240000
+1218,Westlands,Nyari,1.0,,1.0,120000
+1219,Nyali,Nyali Area,2.0,2.0,1.0,90000
+1220,Nairobi,Kilimani,3.0,3.0,1.0,110000
+1221,Nairobi,Lavington,4.0,3.0,1.0,not
+1222,Westlands,Riverside,2.0,2.0,0.0,120000
+1223,Nairobi,Kasarani,1.0,1.0,0.0,15000
+1224,Westlands,Runda,2.0,2.0,1.0,200000
+1225,Westlands,Parklands,3.0,,0.0,120000
+1226,Westlands,General Mathenge,3.0,3.0,1.0,100000
+1227,Westlands,Kitisuru,0.0,1.0,1.0,70000
+1228,Westlands,Nyari,2.0,2.0,1.0,252000
+1229,Nairobi,Kileleshwa,3.0,2.0,1.0,85000
+1230,Nairobi,Kilimani,2.0,1.0,1.0,110000
+1231,Nairobi,Thika Road,2.0,2.0,1.0,70000
+1232,Westlands,Riverside,3.0,3.0,1.0,160000
+1233,Westlands,Riverside,5.0,2.0,1.0,300000
+1234,Nyali,Kongowea,3.0,3.0,0.0,150000
+1235,Westlands,Westlands Area,4.0,3.0,1.0,150000
+1236,Nairobi,Kilimani,3.0,4.0,1.0,280000
+1237,Nairobi,Lavington,3.0,3.0,1.0,95000
+1238,Nyali,Nyali Area,2.0,2.0,1.0,100000
+1239,Nairobi,Kileleshwa,3.0,3.0,1.0,130000
+1240,Roysambu,Kahawa Sukari,3.0,3.0,1.0,70000
+1241,Nairobi,Kileleshwa,2.0,,1.0,220000
+1242,Roysambu,Garden Estate,2.0,2.0,1.0,130000
+1243,Nairobi,Kilimani,2.0,2.0,1.0,85000
+1244,Kiambu County,Ruaka,3.0,2.0,1.0,50000
+1245,Westlands,Parklands,2.0,2.0,1.0,150000
+1246,Nyali,Nyali Area,3.0,4.0,1.0,140000
+1247,Nairobi,Lavington,4.0,4.0,1.0,100000
+1248,Nyali,Nyali Area,3.0,2.0,1.0,90000
+1249,Nairobi,Kilimani,0.0,2.0,1.0,120000
+1250,Mombasa,Shanzu,2.0,2.0,1.0,15000
+1251,Nyali,Nyali Area,3.0,3.0,1.0,100000
+1252,Nyali,Nyali Area,3.0,4.0,1.0,200000
+1253,Westlands,Riverside,2.0,3.0,1.0,110000
+1254,Nairobi,Kiambu Road,2.0,2.0,1.0,180000
+1255,Westlands,Brookside,3.0,4.0,1.0,220000
+1256,Nairobi,Kilimani,2.0,3.0,1.0,190000
+1257,Westlands,Parklands,2.0,2.0,1.0,120000
+1258,Nyali,Nyali Area,4.0,5.0,1.0,150000
+1259,Nairobi,Kileleshwa,2.0,2.0,1.0,120000
+1260,Nairobi,Kilimani,3.0,4.0,1.0,110000
+1261,Nairobi,Kileleshwa,3.0,3.0,0.0,180000
+1262,Nairobi,Kileleshwa,2.0,2.0,1.0,220000
+1263,Westlands,Westlands Area,3.0,3.0,0.0,140000
+1264,Westlands,Westlands Area,2.0,2.0,1.0,160000
+1265,Westlands,Lower Kabete,1.0,1.0,0.0,9000
+1266,Nairobi,Langata,3.0,3.0,1.0,75000
+1267,Nairobi,Kilimani,1.0,1.0,1.0,100000
+1268,Westlands,Riverside,3.0,3.0,1.0,354000
+1269,Westlands,Parklands,2.0,2.0,1.0,150000
+1270,Nyali,Nyali Area,2.0,2.0,1.0,55000
+1271,Westlands,Parklands,2.0,2.0,0.0,200000
+1272,Westlands,Waiyaki Way,2.0,2.0,1.0,50000
+1273,Nairobi,Lavington,3.0,4.0,1.0,140000
+1274,Nairobi,Kileleshwa,3.0,3.0,0.0,175000
+1275,Westlands,Parklands,3.0,3.0,1.0,125000
+1276,Westlands,Westlands Area,3.0,3.0,0.0,120000
+1277,Nairobi,Lavington,2.0,3.0,1.0,65000
+1278,Nyali,Kongowea,3.0,3.0,,14000
+1279,Westlands,Westlands Area,2.0,,1.0,200000
+1280,Nairobi,Lavington,2.0,2.0,1.0,90000
+1281,Westlands,Runda,2.0,2.0,0.0,150000
+1282,Kilifi County,Kikambala,3.0,3.0,1.0,95000
+1283,Nairobi,Kilimani,2.0,1.0,1.0,5000
+1284,Westlands,General Mathenge,3.0,3.0,1.0,150000
+1285,Westlands,General Mathenge,4.0,5.0,1.0,220000
+1286,Nairobi,Mombasa Road,3.0,3.0,1.0,100000
+1287,Nairobi,Kileleshwa,3.0,4.0,1.0,200000
+1288,Nairobi,Kileleshwa,0.0,1.0,1.0,90000
+1289,Nyali,Nyali Area,2.0,2.0,0.0,10000
+1290,Kiambu County,Ruaka,2.0,2.0,0.0,40000
+1291,Westlands,Runda,2.0,2.0,0.0,371000
+1292,Westlands,Kitisuru,5.0,5.0,1.0,660000
+1293,Nairobi,Kileleshwa,2.0,2.0,0.0,65000
+1294,Westlands,Westlands Area,2.0,2.0,1.0,55000
+1295,Westlands,Riverside,3.0,3.0,1.0,350000
+1296,Westlands,Rosslyn,2.0,2.0,1.0,180000
+1297,Nairobi,Muthaiga,2.0,2.0,1.0,200000
+1298,Nyali,Nyali Area,2.0,3.0,1.0,60000
+1299,Nairobi,Lavington,4.0,5.0,1.0,130000
+1300,Nairobi,Kilimani,1.0,1.0,1.0,80000
+1301,Nairobi,Kilimani,2.0,2.0,1.0,359125
+1302,Westlands,Westlands Area,1.0,1.0,1.0,150000
+1303,Westlands,Westlands Area,1.0,1.0,1.0,120000
+1304,Westlands,Westlands Area,4.0,4.0,1.0,270000
+1305,Nairobi,Lavington,4.0,,,110000
+1306,Nairobi,Thika Road,1.0,2.0,1.0,65000
+1307,Nyali,Nyali Area,3.0,4.0,,60000
+1308,Nairobi,Kiambu Road,2.0,2.0,1.0,50000
+1309,Westlands,Westlands Area,2.0,2.0,1.0,110000
+1310,Nairobi,Kileleshwa,3.0,4.0,1.0,130000
+1311,Nairobi,Kilimani,2.0,2.0,1.0,65000
+1312,Nairobi,Kileleshwa,4.0,3.0,0.0,100000
+1313,Westlands,Riverside,2.0,,0.0,250000
+1314,Westlands,Westlands Area,2.0,3.0,1.0,220000
+1315,Nyali,Nyali Area,3.0,,1.0,30000
+1316,Nairobi,Naivasha Road,2.0,2.0,,40000
+1317,Nairobi,Lavington,3.0,3.0,1.0,160000
+1318,Nairobi,Kileleshwa,3.0,3.0,1.0,7000
+1319,Nairobi,Kawangware,2.0,1.0,1.0,20000
+1320,Nairobi,Upper Hill,3.0,2.0,1.0,90000
+1321,Nairobi,Kilimani,3.0,3.0,1.0,105000
+1322,Nairobi,Kileleshwa,3.0,2.0,1.0,60000
+1323,Nairobi,Kilimani,3.0,4.0,1.0,170000
+1324,Westlands,Riverside,2.0,2.0,1.0,150000
+1325,Westlands,Parklands,2.0,1.0,0.0,75000
+1326,Nairobi,Kilimani,4.0,3.0,1.0,200000
+1327,Westlands,Westlands Area,2.0,2.0,1.0,210000
+1328,Nairobi,Kilimani,1.0,1.0,1.0,130000
+1329,Ruiru,Tatu City,2.0,2.0,1.0,54200
+1330,Westlands,Spring Valley,1.0,1.0,1.0,75000
+1331,Westlands,Runda,3.0,3.0,1.0,260000
+1332,Nyali,Nyali Area,4.0,3.0,1.0,125000
+1333,Nairobi,Lavington,5.0,6.0,1.0,350000
+1334,Westlands,Riverside,4.0,4.0,1.0,300000
+1335,Nairobi,Kileleshwa,2.0,2.0,1.0,130000
+1336,Kiambu County,Ruaka,2.0,2.0,1.0,35000
+1337,Westlands,Parklands,3.0,2.0,1.0,165000
+1338,Westlands,Parklands,2.0,3.0,1.0,150000
+1339,Nairobi,Kileleshwa,3.0,3.0,1.0,250000
+1340,Westlands,Westlands Area,1.0,1.0,0.0,100000
+1341,Nairobi,Upper Hill,1.0,1.0,1.0,130000
+1342,Nairobi,Kiambu Road,3.0,4.0,1.0,55000
+1343,Westlands,Westlands Area,2.0,1.0,0.0,85000
+1344,Westlands,Rosslyn,3.0,3.0,1.0,260000
+1345,Nairobi,Kilimani,2.0,2.0,1.0,220000
+1346,Westlands,Riverside,3.0,2.0,1.0,200000
+1347,Nairobi,Kileleshwa,3.0,4.0,1.0,130000
+1348,Nairobi,Kileleshwa,3.0,4.0,1.0,150000
+1349,Nyali,Mkomani,3.0,4.0,1.0,110000
+1350,Nairobi,Lavington,3.0,3.0,1.0,110000
+1351,Westlands,Westlands Area,2.0,2.0,1.0,90000
+1352,Nyali,Mkomani,3.0,4.0,1.0,100000
+1353,Westlands,Riverside,3.0,3.0,1.0,200000
+1354,Nairobi,Lavington,3.0,3.0,1.0,115000
+1355,Nyali,Nyali Area,4.0,4.0,1.0,120000
+1356,Nairobi,Lavington,0.0,1.0,1.0,110000
+1357,Nairobi,Kileleshwa,1.0,1.0,1.0,120000
+1358,Nairobi,Kilimani,1.0,,1.0,130000
+1359,Nyali,Nyali Area,1.0,1.0,1.0,65000
+1360,Nairobi,Upper Hill,2.0,2.0,1.0,200000
+1361,Westlands,General Mathenge,3.0,3.0,1.0,240000
+1362,Westlands,Brookside,2.0,2.0,1.0,150000
+1363,Nairobi,Karen,1.0,1.0,1.0,110000
+1364,Westlands,Westlands Area,2.0,2.0,1.0,280000
+1365,Westlands,Riverside,2.0,2.0,1.0,280000
+1366,Nyali,Nyali Area,3.0,3.0,1.0,230000
+1367,Westlands,Westlands Area,2.0,3.0,1.0,200000
+1368,Westlands,Rhapta Road,3.0,2.0,1.0,65000
+1369,Nairobi,Kilimani,2.0,2.0,1.0,150000
+1370,Westlands,Loresho,3.0,4.0,1.0,85000
+1371,Nairobi,Kilimani,2.0,,0.0,130000
+1372,Westlands,Westlands Area,2.0,2.0,1.0,180000
+1373,Westlands,Parklands,2.0,,1.0,150000
+1374,Westlands,Rhapta Road,2.0,2.0,1.0,180000
+1375,Nairobi,Lavington,3.0,3.0,1.0,80000
+1376,Westlands,Brookside,3.0,4.0,1.0,160000
+1377,Westlands,Gigiri,1.0,2.0,1.0,175000
+1378,Nairobi,Kilimani,1.0,1.0,0.0,105000
+1379,Westlands,Westlands Area,3.0,,1.0,190000
+1380,Westlands,Westlands Area,3.0,3.0,1.0,145000
+1381,Westlands,General Mathenge,2.0,2.0,1.0,250000
+1382,Westlands,General Mathenge,4.0,4.0,0.0,265000
+1383,Westlands,Westlands Area,2.0,,1.0,not
+1384,Westlands,Westlands Area,2.0,2.0,1.0,95000
+1385,Nairobi,Muthaiga,2.0,2.0,0.0,511000
+1386,Nairobi,Kilimani,3.0,3.0,1.0,95000
+1387,Nairobi,Kilimani,0.0,1.0,1.0,120000
+1388,Kiambu County,Ruiru,1.0,1.0,1.0,10000
+1389,Westlands,Riverside,3.0,3.0,1.0,90000
+1390,Kilifi County,Vipingo,3.0,2.0,1.0,32000
+1391,Nairobi,Kileleshwa,2.0,1.0,1.0,55000
+1392,Westlands,General Mathenge,3.0,,1.0,150000
+1393,Westlands,Westlands Area,4.0,4.0,1.0,180000
+1394,Westlands,Brookside,3.0,3.0,1.0,130000
+1395,Nairobi,Ngong Road,3.0,2.0,1.0,70000
+1396,Nairobi,Kiambu Road,2.0,2.0,1.0,135000
+1397,Nairobi,Kilimani,1.0,1.0,1.0,100000
+1398,Nairobi,Kileleshwa,0.0,1.0,1.0,4500
+1399,Westlands,Lower Kabete,3.0,3.0,1.0,135000
+1400,Westlands,Karura,3.0,3.0,1.0,200000
+1401,Mombasa,Bamburi,1.0,1.0,1.0,18000
+1402,Westlands,Westlands Area,3.0,4.0,1.0,250000
+1403,Nairobi,Kilimani,2.0,2.0,1.0,250000
+1404,Roysambu,Thome,1.0,1.0,1.0,64000
+1405,Nairobi,Kilimani,3.0,2.0,1.0,80000
+1406,Westlands,Westlands Area,2.0,2.0,1.0,250000
+1407,Nairobi,Kilimani,2.0,2.0,1.0,80000
+1408,Nairobi,Lavington,5.0,6.0,1.0,230000
+1409,Nairobi,Kilimani,3.0,3.0,1.0,100000
+1410,Nyali,Mkomani,3.0,4.0,1.0,98000
+1411,Westlands,Kitisuru,2.0,2.0,1.0,270000
+1412,Kiambu County,Thika,1.0,2.0,1.0,14000
+1413,Nairobi,Kileleshwa,3.0,3.0,1.0,80000
+1414,Nairobi,Kilimani,3.0,4.0,1.0,120000
+1415,Kiambu County,Ruaka,3.0,3.0,,54000
+1416,Nairobi,Nairobi West,4.0,4.0,1.0,230000
+1417,Nairobi,Muthaiga,3.0,3.0,1.0,180000
+1418,Nyali,Nyali Area,1.0,1.0,1.0,65000
+1419,Nairobi,Kilimani,3.0,2.0,1.0,95000
+1420,Nairobi,Kileleshwa,3.0,4.0,1.0,250000
+1421,Nairobi,Kiambu Road,3.0,2.0,1.0,150000
+1422,Nairobi,Kilimani,4.0,,1.0,140000
+1423,Westlands,Parklands,3.0,,0.0,120000
+1424,Kiambu County,Ruaka,2.0,1.0,1.0,35000
+1425,Nairobi,Kilimani,4.0,4.0,1.0,110000
+1426,Westlands,Riverside,3.0,4.0,1.0,150000
+1427,Westlands,Riverside,3.0,2.0,1.0,120000
+1428,Nyali,Nyali Area,3.0,3.0,1.0,20000
+1429,Westlands,Parklands,2.0,2.0,1.0,120000
+1430,Nyali,Nyali Area,3.0,5.0,1.0,140000
+1431,Kilifi County,Mtwapa,4.0,3.0,1.0,90000
+1432,Nairobi,Kileleshwa,2.0,2.0,1.0,145000
+1433,Westlands,Westlands Area,4.0,4.0,1.0,400000
+1434,Nairobi,Lavington,3.0,4.0,1.0,100000
+1435,Westlands,Brookside,3.0,4.0,1.0,170000
+1436,Westlands,Rhapta Road,1.0,1.0,1.0,120000
+1437,Nairobi,Kiambu Road,3.0,4.0,1.0,55000
+1438,Westlands,Riverside,3.0,4.0,1.0,145000
+1439,Nairobi,Kileleshwa,2.0,,,67000
+1440,Westlands,Waiyaki Way,2.0,2.0,1.0,100000
+1441,Westlands,Westlands Area,4.0,4.0,1.0,350000
+1442,Nairobi,Ngong Road,3.0,3.0,1.0,75000
+1443,Westlands,Westlands Area,2.0,2.0,1.0,200000
+1444,Westlands,Westlands Area,3.0,3.0,1.0,250000
+1445,Kajiado County,Ongata Rongai,1.0,1.0,1.0,11000
+1446,Nairobi,Riara Road,3.0,4.0,1.0,130000
+1447,Westlands,Parklands,3.0,,1.0,85000
+1448,Nairobi,Kilimani,4.0,5.0,1.0,140000
+1449,Nyali,Nyali Area,3.0,5.0,1.0,185000
+1450,Westlands,Westlands Area,3.0,3.0,1.0,250000
+1451,Nairobi,Kileleshwa,2.0,2.0,1.0,130000
+1452,Nairobi,Kileleshwa,3.0,2.0,1.0,80000
+1453,Westlands,Westlands Area,2.0,2.0,1.0,200000
+1454,Nairobi,Kilimani,1.0,2.0,1.0,160000
+1455,Westlands,Westlands Area,3.0,3.0,0.0,292000
+1456,Westlands,General Mathenge,3.0,4.0,1.0,140000
+1457,Kiambu County,Ruaka,3.0,2.0,,55000
+1458,Westlands,Westlands Area,3.0,3.0,1.0,240000
+1459,Kiambu County,Thika,1.0,1.0,1.0,15000
+1460,Nairobi,Kilimani,2.0,3.0,1.0,130000
+1461,Westlands,Westlands Area,2.0,2.0,1.0,105000
+1462,Nyali,Nyali Area,3.0,3.0,1.0,120000
+1463,Nairobi,Kileleshwa,1.0,2.0,1.0,110000
+1464,Nairobi,Kileleshwa,,1.0,1.0,60000
+1465,Roysambu,Garden Estate,2.0,3.0,1.0,89000
+1466,Nairobi,Kileleshwa,2.0,2.0,1.0,75000
+1467,Nyali,Nyali Area,3.0,4.0,1.0,98000
+1468,Roysambu,Thome,3.0,3.0,1.0,80000
+1469,Nairobi,Thika Road,3.0,3.0,1.0,100000
+1470,Westlands,Brookside,2.0,2.0,1.0,100000
+1471,Westlands,Riverside,2.0,3.0,1.0,130000
+1472,Nairobi,Kileleshwa,1.0,1.0,1.0,65000
+1473,Nairobi,Lavington,4.0,4.0,1.0,270000
+1474,Nairobi,Kileleshwa,3.0,2.0,1.0,85000
+1475,Westlands,Waiyaki Way,2.0,2.0,1.0,250000
+1476,Westlands,Westlands Area,3.0,3.0,1.0,310000
+1477,Nairobi,Kilimani,3.0,3.0,0.0,100000
+1478,Westlands,General Mathenge,2.0,2.0,1.0,90000
+1479,Nairobi,Kileleshwa,2.0,2.0,1.0,50000
+1480,Nyali,Nyali Area,3.0,2.0,1.0,65000
+1481,Nairobi,Kilimani,1.0,2.0,1.0,130000
+1482,Nairobi,Kileleshwa,3.0,4.0,1.0,140000
+1483,Nairobi,Lavington,3.0,4.0,1.0,90000
+1484,Nairobi,Kilimani,3.0,4.0,1.0,230000
+1485,Nyali,Nyali Area,3.0,4.0,1.0,85000
+1486,Westlands,Parklands,3.0,3.0,1.0,300000
+1487,Westlands,Lower Kabete,2.0,3.0,1.0,205000
+1488,Westlands,Spring Valley,2.0,3.0,1.0,280000
+1489,Nairobi,Kileleshwa,3.0,2.0,0.0,110000
+1490,Nairobi,Kilimani,3.0,2.0,0.0,80000
+1491,Nairobi,Kiambu Road,3.0,2.0,1.0,150000
+1492,Nyali,Nyali Area,3.0,3.0,1.0,120000
+1493,Kiambu County,Thindigua,3.0,2.0,,60000
+1494,Nairobi,Kilimani,2.0,2.0,0.0,160000
+1495,Nairobi,Kilimani,3.0,3.0,1.0,300000
+1496,Nairobi,Kileleshwa,4.0,3.0,1.0,120000
+1497,Roysambu,Garden Estate,3.0,3.0,1.0,80000
+1498,Nairobi,Kilimani,3.0,3.0,1.0,90000
+1499,Nairobi,Lavington,3.0,3.0,1.0,75000
+1500,Westlands,Westlands Area,2.0,3.0,1.0,220000
+1501,Westlands,General Mathenge,3.0,3.0,1.0,180000
+1502,Nairobi,Thika Road,2.0,3.0,1.0,140000
+1503,Nairobi,Lavington,3.0,,1.0,230000
+1504,Westlands,Kitisuru,2.0,2.0,1.0,80000
+1505,Westlands,Westlands Area,3.0,,0.0,330000
+1506,Nairobi,Muthaiga,2.0,3.0,1.0,150000
+1507,Nairobi,Kilimani,2.0,2.0,1.0,60000
+1508,Nairobi,Thika Road,2.0,,1.0,170000
+1509,Westlands,Rosslyn,1.0,1.0,1.0,250000
+1510,Nairobi,Lavington,1.0,2.0,1.0,140000
+1511,Nyali,Mkomani,3.0,2.0,1.0,45000
+1512,Westlands,Westlands Area,3.0,3.0,1.0,110000
+1513,Nairobi,Muthaiga,3.0,3.0,1.0,250000
+1514,Westlands,Rhapta Road,2.0,,0.0,180000
+1515,Nyali,Nyali Area,3.0,3.0,1.0,220000
+1516,Kilifi County,Mtwapa,2.0,3.0,1.0,35000
+1517,Westlands,General Mathenge,3.0,,1.0,160000
+1518,Nairobi,Thika Road,3.0,3.0,0.0,70000
+1519,Westlands,Riverside,4.0,5.0,1.0,300000
+1520,Westlands,Parklands,3.0,3.0,1.0,250000
+1521,Westlands,General Mathenge,4.0,4.0,1.0,460000
+1522,Westlands,Loresho,3.0,2.0,1.0,80000
+1523,Westlands,Westlands Area,2.0,2.0,1.0,150000
+1524,Westlands,Lower Kabete,3.0,3.0,1.0,330000
+1525,Westlands,Parklands,3.0,2.0,1.0,85000
+1526,Westlands,Riverside,3.0,,0.0,170000
+1527,Nairobi,Kilimani,3.0,3.0,1.0,290000
+1528,Westlands,Riverside,2.0,2.0,1.0,100000
+1529,Nairobi,Kileleshwa,2.0,3.0,1.0,145000
+1530,Nairobi,Kilimani,2.0,3.0,1.0,75000
+1531,Nairobi,Lavington,3.0,4.0,1.0,120000
+1532,Nairobi,Lavington,4.0,4.0,1.0,120000
+1533,Nairobi,Kilimani,2.0,2.0,0.0,120000
+1534,Westlands,Brookside,2.0,2.0,1.0,65000
+1535,Nairobi,Kilimani,2.0,2.0,1.0,70000
+1536,Westlands,General Mathenge,4.0,5.0,1.0,400000
+1537,Westlands,Riverside,4.0,3.0,1.0,170000
+1538,Nairobi,Karen Hardy,2.0,2.0,0.0,150000
+1539,Nyali,Nyali Area,2.0,3.0,1.0,180000
+1540,Nairobi,Kiambu Road,2.0,2.0,1.0,120000
+1541,Kiambu County,Thindigua,2.0,,0.0,30000
+1542,Kilifi County,Vipingo,2.0,2.0,1.0,25000
+1543,Westlands,Westlands Area,1.0,1.0,1.0,150000
+1544,Westlands,Westlands Area,2.0,,0.0,150000
+1545,Westlands,Brookside,3.0,4.0,1.0,150000
+1546,Westlands,Brookside,3.0,3.0,1.0,220000
+1547,Nairobi,Kilimani,2.0,2.0,1.0,90000
+1548,Westlands,Kyuna,1.0,1.0,1.0,80000
+1549,Westlands,Spring Valley,2.0,3.0,1.0,335000
+1550,Nairobi,Kilimani,2.0,,0.0,180000
+1551,Nyali,Nyali Area,3.0,4.0,1.0,135000
+1552,Westlands,General Mathenge,4.0,4.0,0.0,275000
+1553,Westlands,Riverside,3.0,3.0,1.0,150000
+1554,Nyali,Nyali Area,3.0,3.0,1.0,190000
+1555,Nairobi,Upper Hill,3.0,4.0,1.0,220000
+1556,Westlands,Riverside,1.0,2.0,1.0,100000
+1557,Westlands,Westlands Area,2.0,2.0,1.0,170000
+1558,Westlands,Riverside,3.0,3.0,1.0,170000
+1559,Westlands,Westlands Area,3.0,3.0,1.0,140000
+1560,Westlands,Brookside,3.0,3.0,1.0,240000
+1561,Nairobi,Kilimani,3.0,4.0,1.0,85000
+1562,Westlands,Westlands Area,2.0,2.0,1.0,230000
+1563,Nairobi,Lavington,3.0,3.0,1.0,90000
+1564,Nairobi,Upper Hill,2.0,3.0,0.0,170000
+1565,Nairobi,Kilimani,2.0,2.0,1.0,130000
+1566,Westlands,Riverside,3.0,2.0,1.0,180000
+1567,Nairobi,Kileleshwa,2.0,3.0,1.0,110000
+1568,Nyali,Nyali Area,3.0,4.0,1.0,230000
+1569,Westlands,Parklands,1.0,1.0,1.0,120000
+1570,Nairobi,Kilimani,4.0,4.0,1.0,140000
+1571,Nairobi,Kileleshwa,2.0,2.0,1.0,250000
+1572,Westlands,General Mathenge,3.0,3.0,1.0,220000
+1573,Westlands,Parklands,6.0,6.0,1.0,220000
+1574,Nyali,Nyali Area,3.0,4.0,1.0,140000
+1575,Nairobi,Kileleshwa,2.0,,1.0,200000
+1576,Westlands,General Mathenge,3.0,3.0,1.0,170000
+1577,Westlands,Brookside,2.0,2.0,1.0,130000
+1578,Westlands,Parklands,1.0,1.0,1.0,130000
+1579,Nairobi,Hurlingham,2.0,1.0,1.0,70000
+1580,Nyali,Nyali Area,2.0,3.0,1.0,185000
+1581,Ruiru,Tatu City,2.0,2.0,1.0,50000
+1582,Nairobi,Kiambu Road,3.0,3.0,1.0,120000
+1583,Westlands,Westlands Area,4.0,4.0,1.0,230000
+1584,Nairobi,Muthaiga,2.0,2.0,1.0,170000
+1585,Westlands,Westlands Area,2.0,2.0,1.0,220000
+1586,Nairobi,Kilimani,2.0,1.0,1.0,80000
+1587,Nyali,Nyali Area,3.0,3.0,1.0,15000
+1588,Nairobi,Kileleshwa,1.0,2.0,1.0,140000
+1589,Nairobi,Lavington,3.0,3.0,1.0,140000
+1590,Westlands,Westlands Area,2.0,2.0,1.0,180000
+1591,Nairobi,Lavington,3.0,2.0,1.0,90000
+1592,Westlands,Parklands,1.0,1.0,1.0,140000
+1593,Nairobi,Kilimani,1.0,1.0,1.0,60000
+1594,Nairobi,Kilimani,2.0,3.0,1.0,120000
+1595,Nairobi,Karen,2.0,2.0,1.0,120000
+1596,Nairobi,Kilimani,3.0,3.0,1.0,105000
+1597,Westlands,Rosslyn,2.0,2.0,1.0,170000
+1598,Westlands,General Mathenge,4.0,4.0,1.0,180000
+1599,Nairobi,Kileleshwa,3.0,2.0,1.0,95000
+1600,Nairobi,Karen,1.0,1.0,1.0,70000
+1601,Nyali,Nyali Area,2.0,2.0,0.0,12000
+1602,Westlands,Kitisuru,2.0,,0.0,80000
+1603,Nairobi,Lavington,3.0,2.0,1.0,75000
+1604,Nairobi,Kilimani,4.0,4.0,1.0,630000
+1605,Nairobi,Kileleshwa,4.0,4.0,1.0,170000
+1606,Nairobi,Kilimani,3.0,3.0,1.0,250000
+1607,Westlands,Riverside,3.0,4.0,1.0,150000
+1608,Nairobi,Lavington,3.0,2.0,1.0,95000
+1609,Westlands,Spring Valley,3.0,4.0,1.0,350000
+1610,Nairobi,Kileleshwa,3.0,3.0,0.0,200000
+1611,Westlands,Westlands Area,3.0,2.0,1.0,120000
+1612,Nairobi,Kileleshwa,3.0,2.0,1.0,110000
+1613,Westlands,Spring Valley,4.0,5.0,1.0,450000
+1614,Kiambu County,Ruaka,3.0,2.0,,45000
+1615,Westlands,Riverside,3.0,3.0,1.0,150000
+1616,Westlands,Westlands Area,3.0,3.0,1.0,160000
+1617,Kilifi County,Mtwapa,3.0,3.0,1.0,120000
+1618,Nairobi,Kilimani,2.0,3.0,1.0,120000
+1619,Ruiru,Tatu City,2.0,2.0,1.0,54500
+1620,Nyali,Mkomani,3.0,3.0,1.0,65000
+1621,Nairobi,Kileleshwa,3.0,3.0,1.0,75000
+1622,Nairobi,Kilimani,3.0,2.0,1.0,75000
+1623,Nairobi,Kileleshwa,3.0,2.0,1.0,70000
+1624,Nairobi,Kilimani,2.0,,0.0,220000
+1625,Nyali,Nyali Area,3.0,4.0,1.0,181000
+1626,Nairobi,Kileleshwa,3.0,3.0,1.0,250000
+1627,Nairobi,Karen,1.0,1.0,0.0,100000
+1628,Westlands,Rhapta Road,2.0,3.0,1.0,140000
+1629,Nairobi,Kileleshwa,3.0,4.0,1.0,120000
+1630,Nairobi,Kileleshwa,2.0,2.0,1.0,220000
+1631,Nairobi,Kiambu Road,2.0,2.0,1.0,56000
+1632,Westlands,Parklands,3.0,3.0,1.0,250000
+1633,Nairobi,Kilimani,3.0,3.0,1.0,190000
+1634,Westlands,Riverside,3.0,3.0,1.0,135000
+1635,Nairobi,Kilimani,2.0,2.0,1.0,85000
+1636,Nairobi,Thika Road,2.0,2.0,1.0,180000
+1637,Nairobi,Kilimani,1.0,1.0,0.0,120000
+1638,Nairobi,Kilimani,4.0,,0.0,not
+1639,Nairobi,Lavington,4.0,3.0,1.0,100000
+1640,Nairobi,Kilimani,2.0,2.0,1.0,120000
+1641,Kiambu County,Ruaka,2.0,3.0,1.0,30000
+1642,Westlands,Riverside,4.0,2.0,1.0,200000
+1643,Nyali,Nyali Area,3.0,4.0,1.0,215000
+1644,Westlands,Westlands Area,3.0,4.0,1.0,250000
+1645,Nairobi,Kilimani,2.0,2.0,1.0,150000
+1646,Westlands,Brookside,3.0,2.0,1.0,100000
+1647,Nairobi,Kiambu Road,1.0,1.0,1.0,100000
+1648,Westlands,Westlands Area,1.0,2.0,1.0,120000
+1649,Machakos County,Athi River,2.0,2.0,1.0,22000
+1650,Westlands,Riverside,3.0,3.0,1.0,300000
+1651,Nyali,Nyali Area,3.0,2.0,1.0,50000
+1652,Westlands,Riverside,2.0,2.0,1.0,180000
+1653,Nairobi,Kileleshwa,2.0,2.0,1.0,126000
+1654,Westlands,Brookside,4.0,4.0,1.0,200000
+1655,Nairobi,Kileleshwa,4.0,3.0,1.0,78000
+1656,Nairobi,Kileleshwa,0.0,1.0,1.0,110000
+1657,Nairobi,Kilimani,2.0,2.0,1.0,110000
+1658,Nairobi,Lavington,1.0,,0.0,190000
+1659,Nairobi,Thika Road,2.0,2.0,1.0,79000
+1660,Westlands,General Mathenge,4.0,5.0,1.0,400000
+1661,Nyali,Nyali Area,4.0,4.0,1.0,190000
+1662,Westlands,Spring Valley,4.0,4.0,1.0,400000
+1663,Nyali,Nyali Area,3.0,4.0,1.0,100000
+1664,Nairobi,Lavington,2.0,,,60000
+1665,Westlands,Riverside,2.0,2.0,1.0,140000
+1666,Westlands,Runda,2.0,2.0,1.0,200000
+1667,Nairobi,Kilimani,3.0,3.0,1.0,110000
+1668,Westlands,General Mathenge,3.0,4.0,1.0,250000
+1669,Westlands,Parklands,4.0,4.0,1.0,300000
+1670,Nairobi,Kilimani,3.0,2.0,1.0,120000
+1671,Kwale County,Diani,2.0,3.0,1.0,12000
+1672,Nairobi,Lavington,4.0,3.0,1.0,170000
+1673,Nairobi,Kilimani,3.0,3.0,1.0,75000
+1674,Westlands,Westlands Area,2.0,2.0,1.0,12000
+1675,Nairobi,Kileleshwa,2.0,3.0,1.0,100000
+1676,Nairobi,Kilimani,3.0,,1.0,130000
+1677,Westlands,Westlands Area,3.0,2.0,1.0,125000
+1678,Nairobi,Kilimani,2.0,2.0,1.0,100000
+1679,Westlands,Westlands Area,1.0,2.0,1.0,75000
+1680,Nairobi,Lavington,0.0,1.0,1.0,120000
+1681,Westlands,Riverside,4.0,4.0,1.0,350000
+1682,Nairobi,Kileleshwa,3.0,4.0,1.0,not
+1683,Westlands,Kitisuru,3.0,,0.0,100000
+1684,Nairobi,Lavington,2.0,2.0,1.0,75000
+1685,Westlands,Waiyaki Way,2.0,2.0,1.0,35000
+1686,Nairobi,Lavington,2.0,3.0,1.0,75000
+1687,Westlands,Kitisuru,2.0,2.0,0.0,248000
+1688,Westlands,Riverside,3.0,4.0,1.0,300000
+1689,Nairobi,Kilimani,3.0,3.0,1.0,130000
+1690,Kiambu County,Limuru,2.0,1.0,0.0,48000
+1691,Westlands,Riverside,3.0,3.0,1.0,14000
+1692,Nyali,Nyali Area,3.0,4.0,1.0,120000
+1693,Nairobi,Kilimani,2.0,,1.0,180000
+1694,Westlands,General Mathenge,5.0,6.0,1.0,270000
+1695,Nairobi,Kilimani,3.0,4.0,1.0,140000
+1696,Westlands,Westlands Area,1.0,2.0,1.0,150000
+1697,Nairobi,Kileleshwa,3.0,3.0,1.0,180000
+1698,Nairobi,Kileleshwa,2.0,2.0,1.0,70000
+1699,Westlands,Westlands Area,3.0,3.0,0.0,120000
+1700,Westlands,Westlands Area,1.0,2.0,1.0,70000
+1701,Westlands,Parklands,3.0,3.0,0.0,120000
+1702,Westlands,Riverside,3.0,,0.0,280000
+1703,Westlands,Westlands Area,2.0,2.0,0.0,165000
+1704,Nairobi,Kileleshwa,1.0,1.0,1.0,190000
+1705,Westlands,Waiyaki Way,3.0,,,75000
+1706,Nairobi,Kilimani,2.0,2.0,1.0,85000
+1707,Westlands,Westlands Area,0.0,1.0,1.0,33000
+1708,Nairobi,Kileleshwa,5.0,4.0,1.0,150000
+1709,Nairobi,Kileleshwa,2.0,,,55000
+1710,Nairobi,Kileleshwa,3.0,2.0,1.0,130000
+1711,Nairobi,Riara Road,4.0,4.0,1.0,130000
+1712,Nyali,Nyali Area,3.0,4.0,1.0,95000
+1713,Westlands,Westlands Area,2.0,2.0,1.0,150000
+1714,Westlands,Riverside,2.0,3.0,0.0,120000
+1715,Nairobi,Upper Hill,0.0,1.0,1.0,80000
+1716,Westlands,Parklands,3.0,3.0,1.0,90000
+1717,Nyali,Nyali Area,3.0,4.0,1.0,60000
+1718,Westlands,Riverside,3.0,2.0,0.0,100000
+1719,Nairobi,Uthiru,3.0,2.0,1.0,55000
+1720,Nairobi,Kilimani,3.0,2.0,1.0,70000
+1721,Westlands,General Mathenge,4.0,4.0,0.0,460500
+1722,Nairobi,Lavington,2.0,2.0,1.0,120000
+1723,Nairobi,Ngara,2.0,2.0,1.0,42000
+1724,Westlands,Westlands Area,2.0,2.0,1.0,95000
+1725,Nairobi,Kilimani,2.0,2.0,1.0,70000
+1726,Westlands,Brookside,2.0,3.0,0.0,230000
+1727,Nairobi,Kileleshwa,3.0,4.0,1.0,160000
+1728,Nairobi,Kilimani,3.0,3.0,1.0,95000
+1729,Westlands,General Mathenge,4.0,4.0,1.0,430000
+1730,Nyali,Nyali Area,1.0,1.0,1.0,65000
+1731,Nairobi,Kilimani,3.0,3.0,1.0,160000
+1732,Nairobi,Thika Road,3.0,2.0,1.0,80000
+1733,Westlands,Riverside,2.0,2.0,1.0,160000
+1734,Nairobi,Ngong Road,1.0,1.0,1.0,30000
+1735,Westlands,Westlands Area,2.0,3.0,1.0,350000
+1736,Nairobi,Kileleshwa,3.0,4.0,1.0,130000
+1737,Nyali,Nyali Area,3.0,2.0,1.0,110000
+1738,Westlands,Parklands,4.0,5.0,0.0,180000
+1739,Nairobi,Kilimani,4.0,5.0,1.0,340000
+1740,Nairobi,Lavington,4.0,4.0,1.0,240000
+1741,Nairobi,Karen,0.0,,0.0,11000
+1742,Westlands,Westlands Area,1.0,1.0,1.0,160000
+1743,Mombasa Island,Mombasa CBD,3.0,2.0,1.0,65000
+1744,Nairobi,Kilimani,3.0,4.0,1.0,330000
+1745,Nairobi,Kilimani,3.0,2.0,0.0,75000
+1746,Nairobi,Kileleshwa,3.0,2.0,1.0,160000
+1747,Machakos County,Athi River,2.0,,0.0,20000
+1748,Nairobi,Kilimani,3.0,3.0,1.0,120000
+1749,Nyeri,2 Bed,2.0,2.0,1.0,15000
+1750,Westlands,Westlands Area,2.0,2.0,1.0,220000
+1751,Nairobi,Kileleshwa,2.0,2.0,1.0,110000
+1752,Nairobi,Lavington,2.0,,0.0,200000
+1753,Nairobi,Lavington,1.0,1.0,0.0,140000
+1754,Nairobi,Kileleshwa,3.0,4.0,1.0,100000
+1755,Westlands,General Mathenge,2.0,2.0,1.0,180000
+1756,Westlands,Parklands,3.0,3.0,1.0,110000
+1757,Westlands,Westlands Area,2.0,2.0,1.0,230000
+1758,Westlands,Westlands Area,4.0,3.0,1.0,95000
+1759,Nairobi,Lavington,2.0,2.0,,80000
+1760,Westlands,Rhapta Road,2.0,2.0,1.0,65000
+1761,Nyali,Nyali Area,4.0,5.0,1.0,230000
+1762,Westlands,Parklands,3.0,3.0,0.0,220000
+1763,Nairobi,Kileleshwa,1.0,1.0,1.0,90000
+1764,Westlands,Westlands Area,2.0,3.0,1.0,250000
+1765,Nairobi,Kileleshwa,1.0,1.0,1.0,150000
+1766,Nairobi,Dennis Pritt,2.0,2.0,1.0,85000
+1767,Nairobi,Kilimani,3.0,3.0,0.0,170000
+1768,Nairobi,Valley Arcade,2.0,2.0,1.0,160000
+1769,Nairobi,Kileleshwa,3.0,3.0,1.0,120000
+1770,Nairobi,Kileleshwa,1.0,2.0,0.0,100000
+1771,Westlands,General Mathenge,3.0,3.0,1.0,235000
+1772,Nairobi,Kilimani,2.0,2.0,0.0,80000
+1773,Nairobi,Kilimani,1.0,1.0,1.0,130000
+1774,Kiambu County,Ruaka,2.0,2.0,,40000
+1775,Nairobi,Kileleshwa,2.0,2.0,1.0,75000
+1776,Westlands,Westlands Area,3.0,3.0,0.0,130000
+1777,Westlands,Westlands Area,2.0,2.0,1.0,297000
+1778,Westlands,General Mathenge,3.0,3.0,1.0,220000
+1779,Westlands,Rhapta Road,2.0,2.0,1.0,110000
+1780,Nairobi,Kiambu Road,2.0,2.0,1.0,110000
+1781,Nairobi,Kileleshwa,3.0,4.0,1.0,150000
+1782,Nairobi,Kilimani,3.0,3.0,1.0,90000
+1783,Nairobi,Kilimani,3.0,4.0,1.0,160000
+1784,Westlands,Westlands Area,2.0,2.0,1.0,120000
+1785,Westlands,Westlands Area,1.0,1.0,1.0,160000
+1786,Westlands,Kitisuru,3.0,3.0,0.0,400000
+1787,Nyali,Nyali Area,4.0,5.0,1.0,150000
+1788,Nyali,Nyali Area,3.0,3.0,1.0,120000
+1789,Nairobi,Kileleshwa,1.0,2.0,1.0,55000
+1790,Westlands,Westlands Area,2.0,2.0,0.0,180000
+1791,Nairobi,Kilimani,3.0,4.0,1.0,100000
+1792,Westlands,Rosslyn,3.0,3.0,0.0,220000
+1793,Westlands,Runda,3.0,2.0,1.0,150000
+1794,Westlands,Westlands Area,3.0,3.0,1.0,350000
+1795,Westlands,Brookside,3.0,3.0,1.0,150000
+1796,Westlands,Waiyaki Way,2.0,2.0,1.0,100000
+1797,Westlands,Parklands,2.0,,0.0,45000
+1798,Westlands,Parklands,2.0,2.0,1.0,150000
+1799,Nairobi,Nairobi West,3.0,2.0,1.0,65000
+1800,Nairobi,Kilimani,2.0,2.0,0.0,140000
+1801,Westlands,Riverside,3.0,4.0,1.0,150000
+1802,Westlands,Westlands Area,2.0,,0.0,110000
+1803,Nairobi,Kilimani,2.0,2.0,1.0,280000
+1804,Roysambu,Garden Estate,3.0,4.0,1.0,150000
+1805,Nairobi,Upper Hill,0.0,1.0,1.0,7000
+1806,Westlands,Riverside,4.0,4.0,1.0,370000
+1807,Westlands,Kitisuru,3.0,2.0,1.0,95000
+1808,Westlands,Riverside,1.0,,1.0,150000
+1809,Nairobi,Lavington,3.0,4.0,1.0,120000
+1810,Nairobi,Lavington,1.0,2.0,1.0,95000
+1811,Westlands,General Mathenge,3.0,3.0,1.0,270
+1812,Nairobi,Kilimani,3.0,3.0,0.0,180000
+1813,Nairobi,Kileleshwa,3.0,3.0,1.0,76000
+1814,Westlands,Westlands Area,2.0,2.0,1.0,170000
+1815,Nairobi,Kilimani,2.0,2.0,1.0,90000
+1816,Westlands,Parklands,3.0,4.0,1.0,not
+1817,Westlands,Runda,2.0,2.0,1.0,140000
+1818,Nairobi,Karen,1.0,1.0,0.0,25000
+1819,Westlands,Parklands,3.0,,1.0,72500
+1820,Nairobi,Kilimani,1.0,2.0,1.0,120000
+1821,Nairobi,Kileleshwa,2.0,2.0,0.0,150000
+1822,Nairobi,Lavington,3.0,3.0,1.0,86000
+1823,Nyali,Nyali Area,3.0,4.0,1.0,110000
+1824,Westlands,Westlands Area,3.0,3.0,0.0,250000
+1825,Nairobi,Kilimani,2.0,3.0,1.0,85000
+1826,Westlands,Parklands,2.0,2.0,0.0,110000
+1827,Nairobi,Kileleshwa,2.0,2.0,1.0,100000
+1828,Nairobi,Kileleshwa,4.0,3.0,1.0,85000
+1829,Nairobi,Riara Road,3.0,3.0,1.0,130000
+1830,Westlands,General Mathenge,4.0,3.0,1.0,150000
+1831,Nairobi,Kilimani,2.0,2.0,1.0,300000
+1832,Nairobi,Kileleshwa,2.0,2.0,1.0,60000
+1833,Nyali,Nyali Area,3.0,2.0,0.0,70000
+1834,Nairobi,Upper Hill,3.0,3.0,0.0,200000
+1835,Nairobi,Kilimani,1.0,1.0,1.0,130000
+1836,Limuru,Tigoni,3.0,2.0,1.0,66000
+1837,Nairobi,Muthaiga,2.0,2.0,1.0,150000
+1838,Westlands,Runda,2.0,2.0,1.0,150000
+1839,Nyali,Nyali Area,2.0,2.0,1.0,85000
+1840,Nairobi,Kileleshwa,2.0,3.0,1.0,80000
+1841,Mombasa,Shanzu,3.0,4.0,1.0,20000
+1842,Nairobi,Muthaiga,3.0,3.0,1.0,220000
+1843,Nairobi,Kilimani,1.0,1.0,1.0,150000
+1844,Westlands,Westlands Area,3.0,4.0,1.0,200000
+1845,Nairobi,Lavington,3.0,3.0,1.0,130000
+1846,Westlands,Rhapta Road,3.0,2.0,1.0,85000
+1847,Westlands,Waiyaki Way,3.0,4.0,1.0,140000
+1848,Nyali,Nyali Area,3.0,4.0,1.0,100000
+1849,Nairobi,Kilimani,2.0,2.0,1.0,100000
+1850,Nyali,Mkomani,3.0,3.0,1.0,13000
+1851,Westlands,Rhapta Road,3.0,4.0,1.0,130000
+1852,Westlands,Brookside,3.0,3.0,1.0,140000
+1853,Nairobi,Lavington,1.0,1.0,1.0,130000
+1854,Nairobi,Lavington,4.0,4.0,1.0,250000
+1855,Nyali,Nyali Area,3.0,2.0,1.0,65000
+1856,Westlands,Rosslyn,4.0,4.0,1.0,300000
+1857,Nairobi,Lavington,3.0,4.0,1.0,270000
+1858,Roysambu,Kahawa West,1.0,1.0,0.0,12000
+1859,Westlands,Westlands Area,1.0,1.0,1.0,180000
+1860,Westlands,Spring Valley,3.0,3.0,1.0,280000
+1861,Nairobi,Embakasi,3.0,2.0,1.0,95000
+1862,Kilifi County,Malindi,2.0,,1.0,10000
+1863,Nairobi,Kilimani,1.0,2.0,1.0,7500
+1864,Nyali,Nyali Area,3.0,4.0,1.0,250000
+1865,Westlands,Rhapta Road,3.0,3.0,1.0,90000
+1866,Westlands,Westlands Area,1.0,1.0,1.0,100000
+1867,Nairobi,Kilimani,3.0,3.0,1.0,90000
+1868,Nairobi,Kileleshwa,3.0,1.0,1.0,185000
+1869,Nairobi,Kileleshwa,3.0,3.0,1.0,85000
+1870,Nyali,Nyali Area,3.0,4.0,1.0,230000
+1871,Nairobi,Karen,1.0,,1.0,30000
+1872,Nairobi,Kileleshwa,1.0,2.0,1.0,70000
+1873,Kilifi County,Mtwapa,10.0,10.0,1.0,3500
+1874,Nyali,Nyali Area,3.0,4.0,1.0,140000
+1875,Westlands,Westlands Area,4.0,,1.0,270000
+1876,Westlands,Parklands,2.0,2.0,1.0,150000
+1877,Nyali,Nyali Area,2.0,2.0,1.0,57500
+1878,Westlands,Runda,2.0,3.0,1.0,230000
+1879,Westlands,Brookside,2.0,3.0,1.0,75000
+1880,Kiambu County,Ruaka,0.0,1.0,1.0,85000
+1881,Westlands,Parklands,4.0,3.0,0.0,140000
+1882,Westlands,Westlands Area,5.0,5.0,1.0,350000
+1883,Nairobi,Upper Hill,1.0,,0.0,120000
+1884,Nyali,Nyali Area,1.0,1.0,1.0,60000
+1885,Westlands,Riverside,3.0,3.0,1.0,180000
+1886,Nairobi,Kileleshwa,3.0,4.0,0.0,300000
+1887,Roysambu,Garden Estate,2.0,2.0,1.0,99000
+1888,Westlands,Westlands Area,1.0,,0.0,100000
+1889,Nairobi,Kileleshwa,2.0,2.0,1.0,115000
+1890,Nyali,Nyali Area,4.0,5.0,1.0,240000
+1891,Westlands,Riverside,3.0,4.0,1.0,150000
+1892,Ruiru,Tatu City,2.0,2.0,1.0,50000
+1893,Westlands,Parklands,3.0,4.0,1.0,250000
+1894,Westlands,Westlands Area,4.0,4.0,1.0,300000
+1895,Nairobi,Kilimani,2.0,2.0,1.0,285130
+1896,Nairobi,Kilimani,3.0,2.0,1.0,120000
+1897,Nairobi,Lavington,4.0,3.0,1.0,200000
+1898,Nairobi,Lavington,4.0,4.0,1.0,250000
+1899,Westlands,Rhapta Road,1.0,1.0,1.0,160000
+1900,Nairobi,Kilimani,2.0,3.0,1.0,230000
+1901,Nairobi,Kilimani,2.0,3.0,0.0,100000
+1902,Nairobi,Kilimani,3.0,,1.0,250000
+1903,Nairobi,Kileleshwa,2.0,2.0,1.0,170000
+1904,Kiambu County,Thika,3.0,2.0,0.0,25000
+1905,Kilifi County,Mtwapa,2.0,3.0,1.0,35000
+1906,Nairobi,Kileleshwa,3.0,3.0,1.0,150000
+1907,Westlands,Westlands Area,1.0,1.0,1.0,120000
+1908,Nairobi,Kileleshwa,4.0,4.0,1.0,325000
+1909,Nairobi,Kileleshwa,1.0,1.0,1.0,120000
+1910,Nairobi,Kileleshwa,3.0,3.0,1.0,200000
+1911,Westlands,Parklands,2.0,2.0,1.0,210000
+1912,Nairobi,Kilimani,3.0,3.0,1.0,75000
+1913,Kilifi County,Mtwapa,3.0,3.0,1.0,65000
+1914,Nairobi,Kileleshwa,3.0,3.0,1.0,90000
+1915,Westlands,Parklands,3.0,3.0,1.0,120000
+1916,Westlands,Westlands Area,4.0,4.0,1.0,320000
+1917,Kiambu County,Thindigua,2.0,2.0,1.0,30000
+1918,Nairobi,Hurlingham,3.0,,0.0,180000
+1919,Nairobi,Kileleshwa,3.0,3.0,0.0,130000
+1920,Westlands,Westlands Area,1.0,2.0,1.0,150000
+1921,Nairobi,Kileleshwa,3.0,,,65000
+1922,Westlands,Parklands,3.0,3.0,1.0,130000
+1923,Nairobi,Kilimani,2.0,,1.0,160000
+1924,Westlands,Riverside,2.0,3.0,1.0,85000
+1925,Nyali,Nyali Area,3.0,3.0,1.0,140000
+1926,Westlands,General Mathenge,4.0,4.0,1.0,485000
+1927,Nyali,Nyali Area,4.0,5.0,1.0,160000
+1928,Westlands,Lower Kabete,4.0,5.0,1.0,280000
+1929,Westlands,Westlands Area,3.0,2.0,1.0,185000
+1930,Nairobi,Muthaiga,4.0,5.0,1.0,350000
+1931,Westlands,Westlands Area,2.0,3.0,1.0,90000
+1932,Nyali,Nyali Area,3.0,4.0,1.0,60000
+1933,Westlands,Parklands,3.0,2.0,1.0,115000
+1934,Nyali,Nyali Area,3.0,2.0,1.0,10000
+1935,Kilifi County,Mtwapa,3.0,3.0,1.0,65000
+1936,Nyali,Mkomani,3.0,4.0,1.0,250000
+1937,Nairobi,Kileleshwa,1.0,,1.0,190000
+1938,Westlands,Nyari,1.0,1.0,1.0,145000
+1939,Nairobi,Kileleshwa,1.0,1.0,1.0,110000
+1940,Nairobi,Kileleshwa,2.0,2.0,1.0,75000
+1941,Westlands,Rhapta Road,2.0,2.0,1.0,90000
+1942,Nyali,Nyali Area,2.0,2.0,1.0,22000
+1943,Westlands,Nyari,2.0,2.0,1.0,300000
+1944,Westlands,Loresho,2.0,2.0,1.0,70000
+1945,Nairobi,Ridgeways,2.0,1.0,0.0,70000
+1946,Nairobi,Kilimani,3.0,2.0,1.0,65000
+1947,Westlands,Parklands,3.0,4.0,1.0,200000
+1948,Nairobi,Kilimani,3.0,2.0,0.0,100000
+1949,Westlands,Riverside,4.0,4.0,1.0,110000
+1950,Westlands,Riverside,1.0,1.0,1.0,110000
+1951,Westlands,Karura,2.0,3.0,1.0,160000
+1952,Nairobi,Ruaraka,2.0,2.0,,140000
+1953,Nairobi,Kilimani,3.0,3.0,1.0,130000
+1954,Nairobi,Thika Road,3.0,3.0,1.0,113000
+1955,Westlands,Waiyaki Way,2.0,2.0,1.0,330000
+1956,Westlands,Westlands Area,2.0,2.0,1.0,70000
+1957,Westlands,General Mathenge,3.0,3.0,1.0,200000
+1958,Nyali,Nyali Area,3.0,4.0,1.0,110000
+1959,Nairobi,Kiambu Road,2.0,1.0,1.0,50000
+1960,Westlands,Westlands Area,1.0,2.0,1.0,90000
+1961,Westlands,General Mathenge,4.0,4.0,1.0,270000
+1962,Nairobi,Kilimani,2.0,2.0,1.0,200000
+1963,Westlands,Riverside,1.0,,1.0,140000
+1964,Nairobi,Kilimani,3.0,4.0,1.0,200000
+1965,Westlands,General Mathenge,2.0,2.0,1.0,280000
+1966,Westlands,Westlands Area,2.0,2.0,1.0,200000
+1967,Nairobi,Kilimani,2.0,4.0,1.0,190000
+1968,Westlands,General Mathenge,4.0,5.0,1.0,300000
+1969,Nairobi,Muthaiga,4.0,5.0,0.0,300000
+1970,Nairobi,Karen,2.0,,0.0,38000
+1971,Nairobi,Kilimani,2.0,,1.0,190000
+1972,Nairobi,Kilimani,2.0,,1.0,200000
+1973,Westlands,Brookside,2.0,,1.0,100000
+1974,Nyali,Nyali Area,2.0,2.0,1.0,70000
+1975,Nairobi,Kilimani,2.0,2.0,1.0,230000
+1976,Kiambu County,Ruaka,3.0,2.0,0.0,48000
+1977,Nairobi,Thika Road,2.0,2.0,1.0,96000
+1978,Westlands,Westlands Area,3.0,3.0,1.0,400000
+1979,Kikuyu,Kinoo,3.0,3.0,1.0,55000
+1980,Nyali,Nyali Area,3.0,2.0,1.0,70000
+1981,Nairobi,Kileleshwa,2.0,3.0,1.0,85000
+1982,Nairobi,Kileleshwa,2.0,2.0,1.0,75000
+1983,Westlands,Rhapta Road,2.0,2.0,1.0,180000
+1984,Nairobi,Upper Hill,1.0,1.0,1.0,90000
+1985,Nairobi,Kileleshwa,2.0,3.0,1.0,200000
+1986,Westlands,Riverside,2.0,3.0,1.0,130000
+1987,Nairobi,Kilimani,2.0,2.0,1.0,200000
+1988,Westlands,Westlands Area,1.0,2.0,1.0,75000
+1989,Kajiado County,Ongata Rongai,2.0,2.0,1.0,25000
+1990,Nairobi,Kilimani,2.0,3.0,1.0,150000
+1991,Westlands,General Mathenge,2.0,3.0,1.0,220000
+1992,Nyali,Nyali Area,4.0,5.0,1.0,150000
+1993,Westlands,Westlands Area,3.0,3.0,1.0,220000
+1994,Westlands,General Mathenge,2.0,2.0,0.0,253000
+1995,Nairobi,Kilimani,3.0,3.0,1.0,275000
+1996,Westlands,Riverside,4.0,4.0,,270000
+1997,Westlands,Riverside,2.0,2.0,0.0,160000
+1998,Nairobi,Utawala,2.0,1.0,1.0,25000
+1999,Nairobi,Hurlingham,4.0,4.0,1.0,150000
+2000,Westlands,Westlands Area,2.0,3.0,0.0,220000
+2001,Westlands,Karura,3.0,4.0,1.0,250000
+2002,Ruiru,Membley,3.0,3.0,1.0,55000
+2003,Nairobi,Ngong Road,1.0,1.0,1.0,35000
+2004,Westlands,Westlands Area,4.0,4.0,1.0,140000
+2005,Roysambu,Garden Estate,3.0,2.0,1.0,80000
+2006,Mombasa Island,Mombasa CBD,3.0,2.0,1.0,55000
+2007,Westlands,General Mathenge,4.0,4.0,1.0,400000
+2008,Nairobi,Kilimani,3.0,3.0,1.0,90000
+2009,Nairobi,Kileleshwa,2.0,2.0,1.0,120000
+2010,Nairobi,Thika Road,3.0,3.0,1.0,200000
+2011,Westlands,Riverside,3.0,3.0,1.0,180000
+2012,Nairobi,Kilimani,3.0,3.0,1.0,180000
+2013,Nairobi,Lavington,4.0,4.0,1.0,330000
+2014,Westlands,General Mathenge,3.0,4.0,1.0,250000
+2015,Westlands,Riverside,3.0,2.0,1.0,100000
+2016,Nairobi,Kileleshwa,3.0,2.0,1.0,85000
+2017,Nairobi,Lavington,4.0,5.0,1.0,250000
+2018,Nyali,Nyali Area,3.0,2.0,1.0,100000
+2019,Westlands,General Mathenge,3.0,4.0,1.0,145000
+2020,Nairobi,Kilimani,1.0,1.0,1.0,120000
+2021,Nairobi,Kilimani,2.0,3.0,1.0,80000
+2022,Nyali,Nyali Area,4.0,5.0,1.0,110000
+2023,Nyali,Nyali Area,3.0,3.0,1.0,120000
+2024,Westlands,Brookside,3.0,3.0,1.0,150000
+2025,Westlands,Westlands Area,3.0,3.0,1.0,165000
+2026,Westlands,Westlands Area,3.0,3.0,1.0,135000
+2027,Westlands,Westlands Area,1.0,1.0,1.0,40000
+2028,Nyali,Nyali Area,4.0,5.0,1.0,150000
+2029,Roysambu,Kahawa West,2.0,2.0,1.0,33000
+2030,Nyali,Nyali Area,2.0,3.0,1.0,15000
+2031,Nairobi,Kilimani,3.0,5.0,1.0,200000
+2032,Westlands,Runda,2.0,2.0,0.0,371000
+2033,Nairobi,Kileleshwa,3.0,3.0,1.0,130000
+2034,Nairobi,Kilimani,3.0,4.0,1.0,140000
+2035,Mombasa Island,Mombasa CBD,4.0,3.0,1.0,75000
+2036,Westlands,Westlands Area,2.0,2.0,1.0,70000
+2037,Nairobi,Kiambu Road,2.0,2.0,1.0,120000
+2038,Westlands,Brookside,2.0,2.0,1.0,100000
+2039,Nairobi,Kileleshwa,3.0,2.0,1.0,85000
+2040,Mombasa Island,Mombasa CBD,4.0,5.0,1.0,140000
+2041,Nairobi,Kileleshwa,3.0,3.0,1.0,180000
+2042,Westlands,Parklands,1.0,1.0,1.0,50000
+2043,Nairobi,Valley Arcade,1.0,1.0,1.0,60000
+2044,Westlands,Kitisuru,2.0,2.0,1.0,240000
+2045,Nairobi,Lavington,0.0,1.0,1.0,45000
+2046,Westlands,Westlands Area,4.0,4.0,1.0,310000
+2047,Westlands,Westlands Area,2.0,2.0,1.0,90000
+2048,Nairobi,Kilimani,2.0,3.0,1.0,170000
+2049,Kiambu County,Ruaka,2.0,,1.0,27000
+2050,Nairobi,Kilimani,2.0,,1.0,170000
+2051,Westlands,Rhapta Road,2.0,3.0,1.0,150000
+2052,Kikuyu,Kikuyu Town,2.0,2.0,1.0,20000
+2053,Nairobi,Kilimani,2.0,2.0,0.0,250000
+2054,Westlands,Brookside,2.0,2.0,1.0,160000
+2055,Nairobi,Kilimani,2.0,3.0,1.0,80000
+2056,Nairobi,Lavington,1.0,1.0,1.0,25000
+2057,Nairobi,Kasarani,1.0,1.0,1.0,21000
+2058,Nyali,Nyali Area,3.0,3.0,1.0,220000
+2059,Nyali,Mkomani,3.0,4.0,1.0,200000
+2060,Nairobi,Lavington,3.0,3.0,1.0,140000
+2061,Nairobi,Kilimani,3.0,2.0,0.0,120000
+2062,Westlands,Westlands Area,2.0,2.0,0.0,150000
+2063,Westlands,Rhapta Road,3.0,3.0,1.0,220000
+2064,Westlands,Westlands Area,2.0,2.0,1.0,not
+2065,Nairobi,Kileleshwa,3.0,,0.0,150000
+2066,Nairobi,Lavington,4.0,4.0,1.0,180000
+2067,Nairobi,Kilimani,2.0,2.0,1.0,180000
+2068,Nairobi,Kilimani,2.0,2.0,1.0,170000
+2069,Westlands,Brookside,4.0,4.0,1.0,150000
+2070,Nairobi,Kilimani,2.0,3.0,1.0,80000
+2071,Nairobi,Lavington,1.0,1.0,1.0,60000
+2072,Westlands,Westlands Area,1.0,2.0,1.0,160000
+2073,Westlands,Riverside,2.0,2.0,1.0,120000
+2074,Westlands,Parklands,3.0,3.0,1.0,300000
+2075,Kiambu County,Ruaka,2.0,2.0,1.0,40000
+2076,Westlands,Riverside,4.0,5.0,1.0,300000
+2077,Westlands,Brookside,3.0,3.0,1.0,250000
+2078,Nairobi,Kilimani,1.0,1.0,1.0,100000
+2079,Nairobi,Kilimani,3.0,2.0,1.0,110000
+2080,Nairobi,Kileleshwa,2.0,2.0,1.0,150000
+2081,Westlands,Westlands Area,2.0,2.0,1.0,200000
+2082,Westlands,Westlands Area,4.0,5.0,1.0,160000
+2083,Westlands,Karura,0.0,1.0,1.0,65000
+2084,Nairobi,Kilimani,2.0,,1.0,220000
+2085,Westlands,Riverside,3.0,3.0,1.0,350000
+2086,Westlands,Riverside,3.0,3.0,1.0,300000
+2087,Nairobi,Lavington,1.0,1.0,0.0,70000
+2088,Westlands,Parklands,1.0,2.0,0.0,120000
+2089,Nairobi,Lavington,4.0,,1.0,250000
+2090,Nairobi,Kileleshwa,3.0,3.0,1.0,85000
+2091,Nyali,Nyali Area,3.0,3.0,1.0,60000
+2092,Nyali,Nyali Area,3.0,3.0,1.0,90000
+2093,Nyali,Nyali Area,3.0,3.0,1.0,70000
+2094,Westlands,General Mathenge,3.0,,1.0,280000
+2095,Nairobi,Kilimani,2.0,3.0,1.0,170000
+2096,Nairobi,Kilimani,0.0,1.0,1.0,5500
+2097,Nairobi,Kileleshwa,3.0,4.0,1.0,250000
+2098,Nairobi,Thika Road,2.0,2.0,1.0,89000
+2099,Westlands,General Mathenge,2.0,3.0,1.0,180000
+2100,Nyali,Nyali Area,3.0,4.0,1.0,120000
+2101,Westlands,Westlands Area,1.0,1.0,1.0,75000
+2102,Westlands,General Mathenge,4.0,5.0,1.0,450000
+2103,Nairobi,Kileleshwa,2.0,2.0,0.0,170000
+2104,Westlands,Parklands,2.0,2.0,1.0,200000
+2105,Nairobi,Lavington,1.0,1.0,1.0,120000
+2106,Nairobi,Lavington,3.0,3.0,1.0,170000
+2107,Roysambu,Kahawa West,2.0,2.0,0.0,35000
+2108,Mombasa Island,Tudor,2.0,2.0,1.0,150000
+2109,Nairobi,Kilimani,5.0,5.0,1.0,200000
+2110,Westlands,Riverside,1.0,1.0,1.0,130000
+2111,Nairobi,Kawangware,1.0,1.0,1.0,15000
+2112,Westlands,Westlands Area,3.0,3.0,0.0,100000
+2113,Nairobi,Kilimani,2.0,,1.0,140000
+2114,Westlands,Waiyaki Way,3.0,2.0,1.0,65000
+2115,Nairobi,Kilimani,2.0,2.0,1.0,145000
+2116,Westlands,Westlands Area,2.0,3.0,1.0,150000
+2117,Westlands,Runda,1.0,1.0,1.0,150000
+2118,Westlands,Riverside,1.0,1.0,1.0,160000
+2119,Nairobi,Kileleshwa,3.0,4.0,1.0,115000
+2120,Nairobi,Thika Road,2.0,2.0,1.0,160000
+2121,Nairobi,Kilimani,3.0,4.0,0.0,210000
+2122,Nyali,Nyali Area,0.0,1.0,1.0,3500
+2123,Nairobi,Kileleshwa,3.0,3.0,1.0,130000
+2124,Nyali,Nyali Area,4.0,4.0,1.0,150000
+2125,Nairobi,Kiambu Road,3.0,2.0,1.0,75000
+2126,Nairobi,Kileleshwa,3.0,3.0,1.0,75000
+2127,Nairobi,Kileleshwa,3.0,3.0,1.0,185000
+2128,Nyali,Nyali Area,3.0,4.0,1.0,200000
+2129,Nairobi,Kileleshwa,3.0,3.0,1.0,85000
+2130,Westlands,Kitisuru,2.0,,1.0,190000
+2131,Nyali,Nyali Area,3.0,4.0,1.0,110000
+2132,Nairobi,Kilimani,3.0,4.0,1.0,100000
+2133,Westlands,Parklands,3.0,3.0,1.0,130000
+2134,Westlands,Westlands Area,1.0,1.0,1.0,120000
+2135,Westlands,Brookside,3.0,3.0,1.0,300000
+2136,Nairobi,Kilimani,3.0,2.0,1.0,90000
+2137,Nairobi,Kileleshwa,2.0,2.0,1.0,65000
+2138,Roysambu,Garden Estate,1.0,1.0,1.0,3000
+2139,Westlands,Nyari,2.0,2.0,1.0,170000
+2140,Nairobi,Thika Road,3.0,3.0,0.0,200000
+2141,Kiambu County,Ruaka,1.0,,1.0,25000
+2142,Nairobi,Kileleshwa,3.0,3.0,0.0,115000
+2143,Westlands,Brookside,2.0,2.0,1.0,100000
+2144,Westlands,Westlands Area,3.0,2.0,1.0,150000
+2145,Westlands,Parklands,2.0,2.0,1.0,170000
+2146,Nairobi,Lavington,3.0,3.0,1.0,85000
+2147,Nyali,Nyali Area,3.0,2.0,1.0,65000
+2148,Nairobi,Lavington,2.0,3.0,1.0,70000
+2149,Nairobi,South C,1.0,1.0,1.0,120000
+2150,Westlands,General Mathenge,3.0,5.0,1.0,280000
+2151,Nyali,Nyali Area,3.0,4.0,1.0,95000
+2152,Westlands,Brookside,3.0,4.0,1.0,135000
+2153,Westlands,Rhapta Road,1.0,1.0,1.0,120000
+2154,Nairobi,Kilimani,2.0,3.0,1.0,180000
+2155,Nairobi,Lavington,4.0,4.0,1.0,190000
+2156,Nairobi,Kileleshwa,2.0,,1.0,150000
+2157,Nairobi,Muthaiga,2.0,2.0,1.0,150000
+2158,Westlands,Rhapta Road,2.0,3.0,1.0,220000
+2159,Nairobi,Kilimani,2.0,2.0,1.0,140000
+2160,Nairobi,Upper Hill,3.0,2.0,0.0,150000
+2161,Westlands,Riverside,3.0,3.0,1.0,130000
+2162,Nairobi,Karen Hardy,3.0,4.0,1.0,150000
+2163,Kajiado County,Ongata Rongai,1.0,1.0,0.0,15000
+2164,Westlands,Westlands Area,2.0,3.0,1.0,160000
+2165,Nairobi,Naivasha Road,3.0,3.0,1.0,70000
+2166,Westlands,Westlands Area,3.0,3.0,1.0,350000
+2167,Nairobi,Kilimani,2.0,,1.0,150000
+2168,Westlands,Nyari,3.0,3.0,1.0,420000
+2169,Nairobi,Lavington,3.0,3.0,1.0,70000
+2170,Nyali,Nyali Area,4.0,5.0,1.0,165000
+2171,Westlands,Westlands Area,2.0,2.0,1.0,100000
+2172,Nairobi,Kilimani,3.0,3.0,1.0,350000
+2173,Nyali,Nyali Area,3.0,4.0,1.0,88000
+2174,Westlands,Riverside,4.0,5.0,1.0,not
+2175,Nairobi,Kileleshwa,2.0,2.0,1.0,140000
+2176,Nyali,Nyali Area,3.0,3.0,1.0,200000
+2177,Nairobi,Kilimani,2.0,2.0,1.0,140000
+2178,Nyali,Nyali Area,3.0,4.0,1.0,135000
+2179,Westlands,Riverside,3.0,4.0,1.0,280000
+2180,Nairobi,Kilimani,3.0,3.0,1.0,180000
+2181,Nairobi,Kilimani,3.0,4.0,1.0,130000
+2182,Nairobi,Karen,1.0,1.0,0.0,47000
+2183,Nairobi,Kilimani,1.0,1.0,1.0,120000
+2184,Nairobi,Kileleshwa,1.0,1.0,1.0,110000
+2185,Westlands,Waiyaki Way,2.0,2.0,1.0,55000
+2186,Kajiado County,Ongata Rongai,3.0,2.0,1.0,40000
+2187,Nairobi,Muthaiga,3.0,4.0,1.0,250000
+2188,Nairobi,Lavington,4.0,4.0,1.0,270000
+2189,Nyali,Nyali Area,3.0,4.0,1.0,20000
+2190,Nairobi,Lavington,5.0,5.0,1.0,290000
+2191,Nairobi,Muthaiga,3.0,3.0,0.0,583000
+2192,Westlands,Westlands Area,1.0,1.0,1.0,95000
+2193,Nairobi,Kileleshwa,3.0,3.0,1.0,90000
+2194,Nairobi,Kilimani,3.0,4.0,1.0,120000
+2195,Nairobi,Lavington,2.0,2.0,1.0,170000
+2196,Nairobi,Lavington,3.0,4.0,1.0,85000
+2197,Westlands,Riverside,3.0,3.0,1.0,300000
+2198,Nairobi,Kilimani,3.0,4.0,1.0,200000
+2199,Westlands,Spring Valley,3.0,3.0,1.0,350000
+2200,Westlands,Parklands,3.0,3.0,1.0,230000
+2201,Ruiru,Tatu City,2.0,2.0,0.0,52500
+2202,Nairobi,Kileleshwa,2.0,2.0,1.0,75000
+2203,Westlands,Parklands,4.0,3.0,1.0,90000
+2204,Nairobi,Nairobi CBD,1.0,1.0,1.0,45000
+2205,Westlands,Westlands Area,2.0,3.0,1.0,195000
+2206,Westlands,Thigiri,2.0,2.0,1.0,300000
+2207,Nairobi,Kasarani,2.0,,,20000
+2208,Kiambu County,Ruaka,1.0,2.0,1.0,28000
+2209,Nairobi,Kilimani,3.0,3.0,1.0,364000
+2210,Roysambu,Garden Estate,3.0,3.0,1.0,80000
+2211,Westlands,Riverside,2.0,,0.0,200000
+2212,Nairobi,Kilimani,3.0,2.0,1.0,95000
+2213,Westlands,Parklands,2.0,2.0,1.0,220000
+2214,Westlands,Kitisuru,3.0,3.0,1.0,320000
+2215,Westlands,Riverside,4.0,4.0,0.0,170000
+2216,Westlands,Kitisuru,2.0,2.0,1.0,248115
+2217,Westlands,Westlands Area,2.0,2.0,1.0,140000
+2218,Westlands,Westlands Area,1.0,1.0,0.0,233000
+2219,Nairobi,Lavington,2.0,1.0,0.0,150000
+2220,Westlands,Westlands Area,3.0,3.0,0.0,155000
+2221,Nairobi,Kileleshwa,1.0,1.0,1.0,80000
+2222,Westlands,Parklands,2.0,2.0,1.0,160000
+2223,Westlands,Riverside,4.0,4.0,1.0,200000
+2224,Nyali,Nyali Area,3.0,4.0,1.0,100000
+2225,Nairobi,Lavington,2.0,3.0,1.0,180000
+2226,Nairobi,Kilimani,3.0,3.0,1.0,75000
+2227,Westlands,Lower Kabete,3.0,4.0,1.0,350000
+2228,Nairobi,Kileleshwa,3.0,4.0,1.0,120000
+2229,Westlands,Karura,3.0,4.0,1.0,310000
+2230,Westlands,Westlands Area,3.0,3.0,1.0,330000
+2231,Westlands,Westlands Area,2.0,2.0,1.0,250000
+2232,Westlands,Riverside,3.0,3.0,0.0,180000
+2233,Westlands,Westlands Area,3.0,3.0,1.0,320000
+2234,Westlands,Spring Valley,3.0,3.0,1.0,360000
+2235,Nyali,Nyali Area,3.0,4.0,1.0,100000
+2236,Nairobi,Kilimani,1.0,2.0,1.0,160000
+2237,Nyali,Nyali Area,3.0,4.0,0.0,185000
+2238,Westlands,Gigiri,2.0,,0.0,320000
+2239,Nairobi,South B,1.0,1.0,1.0,26000
+2240,Nyali,Nyali Area,3.0,3.0,1.0,120000
+2241,Nyali,Nyali Area,3.0,5.0,1.0,110000
+2242,Nairobi,Kilimani,3.0,4.0,1.0,140000
+2243,Nairobi,Kilimani,3.0,3.0,1.0,150000
+2244,Nairobi,Imara Daima,3.0,4.0,1.0,50000
+2245,Nairobi,Lavington,2.0,3.0,1.0,75000
+2246,Westlands,Westlands Area,2.0,2.0,1.0,not
+2247,Nyali,Nyali Area,2.0,3.0,1.0,140000
+2248,Westlands,Riverside,2.0,2.0,1.0,140000
+2249,Nairobi,Kilimani,3.0,4.0,1.0,150000
+2250,Nairobi,Lavington,4.0,5.0,1.0,110000
+2251,Nyali,Mkomani,4.0,4.0,1.0,150000
+2252,Nairobi,Kilimani,2.0,2.0,0.0,120000
+2253,Nairobi,Lavington,3.0,3.0,1.0,115000
+2254,Westlands,Parklands,1.0,,0.0,350000
+2255,Westlands,Riverside,1.0,1.0,1.0,150000
+2256,Kilifi County,Mtwapa,1.0,1.0,1.0,5000
+2257,Nairobi,Kileleshwa,2.0,2.0,1.0,120000
+2258,Westlands,Westlands Area,4.0,4.0,1.0,400000
+2259,Nairobi,Kileleshwa,3.0,3.0,1.0,200000
+2260,Westlands,Westlands Area,2.0,2.0,1.0,not
+2261,Nyali,Nyali Area,2.0,2.0,1.0,45000
+2262,Nairobi,Kileleshwa,3.0,3.0,1.0,200000
+2263,Nairobi,Lavington,3.0,3.0,1.0,280000
+2264,Roysambu,Kahawa,4.0,2.0,1.0,56500
+2265,Westlands,Westlands Area,1.0,1.0,1.0,160000
+2266,Nairobi,Lavington,2.0,2.0,1.0,75000
+2267,Westlands,General Mathenge,4.0,4.0,1.0,165000
+2268,Westlands,Brookside,3.0,4.0,1.0,95000
+2269,Nyali,Nyali Area,4.0,4.0,1.0,75000
+2270,Nairobi,Valley Arcade,3.0,3.0,1.0,200000
+2271,Nairobi,Kiambu Road,3.0,,0.0,50000
+2272,Westlands,Westlands Area,2.0,3.0,1.0,110000
+2273,Nairobi,Kilimani,1.0,1.0,0.0,80000
+2274,Westlands,Riverside,3.0,4.0,1.0,280000
+2275,Westlands,Riverside,1.0,1.0,1.0,140000
+2276,Westlands,Westlands Area,2.0,2.0,1.0,140000
+2277,Westlands,Westlands Area,2.0,,1.0,150000
+2278,Nairobi,Kilimani,3.0,3.0,1.0,250000
+2279,Nairobi,Naivasha Road,3.0,2.0,1.0,50000
+2280,Westlands,Riverside,3.0,4.0,1.0,300000
+2281,Westlands,Rhapta Road,3.0,3.0,1.0,120000
+2282,Nairobi,Lavington,3.0,,,75000
+2283,Westlands,Westlands Area,4.0,4.0,1.0,480000
+2284,Nairobi,Lavington,4.0,3.0,1.0,160000
+2285,Westlands,Spring Valley,3.0,3.0,1.0,300000
+2286,Nyali,Nyali Area,2.0,3.0,1.0,65000
+2287,Nairobi,Utawala,2.0,2.0,1.0,26000
+2288,Nyali,Mkomani,2.0,1.0,1.0,50000
+2289,Westlands,Karura,2.0,2.0,1.0,150000
+2290,Nairobi,Kileleshwa,3.0,2.0,0.0,85000
+2291,Nairobi,Kileleshwa,2.0,3.0,1.0,80000
+2292,Kilifi County,Mtwapa,2.0,,1.0,35000
+2293,Westlands,Spring Valley,3.0,3.0,0.0,365000
+2294,Westlands,Westlands Area,2.0,,0.0,174000
+2295,Nairobi,Kilimani,4.0,4.0,0.0,110000
+2296,Westlands,Westlands Area,4.0,4.0,1.0,150000
+2297,Nairobi,Kilimani,3.0,3.0,1.0,200000
+2298,Kiambu County,Kiambu Town,1.0,1.0,,12000
+2299,Westlands,General Mathenge,2.0,2.0,0.0,180000
+2300,Nairobi,Kileleshwa,3.0,3.0,1.0,90000
+2301,Nairobi,Kilimani,2.0,3.0,1.0,220000
+2302,Nairobi,Kileleshwa,3.0,3.0,1.0,95000
+2303,Nairobi,Lavington,3.0,2.0,1.0,75000
+2304,Westlands,Parklands,4.0,4.0,1.0,160000
+2305,Westlands,Rhapta Road,2.0,3.0,1.0,200000
+2306,Nairobi,Kilimani,1.0,2.0,1.0,60000
+2307,Nairobi,Kilimani,3.0,3.0,1.0,95000
+2308,Nairobi,Kileleshwa,3.0,3.0,1.0,85000
+2309,Nairobi,Kilimani,2.0,2.0,1.0,95000
+2310,Westlands,Riverside,2.0,1.0,0.0,170000
+2311,Westlands,Brookside,3.0,3.0,1.0,260000
+2312,Westlands,Brookside,2.0,2.0,1.0,140000
+2313,Mombasa,Bamburi,1.0,1.0,1.0,18000
+2314,Nairobi,Lavington,3.0,2.0,1.0,90000
+2315,Westlands,Westlands Area,2.0,3.0,1.0,200000
+2316,Nairobi,Kileleshwa,3.0,3.0,1.0,200000
+2317,Mombasa Island,Mombasa CBD,3.0,4.0,0.0,20000
+2318,Westlands,Riverside,0.0,1.0,1.0,22000
+2319,Westlands,Riverside,3.0,3.0,0.0,235000
+2320,Nyali,Nyali Area,2.0,2.0,1.0,90000
+2321,Westlands,Westlands Area,0.0,1.0,1.0,150000
+2322,Kiambu County,Ruaka,3.0,3.0,1.0,40000
+2323,Westlands,General Mathenge,3.0,4.0,1.0,120000
+2324,Westlands,Rhapta Road,1.0,1.0,1.0,170000
+2325,Westlands,Riverside,3.0,3.0,1.0,290000
+2326,Nairobi,Lavington,4.0,3.0,1.0,75000
+2327,Westlands,Westlands Area,3.0,3.0,0.0,165000
+2328,Westlands,Rosslyn,4.0,4.0,1.0,300000
+2329,Nyali,Nyali Area,3.0,4.0,1.0,300000
+2330,Westlands,Rhapta Road,2.0,2.0,1.0,70000
+2331,Nairobi,Lavington,8.0,9.0,1.0,160000
+2332,Westlands,Brookside,3.0,3.0,1.0,140000
+2333,Nairobi,Kilimani,3.0,4.0,1.0,130000
+2334,Nairobi,Kileleshwa,3.0,4.0,1.0,210000
+2335,Westlands,Westlands Area,1.0,1.0,,100000
+2336,Roysambu,Garden Estate,2.0,2.0,1.0,70000
+2337,Westlands,Westlands Area,1.0,1.0,1.0,160000
+2338,Nairobi,Lavington,3.0,3.0,1.0,170000
+2339,Westlands,Westlands Area,2.0,2.0,1.0,100000
+2340,Westlands,Westlands Area,2.0,3.0,1.0,95000
+2341,Nyali,Nyali Area,3.0,3.0,1.0,75000
+2342,Nairobi,Kileleshwa,4.0,4.0,1.0,140000
+2343,Nairobi,Kileleshwa,3.0,3.0,1.0,110000
+2344,Westlands,Spring Valley,3.0,3.0,1.0,300000
+2345,Nairobi,Kileleshwa,4.0,4.0,1.0,140000
+2346,Nairobi,Naivasha Road,2.0,2.0,0.0,45000
+2347,Westlands,Westlands Area,2.0,2.0,1.0,12000
+2348,Westlands,Brookside,2.0,3.0,1.0,230000
+2349,Westlands,Westlands Area,2.0,3.0,1.0,280000
+2350,Nairobi,Ruaraka,4.0,4.0,1.0,80000
+2351,Westlands,Riverside,3.0,3.0,1.0,110000
+2352,Nairobi,Kileleshwa,4.0,5.0,1.0,380000
+2353,Nyali,Nyali Area,4.0,,1.0,250000
+2354,Westlands,Parklands,3.0,3.0,1.0,180000
+2355,Westlands,Riverside,3.0,4.0,1.0,200000
+2356,Nairobi,Kilimani,1.0,1.0,0.0,80000
+2357,Nairobi,Kilimani,3.0,3.0,1.0,80000
+2358,Westlands,Parklands,3.0,3.0,1.0,325000
+2359,Westlands,Rhapta Road,3.0,3.0,0.0,90000
+2360,Westlands,Riverside,3.0,4.0,1.0,120000
+2361,Westlands,General Mathenge,3.0,3.0,1.0,150000
+2362,Nairobi,Kilimani,2.0,3.0,1.0,160000
+2363,Westlands,Riverside,3.0,3.0,1.0,130000
+2364,Westlands,Parklands,2.0,2.0,1.0,250000
+2365,Westlands,Kitisuru,2.0,2.0,1.0,240000
+2366,Westlands,General Mathenge,3.0,3.0,1.0,280000
+2367,Nyali,Nyali Area,4.0,5.0,1.0,230000
+2368,Nairobi,Kileleshwa,3.0,4.0,1.0,120000
+2369,Westlands,General Mathenge,4.0,4.0,1.0,170000
+2370,Westlands,Rhapta Road,3.0,3.0,1.0,120000
+2371,Nyali,Nyali Area,3.0,4.0,1.0,110000
+2372,Westlands,Parklands,3.0,4.0,1.0,120000
+2373,Nairobi,Kilimani,1.0,2.0,1.0,7000
+2374,Westlands,Gigiri,3.0,4.0,1.0,150000
+2375,Nairobi,Kileleshwa,4.0,5.0,1.0,150000
+2376,Westlands,Runda,1.0,1.0,1.0,75000
+2377,Westlands,Rhapta Road,3.0,3.0,1.0,150000
+2378,Westlands,Riverside,3.0,4.0,1.0,180000
+2379,Westlands,Loresho,3.0,3.0,1.0,80000
+2380,Westlands,Westlands Area,1.0,1.0,1.0,150000
+2381,Westlands,Rhapta Road,3.0,3.0,1.0,140000
+2382,Nairobi,Uthiru,2.0,2.0,1.0,38000
+2383,Nairobi,Kilimani,2.0,,1.0,70000
+2384,Nairobi,Thika Road,1.0,2.0,1.0,70000
+2385,Westlands,Lower Kabete,2.0,,0.0,280000
+2386,Westlands,Riverside,3.0,3.0,1.0,150000
+2387,Westlands,Riverside,4.0,5.0,1.0,140000
+2388,Nyali,Nyali Area,3.0,3.0,1.0,120000
+2389,Nairobi,Kileleshwa,3.0,4.0,1.0,110000
+2390,Westlands,Westlands Area,1.0,,1.0,100000
+2391,Westlands,Riverside,3.0,4.0,1.0,130000
+2392,Nairobi,Ngong Road,1.0,1.0,1.0,45000
+2393,Westlands,Westlands Area,3.0,3.0,1.0,200000
+2394,Westlands,Westlands Area,2.0,2.0,1.0,1700
+2395,Nairobi,Kilimani,3.0,3.0,1.0,170000
+2396,Nairobi,Kilimani,0.0,1.0,1.0,90000
+2397,Nyali,Nyali Area,4.0,4.0,1.0,250000
+2398,Westlands,Westlands Area,3.0,3.0,1.0,300000
+2399,Nairobi,Kileleshwa,2.0,2.0,1.0,80000
+2400,Nairobi,Kileleshwa,3.0,4.0,1.0,150000
+2401,Nairobi,Kilimani,3.0,4.0,1.0,280000
+2402,Westlands,Nyari,2.0,2.0,1.0,290000
+2403,Nairobi,Thika Road,2.0,2.0,0.0,85000
+2404,Nairobi,Naivasha Road,1.0,1.0,1.0,40000
+2405,Nairobi,Lavington,3.0,4.0,1.0,120000
+2406,Westlands,Brookside,2.0,3.0,1.0,222000
+2407,Ruiru,Tatu City,2.0,2.0,1.0,40000
+2408,Westlands,Westlands Area,2.0,2.0,1.0,100000
+2409,Westlands,Rhapta Road,1.0,1.0,1.0,150000
+2410,Westlands,Westlands Area,3.0,,0.0,90000
+2411,Westlands,General Mathenge,2.0,3.0,1.0,250000
+2412,Westlands,General Mathenge,3.0,3.0,1.0,270000
+2413,Kiambu County,Ruaka,1.0,1.0,,27000
+2414,Nairobi,Madaraka,3.0,,0.0,60000
+2415,Westlands,Riverside,4.0,5.0,0.0,453000
+2416,Westlands,Riverside,2.0,2.0,1.0,170000
+2417,Nairobi,Kilimani,4.0,3.0,1.0,150000
+2418,Westlands,Kitisuru,2.0,3.0,1.0,170000
+2419,Kiambu County,Ruaka,2.0,2.0,1.0,40000
+2420,Nyali,Nyali Area,2.0,3.0,1.0,150000
+2421,Nairobi,Kileleshwa,2.0,2.0,1.0,55000
+2422,Nairobi,Kilimani,3.0,3.0,1.0,195000
+2423,Nairobi,Kileleshwa,3.0,3.0,1.0,130000
+2424,Nairobi,Kilimani,2.0,2.0,0.0,150000
+2425,Westlands,General Mathenge,3.0,3.0,1.0,150000
+2426,Westlands,Spring Valley,4.0,5.0,1.0,400000
+2427,Westlands,Westlands Area,2.0,2.0,1.0,230000
+2428,Nairobi,Kileleshwa,5.0,5.0,1.0,150000
+2429,Nairobi,Riara Road,4.0,4.0,1.0,120000
+2430,Nyali,Nyali Area,3.0,3.0,1.0,80000
+2431,Westlands,Westlands Area,2.0,,0.0,150000
+2432,Westlands,Westlands Area,1.0,1.0,0.0,125000
+2433,Nairobi,Kileleshwa,4.0,2.0,1.0,90000
+2434,Nairobi,Riara Road,3.0,3.0,1.0,180000
+2435,Nairobi,Thika Road,3.0,3.0,0.0,220000
+2436,Nairobi,Lavington,1.0,1.0,1.0,150000
+2437,Nairobi,Kileleshwa,3.0,3.0,1.0,75000
+2438,Nairobi,Kileleshwa,4.0,5.0,1.0,300000
+2439,Nairobi,Kileleshwa,4.0,4.0,1.0,145000
+2440,Nairobi,Lavington,7.0,7.0,1.0,300000
+2441,Westlands,Westlands Area,2.0,2.0,1.0,110000
+2442,Kiambu County,Thindigua,3.0,2.0,0.0,50000
+2443,Nairobi,Thika Road,3.0,2.0,0.0,104000
+2444,Westlands,Riverside,3.0,,0.0,190000
+2445,Westlands,Riverside,3.0,4.0,1.0,160000
+2446,Westlands,Nyari,1.0,1.0,1.0,120000
+2447,Mombasa,Shanzu,2.0,4.0,1.0,15000
+2448,Westlands,Kitisuru,2.0,2.0,1.0,230000
+2449,Westlands,Riverside,4.0,4.0,1.0,not
+2450,Nairobi,Kileleshwa,1.0,1.0,1.0,72000
+2451,Nairobi,Kilimani,3.0,3.0,1.0,120000
+2452,Nairobi,Kiambu Road,2.0,2.0,1.0,56600
+2453,Nairobi,Lavington,2.0,2.0,1.0,65000
+2454,Nairobi,Kilimani,2.0,2.0,1.0,100000
+2455,Nairobi,Kileleshwa,3.0,4.0,1.0,240000
+2456,Nairobi,Kileleshwa,3.0,4.0,1.0,200000
+2457,Nairobi,Kileleshwa,4.0,3.0,0.0,160000
+2458,Nairobi,Lavington,3.0,3.0,1.0,145000
+2459,Nairobi,Kilimani,2.0,3.0,1.0,140000
+2460,Nairobi,Lavington,3.0,2.0,1.0,100000
+2461,Nairobi,Kileleshwa,2.0,2.0,1.0,85000
+2462,Westlands,Rhapta Road,3.0,4.0,1.0,140000
+2463,Nairobi,Kileleshwa,3.0,2.0,1.0,85000
+2464,Machakos County,Athi River,2.0,2.0,0.0,23000
+2465,Westlands,Parklands,2.0,2.0,1.0,58000
+2466,Westlands,Westlands Area,3.0,2.0,1.0,120000
+2467,Kiambu County,Ruaka,2.0,2.0,1.0,35000
+2468,Westlands,Westlands Area,2.0,2.0,1.0,115000
+2469,Nairobi,Lavington,3.0,,1.0,120000
+2470,Westlands,Westlands Area,3.0,3.0,1.0,130000
+2471,Nyali,Kongowea,3.0,3.0,1.0,110000
+2472,Nairobi,Lavington,1.0,2.0,1.0,60000
+2473,Westlands,Westlands Area,1.0,2.0,0.0,130000
+2474,Kiambu County,Kabete,2.0,2.0,1.0,28000
+2475,Nairobi,Kilimani,2.0,2.0,1.0,95000
+2476,Nairobi,Kilimani,4.0,4.0,1.0,130000
+2477,Nairobi,Kilimani,3.0,3.0,1.0,100000
+2478,Westlands,Kitisuru,2.0,2.0,1.0,170000
+2479,Nairobi,Kilimani,2.0,2.0,0.0,250000
+2480,Nairobi,Kileleshwa,3.0,4.0,1.0,150000
+2481,Westlands,Westlands Area,2.0,2.0,1.0,110000
+2482,Westlands,Riverside,3.0,3.0,1.0,200000
+2483,Westlands,Westlands Area,2.0,2.0,0.0,219000
+2484,Nairobi,Kilimani,0.0,1.0,1.0,2500
+2485,Westlands,Westlands Area,3.0,3.0,1.0,350000
+2486,Westlands,Runda,2.0,2.0,1.0,not
+2487,Westlands,Rhapta Road,3.0,3.0,1.0,125000
+2488,Kiambu County,Ruaka,2.0,2.0,1.0,100000
+2489,Nairobi,Kilimani,3.0,2.0,1.0,100000
+2490,Nairobi,Lavington,2.0,,1.0,170000
+2491,Nairobi,Lavington,2.0,2.0,1.0,140000
+2492,Westlands,General Mathenge,3.0,3.0,1.0,135000
+2493,Westlands,Westlands Area,3.0,3.0,1.0,160000
+2494,Nairobi,Kileleshwa,0.0,1.0,0.0,40000
+2495,Nairobi,Kilimani,2.0,2.0,1.0,78000
+2496,Westlands,Riverside,3.0,3.0,1.0,140000
+2497,Westlands,Westlands Area,2.0,2.0,1.0,240000
+2498,Nairobi,Kileleshwa,4.0,4.0,1.0,95000
+2499,Nairobi,Kiambu Road,3.0,2.0,1.0,70000
+2500,Nairobi,Kileleshwa,3.0,2.0,1.0,90000
+2501,Westlands,Spring Valley,2.0,2.0,1.0,240000
+2502,Westlands,Loresho,4.0,3.0,1.0,65000
+2503,Nairobi,Kileleshwa,2.0,2.0,1.0,220000
+2504,Nairobi,State House,3.0,2.0,1.0,120000
+2505,Westlands,Riverside,3.0,4.0,1.0,200000
+2506,Nairobi,Lavington,3.0,3.0,1.0,120000
+2507,Nairobi,Kileleshwa,3.0,3.0,0.0,70000
+2508,Nairobi,Thika Road,4.0,3.0,0.0,80000
+2509,Nairobi,Hurlingham,3.0,3.0,1.0,180000
+2510,Nairobi,Kiambu Road,2.0,2.0,1.0,55000
+2511,Nairobi,Kilimani,2.0,2.0,1.0,65000
+2512,Westlands,Westlands Area,1.0,1.0,1.0,110000
+2513,Kiambu County,Kabete,2.0,1.0,0.0,23000
+2514,Westlands,Karura,3.0,4.0,1.0,295000
+2515,Nairobi,Ridgeways,2.0,2.0,0.0,130000
+2516,Westlands,Spring Valley,2.0,2.0,1.0,250000
+2517,Westlands,Rhapta Road,2.0,2.0,1.0,100000
+2518,Westlands,Westlands Area,2.0,3.0,1.0,250000
+2519,Nairobi,Kileleshwa,4.0,4.0,1.0,150000
+2520,Westlands,Riverside,3.0,3.0,1.0,260000
+2521,Nyali,Nyali Area,3.0,4.0,1.0,300000
+2522,Westlands,Riverside,4.0,4.0,1.0,300000
+2523,Nairobi,Lavington,3.0,3.0,1.0,290000
+2524,Nyali,Mkomani,2.0,3.0,1.0,55000
+2525,Nairobi,Lavington,3.0,4.0,1.0,140000
+2526,Westlands,General Mathenge,3.0,4.0,0.0,140000
+2527,Nairobi,Kileleshwa,2.0,2.0,1.0,80000
+2528,Nairobi,Ruaraka,1.0,2.0,1.0,64000
+2529,Nairobi,Kileleshwa,2.0,3.0,1.0,140000
+2530,Nairobi,Kilimani,3.0,3.0,1.0,120000
+2531,Nairobi,Lavington,3.0,2.0,1.0,80000
+2532,Westlands,Waiyaki Way,3.0,2.0,1.0,60000
+2533,Kilifi County,Mtwapa,2.0,2.0,1.0,65000
+2534,Nairobi,Kilimani,2.0,2.0,1.0,170000
+2535,Westlands,Parklands,3.0,3.0,0.0,250000
+2536,Westlands,Parklands,4.0,4.0,1.0,135000
+2537,Nairobi,Kilimani,3.0,4.0,1.0,80000
+2538,Westlands,General Mathenge,3.0,3.0,1.0,170000
+2539,Nairobi,Kibera,2.0,1.0,0.0,7500
+2540,Westlands,Rhapta Road,2.0,2.0,1.0,110000
+2541,Westlands,Westlands Area,2.0,2.0,1.0,200000
+2542,Nyali,Nyali Area,2.0,2.0,1.0,12000
+2543,Westlands,Riverside,2.0,2.0,1.0,80000
+2544,Westlands,Westlands Area,1.0,1.0,1.0,90000
+2545,Nairobi,Kileleshwa,2.0,2.0,1.0,not
+2546,Westlands,Rhapta Road,2.0,2.0,1.0,130000
+2547,Kilifi County,Vipingo,2.0,2.0,1.0,80000
+2548,Kilifi County,Mtwapa,3.0,3.0,1.0,90000
+2549,Westlands,Riverside,3.0,3.0,1.0,100000
+2550,Westlands,Riverside,3.0,4.0,1.0,300000
+2551,Nairobi,Karen,2.0,2.0,1.0,120000
+2552,Westlands,Westlands Area,4.0,4.0,1.0,160000
+2553,Kiambu County,Ruaka,2.0,2.0,1.0,32000
+2554,Westlands,Riverside,1.0,2.0,0.0,90000
+2555,Westlands,Kitisuru,2.0,2.0,1.0,220000
+2556,Westlands,Parklands,3.0,3.0,1.0,135000
+2557,Nairobi,Kilimani,2.0,3.0,1.0,90000
+2558,Nairobi,Muthaiga,3.0,3.0,1.0,200000
+2559,Nairobi,Thika Road,2.0,2.0,1.0,79000
+2560,Nyali,Nyali Area,3.0,3.0,1.0,110000
+2561,Nairobi,Kileleshwa,4.0,4.0,1.0,120000
+2562,Ruiru,Tatu City,2.0,2.0,1.0,7000
+2563,Nairobi,Kilimani,1.0,2.0,1.0,130000
+2564,Kiambu County,Ruaka,2.0,2.0,1.0,50000
+2565,Nyali,Nyali Area,3.0,4.0,1.0,120000
+2566,Nairobi,Ngong Road,3.0,4.0,0.0,100000
+2567,Westlands,Loresho,3.0,4.0,1.0,75000
+2568,Nairobi,Kileleshwa,3.0,3.0,0.0,175000
+2569,Westlands,Riverside,3.0,4.0,1.0,280000
+2570,Westlands,Westlands Area,3.0,3.0,1.0,140000
+2571,Nyali,Nyali Area,3.0,3.0,1.0,120000
+2572,Westlands,Westlands Area,2.0,2.0,1.0,170000
+2573,Westlands,Westlands Area,1.0,1.0,1.0,75000
+2574,Kiambu County,Ruiru,1.0,1.0,1.0,17000
+2575,Nairobi,Kilimani,2.0,2.0,1.0,250000
+2576,Westlands,Westlands Area,2.0,2.0,1.0,150000
+2577,Nairobi,Kilimani,3.0,4.0,0.0,260000
+2578,Westlands,Westlands Area,1.0,1.0,1.0,70000
+2579,Westlands,Riverside,4.0,4.0,1.0,130000
+2580,Westlands,Westlands Area,3.0,3.0,1.0,130000
+2581,Westlands,Rhapta Road,3.0,4.0,1.0,not
+2582,Westlands,Rhapta Road,1.0,1.0,0.0,90000
+2583,Kiambu County,Ruaka,3.0,2.0,1.0,60000
+2584,Westlands,Parklands,4.0,4.0,1.0,300000
+2585,Nairobi,Kilimani,2.0,2.0,0.0,180000
+2586,Nairobi,Kilimani,3.0,2.0,1.0,180000
+2587,Westlands,Westlands Area,2.0,2.0,1.0,215000
+2588,Westlands,General Mathenge,3.0,3.0,1.0,180000
+2589,Kiambu County,Ruaka,2.0,2.0,1.0,43500
+2590,Westlands,Lower Kabete,1.0,1.0,1.0,22000
+2591,Nairobi,Kilimani,3.0,3.0,1.0,200000
+2592,Kiambu County,Thika,2.0,2.0,1.0,33000
+2593,Westlands,Riverside,2.0,2.0,0.0,75000
+2594,Westlands,Westlands Area,1.0,,0.0,150000
+2595,Nairobi,Donholm,3.0,2.0,1.0,48000
+2596,Westlands,Westlands Area,1.0,1.0,0.0,45000
+2597,Nairobi,Kileleshwa,0.0,1.0,1.0,45000
+2598,Nyali,Nyali Area,4.0,3.0,1.0,260000
+2599,Nairobi,Muthaiga,3.0,3.0,1.0,95000
+2600,Westlands,Brookside,2.0,2.0,1.0,80000
+2601,Westlands,Westlands Area,2.0,2.0,1.0,250000
+2602,Nairobi,Kilimani,3.0,4.0,0.0,110000
+2603,Westlands,Rhapta Road,1.0,1.0,1.0,100000
+2604,Nairobi,Kibera,2.0,,0.0,20000
+2605,Westlands,Riverside,2.0,2.0,0.0,75000
+2606,Westlands,Riverside,2.0,3.0,0.0,75000
+2607,Nairobi,Kilimani,3.0,3.0,0.0,200000
+2608,Westlands,Riverside,4.0,4.0,1.0,130000
+2609,Westlands,Rhapta Road,3.0,4.0,1.0,100000
+2610,Nairobi,Lavington,2.0,2.0,1.0,85000
+2611,Westlands,Riverside,2.0,2.0,1.0,140000
+2612,Nyali,Nyali Area,3.0,3.0,1.0,20000
+2613,Kiambu County,Redhill,1.0,1.0,0.0,146000
+2614,Westlands,Runda,2.0,2.0,1.0,200000
+2615,Nairobi,Kileleshwa,1.0,1.0,1.0,55000
+2616,Nairobi,Kilimani,2.0,3.0,1.0,65000
+2617,Nairobi,Lavington,1.0,1.0,0.0,140000
+2618,Nairobi,South B,3.0,3.0,1.0,100000
+2619,Westlands,Parklands,2.0,1.0,0.0,48000
+2620,Nairobi,Kilimani,3.0,3.0,0.0,140000
+2621,Westlands,Riverside,2.0,1.0,0.0,38000
+2622,Westlands,Parklands,1.0,1.0,1.0,3500
+2623,Kilifi County,Mtwapa,2.0,2.0,1.0,27000
+2624,Westlands,Lower Kabete,3.0,2.0,0.0,55000
+2625,Westlands,Brookside,2.0,2.0,1.0,95000
+2626,Nairobi,Ngong Road,3.0,2.0,0.0,55000
+2627,Nairobi,Kiambu Road,4.0,4.0,1.0,65000
+2628,Nairobi,Ngong Road,2.0,3.0,1.0,50000
+2629,Roysambu,Garden Estate,2.0,2.0,1.0,89000
+2630,Nairobi,Mombasa Road,3.0,2.0,1.0,28000
+2631,Kiambu County,Ruaka,3.0,2.0,1.0,56000
+2632,Nairobi,Kiambu Road,2.0,2.0,1.0,105000
+2633,Nairobi,Kiambu Road,4.0,4.0,1.0,70000
+2634,Nairobi,Lavington,3.0,,1.0,320000
+2635,Westlands,Brookside,3.0,2.0,1.0,300000
+2636,Nairobi,Kilimani,3.0,2.0,1.0,100000
+2637,Nairobi,Lavington,2.0,2.0,1.0,65000
+2638,Nairobi,Kileleshwa,4.0,4.0,1.0,200000
+2639,Westlands,Brookside,3.0,3.0,1.0,180000
+2640,Nairobi,Kileleshwa,0.0,1.0,1.0,95000
+2641,Nairobi,Kilimani,3.0,4.0,1.0,85000
+2642,Nairobi,Dennis Pritt,1.0,2.0,1.0,135000
+2643,Westlands,Rhapta Road,2.0,2.0,1.0,85000
+2644,Nairobi,Kileleshwa,2.0,2.0,1.0,65000
+2645,Kikuyu,Kikuyu Town,3.0,2.0,1.0,50000
+2646,Nairobi,Lavington,4.0,5.0,1.0,140000
+2647,Westlands,Westlands Area,3.0,3.0,1.0,280000
+2648,Nyali,Nyali Area,3.0,3.0,1.0,130000
+2649,Kikuyu,Gikambura,3.0,2.0,1.0,35000
+2650,Nairobi,Kileleshwa,2.0,2.0,1.0,150000
+2651,Nairobi,Kileleshwa,3.0,4.0,1.0,130000
+2652,Nairobi,Kileleshwa,4.0,5.0,1.0,160000
+2653,Nairobi,Kileleshwa,2.0,3.0,1.0,7000
+2654,Westlands,Riverside,1.0,1.0,1.0,220000
+2655,Westlands,Riverside,1.0,1.0,1.0,230000
+2656,Westlands,Spring Valley,2.0,4.0,1.0,220000
+2657,Nairobi,Kileleshwa,2.0,,1.0,160000
+2658,Nairobi,Valley Arcade,4.0,3.0,1.0,240000
+2659,Nairobi,Dennis Pritt,2.0,2.0,1.0,230000
+2660,Westlands,Rhapta Road,1.0,1.0,1.0,150000
+2661,Nairobi,Lavington,3.0,2.0,1.0,100000
+2662,Westlands,Kitisuru,2.0,2.0,1.0,80000
+2663,Nairobi,Kilimani,2.0,2.0,1.0,250000
+2664,Nairobi,Lavington,4.0,4.0,1.0,280000
+2665,Nairobi,Langata,3.0,2.0,1.0,55000
+2666,Nairobi,Kileleshwa,3.0,3.0,1.0,130000
+2667,Nairobi,Lavington,3.0,4.0,1.0,170000
+2668,Westlands,Riverside,3.0,3.0,1.0,220000
+2669,Westlands,Rhapta Road,2.0,2.0,1.0,100000
+2670,Westlands,Waiyaki Way,3.0,3.0,1.0,70000
+2671,Nairobi,Ngong Road,3.0,2.0,1.0,60000
+2672,Nairobi,Naivasha Road,1.0,1.0,1.0,40000
+2673,Westlands,Runda,1.0,1.0,1.0,90000
+2674,Westlands,Waiyaki Way,3.0,3.0,1.0,80000
+2675,Westlands,Runda,2.0,2.0,1.0,180000
+2676,Nairobi,Ngong Road,2.0,2.0,1.0,55000
+2677,Westlands,Westlands Area,1.0,1.0,1.0,160000
+2678,Westlands,Rhapta Road,2.0,2.0,1.0,180000
+2679,Westlands,Parklands,3.0,3.0,1.0,2400
+2680,Westlands,Riverside,4.0,3.0,1.0,200000
+2681,Westlands,Riverside,2.0,2.0,1.0,2000
+2682,Kiambu County,Ruiru,3.0,4.0,1.0,120000
+2683,Kiambu County,Ruiru,2.0,2.0,1.0,52500
+2684,Westlands,Runda,1.0,1.0,1.0,90000
+2685,Westlands,Riverside,2.0,2.0,1.0,290000
+2686,Nairobi,Kilimani,4.0,4.0,1.0,170000
+2687,Nairobi,Karen,2.0,1.0,1.0,45000
+2688,Westlands,Riverside,3.0,2.0,0.0,75000
+2689,Nairobi,Muthaiga,4.0,3.0,1.0,400000
+2690,Nairobi,Lavington,4.0,4.0,1.0,130000
+2691,Westlands,Riverside,1.0,2.0,1.0,150000
+2692,Westlands,Riverside,2.0,2.0,1.0,200000
+2693,Westlands,Rhapta Road,2.0,2.0,1.0,155000
+2694,Nairobi,Lavington,3.0,2.0,1.0,165000
+2695,Nairobi,Lavington,1.0,1.0,0.0,32000
+2696,Kiambu County,Ruiru,2.0,1.0,,13000
+2697,Westlands,Rosslyn,1.0,1.0,1.0,110000
+2698,Westlands,Parklands,2.0,2.0,1.0,160000
+2699,Nyali,Nyali Area,4.0,,0.0,145000
+2700,Nairobi,Uthiru,2.0,2.0,0.0,38000
+2701,Westlands,Runda,2.0,2.0,1.0,100000
+2702,Nyali,Nyali Area,3.0,2.0,1.0,110000
+2703,Kiambu County,Ruiru,2.0,2.0,1.0,52000
+2704,Nyali,Nyali Area,2.0,2.0,1.0,7000
+2705,Westlands,Waiyaki Way,2.0,2.0,1.0,180000
+2706,Nairobi,Kilimani,4.0,3.0,0.0,90000
+2707,Westlands,Runda,1.0,2.0,1.0,145000
+2708,Westlands,Westlands Area,2.0,3.0,1.0,230000
+2709,Westlands,Kitisuru,1.0,1.0,1.0,23000
+2710,Westlands,Runda,2.0,2.0,1.0,160000
+2711,Nairobi,Ridgeways,2.0,2.0,1.0,100000
+2712,Westlands,Gigiri,1.0,1.0,1.0,100000
+2713,Nairobi,Lavington,3.0,3.0,1.0,140000
+2714,Kajiado County,Kisaju,1.0,1.0,1.0,18000
+2715,Nyali,Nyali Area,3.0,2.0,1.0,10000
+2716,Westlands,Lower Kabete,2.0,2.0,1.0,250000
+2717,Nairobi,Kileleshwa,3.0,3.0,1.0,170000
+2718,Nairobi,Upper Hill,2.0,2.0,1.0,150000
+2719,Westlands,Waiyaki Way,1.0,1.0,1.0,18000
+2720,Nairobi,Uthiru,2.0,2.0,1.0,45000
+2721,Nyali,Nyali Area,2.0,2.0,1.0,170000
+2722,Nyali,Nyali Area,2.0,,1.0,7000
+2723,Mombasa,Bamburi,1.0,,1.0,3000
+2724,Nyali,Nyali Area,3.0,,1.0,88000
+2725,Nyali,Nyali Area,3.0,,1.0,180000
+2726,Nyali,Nyali Area,1.0,1.0,1.0,70000
+2727,Nairobi,Kiambu Road,3.0,2.0,1.0,75000
+2728,Mombasa,Bamburi,3.0,2.0,1.0,4500
+2729,Nyali,Nyali Area,2.0,2.0,1.0,6000
+2730,Kilifi County,Mtwapa,2.0,3.0,1.0,35000
+2731,Nairobi,Kiambu Road,2.0,2.0,1.0,50000
+2732,Nairobi,Kileleshwa,3.0,3.0,1.0,120000
+2733,Westlands,Westlands Area,2.0,2.0,0.0,200000
+2734,Westlands,Westlands Area,2.0,2.0,0.0,265000
+2735,Westlands,Westlands Area,1.0,1.0,0.0,150000
+2736,Westlands,Westlands Area,2.0,2.0,0.0,180000
+2737,Westlands,Waiyaki Way,2.0,2.0,0.0,180000
+2738,Nairobi,Kileleshwa,1.0,1.0,0.0,220000
+2739,Nairobi,Lavington,1.0,1.0,0.0,230000
+2740,Nairobi,Kiambu Road,1.0,1.0,1.0,17000
+2741,Nairobi,Kileleshwa,3.0,,1.0,80000
+2742,Nairobi,Hurlingham,2.0,2.0,0.0,220000
