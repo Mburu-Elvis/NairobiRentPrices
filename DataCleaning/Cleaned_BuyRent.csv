@@ -1,0 +1,2744 @@
+City,Location,Bedrooms,Bathrooms,Parking,Price
+Westlands,Spring Valley,4,0,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Upper Hill,1,1,1,1
+Westlands,Brookside,4,3,1,1
+Westlands,Riverside,2,2,1,1
+Westlands,Riverside,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,4,4,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,Riverside,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,Brookside,3,4,1,1
+Westlands,Riverside,3,4,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Parklands,2,2,1,1
+Westlands,Spring Valley,2,2,1,1
+Westlands,Spring Valley,4,4,1,1
+Westlands,Spring Valley,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Mountain View,2,2,1,1
+Westlands,Rosslyn,1,1,1,1
+Westlands,Mountain View,3,3,1,1
+Westlands,Gigiri,2,2,1,1
+Westlands,Loresho,3,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,2,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,General Mathenge,4,4,1,1
+Westlands,Rosslyn,2,2,1,1
+Westlands,Spring Valley,4,4,1,1
+Nairobi,State House,3,3,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Spring Valley,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Runda,2,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,Spring Valley,3,3,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Lavington,2,2,1,1
+Nairobi,Lavington,2,2,1,1
+Westlands,General Mathenge,3,4,1,1
+Westlands,Spring Valley,3,3,1,1
+Westlands,Westlands Area,3,4,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Westlands,0,0,0,0
+Nairobi,Kilimani,0,0,0,0
+Nairobi,Lavington,3,3,1,1
+Westlands,Spring Valley,4,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Westlands Area,4,4,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Waiyaki Way,3,3,1,1
+Westlands,Waiyaki Way,2,2,1,1
+Westlands,Brookside,3,3,1,1
+Nairobi,Kiambu Road,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Lavington,3,4,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Kileleshwa,0,0,0,0
+Westlands,Parklands,3,4,1,1
+Westlands,Westlands Area,3,4,1,1
+Nairobi,Thika Road,2,2,0,0
+Kiambu County,Kiambu Town,2,1,1,1
+Nairobi,Thika Road,2,2,0,0
+Westlands,Gigiri,3,3,1,1
+Kiambu County,Ruaka,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Riara Road,3,2,1,1
+Nairobi,Muthaiga,2,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Riverside,4,4,0,0
+Mombasa Island,Mombasa CBD,4,5,1,1
+Westlands,Rosslyn,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Roysambu,Garden Estate,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,3,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Kiambu County,Ruaka,2,0,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Westlands,Westlands Area,3,3,0,0
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,4,5,1,1
+Westlands,Westlands Area,3,4,1,1
+Westlands,Westlands Area,0,1,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Parklands,3,2,1,1
+Westlands,General Mathenge,4,4,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Parklands,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Gigiri,3,0,1,1
+Mombasa Island,Mombasa CBD,3,3,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Utawala,1,1,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kileleshwa,3,4,0,0
+Machakos County,Athi River,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Nairobi,Nairobi CBD,1,1,0,0
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Kilimani,3,3,0,0
+Westlands,Westlands Area,3,3,1,1
+Westlands,Parklands,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Lavington,2,2,1,1
+Westlands,Riverside,3,2,1,1
+Mombasa Island,Tudor,2,3,1,1
+Nyali,Nyali Area,1,1,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,South C,3,3,1,1
+Westlands,General Mathenge,3,4,1,1
+Nairobi,Muthaiga,3,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Kilifi County,Mtwapa,2,2,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Brookside,2,2,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Mountain View,2,2,1,1
+Westlands,General Mathenge,3,3,0,0
+Westlands,Westlands Area,3,4,1,1
+Westlands,Rhapta Road,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Lavington,1,1,1,1
+Nairobi,Ngong Road,3,2,1,1
+Nairobi,Kilimani,2,0,1,1
+Nairobi,Upper Hill,1,1,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Kitisuru,2,2,1,1
+Nairobi,Lavington,5,5,1,1
+Westlands,Westlands Area,4,2,0,0
+Ruiru,Tatu City,3,3,1,1
+Westlands,Rosslyn,2,2,1,1
+Westlands,Brookside,3,3,1,1
+Westlands,Westlands Area,4,4,1,1
+Westlands,Westlands Area,2,3,1,1
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Rhapta Road,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kilimani,1,1,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Parklands,4,4,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Kilimani,2,2,1,1
+Limuru,Tigoni,2,2,1,1
+Nairobi,Upper Hill,2,2,0,0
+Westlands,Riverside,3,0,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Kilimani,4,4,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Riverside,3,2,0,0
+Westlands,Spring Valley,3,3,1,1
+Westlands,Brookside,3,2,1,1
+Westlands,Rhapta Road,1,1,1,1
+Nyali,Mkomani,3,4,0,0
+Westlands,Brookside,2,2,1,1
+Roysambu,Garden Estate,2,2,1,1
+Westlands,Rhapta Road,1,1,1,1
+Nyali,Nyali Area,1,2,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Parklands,2,2,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Lavington,1,1,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,Brookside,2,3,1,1
+Westlands,General Mathenge,4,4,1,1
+Nairobi,Kileleshwa,1,1,0,0
+Westlands,Parklands,3,4,1,1
+Westlands,General Mathenge,3,3,1,1
+Nairobi,Upper Hill,2,2,1,1
+Westlands,Westlands Area,4,5,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nyali,Nyali Area,3,2,1,1
+Westlands,Waiyaki Way,1,1,0,0
+Nairobi,Lavington,3,3,1,1
+Nairobi,Lavington,2,3,1,1
+Westlands,Rhapta Road,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Mombasa,Bamburi,3,3,1,1
+Nairobi,Kileleshwa,2,3,0,0
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,1,1,1,1
+Westlands,General Mathenge,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Westlands,Waiyaki Way,3,2,0,0
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Kitisuru,2,3,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Westlands,Westlands Area,4,4,1,1
+Westlands,Gigiri,3,2,1,1
+Nairobi,Kilimani,3,2,1,1
+Westlands,Rhapta Road,4,3,1,1
+Westlands,Spring Valley,2,2,1,1
+Westlands,Rhapta Road,3,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Kitisuru,2,0,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Lavington,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Gigiri,2,3,1,1
+Mombasa Island,Tudor,3,4,1,1
+Nairobi,Utawala,2,1,1,1
+Nairobi,Kileleshwa,1,2,1,1
+Westlands,General Mathenge,3,0,0,0
+Nairobi,Kileleshwa,3,0,0,0
+Nairobi,Lavington,2,3,1,1
+Westlands,Rhapta Road,2,3,1,1
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Kilimani,2,0,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Ngara,2,1,0,0
+Westlands,Kitisuru,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Parklands,2,2,1,1
+Westlands,Riverside,2,0,1,1
+Westlands,Riverside,1,2,0,0
+Westlands,Parklands,2,2,0,0
+Westlands,Westlands Area,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Mombasa Island,Tudor,3,4,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Westlands Area,3,4,1,1
+Nairobi,Muthaiga,3,2,1,1
+Westlands,Parklands,3,4,1,1
+Nyali,Nyali Area,2,2,1,1
+Westlands,Kitisuru,2,3,1,1
+Machakos County,Athi River,2,2,0,0
+Nairobi,Kilimani,3,4,1,1
+Westlands,Rhapta Road,1,0,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,Spring Valley,1,1,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Brookside,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Nyali,Nyali Area,3,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,4,4,1,1
+Nairobi,Lavington,2,2,1,1
+Nairobi,Thika Road,2,2,1,1
+Westlands,Riverside,5,6,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Nyali,Nyali Area,3,4,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Brookside,3,4,1,1
+Nairobi,Upper Hill,3,0,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Kiambu County,Ruaka,2,2,1,1
+Nairobi,Naivasha Road,1,1,1,1
+Nairobi,Kilimani,2,2,1,1
+Kikuyu,Kikuyu Town,2,1,0,0
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kilimani,3,3,0,0
+Westlands,Spring Valley,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Naivasha Road,2,2,1,1
+Westlands,Parklands,2,2,1,1
+Mombasa Island,Mombasa CBD,3,2,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Westlands,Riverside,4,4,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kilimani,1,1,1,1
+Mombasa Island,Mombasa CBD,3,3,1,1
+Westlands,Mountain View,3,2,1,1
+Kiambu County,Ruaka,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Brookside,3,3,0,0
+Westlands,Spring Valley,3,3,0,0
+Westlands,Riverside,3,4,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nairobi,Upper Hill,2,2,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Westlands,General Mathenge,3,3,1,1
+Kiambu County,Ruaka,2,2,1,1
+Nairobi,Embakasi,3,2,1,1
+Nairobi,Lavington,0,1,1,1
+Nairobi,Lavington,3,0,0,0
+Nyali,Nyali Area,1,1,1,1
+Westlands,General Mathenge,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Upper Hill,1,2,1,1
+Nairobi,Lavington,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Lavington,1,1,1,1
+Nairobi,Muthaiga,2,2,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kilimani,4,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Kiambu County,Ruaka,2,3,1,1
+Nyali,Nyali Area,2,2,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Lavington,2,2,0,0
+Nairobi,Uthiru,2,1,0,0
+Westlands,Parklands,3,4,1,1
+Nairobi,Lavington,3,0,1,1
+Nairobi,Lavington,2,2,1,1
+Nyali,Nyali Area,3,2,1,1
+Nairobi,Kiambu Road,3,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Mombasa Island,Mombasa CBD,2,3,0,0
+Nairobi,Kilimani,3,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Kileleshwa,2,0,0,0
+Nairobi,Kilimani,3,2,1,1
+Westlands,Rhapta Road,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Kileleshwa,2,0,0,0
+Westlands,Spring Valley,3,4,1,1
+Nairobi,Lavington,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Kilimani,4,4,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Brookside,3,4,1,1
+Nairobi,Lavington,4,4,0,0
+Nyali,Nyali Area,1,1,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,3,0,0,0
+Westlands,Spring Valley,4,5,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Rosslyn,3,4,1,1
+Nairobi,Kilimani,3,3,0,0
+Westlands,Westlands Area,1,1,1,1
+Nyali,Mkomani,4,3,1,1
+Nairobi,Lavington,2,2,1,1
+Nairobi,Upper Hill,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Kiambu County,Ruaka,1,1,1,1
+Westlands,Westlands Area,2,3,1,1
+Nyali,Nyali Area,2,0,1,1
+Nairobi,Thika Road,2,2,0,0
+Westlands,Parklands,3,2,0,0
+Westlands,Nyari,2,2,1,1
+Westlands,Rhapta Road,2,2,1,1
+Westlands,Spring Valley,3,4,1,1
+Nairobi,Kilimani,1,1,1,1
+Westlands,Runda,4,4,1,1
+Westlands,General Mathenge,3,4,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Parklands,4,5,1,1
+Nairobi,Thika Road,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Kiambu County,Ruaka,0,1,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Muthaiga,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Lavington,2,0,0,0
+Nairobi,Kileleshwa,3,0,1,1
+Nyali,Nyali Area,3,3,0,0
+Roysambu,Garden Estate,3,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Nyali,Kongowea,1,1,0,0
+Westlands,Westlands Area,3,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Lavington,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Riara Road,3,2,0,0
+Nairobi,Karen,0,0,0,0
+Nairobi,Kileleshwa,2,3,1,1
+Westlands,Kitisuru,1,1,1,1
+Kiambu County,Ruaka,2,2,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,Brookside,3,3,1,1
+Westlands,Riverside,4,2,0,0
+Westlands,General Mathenge,3,4,0,0
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Kiambu County,Kiambu Town,3,2,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Lavington,4,3,1,1
+Westlands,Westlands Area,0,1,1,1
+Nyali,Mkomani,2,2,1,1
+Nyali,Nyali Area,4,5,1,1
+Westlands,Parklands,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Westlands Area,4,5,0,0
+Nyali,Nyali Area,3,3,1,1
+Westlands,Riverside,1,1,1,1
+Westlands,Riverside,1,0,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Spring Valley,3,3,1,1
+Nairobi,Kileleshwa,4,3,0,0
+Nairobi,Lavington,4,5,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,3,4,1,1
+Kiambu County,Ruiru,3,2,1,1
+Nairobi,Upper Hill,1,2,1,1
+Nyali,Nyali Area,1,1,1,1
+Westlands,Riverside,3,2,1,1
+Westlands,Waiyaki Way,1,1,1,1
+Westlands,Westlands Area,2,2,1,1
+Ruiru,Kamakis,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,General Mathenge,2,2,1,1
+Westlands,Nyari,2,1,0,0
+Westlands,Brookside,1,1,1,1
+Nairobi,Langata,3,2,1,1
+Westlands,Gigiri,2,3,1,1
+Kikuyu,Kikuyu Town,2,2,0,0
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,3,5,1,1
+Nairobi,Lavington,2,2,1,1
+Nairobi,Thika Road,2,2,0,0
+Nairobi,Kileleshwa,2,3,1,1
+Nairobi,State House,3,3,1,1
+Westlands,Rhapta Road,2,0,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,Parklands,3,0,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Spring Valley,3,2,1,1
+Nairobi,Ngong Road,2,2,1,1
+Nairobi,Kilimani,3,3,0,0
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Thika Road,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nyali,Nyali Area,1,2,1,1
+Nairobi,Riara Road,2,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kilimani,3,2,0,0
+Nairobi,Karen,2,0,0,0
+Nairobi,Kilimani,4,4,1,1
+Nairobi,Kileleshwa,2,3,0,0
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Rhapta Road,1,1,0,0
+Embu,,0,1,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,South B,2,2,1,1
+Nairobi,Lavington,3,4,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Parklands,2,3,1,1
+Nairobi,Kileleshwa,2,1,0,0
+Westlands,Riverside,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,2,2,0,0
+Nairobi,Kilimani,2,2,1,1
+Westlands,Waiyaki Way,4,4,1,1
+Westlands,Spring Valley,3,3,1,1
+Westlands,Westlands Area,1,2,1,1
+Nairobi,Kilimani,3,4,1,1
+Nyali,Nyali Area,1,2,1,1
+Nairobi,Kileleshwa,3,2,0,0
+Nairobi,Karen,2,2,1,1
+Westlands,Spring Valley,3,4,1,1
+Westlands,Westlands Area,2,2,0,0
+Westlands,Westlands Area,3,3,1,1
+Machakos County,Mlolongo,0,0,0,0
+Westlands,Runda,5,0,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Ngong Road,3,4,1,1
+Westlands,Riverside,3,4,1,1
+Westlands,Westlands Area,3,4,1,1
+Westlands,Rhapta Road,2,2,1,1
+Nyali,Kongowea,3,4,0,0
+Nairobi,Lavington,3,3,1,1
+Westlands,Spring Valley,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,3,4,0,0
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Westlands,Parklands,2,2,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kilimani,4,5,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Parklands,3,4,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Nairobi,Kileleshwa,1,1,0,0
+Westlands,Lower Kabete,4,4,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Riverside,4,5,1,1
+Westlands,General Mathenge,4,4,1,1
+Westlands,Riverside,2,0,1,1
+Westlands,Spring Valley,3,4,1,1
+Westlands,Westlands Area,3,2,1,1
+Westlands,Riverside,2,2,1,1
+Mombasa Island,Tudor,3,2,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kilimani,1,0,1,1
+Kilifi County,Malindi,2,1,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kileleshwa,1,1,0,0
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Lavington,6,4,1,1
+Kiambu County,Ruaka,2,2,0,0
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Kitisuru,4,5,1,1
+Nyali,Nyali Area,1,1,1,1
+Nairobi,Kilimani,4,4,1,1
+Westlands,Runda,1,2,1,1
+Westlands,Westlands Area,3,0,0,0
+Nairobi,Kileleshwa,4,4,1,1
+Westlands,Spring Valley,2,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Nyari,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,General Mathenge,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Lavington,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Parklands,2,3,1,1
+Westlands,Riverside,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Westlands,Westlands Area,2,0,1,1
+Westlands,Karura,4,4,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,3,2,1,1
+Westlands,Brookside,4,4,1,1
+Nairobi,Lavington,3,2,1,1
+Westlands,Rosslyn,1,1,1,1
+Nairobi,Lavington,3,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Spring Valley,3,3,1,1
+Nairobi,Ngong Road,3,2,1,1
+Westlands,Runda,1,1,1,1
+Nyali,Nyali Area,3,4,1,1
+Nyali,Nyali Area,3,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Lavington,4,4,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,2,2,0,0
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Riverside,4,4,1,1
+Nairobi,Kileleshwa,3,4,0,0
+Westlands,General Mathenge,4,5,1,1
+Westlands,Westlands Area,3,0,0,0
+Nairobi,Upper Hill,2,2,1,1
+Westlands,Westlands Area,0,1,1,1
+Nairobi,Thika Road,1,1,1,1
+Nairobi,Kilimani,2,3,1,1
+Westlands,Brookside,2,3,1,1
+Westlands,Spring Valley,4,4,1,1
+Westlands,Spring Valley,3,4,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kilimani,3,4,0,0
+Nairobi,Lavington,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,Westlands Area,4,4,0,0
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kilimani,2,0,1,1
+Nairobi,Lavington,0,0,0,0
+Nairobi,Lavington,3,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Lavington,3,2,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Riverside,2,2,1,1
+Mombasa Island,Tudor,3,4,0,0
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Karura,4,5,1,1
+Westlands,Riverside,4,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Ngong Road,2,2,0,0
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Riverside,3,0,1,1
+Westlands,Rhapta Road,1,1,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Rhapta Road,2,3,0,0
+Westlands,Westlands Area,3,3,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Kileleshwa,2,2,0,0
+Nairobi,Kiambu Road,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Ngong Road,2,0,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Kilimani,2,3,0,0
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Brookside,4,4,1,1
+Nyali,Nyali Area,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Upper Hill,1,1,1,1
+Mombasa Island,Tudor,3,3,1,1
+Westlands,Rhapta Road,2,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,2,1,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,Parklands,4,0,1,1
+Nairobi,Kilimani,3,2,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Westlands Area,2,0,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Rhapta Road,2,2,1,1
+Westlands,Westlands Area,3,4,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Rosslyn,1,1,1,1
+Westlands,Westlands Area,2,1,1,1
+Nyali,Mkomani,2,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Runda,3,4,1,1
+Westlands,General Mathenge,3,4,1,1
+Westlands,Spring Valley,3,2,0,0
+Westlands,Westlands Area,3,3,1,1
+Nyali,Nyali Area,2,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Brookside,2,0,1,1
+Westlands,Riverside,3,0,0,0
+Nairobi,Kilimani,2,3,0,0
+Nairobi,Muthaiga,3,2,1,1
+Westlands,Westlands Area,0,0,1,1
+Nairobi,Ngara,3,2,1,1
+Nairobi,Kilimani,1,1,1,1
+Nyali,Kongowea,3,4,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Machakos County,Athi River,3,0,1,1
+Nairobi,Nairobi West,1,1,1,1
+Nairobi,Kasarani,3,3,0,0
+Nairobi,Kileleshwa,3,2,0,0
+Nyali,Nyali Area,4,5,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Parklands,1,1,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Kitisuru,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Kiambu Road,0,0,1,1
+Nairobi,Kilimani,2,0,0,0
+Westlands,Riverside,3,2,1,1
+Roysambu,Mirema,1,1,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Mountain View,3,2,1,1
+Westlands,Brookside,2,2,1,1
+Nairobi,Lavington,1,2,1,1
+Nairobi,Lavington,2,3,1,1
+Nairobi,Kileleshwa,6,6,0,0
+Nairobi,Lavington,3,4,1,1
+Westlands,Rhapta Road,3,4,1,1
+Kiambu County,Ruaka,1,1,1,1
+Westlands,Rosslyn,3,0,1,1
+Westlands,Waiyaki Way,4,3,1,1
+Westlands,General Mathenge,3,3,0,0
+Westlands,Rosslyn,1,1,1,1
+Westlands,Riverside,4,5,1,1
+Westlands,Nyari,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Lavington,5,5,1,1
+Westlands,Brookside,2,2,0,0
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Kileleshwa,4,4,0,0
+Nyali,Nyali Area,2,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Westlands Area,1,1,1,1
+Nyali,Nyali Area,4,5,1,1
+Kiambu County,Ruaka,3,2,1,1
+Nyali,Kongowea,3,4,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Spring Valley,2,2,1,1
+Nairobi,Ngong Road,3,2,1,1
+Nairobi,Kileleshwa,3,1,1,1
+Westlands,Rhapta Road,2,3,1,1
+Westlands,Westlands Area,4,4,1,1
+Westlands,Nyari,3,3,1,1
+Nyali,Nyali Area,2,2,1,1
+Nairobi,Kilimani,1,2,1,1
+Nairobi,Kilimani,2,3,0,0
+Westlands,Parklands,3,4,1,1
+Nairobi,Lavington,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,Rhapta Road,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,1,1,1,1
+Westlands,General Mathenge,4,0,0,0
+Nairobi,Lavington,3,3,0,0
+Nairobi,Kileleshwa,2,2,0,0
+Nairobi,Karen Hardy,3,3,1,1
+Nairobi,Kasarani,1,1,0,0
+Nairobi,Kilimani,2,3,1,1
+Westlands,Waiyaki Way,4,4,1,1
+Westlands,General Mathenge,4,5,1,1
+Nairobi,Kileleshwa,4,5,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Loresho,2,2,1,1
+Kiambu County,Ruaka,1,1,1,1
+Westlands,Riverside,4,3,1,1
+Westlands,General Mathenge,3,4,0,0
+Westlands,Parklands,3,3,0,0
+Nyali,Mkomani,3,2,1,1
+Westlands,Riverside,1,2,1,1
+Westlands,Rhapta Road,3,3,1,1
+Westlands,General Mathenge,1,1,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Brookside,4,4,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,Parklands,3,3,1,1
+Nairobi,Thika Road,3,3,1,1
+Nairobi,Kilimani,2,0,1,1
+Westlands,Nyari,2,3,1,1
+Westlands,Spring Valley,3,4,1,1
+Nairobi,Valley Arcade,3,3,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,Brookside,4,5,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kilimani,2,3,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Mombasa,Bamburi,1,1,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Westlands Area,3,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,Gigiri,1,1,1,1
+Westlands,Riverside,4,5,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Nyali,Nyali Area,4,5,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Lavington,2,2,1,1
+Mombasa,Bamburi,2,0,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Upper Hill,3,3,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kilimani,2,0,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Rhapta Road,1,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Westlands Area,2,3,1,1
+Nairobi,Lavington,5,6,0,0
+Westlands,Westlands Area,3,3,1,1
+Kiambu County,Ruaka,2,0,0,0
+Nairobi,Kileleshwa,2,3,1,1
+Kikuyu,Kikuyu Town,1,1,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Nyali,Nyali Area,3,2,1,1
+Westlands,Parklands,3,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Runda,4,6,1,1
+Westlands,Westlands Area,3,4,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Parklands,3,3,1,1
+Nairobi,Kilimani,1,1,1,1
+Westlands,Parklands,4,5,1,1
+Nairobi,Kilimani,2,0,1,1
+Nairobi,Thika Road,1,1,0,0
+Westlands,Riverside,4,4,1,1
+Westlands,Westlands Area,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Westlands Area,2,3,1,1
+Westlands,Parklands,3,4,1,1
+Mombasa Island,Tudor,3,4,1,1
+Westlands,Spring Valley,3,3,1,1
+Westlands,Riverside,1,1,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Riverside,3,3,0,0
+Kiambu County,Thika,2,1,1,1
+Roysambu,Garden Estate,2,3,1,1
+Westlands,Parklands,2,2,1,1
+Nairobi,Muthaiga,3,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Nyali,Nyali Area,4,5,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,1,0,1,1
+Westlands,Westlands Area,2,1,1,1
+Westlands,Riverside,2,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,General Mathenge,3,4,1,1
+Nyali,Nyali Area,4,5,1,1
+Westlands,Riverside,2,0,0,0
+Nyali,Nyali Area,3,2,1,1
+Westlands,Kitisuru,2,2,1,1
+Nairobi,Muthaiga,3,2,0,0
+Nairobi,Lavington,3,2,1,1
+Nairobi,Kilimani,0,1,1,1
+Westlands,Westlands Area,1,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Kitisuru,3,3,1,1
+Nairobi,Kileleshwa,6,6,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Waithaka,4,4,1,1
+Nairobi,Lavington,2,2,1,1
+Nairobi,Lavington,1,1,0,0
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Kiambu County,Ruaka,3,3,1,1
+Nairobi,Lavington,2,2,1,1
+Kilifi County,Mtwapa,3,3,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,State House,3,3,1,1
+Nairobi,Upper Hill,2,2,0,0
+Nyali,Nyali Area,2,2,1,1
+Nyali,Mkomani,2,1,1,1
+Nyali,Nyali Area,4,6,1,1
+Kiambu County,Ruaka,2,2,0,0
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Waiyaki Way,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Westlands Area,3,4,1,1
+Nairobi,Lavington,1,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nairobi,Lavington,4,4,1,1
+Westlands,Rhapta Road,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Madaraka,2,2,0,0
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Riara Road,3,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Westlands,Kitisuru,2,1,0,0
+Westlands,Brookside,4,5,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Riverside,3,2,1,1
+Nairobi,Langata,2,2,1,1
+Westlands,Kitisuru,1,1,1,1
+Nairobi,Kilimani,4,4,1,1
+Westlands,Spring Valley,3,2,0,0
+Nairobi,Kiambu Road,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Lavington,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nyali,Nyali Area,3,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Westlands,Parklands,2,2,1,1
+Westlands,Riverside,3,0,1,1
+Westlands,Brookside,4,3,1,1
+Nairobi,Thika Road,2,2,0,0
+Westlands,Riverside,1,1,1,1
+Westlands,Parklands,2,2,0,0
+Nairobi,Kilimani,2,3,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Kitisuru,3,2,1,1
+Nairobi,Kileleshwa,4,5,1,1
+Westlands,Westlands Area,3,4,1,1
+Westlands,Riverside,1,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Kitisuru,2,2,1,1
+Westlands,Rhapta Road,3,4,1,1
+Westlands,General Mathenge,2,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Kilimani,2,3,1,1
+Kiambu County,Thindigua,2,2,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Lavington,2,0,1,1
+Nairobi,Lavington,3,4,1,1
+Roysambu,Kahawa West,2,2,1,1
+Westlands,General Mathenge,3,4,1,1
+Nairobi,Hurlingham,2,0,1,1
+Westlands,Rhapta Road,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,3,3,0,0
+Nairobi,State House,2,0,0,0
+Westlands,Parklands,4,4,1,1
+Westlands,Westlands Area,1,1,0,0
+Nyali,Nyali Area,4,4,1,1
+Westlands,Westlands Area,1,1,0,0
+Nairobi,Riara Road,2,1,0,0
+Nairobi,Thika Road,2,0,0,0
+Nairobi,Kilimani,2,2,1,1
+Westlands,Parklands,1,1,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Kiambu County,Ruaka,1,0,0,0
+Kilifi County,Mtwapa,3,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Lavington,3,2,1,1
+Roysambu,Garden Estate,3,4,1,1
+Nairobi,Kilimani,2,3,1,1
+Westlands,Parklands,3,2,1,1
+Westlands,Parklands,4,5,0,0
+Westlands,Westlands Area,2,2,1,1
+Nyali,Mkomani,3,4,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Utawala,2,2,1,1
+Westlands,Westlands Area,3,4,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,4,3,1,1
+Westlands,Gigiri,1,1,1,1
+Westlands,Rhapta Road,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kilimani,2,0,1,1
+Westlands,Karura,3,4,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Lavington,3,0,1,1
+Westlands,Brookside,3,3,1,1
+Roysambu,Garden Estate,3,3,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,General Mathenge,3,3,0,0
+Nairobi,Kilimani,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Lavington,1,1,0,0
+Nairobi,Kilimani,2,2,1,1
+Kiambu County,Ruaka,2,2,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Runda,2,1,1,1
+Nairobi,Ngong Road,3,2,1,1
+Nyali,Nyali Area,4,5,1,1
+Westlands,Loresho,2,3,0,0
+Westlands,General Mathenge,3,3,1,1
+Kiambu County,Kiambu Town,3,2,1,1
+Westlands,Brookside,2,2,1,1
+Nairobi,Ruaraka,2,2,0,0
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Rhapta Road,2,2,1,1
+Westlands,Westlands Area,1,2,1,1
+Westlands,Westlands Area,0,1,1,1
+Nairobi,Lavington,3,3,0,0
+Kajiado County,Ongata Rongai,2,1,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,3,0,0,0
+Kiambu County,Thika,1,1,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Spring Valley,3,3,1,1
+Nairobi,Lavington,2,0,0,0
+Westlands,Westlands Area,3,3,1,1
+Kiambu County,Ruaka,2,2,1,1
+Nairobi,Upper Hill,3,3,1,1
+Westlands,Parklands,2,2,1,1
+Westlands,Rhapta Road,4,4,1,1
+Nairobi,Kilimani,3,2,1,1
+Nyali,Nyali Area,4,4,0,0
+Nyali,Nyali Area,4,5,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Kilifi County,Mtwapa,3,3,1,1
+Westlands,Parklands,4,4,1,1
+Westlands,Runda,3,3,1,1
+Westlands,Loresho,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,3,0,1,1
+Roysambu,Garden Estate,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Highrise,2,2,0,0
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,Rhapta Road,3,3,0,0
+Nairobi,Lavington,2,2,1,1
+Westlands,Rosslyn,2,2,1,1
+Mombasa Island,Mombasa CBD,3,2,0,0
+Kilifi County,Mtwapa,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Westlands Area,3,2,1,1
+Westlands,Riverside,3,0,1,1
+Westlands,Rhapta Road,3,3,0,0
+Nairobi,Kilimani,2,2,1,1
+Westlands,Gigiri,3,4,1,1
+Westlands,Brookside,2,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Roysambu,Garden Estate,2,2,1,1
+Westlands,Spring Valley,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Parklands,4,0,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Kiambu County,Ruaka,2,2,0,0
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Roysambu,Garden Estate,2,2,1,1
+Westlands,Brookside,2,2,0,0
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kilimani,3,3,0,0
+Westlands,Kitisuru,2,0,1,1
+Nairobi,Kilimani,1,1,1,1
+Westlands,Westlands Area,3,2,1,1
+Westlands,Kitisuru,1,1,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nyali,Nyali Area,1,2,0,0
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Valley Arcade,2,2,0,0
+Kiambu County,Ruaka,1,1,1,1
+Westlands,Rosslyn,3,3,1,1
+Westlands,Spring Valley,4,0,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kiambu Road,3,2,1,1
+Nairobi,Thika Road,2,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,Westlands Area,3,4,1,1
+Roysambu,Roysambu Area,4,3,1,1
+Kilifi County,Mtwapa,3,1,0,0
+Nairobi,Lavington,3,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Ruiru,Tatu City,2,2,1,1
+Westlands,Gigiri,3,3,1,1
+Nairobi,Kilimani,0,1,1,1
+Westlands,General Mathenge,2,0,1,1
+Westlands,General Mathenge,4,5,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Brookside,2,2,1,1
+Westlands,Brookside,2,2,1,1
+Nairobi,Kilimani,4,4,0,0
+Nairobi,Kilimani,2,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nyali,Nyali Area,5,4,1,1
+Nairobi,Kileleshwa,3,5,0,0
+Nyali,Nyali Area,3,4,1,1
+Kiambu County,Ruaka,1,1,1,1
+Machakos County,Syokimau,2,0,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Parklands,3,0,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Westlands Area,2,3,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,General Mathenge,3,3,0,0
+Westlands,Westlands Area,2,2,1,1
+Westlands,Karura,3,4,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kilimani,3,2,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Spring Valley,2,0,1,1
+Westlands,General Mathenge,3,2,1,1
+Nairobi,Valley Arcade,4,5,1,1
+Westlands,Westlands Area,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Lavington,3,2,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Nairobi,Lavington,3,3,1,1
+Westlands,Kitisuru,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,0,0,0,0
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Muthaiga,3,3,1,1
+Nairobi,Lavington,1,1,1,1
+Westlands,Westlands Area,1,1,1,1
+Machakos County,Syokimau,4,4,1,1
+Nairobi,Kilimani,2,3,1,1
+Nyali,Nyali Area,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Spring Valley,2,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Ruaraka,2,1,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,Parklands,3,4,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Roysambu,Garden Estate,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Lavington,3,2,1,1
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Westlands,Westlands Area,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Gigiri,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Kiambu County,Kiambu Town,1,1,1,1
+Nairobi,Lavington,4,5,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Nairobi,Lavington,2,3,1,1
+Westlands,Parklands,3,2,1,1
+Westlands,Rhapta Road,3,4,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Westlands,Rhapta Road,1,1,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,Parklands,3,4,0,0
+Westlands,Nyari,1,0,1,1
+Nyali,Nyali Area,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Lavington,4,3,1,1
+Westlands,Riverside,2,2,0,0
+Nairobi,Kasarani,1,1,0,0
+Westlands,Runda,2,2,1,1
+Westlands,Parklands,3,0,0,0
+Westlands,General Mathenge,3,3,1,1
+Westlands,Kitisuru,0,1,1,1
+Westlands,Nyari,2,2,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Kilimani,2,1,1,1
+Nairobi,Thika Road,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Riverside,5,2,1,1
+Nyali,Kongowea,3,3,0,0
+Westlands,Westlands Area,4,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Lavington,3,3,1,1
+Nyali,Nyali Area,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Roysambu,Kahawa Sukari,3,3,1,1
+Nairobi,Kileleshwa,2,0,1,1
+Roysambu,Garden Estate,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Kiambu County,Ruaka,3,2,1,1
+Westlands,Parklands,2,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Lavington,4,4,1,1
+Nyali,Nyali Area,3,2,1,1
+Nairobi,Kilimani,0,2,1,1
+Mombasa,Shanzu,2,2,1,1
+Nyali,Nyali Area,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Riverside,2,3,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Westlands,Brookside,3,4,1,1
+Nairobi,Kilimani,2,3,1,1
+Westlands,Parklands,2,2,1,1
+Nyali,Nyali Area,4,5,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Westlands Area,3,3,0,0
+Westlands,Westlands Area,2,2,1,1
+Westlands,Lower Kabete,1,1,0,0
+Nairobi,Langata,3,3,1,1
+Nairobi,Kilimani,1,1,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Parklands,2,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Westlands,Parklands,2,2,0,0
+Westlands,Waiyaki Way,2,2,1,1
+Nairobi,Lavington,3,4,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Westlands,Parklands,3,3,1,1
+Westlands,Westlands Area,3,3,0,0
+Nairobi,Lavington,2,3,1,1
+Nyali,Kongowea,3,3,0,0
+Westlands,Westlands Area,2,0,1,1
+Nairobi,Lavington,2,2,1,1
+Westlands,Runda,2,2,0,0
+Kilifi County,Kikambala,3,3,1,1
+Nairobi,Kilimani,2,1,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,General Mathenge,4,5,1,1
+Nairobi,Mombasa Road,3,3,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kileleshwa,0,1,1,1
+Nyali,Nyali Area,2,2,0,0
+Kiambu County,Ruaka,2,2,0,0
+Westlands,Runda,2,2,0,0
+Westlands,Kitisuru,5,5,1,1
+Nairobi,Kileleshwa,2,2,0,0
+Westlands,Westlands Area,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Rosslyn,2,2,1,1
+Nairobi,Muthaiga,2,2,1,1
+Nyali,Nyali Area,2,3,1,1
+Nairobi,Lavington,4,5,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Lavington,4,0,0,0
+Nairobi,Thika Road,1,2,1,1
+Nyali,Nyali Area,3,4,0,0
+Nairobi,Kiambu Road,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kileleshwa,4,3,0,0
+Westlands,Riverside,2,0,0,0
+Westlands,Westlands Area,2,3,1,1
+Nyali,Nyali Area,3,0,1,1
+Nairobi,Naivasha Road,2,2,0,0
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kawangware,2,1,1,1
+Nairobi,Upper Hill,3,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,Riverside,2,2,1,1
+Westlands,Parklands,2,1,0,0
+Nairobi,Kilimani,4,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,1,1,1,1
+Ruiru,Tatu City,2,2,1,1
+Westlands,Spring Valley,1,1,1,1
+Westlands,Runda,3,3,1,1
+Nyali,Nyali Area,4,3,1,1
+Nairobi,Lavington,5,6,1,1
+Westlands,Riverside,4,4,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Parklands,3,2,1,1
+Westlands,Parklands,2,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Westlands Area,1,1,0,0
+Nairobi,Upper Hill,1,1,1,1
+Nairobi,Kiambu Road,3,4,1,1
+Westlands,Westlands Area,2,1,0,0
+Westlands,Rosslyn,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,3,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nyali,Mkomani,3,4,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nyali,Mkomani,3,4,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Lavington,3,3,1,1
+Nyali,Nyali Area,4,4,1,1
+Nairobi,Lavington,0,1,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Kilimani,1,0,1,1
+Nyali,Nyali Area,1,1,1,1
+Nairobi,Upper Hill,2,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,Brookside,2,2,1,1
+Nairobi,Karen,1,1,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Riverside,2,2,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,Westlands Area,2,3,1,1
+Westlands,Rhapta Road,3,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Loresho,3,4,1,1
+Nairobi,Kilimani,2,0,0,0
+Westlands,Westlands Area,2,2,1,1
+Westlands,Parklands,2,0,1,1
+Westlands,Rhapta Road,2,2,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Brookside,3,4,1,1
+Westlands,Gigiri,1,2,1,1
+Nairobi,Kilimani,1,1,0,0
+Westlands,Westlands Area,3,0,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,General Mathenge,2,2,1,1
+Westlands,General Mathenge,4,4,0,0
+Westlands,Westlands Area,2,0,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Muthaiga,2,2,0,0
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kilimani,0,1,1,1
+Kiambu County,Ruiru,1,1,1,1
+Westlands,Riverside,3,3,1,1
+Kilifi County,Vipingo,3,2,1,1
+Nairobi,Kileleshwa,2,1,1,1
+Westlands,General Mathenge,3,0,1,1
+Westlands,Westlands Area,4,4,1,1
+Westlands,Brookside,3,3,1,1
+Nairobi,Ngong Road,3,2,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Kileleshwa,0,1,1,1
+Westlands,Lower Kabete,3,3,1,1
+Westlands,Karura,3,3,1,1
+Mombasa,Bamburi,1,1,1,1
+Westlands,Westlands Area,3,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Roysambu,Thome,1,1,1,1
+Nairobi,Kilimani,3,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Lavington,5,6,1,1
+Nairobi,Kilimani,3,3,1,1
+Nyali,Mkomani,3,4,1,1
+Westlands,Kitisuru,2,2,1,1
+Kiambu County,Thika,1,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Kiambu County,Ruaka,3,3,0,0
+Nairobi,Nairobi West,4,4,1,1
+Nairobi,Muthaiga,3,3,1,1
+Nyali,Nyali Area,1,1,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kiambu Road,3,2,1,1
+Nairobi,Kilimani,4,0,1,1
+Westlands,Parklands,3,0,0,0
+Kiambu County,Ruaka,2,1,1,1
+Nairobi,Kilimani,4,4,1,1
+Westlands,Riverside,3,4,1,1
+Westlands,Riverside,3,2,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,Parklands,2,2,1,1
+Nyali,Nyali Area,3,5,1,1
+Kilifi County,Mtwapa,4,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,Brookside,3,4,1,1
+Westlands,Rhapta Road,1,1,1,1
+Nairobi,Kiambu Road,3,4,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Kileleshwa,2,0,0,0
+Westlands,Waiyaki Way,2,2,1,1
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Ngong Road,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Kajiado County,Ongata Rongai,1,1,1,1
+Nairobi,Riara Road,3,4,1,1
+Westlands,Parklands,3,0,1,1
+Nairobi,Kilimani,4,5,1,1
+Nyali,Nyali Area,3,5,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,1,2,1,1
+Westlands,Westlands Area,3,3,0,0
+Westlands,General Mathenge,3,4,1,1
+Kiambu County,Ruaka,3,2,0,0
+Westlands,Westlands Area,3,3,1,1
+Kiambu County,Thika,1,1,1,1
+Nairobi,Kilimani,2,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kileleshwa,1,2,1,1
+Nairobi,Kileleshwa,0,1,1,1
+Roysambu,Garden Estate,2,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Roysambu,Thome,3,3,1,1
+Nairobi,Thika Road,3,3,1,1
+Westlands,Brookside,2,2,1,1
+Westlands,Riverside,2,3,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Westlands,Waiyaki Way,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kilimani,3,3,0,0
+Westlands,General Mathenge,2,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nyali,Nyali Area,3,2,1,1
+Nairobi,Kilimani,1,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Lavington,3,4,1,1
+Nairobi,Kilimani,3,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Lower Kabete,2,3,1,1
+Westlands,Spring Valley,2,3,1,1
+Nairobi,Kileleshwa,3,2,0,0
+Nairobi,Kilimani,3,2,0,0
+Nairobi,Kiambu Road,3,2,1,1
+Nyali,Nyali Area,3,3,1,1
+Kiambu County,Thindigua,3,2,0,0
+Nairobi,Kilimani,2,2,0,0
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,4,3,1,1
+Roysambu,Garden Estate,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Westlands Area,2,3,1,1
+Westlands,General Mathenge,3,3,1,1
+Nairobi,Thika Road,2,3,1,1
+Nairobi,Lavington,3,0,1,1
+Westlands,Kitisuru,2,2,1,1
+Westlands,Westlands Area,3,0,0,0
+Nairobi,Muthaiga,2,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Thika Road,2,0,1,1
+Westlands,Rosslyn,1,1,1,1
+Nairobi,Lavington,1,2,1,1
+Nyali,Mkomani,3,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Muthaiga,3,3,1,1
+Westlands,Rhapta Road,2,0,0,0
+Nyali,Nyali Area,3,3,1,1
+Kilifi County,Mtwapa,2,3,1,1
+Westlands,General Mathenge,3,0,1,1
+Nairobi,Thika Road,3,3,0,0
+Westlands,Riverside,4,5,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,General Mathenge,4,4,1,1
+Westlands,Loresho,3,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Lower Kabete,3,3,1,1
+Westlands,Parklands,3,2,1,1
+Westlands,Riverside,3,0,0,0
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,2,2,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Lavington,3,4,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Kilimani,2,2,0,0
+Westlands,Brookside,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,General Mathenge,4,5,1,1
+Westlands,Riverside,4,3,1,1
+Nairobi,Karen Hardy,2,2,0,0
+Nyali,Nyali Area,2,3,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Kiambu County,Thindigua,2,0,0,0
+Kilifi County,Vipingo,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Westlands Area,2,0,0,0
+Westlands,Brookside,3,4,1,1
+Westlands,Brookside,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Kyuna,1,1,1,1
+Westlands,Spring Valley,2,3,1,1
+Nairobi,Kilimani,2,0,0,0
+Nyali,Nyali Area,3,4,1,1
+Westlands,General Mathenge,4,4,0,0
+Westlands,Riverside,3,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Upper Hill,3,4,1,1
+Westlands,Riverside,1,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Brookside,3,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Upper Hill,2,3,0,0
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,3,2,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Parklands,1,1,1,1
+Nairobi,Kilimani,4,4,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,Parklands,6,6,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kileleshwa,2,0,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,Brookside,2,2,1,1
+Westlands,Parklands,1,1,1,1
+Nairobi,Hurlingham,2,1,1,1
+Nyali,Nyali Area,2,3,1,1
+Ruiru,Tatu City,2,2,1,1
+Nairobi,Kiambu Road,3,3,1,1
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Muthaiga,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,1,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kileleshwa,1,2,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Lavington,3,2,1,1
+Westlands,Parklands,1,1,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Karen,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Rosslyn,2,2,1,1
+Westlands,General Mathenge,4,4,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Karen,1,1,1,1
+Nyali,Nyali Area,2,2,0,0
+Westlands,Kitisuru,2,0,0,0
+Nairobi,Lavington,3,2,1,1
+Nairobi,Kilimani,4,4,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Lavington,3,2,1,1
+Westlands,Spring Valley,3,4,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Westlands,Westlands Area,3,2,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Westlands,Spring Valley,4,5,1,1
+Kiambu County,Ruaka,3,2,0,0
+Westlands,Riverside,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Kilifi County,Mtwapa,3,3,1,1
+Nairobi,Kilimani,2,3,1,1
+Ruiru,Tatu City,2,2,1,1
+Nyali,Mkomani,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Kilimani,2,0,0,0
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Karen,1,1,0,0
+Westlands,Rhapta Road,2,3,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Thika Road,2,2,1,1
+Nairobi,Kilimani,1,1,0,0
+Nairobi,Kilimani,4,0,0,0
+Nairobi,Lavington,4,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Kiambu County,Ruaka,2,3,1,1
+Westlands,Riverside,4,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Westlands Area,3,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Brookside,3,2,1,1
+Nairobi,Kiambu Road,1,1,1,1
+Westlands,Westlands Area,1,2,1,1
+Machakos County,Athi River,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Nyali,Nyali Area,3,2,1,1
+Westlands,Riverside,2,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Brookside,4,4,1,1
+Nairobi,Kileleshwa,4,3,1,1
+Nairobi,Kileleshwa,0,1,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Lavington,1,0,0,0
+Nairobi,Thika Road,2,2,1,1
+Westlands,General Mathenge,4,5,1,1
+Nyali,Nyali Area,4,4,1,1
+Westlands,Spring Valley,4,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Lavington,2,0,0,0
+Westlands,Riverside,2,2,1,1
+Westlands,Runda,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,General Mathenge,3,4,1,1
+Westlands,Parklands,4,4,1,1
+Nairobi,Kilimani,3,2,1,1
+Kwale County,Diani,2,3,1,1
+Nairobi,Lavington,4,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Nairobi,Kilimani,3,0,1,1
+Westlands,Westlands Area,3,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,1,2,1,1
+Nairobi,Lavington,0,1,1,1
+Westlands,Riverside,4,4,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,Kitisuru,3,0,0,0
+Nairobi,Lavington,2,2,1,1
+Westlands,Waiyaki Way,2,2,1,1
+Nairobi,Lavington,2,3,1,1
+Westlands,Kitisuru,2,2,0,0
+Westlands,Riverside,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Kiambu County,Limuru,2,1,0,0
+Westlands,Riverside,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kilimani,2,0,1,1
+Westlands,General Mathenge,5,6,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,Westlands Area,1,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Westlands Area,3,3,0,0
+Westlands,Westlands Area,1,2,1,1
+Westlands,Parklands,3,3,0,0
+Westlands,Riverside,3,0,0,0
+Westlands,Westlands Area,2,2,0,0
+Nairobi,Kileleshwa,1,1,1,1
+Westlands,Waiyaki Way,3,0,0,0
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,0,1,1,1
+Nairobi,Kileleshwa,5,4,1,1
+Nairobi,Kileleshwa,2,0,0,0
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Riara Road,4,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Riverside,2,3,0,0
+Nairobi,Upper Hill,0,1,1,1
+Westlands,Parklands,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Riverside,3,2,0,0
+Nairobi,Uthiru,3,2,1,1
+Nairobi,Kilimani,3,2,1,1
+Westlands,General Mathenge,4,4,0,0
+Nairobi,Lavington,2,2,1,1
+Nairobi,Ngara,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Brookside,2,3,0,0
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,General Mathenge,4,4,1,1
+Nyali,Nyali Area,1,1,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Thika Road,3,2,1,1
+Westlands,Riverside,2,2,1,1
+Nairobi,Ngong Road,1,1,1,1
+Westlands,Westlands Area,2,3,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nyali,Nyali Area,3,2,1,1
+Westlands,Parklands,4,5,0,0
+Nairobi,Kilimani,4,5,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Karen,0,0,0,0
+Westlands,Westlands Area,1,1,1,1
+Mombasa Island,Mombasa CBD,3,2,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Kilimani,3,2,0,0
+Nairobi,Kileleshwa,3,2,1,1
+Machakos County,Athi River,2,0,0,0
+Nairobi,Kilimani,3,3,1,1
+Nyeri,2 Bed,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Lavington,2,0,0,0
+Nairobi,Lavington,1,1,0,0
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,General Mathenge,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,4,3,1,1
+Nairobi,Lavington,2,2,0,0
+Westlands,Rhapta Road,2,2,1,1
+Nyali,Nyali Area,4,5,1,1
+Westlands,Parklands,3,3,0,0
+Nairobi,Kileleshwa,1,1,1,1
+Westlands,Westlands Area,2,3,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Dennis Pritt,2,2,1,1
+Nairobi,Kilimani,3,3,0,0
+Nairobi,Valley Arcade,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kileleshwa,1,2,0,0
+Westlands,General Mathenge,3,3,1,1
+Nairobi,Kilimani,2,2,0,0
+Nairobi,Kilimani,1,1,1,1
+Kiambu County,Ruaka,2,2,0,0
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Westlands Area,3,3,0,0
+Westlands,Westlands Area,2,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,Rhapta Road,2,2,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Kitisuru,3,3,0,0
+Nyali,Nyali Area,4,5,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kileleshwa,1,2,1,1
+Westlands,Westlands Area,2,2,0,0
+Nairobi,Kilimani,3,4,1,1
+Westlands,Rosslyn,3,3,0,0
+Westlands,Runda,3,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Brookside,3,3,1,1
+Westlands,Waiyaki Way,2,2,1,1
+Westlands,Parklands,2,0,0,0
+Westlands,Parklands,2,2,1,1
+Nairobi,Nairobi West,3,2,1,1
+Nairobi,Kilimani,2,2,0,0
+Westlands,Riverside,3,4,1,1
+Westlands,Westlands Area,2,0,0,0
+Nairobi,Kilimani,2,2,1,1
+Roysambu,Garden Estate,3,4,1,1
+Nairobi,Upper Hill,0,1,1,1
+Westlands,Riverside,4,4,1,1
+Westlands,Kitisuru,3,2,1,1
+Westlands,Riverside,1,0,1,1
+Nairobi,Lavington,3,4,1,1
+Nairobi,Lavington,1,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Nairobi,Kilimani,3,3,0,0
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Parklands,3,4,1,1
+Westlands,Runda,2,2,1,1
+Nairobi,Karen,1,1,0,0
+Westlands,Parklands,3,0,1,1
+Nairobi,Kilimani,1,2,1,1
+Nairobi,Kileleshwa,2,2,0,0
+Nairobi,Lavington,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Westlands Area,3,3,0,0
+Nairobi,Kilimani,2,3,1,1
+Westlands,Parklands,2,2,0,0
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kileleshwa,4,3,1,1
+Nairobi,Riara Road,3,3,1,1
+Westlands,General Mathenge,4,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nyali,Nyali Area,3,2,0,0
+Nairobi,Upper Hill,3,3,0,0
+Nairobi,Kilimani,1,1,1,1
+Limuru,Tigoni,3,2,1,1
+Nairobi,Muthaiga,2,2,1,1
+Westlands,Runda,2,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Mombasa,Shanzu,3,4,1,1
+Nairobi,Muthaiga,3,3,1,1
+Nairobi,Kilimani,1,1,1,1
+Westlands,Westlands Area,3,4,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Rhapta Road,3,2,1,1
+Westlands,Waiyaki Way,3,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Nyali,Mkomani,3,3,1,1
+Westlands,Rhapta Road,3,4,1,1
+Westlands,Brookside,3,3,1,1
+Nairobi,Lavington,1,1,1,1
+Nairobi,Lavington,4,4,1,1
+Nyali,Nyali Area,3,2,1,1
+Westlands,Rosslyn,4,4,1,1
+Nairobi,Lavington,3,4,1,1
+Roysambu,Kahawa West,1,1,0,0
+Westlands,Westlands Area,1,1,1,1
+Westlands,Spring Valley,3,3,1,1
+Nairobi,Embakasi,3,2,1,1
+Kilifi County,Malindi,2,0,1,1
+Nairobi,Kilimani,1,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Rhapta Road,3,3,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,3,1,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Karen,1,0,1,1
+Nairobi,Kileleshwa,1,2,1,1
+Kilifi County,Mtwapa,10,10,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Westlands Area,4,0,1,1
+Westlands,Parklands,2,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Westlands,Runda,2,3,1,1
+Westlands,Brookside,2,3,1,1
+Kiambu County,Ruaka,0,1,1,1
+Westlands,Parklands,4,3,0,0
+Westlands,Westlands Area,5,5,1,1
+Nairobi,Upper Hill,1,0,0,0
+Nyali,Nyali Area,1,1,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Kileleshwa,3,4,0,0
+Roysambu,Garden Estate,2,2,1,1
+Westlands,Westlands Area,1,0,0,0
+Nairobi,Kileleshwa,2,2,1,1
+Nyali,Nyali Area,4,5,1,1
+Westlands,Riverside,3,4,1,1
+Ruiru,Tatu City,2,2,1,1
+Westlands,Parklands,3,4,1,1
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Lavington,4,3,1,1
+Nairobi,Lavington,4,4,1,1
+Westlands,Rhapta Road,1,1,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kilimani,2,3,0,0
+Nairobi,Kilimani,3,0,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Kiambu County,Thika,3,2,0,0
+Kilifi County,Mtwapa,2,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Parklands,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Kilifi County,Mtwapa,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Westlands Area,4,4,1,1
+Kiambu County,Thindigua,2,2,1,1
+Nairobi,Hurlingham,3,0,0,0
+Nairobi,Kileleshwa,3,3,0,0
+Westlands,Westlands Area,1,2,1,1
+Nairobi,Kileleshwa,3,0,0,0
+Westlands,Parklands,3,3,1,1
+Nairobi,Kilimani,2,0,1,1
+Westlands,Riverside,2,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,General Mathenge,4,4,1,1
+Nyali,Nyali Area,4,5,1,1
+Westlands,Lower Kabete,4,5,1,1
+Westlands,Westlands Area,3,2,1,1
+Nairobi,Muthaiga,4,5,1,1
+Westlands,Westlands Area,2,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Parklands,3,2,1,1
+Nyali,Nyali Area,3,2,1,1
+Kilifi County,Mtwapa,3,3,1,1
+Nyali,Mkomani,3,4,1,1
+Nairobi,Kileleshwa,1,0,1,1
+Westlands,Nyari,1,1,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Rhapta Road,2,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Westlands,Nyari,2,2,1,1
+Westlands,Loresho,2,2,1,1
+Nairobi,Ridgeways,2,1,0,0
+Nairobi,Kilimani,3,2,1,1
+Westlands,Parklands,3,4,1,1
+Nairobi,Kilimani,3,2,0,0
+Westlands,Riverside,4,4,1,1
+Westlands,Riverside,1,1,1,1
+Westlands,Karura,2,3,1,1
+Nairobi,Ruaraka,2,2,0,0
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Thika Road,3,3,1,1
+Westlands,Waiyaki Way,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kiambu Road,2,1,1,1
+Westlands,Westlands Area,1,2,1,1
+Westlands,General Mathenge,4,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,1,0,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,General Mathenge,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,4,1,1
+Westlands,General Mathenge,4,5,1,1
+Nairobi,Muthaiga,4,5,0,0
+Nairobi,Karen,2,0,0,0
+Nairobi,Kilimani,2,0,1,1
+Nairobi,Kilimani,2,0,1,1
+Westlands,Brookside,2,0,1,1
+Nyali,Nyali Area,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Kiambu County,Ruaka,3,2,0,0
+Nairobi,Thika Road,2,2,1,1
+Westlands,Westlands Area,3,3,1,1
+Kikuyu,Kinoo,3,3,1,1
+Nyali,Nyali Area,3,2,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Rhapta Road,2,2,1,1
+Nairobi,Upper Hill,1,1,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Westlands,Riverside,2,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,1,2,1,1
+Kajiado County,Ongata Rongai,2,2,1,1
+Nairobi,Kilimani,2,3,1,1
+Westlands,General Mathenge,2,3,1,1
+Nyali,Nyali Area,4,5,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,General Mathenge,2,2,0,0
+Nairobi,Kilimani,3,3,1,1
+Westlands,Riverside,4,4,0,0
+Westlands,Riverside,2,2,0,0
+Nairobi,Utawala,2,1,1,1
+Nairobi,Hurlingham,4,4,1,1
+Westlands,Westlands Area,2,3,0,0
+Westlands,Karura,3,4,1,1
+Ruiru,Membley,3,3,1,1
+Nairobi,Ngong Road,1,1,1,1
+Westlands,Westlands Area,4,4,1,1
+Roysambu,Garden Estate,3,2,1,1
+Mombasa Island,Mombasa CBD,3,2,1,1
+Westlands,General Mathenge,4,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Thika Road,3,3,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Lavington,4,4,1,1
+Westlands,General Mathenge,3,4,1,1
+Westlands,Riverside,3,2,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Nairobi,Lavington,4,5,1,1
+Nyali,Nyali Area,3,2,1,1
+Westlands,General Mathenge,3,4,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Kilimani,2,3,1,1
+Nyali,Nyali Area,4,5,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,Brookside,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Westlands Area,1,1,1,1
+Nyali,Nyali Area,4,5,1,1
+Roysambu,Kahawa West,2,2,1,1
+Nyali,Nyali Area,2,3,1,1
+Nairobi,Kilimani,3,5,1,1
+Westlands,Runda,2,2,0,0
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Mombasa Island,Mombasa CBD,4,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Westlands,Brookside,2,2,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Mombasa Island,Mombasa CBD,4,5,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Parklands,1,1,1,1
+Nairobi,Valley Arcade,1,1,1,1
+Westlands,Kitisuru,2,2,1,1
+Nairobi,Lavington,0,1,1,1
+Westlands,Westlands Area,4,4,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,2,3,1,1
+Kiambu County,Ruaka,2,0,1,1
+Nairobi,Kilimani,2,0,1,1
+Westlands,Rhapta Road,2,3,1,1
+Kikuyu,Kikuyu Town,2,2,1,1
+Nairobi,Kilimani,2,2,0,0
+Westlands,Brookside,2,2,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Lavington,1,1,1,1
+Nairobi,Kasarani,1,1,1,1
+Nyali,Nyali Area,3,3,1,1
+Nyali,Mkomani,3,4,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kilimani,3,2,0,0
+Westlands,Westlands Area,2,2,0,0
+Westlands,Rhapta Road,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,3,0,0,0
+Nairobi,Lavington,4,4,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Brookside,4,4,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Lavington,1,1,1,1
+Westlands,Westlands Area,1,2,1,1
+Westlands,Riverside,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Riverside,4,5,1,1
+Westlands,Brookside,3,3,1,1
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,4,5,1,1
+Westlands,Karura,0,1,1,1
+Nairobi,Kilimani,2,0,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Lavington,1,1,0,0
+Westlands,Parklands,1,2,0,0
+Nairobi,Lavington,4,0,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,General Mathenge,3,0,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kilimani,0,1,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Thika Road,2,2,1,1
+Westlands,General Mathenge,2,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,General Mathenge,4,5,1,1
+Nairobi,Kileleshwa,2,2,0,0
+Westlands,Parklands,2,2,1,1
+Nairobi,Lavington,1,1,1,1
+Nairobi,Lavington,3,3,1,1
+Roysambu,Kahawa West,2,2,0,0
+Mombasa Island,Tudor,2,2,1,1
+Nairobi,Kilimani,5,5,1,1
+Westlands,Riverside,1,1,1,1
+Nairobi,Kawangware,1,1,1,1
+Westlands,Westlands Area,3,3,0,0
+Nairobi,Kilimani,2,0,1,1
+Westlands,Waiyaki Way,3,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,2,3,1,1
+Westlands,Runda,1,1,1,1
+Westlands,Riverside,1,1,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Thika Road,2,2,1,1
+Nairobi,Kilimani,3,4,0,0
+Nyali,Nyali Area,0,1,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nyali,Nyali Area,4,4,1,1
+Nairobi,Kiambu Road,3,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Kitisuru,2,0,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Brookside,3,3,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Roysambu,Garden Estate,1,1,1,1
+Westlands,Nyari,2,2,1,1
+Nairobi,Thika Road,3,3,0,0
+Kiambu County,Ruaka,1,0,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Westlands,Brookside,2,2,1,1
+Westlands,Westlands Area,3,2,1,1
+Westlands,Parklands,2,2,1,1
+Nairobi,Lavington,3,3,1,1
+Nyali,Nyali Area,3,2,1,1
+Nairobi,Lavington,2,3,1,1
+Nairobi,South C,1,1,1,1
+Westlands,General Mathenge,3,5,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Brookside,3,4,1,1
+Westlands,Rhapta Road,1,1,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Kileleshwa,2,0,1,1
+Nairobi,Muthaiga,2,2,1,1
+Westlands,Rhapta Road,2,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Upper Hill,3,2,0,0
+Westlands,Riverside,3,3,1,1
+Nairobi,Karen Hardy,3,4,1,1
+Kajiado County,Ongata Rongai,1,1,0,0
+Westlands,Westlands Area,2,3,1,1
+Nairobi,Naivasha Road,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kilimani,2,0,1,1
+Westlands,Nyari,3,3,1,1
+Nairobi,Lavington,3,3,1,1
+Nyali,Nyali Area,4,5,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Riverside,4,5,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Karen,1,1,0,0
+Nairobi,Kilimani,1,1,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Westlands,Waiyaki Way,2,2,1,1
+Kajiado County,Ongata Rongai,3,2,1,1
+Nairobi,Muthaiga,3,4,1,1
+Nairobi,Lavington,4,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Lavington,5,5,1,1
+Nairobi,Muthaiga,3,3,0,0
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Lavington,2,2,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,Spring Valley,3,3,1,1
+Westlands,Parklands,3,3,1,1
+Ruiru,Tatu City,2,2,0,0
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Parklands,4,3,1,1
+Nairobi,Nairobi CBD,1,1,1,1
+Westlands,Westlands Area,2,3,1,1
+Westlands,Thigiri,2,2,1,1
+Nairobi,Kasarani,2,0,0,0
+Kiambu County,Ruaka,1,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Roysambu,Garden Estate,3,3,1,1
+Westlands,Riverside,2,0,0,0
+Nairobi,Kilimani,3,2,1,1
+Westlands,Parklands,2,2,1,1
+Westlands,Kitisuru,3,3,1,1
+Westlands,Riverside,4,4,0,0
+Westlands,Kitisuru,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,1,1,0,0
+Nairobi,Lavington,2,1,0,0
+Westlands,Westlands Area,3,3,0,0
+Nairobi,Kileleshwa,1,1,1,1
+Westlands,Parklands,2,2,1,1
+Westlands,Riverside,4,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Lavington,2,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Lower Kabete,3,4,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,Karura,3,4,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Riverside,3,3,0,0
+Westlands,Westlands Area,3,3,1,1
+Westlands,Spring Valley,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Kilimani,1,2,1,1
+Nyali,Nyali Area,3,4,0,0
+Westlands,Gigiri,2,0,0,0
+Nairobi,South B,1,1,1,1
+Nyali,Nyali Area,3,3,1,1
+Nyali,Nyali Area,3,5,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Imara Daima,3,4,1,1
+Nairobi,Lavington,2,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nyali,Nyali Area,2,3,1,1
+Westlands,Riverside,2,2,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Lavington,4,5,1,1
+Nyali,Mkomani,4,4,1,1
+Nairobi,Kilimani,2,2,0,0
+Nairobi,Lavington,3,3,1,1
+Westlands,Parklands,1,0,0,0
+Westlands,Riverside,1,1,1,1
+Kilifi County,Mtwapa,1,1,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Lavington,3,3,1,1
+Roysambu,Kahawa,4,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Lavington,2,2,1,1
+Westlands,General Mathenge,4,4,1,1
+Westlands,Brookside,3,4,1,1
+Nyali,Nyali Area,4,4,1,1
+Nairobi,Valley Arcade,3,3,1,1
+Nairobi,Kiambu Road,3,0,0,0
+Westlands,Westlands Area,2,3,1,1
+Nairobi,Kilimani,1,1,0,0
+Westlands,Riverside,3,4,1,1
+Westlands,Riverside,1,1,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,2,0,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Naivasha Road,3,2,1,1
+Westlands,Riverside,3,4,1,1
+Westlands,Rhapta Road,3,3,1,1
+Nairobi,Lavington,3,0,0,0
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Lavington,4,3,1,1
+Westlands,Spring Valley,3,3,1,1
+Nyali,Nyali Area,2,3,1,1
+Nairobi,Utawala,2,2,1,1
+Nyali,Mkomani,2,1,1,1
+Westlands,Karura,2,2,1,1
+Nairobi,Kileleshwa,3,2,0,0
+Nairobi,Kileleshwa,2,3,1,1
+Kilifi County,Mtwapa,2,0,1,1
+Westlands,Spring Valley,3,3,0,0
+Westlands,Westlands Area,2,0,0,0
+Nairobi,Kilimani,4,4,0,0
+Westlands,Westlands Area,4,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Kiambu County,Kiambu Town,1,1,0,0
+Westlands,General Mathenge,2,2,0,0
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Lavington,3,2,1,1
+Westlands,Parklands,4,4,1,1
+Westlands,Rhapta Road,2,3,1,1
+Nairobi,Kilimani,1,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,2,1,0,0
+Westlands,Brookside,3,3,1,1
+Westlands,Brookside,2,2,1,1
+Mombasa,Bamburi,1,1,1,1
+Nairobi,Lavington,3,2,1,1
+Westlands,Westlands Area,2,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Mombasa Island,Mombasa CBD,3,4,0,0
+Westlands,Riverside,0,1,1,1
+Westlands,Riverside,3,3,0,0
+Nyali,Nyali Area,2,2,1,1
+Westlands,Westlands Area,0,1,1,1
+Kiambu County,Ruaka,3,3,1,1
+Westlands,General Mathenge,3,4,1,1
+Westlands,Rhapta Road,1,1,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Lavington,4,3,1,1
+Westlands,Westlands Area,3,3,0,0
+Westlands,Rosslyn,4,4,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Rhapta Road,2,2,1,1
+Nairobi,Lavington,8,9,1,1
+Westlands,Brookside,3,3,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,Westlands Area,1,1,0,0
+Roysambu,Garden Estate,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Lavington,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,2,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Spring Valley,3,3,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nairobi,Naivasha Road,2,2,0,0
+Westlands,Westlands Area,2,2,1,1
+Westlands,Brookside,2,3,1,1
+Westlands,Westlands Area,2,3,1,1
+Nairobi,Ruaraka,4,4,1,1
+Westlands,Riverside,3,3,1,1
+Nairobi,Kileleshwa,4,5,1,1
+Nyali,Nyali Area,4,0,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Kilimani,1,1,0,0
+Nairobi,Kilimani,3,3,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Rhapta Road,3,3,0,0
+Westlands,Riverside,3,4,1,1
+Westlands,General Mathenge,3,3,1,1
+Nairobi,Kilimani,2,3,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Parklands,2,2,1,1
+Westlands,Kitisuru,2,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Nyali,Nyali Area,4,5,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,General Mathenge,4,4,1,1
+Westlands,Rhapta Road,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Parklands,3,4,1,1
+Nairobi,Kilimani,1,2,1,1
+Westlands,Gigiri,3,4,1,1
+Nairobi,Kileleshwa,4,5,1,1
+Westlands,Runda,1,1,1,1
+Westlands,Rhapta Road,3,3,1,1
+Westlands,Riverside,3,4,1,1
+Westlands,Loresho,3,3,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Rhapta Road,3,3,1,1
+Nairobi,Uthiru,2,2,1,1
+Nairobi,Kilimani,2,0,1,1
+Nairobi,Thika Road,1,2,1,1
+Westlands,Lower Kabete,2,0,0,0
+Westlands,Riverside,3,3,1,1
+Westlands,Riverside,4,5,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,Westlands Area,1,0,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Ngong Road,1,1,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kilimani,0,1,1,1
+Nyali,Nyali Area,4,4,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,Nyari,2,2,1,1
+Nairobi,Thika Road,2,2,0,0
+Nairobi,Naivasha Road,1,1,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,Brookside,2,3,1,1
+Ruiru,Tatu City,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Rhapta Road,1,1,1,1
+Westlands,Westlands Area,3,0,0,0
+Westlands,General Mathenge,2,3,1,1
+Westlands,General Mathenge,3,3,1,1
+Kiambu County,Ruaka,1,1,0,0
+Nairobi,Madaraka,3,0,0,0
+Westlands,Riverside,4,5,0,0
+Westlands,Riverside,2,2,1,1
+Nairobi,Kilimani,4,3,1,1
+Westlands,Kitisuru,2,3,1,1
+Kiambu County,Ruaka,2,2,1,1
+Nyali,Nyali Area,2,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kilimani,2,2,0,0
+Westlands,General Mathenge,3,3,1,1
+Westlands,Spring Valley,4,5,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,5,5,1,1
+Nairobi,Riara Road,4,4,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,Westlands Area,2,0,0,0
+Westlands,Westlands Area,1,1,0,0
+Nairobi,Kileleshwa,4,2,1,1
+Nairobi,Riara Road,3,3,1,1
+Nairobi,Thika Road,3,3,0,0
+Nairobi,Lavington,1,1,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Kileleshwa,4,5,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nairobi,Lavington,7,7,1,1
+Westlands,Westlands Area,2,2,1,1
+Kiambu County,Thindigua,3,2,0,0
+Nairobi,Thika Road,3,2,0,0
+Westlands,Riverside,3,0,0,0
+Westlands,Riverside,3,4,1,1
+Westlands,Nyari,1,1,1,1
+Mombasa,Shanzu,2,4,1,1
+Westlands,Kitisuru,2,2,1,1
+Westlands,Riverside,4,4,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Nairobi,Lavington,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kileleshwa,4,3,0,0
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Lavington,3,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Rhapta Road,3,4,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Machakos County,Athi River,2,2,0,0
+Westlands,Parklands,2,2,1,1
+Westlands,Westlands Area,3,2,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Lavington,3,0,1,1
+Westlands,Westlands Area,3,3,1,1
+Nyali,Kongowea,3,3,1,1
+Nairobi,Lavington,1,2,1,1
+Westlands,Westlands Area,1,2,0,0
+Kiambu County,Kabete,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Kilimani,4,4,1,1
+Nairobi,Kilimani,3,3,1,1
+Westlands,Kitisuru,2,2,1,1
+Nairobi,Kilimani,2,2,0,0
+Nairobi,Kileleshwa,3,4,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Westlands Area,2,2,0,0
+Nairobi,Kilimani,0,1,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Runda,2,2,1,1
+Westlands,Rhapta Road,3,3,1,1
+Kiambu County,Ruaka,2,2,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Lavington,2,0,1,1
+Nairobi,Lavington,2,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Westlands,Westlands Area,3,3,1,1
+Nairobi,Kileleshwa,0,1,0,0
+Nairobi,Kilimani,2,2,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Nairobi,Kiambu Road,3,2,1,1
+Nairobi,Kileleshwa,3,2,1,1
+Westlands,Spring Valley,2,2,1,1
+Westlands,Loresho,4,3,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,State House,3,2,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Lavington,3,3,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Nairobi,Thika Road,4,3,0,0
+Nairobi,Hurlingham,3,3,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Kiambu County,Kabete,2,1,0,0
+Westlands,Karura,3,4,1,1
+Nairobi,Ridgeways,2,2,0,0
+Westlands,Spring Valley,2,2,1,1
+Westlands,Rhapta Road,2,2,1,1
+Westlands,Westlands Area,2,3,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Westlands,Riverside,3,3,1,1
+Nyali,Nyali Area,3,4,1,1
+Westlands,Riverside,4,4,1,1
+Nairobi,Lavington,3,3,1,1
+Nyali,Mkomani,2,3,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,General Mathenge,3,4,0,0
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Ruaraka,1,2,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Nairobi,Kilimani,3,3,1,1
+Nairobi,Lavington,3,2,1,1
+Westlands,Waiyaki Way,3,2,1,1
+Kilifi County,Mtwapa,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Parklands,3,3,0,0
+Westlands,Parklands,4,4,1,1
+Nairobi,Kilimani,3,4,1,1
+Westlands,General Mathenge,3,3,1,1
+Nairobi,Kibera,2,1,0,0
+Westlands,Rhapta Road,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Westlands,Riverside,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Westlands,Rhapta Road,2,2,1,1
+Kilifi County,Vipingo,2,2,1,1
+Kilifi County,Mtwapa,3,3,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Riverside,3,4,1,1
+Nairobi,Karen,2,2,1,1
+Westlands,Westlands Area,4,4,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Riverside,1,2,0,0
+Westlands,Kitisuru,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Muthaiga,3,3,1,1
+Nairobi,Thika Road,2,2,1,1
+Nyali,Nyali Area,3,3,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Ruiru,Tatu City,2,2,1,1
+Nairobi,Kilimani,1,2,1,1
+Kiambu County,Ruaka,2,2,1,1
+Nyali,Nyali Area,3,4,1,1
+Nairobi,Ngong Road,3,4,0,0
+Westlands,Loresho,3,4,1,1
+Nairobi,Kileleshwa,3,3,0,0
+Westlands,Riverside,3,4,1,1
+Westlands,Westlands Area,3,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Kiambu County,Ruiru,1,1,1,1
+Nairobi,Kilimani,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,3,4,0,0
+Westlands,Westlands Area,1,1,1,1
+Westlands,Riverside,4,4,1,1
+Westlands,Westlands Area,3,3,1,1
+Westlands,Rhapta Road,3,4,1,1
+Westlands,Rhapta Road,1,1,0,0
+Kiambu County,Ruaka,3,2,1,1
+Westlands,Parklands,4,4,1,1
+Nairobi,Kilimani,2,2,0,0
+Nairobi,Kilimani,3,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Westlands,General Mathenge,3,3,1,1
+Kiambu County,Ruaka,2,2,1,1
+Westlands,Lower Kabete,1,1,1,1
+Nairobi,Kilimani,3,3,1,1
+Kiambu County,Thika,2,2,1,1
+Westlands,Riverside,2,2,0,0
+Westlands,Westlands Area,1,0,0,0
+Nairobi,Donholm,3,2,1,1
+Westlands,Westlands Area,1,1,0,0
+Nairobi,Kileleshwa,0,1,1,1
+Nyali,Nyali Area,4,3,1,1
+Nairobi,Muthaiga,3,3,1,1
+Westlands,Brookside,2,2,1,1
+Westlands,Westlands Area,2,2,1,1
+Nairobi,Kilimani,3,4,0,0
+Westlands,Rhapta Road,1,1,1,1
+Nairobi,Kibera,2,0,0,0
+Westlands,Riverside,2,2,0,0
+Westlands,Riverside,2,3,0,0
+Nairobi,Kilimani,3,3,0,0
+Westlands,Riverside,4,4,1,1
+Westlands,Rhapta Road,3,4,1,1
+Nairobi,Lavington,2,2,1,1
+Westlands,Riverside,2,2,1,1
+Nyali,Nyali Area,3,3,1,1
+Kiambu County,Redhill,1,1,0,0
+Westlands,Runda,2,2,1,1
+Nairobi,Kileleshwa,1,1,1,1
+Nairobi,Kilimani,2,3,1,1
+Nairobi,Lavington,1,1,0,0
+Nairobi,South B,3,3,1,1
+Westlands,Parklands,2,1,0,0
+Nairobi,Kilimani,3,3,0,0
+Westlands,Riverside,2,1,0,0
+Westlands,Parklands,1,1,1,1
+Kilifi County,Mtwapa,2,2,1,1
+Westlands,Lower Kabete,3,2,0,0
+Westlands,Brookside,2,2,1,1
+Nairobi,Ngong Road,3,2,0,0
+Nairobi,Kiambu Road,4,4,1,1
+Nairobi,Ngong Road,2,3,1,1
+Roysambu,Garden Estate,2,2,1,1
+Nairobi,Mombasa Road,3,2,1,1
+Kiambu County,Ruaka,3,2,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Nairobi,Kiambu Road,4,4,1,1
+Nairobi,Lavington,3,0,1,1
+Westlands,Brookside,3,2,1,1
+Nairobi,Kilimani,3,2,1,1
+Nairobi,Lavington,2,2,1,1
+Nairobi,Kileleshwa,4,4,1,1
+Westlands,Brookside,3,3,1,1
+Nairobi,Kileleshwa,0,1,1,1
+Nairobi,Kilimani,3,4,1,1
+Nairobi,Dennis Pritt,1,2,1,1
+Westlands,Rhapta Road,2,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Kikuyu,Kikuyu Town,3,2,1,1
+Nairobi,Lavington,4,5,1,1
+Westlands,Westlands Area,3,3,1,1
+Nyali,Nyali Area,3,3,1,1
+Kikuyu,Gikambura,3,2,1,1
+Nairobi,Kileleshwa,2,2,1,1
+Nairobi,Kileleshwa,3,4,1,1
+Nairobi,Kileleshwa,4,5,1,1
+Nairobi,Kileleshwa,2,3,1,1
+Westlands,Riverside,1,1,1,1
+Westlands,Riverside,1,1,1,1
+Westlands,Spring Valley,2,4,1,1
+Nairobi,Kileleshwa,2,0,1,1
+Nairobi,Valley Arcade,4,3,1,1
+Nairobi,Dennis Pritt,2,2,1,1
+Westlands,Rhapta Road,1,1,1,1
+Nairobi,Lavington,3,2,1,1
+Westlands,Kitisuru,2,2,1,1
+Nairobi,Kilimani,2,2,1,1
+Nairobi,Lavington,4,4,1,1
+Nairobi,Langata,3,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Lavington,3,4,1,1
+Westlands,Riverside,3,3,1,1
+Westlands,Rhapta Road,2,2,1,1
+Westlands,Waiyaki Way,3,3,1,1
+Nairobi,Ngong Road,3,2,1,1
+Nairobi,Naivasha Road,1,1,1,1
+Westlands,Runda,1,1,1,1
+Westlands,Waiyaki Way,3,3,1,1
+Westlands,Runda,2,2,1,1
+Nairobi,Ngong Road,2,2,1,1
+Westlands,Westlands Area,1,1,1,1
+Westlands,Rhapta Road,2,2,1,1
+Westlands,Parklands,3,3,1,1
+Westlands,Riverside,4,3,1,1
+Westlands,Riverside,2,2,1,1
+Kiambu County,Ruiru,3,4,1,1
+Kiambu County,Ruiru,2,2,1,1
+Westlands,Runda,1,1,1,1
+Westlands,Riverside,2,2,1,1
+Nairobi,Kilimani,4,4,1,1
+Nairobi,Karen,2,1,1,1
+Westlands,Riverside,3,2,0,0
+Nairobi,Muthaiga,4,3,1,1
+Nairobi,Lavington,4,4,1,1
+Westlands,Riverside,1,2,1,1
+Westlands,Riverside,2,2,1,1
+Westlands,Rhapta Road,2,2,1,1
+Nairobi,Lavington,3,2,1,1
+Nairobi,Lavington,1,1,0,0
+Kiambu County,Ruiru,2,1,0,0
+Westlands,Rosslyn,1,1,1,1
+Westlands,Parklands,2,2,1,1
+Nyali,Nyali Area,4,0,0,0
+Nairobi,Uthiru,2,2,0,0
+Westlands,Runda,2,2,1,1
+Nyali,Nyali Area,3,2,1,1
+Kiambu County,Ruiru,2,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Westlands,Waiyaki Way,2,2,1,1
+Nairobi,Kilimani,4,3,0,0
+Westlands,Runda,1,2,1,1
+Westlands,Westlands Area,2,3,1,1
+Westlands,Kitisuru,1,1,1,1
+Westlands,Runda,2,2,1,1
+Nairobi,Ridgeways,2,2,1,1
+Westlands,Gigiri,1,1,1,1
+Nairobi,Lavington,3,3,1,1
+Kajiado County,Kisaju,1,1,1,1
+Nyali,Nyali Area,3,2,1,1
+Westlands,Lower Kabete,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Nairobi,Upper Hill,2,2,1,1
+Westlands,Waiyaki Way,1,1,1,1
+Nairobi,Uthiru,2,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Nyali,Nyali Area,2,0,1,1
+Mombasa,Bamburi,1,0,1,1
+Nyali,Nyali Area,3,0,1,1
+Nyali,Nyali Area,3,0,1,1
+Nyali,Nyali Area,1,1,1,1
+Nairobi,Kiambu Road,3,2,1,1
+Mombasa,Bamburi,3,2,1,1
+Nyali,Nyali Area,2,2,1,1
+Kilifi County,Mtwapa,2,3,1,1
+Nairobi,Kiambu Road,2,2,1,1
+Nairobi,Kileleshwa,3,3,1,1
+Westlands,Westlands Area,2,2,0,0
+Westlands,Westlands Area,2,2,0,0
+Westlands,Westlands Area,1,1,0,0
+Westlands,Westlands Area,2,2,0,0
+Westlands,Waiyaki Way,2,2,0,0
+Nairobi,Kileleshwa,1,1,0,0
+Nairobi,Lavington,1,1,0,0
+Nairobi,Kiambu Road,1,1,1,1
+Nairobi,Kileleshwa,3,0,1,1
+Nairobi,Hurlingham,2,2,0,0
