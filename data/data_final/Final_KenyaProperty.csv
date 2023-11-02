@@ -1,0 +1,1972 @@
+ City,Location,Bedrooms,Bathrooms,Toilets,Parking,Price
+ Machakos, Syokimau/Mulolongo,4,4,4,,100000
+ Westlands, Runda,3,3,3,2,180000
+ Nairobi, Spring Valley,5,5,5,4,380000
+ Nairobi, Thindigua,3,3,3,,55000
+ Nairobi, Westlands,4,4,4,4,265000
+ Nairobi, Spring Valley,4,4,4,3,270000
+ Nairobi, Kitisuru,5,5,5,,5500
+ Kiambu, Cianda,4,4,4,2,100000
+ Nairobi, Westlands,4,4,4,4,650000
+ Nairobi, Kitisuru,5,5,5,3,500000
+ Nairobi, Westlands,2,2,3,1,95000
+ Nairobi, Kileleshwa,6,6,7,2,3300
+,,3,3,3,2,95000
+ Nairobi, Kileleshwa,2,,,,150000
+,,3,3,3,2,85000
+,,3,4,4,2,100000
+ Kiambu, Membley Estate,4,3,3,4,120000
+,,5,5,6,2,200000
+,,3,3,4,2,110000
+ Nairobi, Westlands,3,2,,,250000
+,,5,5,5,4,350000
+,,5,6,7,,500000
+ Nairobi, Kilimani,4,3,3,,120000
+,,1,1,,,45000
+,,2,1,1,,55000
+,,3,3,3,2,75000
+ Kiambu, Ruiru,1,1,1,1,15000
+ Kiambu, Membley Estate,1,1,1,100,18000
+,,3,4,4,2,85000
+,,1,1,1,1,45000
+ Laikipia, Nanyuki,3,4,4,,12000
+,,1,1,1,1,40000
+,,3,3,3,2,95000
+,,3,3,3,2,80000
+,,2,3,3,2,120000
+ Kajiado, Ngong,4,3,3,3,120000
+,,4,3,4,3,250000
+,,1,1,1,2,25000
+,,3,4,4,,110000
+,,3,2,2,2,85000
+ Nairobi, Kilimani,1,1,1,98,45000
+ Nairobi, Kilimani,1,1,1,105,50000
+,,1,1,1,1,50000
+,,3,3,3,2,85000
+,,3,2,2,2,75000
+,,2,2,2,2,60000
+,,1,1,1,1,60000
+ Nairobi, Westlands,3,2,,,115000
+ Nairobi, Kileleshwa,3,3,3,2,100000
+ Kilifi, Mtwapa,3,2,2,1900,65000
+,,6,6,7,,3800
+ Nairobi, Kilimani,1,1,,,50000
+ Nairobi, Kilimani,1,1,1,55,60000
+ Nairobi, Kasarani,1,1,1,,11000
+ Nairobi, Karen,5,6,6,4,480000
+ Westlands, Runda,5,5,6,5,250000
+ Nairobi, Kileleshwa,3,3,3,2,110000
+,,1,1,1,1,55000
+,,2,2,2,1,70000
+,,3,2,,,85000
+,,3,2,2,,72500
+,,3,2,2,,80000
+ Nairobi, Karen,6,6,5,5,250000
+ Nairobi, Karen,5,5,7,4,350000
+ Nairobi, Karen,3,3,3,,200000
+ Nairobi, Westlands,1,1,1,1,120000
+ Nairobi, Karen,1,1,1,2,80000
+ Kilimani,  Argwings Kodhek Road.,3,2,2,198,70000
+ Nairobi, Karen,3,3,4,2,150000
+ Nairobi, Karen,3,2,2,3,100000
+ Nairobi, Karen,3,3,4,3,250000
+ Machakos, Syokimau/Mulolongo,4,4,5,2,100000
+,,3,3,4,,100000
+ Nairobi, Karen,5,5,7,2,350000
+ Nairobi, Westlands,2,2,2,2,95000
+ Mombasa, Nyali,3,3,,,180000
+ Nairobi, Kilimani,3,2,3,,150000
+ Nairobi, Westlands,1,1,1,,40000
+ Nairobi, Westlands,5,6,6,2023,500000
+,,3,3,3,2,90000
+,,2,2,3,2,1200
+,,2,1,1,,32000
+ Kajiado, Ngong,2,1,1,,25000
+ Nairobi, Kileleshwa,3,2,3,2,250000
+ Nairobi, Westlands,2,4,3,2,230000
+ Nairobi, Karen,5,5,7,4,430000
+ Nairobi, Karen,6,7,8,2,5000
+ Nairobi, Westlands,4,,,,250000
+,,4,4,5,2,250000
+ Nairobi, Lavington,3,4,4,,130000
+,,3,2,2,,230000
+ Nairobi, Nairobi Central,,,,,25000
+,,3,2,3,2,110000
+,,3,3,3,2,110000
+ Muthaiga, Old Muthaiga,3,3,2023,,350000
+,,4,3,3,5,85000
+,,2,3,3,2,75000
+,,2,2,3,2,110000
+,,2,2,3,2,100000
+ Nairobi, Westlands,5,5,5,,220000
+,,5,5,5,5,380000
+ Nairobi, Westlands,2,2,2,2,170000
+ Nairobi, Westlands,2,2,2,2,170000
+ Nairobi, Kitisuru,8,8,8,15,400000
+ Ongata Rongai, Kajiado,3,3,3,3,30000
+ Nairobi, Karen,4,3,4,4,220000
+ Mombasa, Nyali,3,3,,,130000
+,,3,2,2,,155000
+ Thika, Bahati Ridge,4,4,4,4,105000
+,,3,3,4,2,180000
+,,3,3,4,2,95000
+ Nairobi, Westlands,3,3,4,2,190000
+,,3,3,3,2,80000
+,,3,3,3,2,70000
+,,2,1,1,,35000
+,,2,2,2,,70000
+,,3,2,2,,40000
+,,3,2,2,,42000
+ Kiambu, Kikuyu,,,,,5000
+,,2,1,1,2,55000
+,,4,3,3,2,115000
+,,3,2,2,1,80000
+,,3,3,4,2,95000
+,,3,3,3,2,75000
+,,2,2,,,50000
+,,2,2,2,2,250000
+,,3,3,4,2,350000
+,,1,1,2,2,220000
+ Nairobi, Lavington,3,,,,75000
+ Nairobi, Kilimani,1,1,1,,170000
+ Nairobi, Kilimani,3,4,4,,180000
+ Nairobi, Parklands,3,,,,115000
+,,5,,,,400000
+ Kiambu, Ruiru,4,3,3,2,110000
+,,4,,,,250000
+ Mombasa, Nyali,3,3,,,120000
+ Nairobi, Karen,4,4,5,2,100000
+ Nairobi, Karen,3,2,2,,55000
+ Nairobi, Spring Valley,4,4,4,,4000
+,,2,2,2,,40000
+ Machakos, Syokimau/Mulolongo,1,1,2,,410000
+ Nairobi, Karen,5,3,3,4,100000
+,,3,3,3,2,90000
+,,3,3,4,2,90000
+ Nairobi, Karen,5,6,6,2023,500000
+ Nairobi, Lavington,6,,,,350000
+ Mombasa, Nyali,4,4,,,120000
+ Kajiado, Ngong,4,4,4,,100000
+ Kajiado, Ngong,3,2,2,,35000
+,,2,3,3,2,70000
+,,2,3,3,2,180000
+,,1,2,2,2,100000
+,,2,2,3,,200000
+,,5,4,5,2,230000
+,,2,1,1,1,60000
+ Nairobi, Westlands,4,,,,250000
+,,3,,,,150000
+ Nairobi, Westlands,2,2,2,2,160000
+ Westlands, Runda,2,2,2,2,160000
+ Westlands, Loresho,4,4,4,3,250000
+ Nairobi, Westlands,1,,,,220000
+,,3,3,2,,120000
+ Nairobi, Kilimani,3,3,,,100000
+ Kilimani, Chiromo,3,4,,,120000
+ Nairobi, Kilimani,4,4,,,130000
+ Kileleshwa, Kileleshwa,3,4,,,150000
+ Kileleshwa, Kileleshwa,2,,,,120000
+ Nairobi, Karen,6,6,7,2023,200000
+ Westlands, Runda,2,3,3,,120000
+ Nairobi, Lavington,5,5,5,,450000
+,,2,2,3,2,130000
+,,2,2,2,2,120000
+,,3,3,3,2,90000
+ Runda, Off Kiambu Road,3,3,3,2,80000
+,,2,3,3,2,70000
+ Machakos, Syokimau/Mulolongo,4,3,3,2,60000
+ Nairobi, Karen,4,4,5,3,250000
+,,3,3,3,2,110000
+,,2,3,5,,65000
+,,1,1,1,1,20000
+,,4,4,4,3,160000
+,,1,1,1,1,55000
+ Nairobi, Lavington,5,8,15,500,500000
+,,3,2,2,2,70000
+,,2,3,3,2,90000
+,,3,2,2,2,140000
+,,1,1,1,2,40000
+ Westlands, Runda,5,5,5,,220000
+ Machakos, Syokimau/Mulolongo,3,2,2,2,50000
+,,4,3,4,,120000
+,,2,2,2,,200000
+ Nairobi, Lavington,4,4,5,3,200000
+ Nairobi, Lavington,6,6,7,3,170000
+,,4,5,6,,325000
+ Kiambu, Ruiru,4,4,4,2,150000
+ Embakasi, Industrial Area,3,6,3,800,40800
+,,,,,,28
+ Nairobi, Westlands,4,3,3,,130000
+,,3,3,4,,90000
+,,2,2,2,2,50000
+ Nairobi, Westlands,3,5,,,4000
+,,5,5,6,2,450000
+ Nairobi, Westlands,3,2,2,,80000
+ Nairobi, Westlands,2,1,1,,70000
+ Nairobi, Westlands,3,3,3,,350000
+ Nairobi, Kilimani,2,2,3,1,85000
+ Nairobi, Kilimani,3,3,4,2,120000
+ Nairobi, Lavington,4,4,5,2,350000
+ Nairobi, Spring Valley,4,4,5,2,350000
+ Nairobi, Westlands,,,,,150
+ Nairobi, Karen,460,,,,500000
+ Nairobi, Kilimani,,,,,400000
+ Nairobi, Nairobi Central,,,,,250000
+ Kilifi, Junju,3,3,,,120000
+,,2,2,2,2,75000
+ Nairobi, Spring Valley,130,,,,210000
+ Nairobi, Westlands,,,,,120000
+ Nairobi, Westlands,100,,,,110000
+ Nairobi, Lavington,2,2,3,2,150000
+ Westlands, Runda,2,2,2,2,95000
+ Nairobi, Westlands,1,1,1,1,75000
+,,2,3,3,2,80000
+,,2,2,2,2,65000
+,,2,2,2,,65000
+ Nairobi, Westlands,4,3,4,2,250000
+ Nairobi, Westlands,1,1,1,1,110000
+,,4,4,5,5,260000
+,,4,4,5,4,350000
+,,3,3,3,2,120000
+,,2,1,1,1,55000
+,,3,2,2,2,75000
+,,5,5,6,5,450000
+ Nairobi, Lavington,5,5,6,2,400000
+,,6,7,7,3,280000
+,,2,2,2,2,38000
+,,1,1,1,2,25000
+,,3,5,5,3,220000
+,,4,4,4,2,110000
+,,3,5,5,2,80000
+ Nairobi, Kilimani,1,1,2,1,45000
+ Nairobi, Lavington,3,3,3,3,95000
+ Nairobi, Karen,5,7,2023,,350000
+ Nairobi, Karen,5,6,6,4046,350000
+ Nairobi, Lavington,5,5,6,3,300000
+ Mombasa, Nyali,3,4,2,2500,65000
+ Kilimani,  Ngong Road,4,4,3,198,180000
+,,2,2,2,2,55000
+,,3,4,4,2,90000
+,,2,3,3,,80000
+,,1,1,1,2,50000
+,,2,2,2,2,65000
+,,4,5,5,,170000
+ Nairobi, Karen,2,1,1,,100000
+,,1,1,1,2,22000
+,,3,3,3,2,80000
+ Nairobi, Lavington,5,5,6,2,330000
+ Westlands, Runda,2,1,1,,1000
+ Ruiru, Kamakis,4,4,4,2,100000
+ Nairobi, Kilimani,2,2,3,,190000
+,,3,3,3,,80000
+,,3,5,5,2,85000
+ Nairobi, Kasarani,1,1,,,8000
+,,3,2,3,2,75000
+,,3,2,2,,70000
+ Nairobi, Westlands,3,3,3,2,160000
+ Nairobi, Parklands,5,3,4,2,180000
+ Kilifi, Mtwapa,3,1,2000,,45000
+,,3,2,2,,65000
+ Nairobi, Kilimani,2,2,4,3695,130000
+ Mombasa, Nyali,2,2,2,2000,60000
+ Nairobi, Lavington,5,6,15,464,500000
+,,5,5,5,3,180000
+,,5,5,5,3,220000
+,,3,2,2,1,30000
+ Nairobi, Kilimani,3,3,4,,100000
+ Nairobi, Kilimani,3,1,1,,55000
+ Mombasa, Nyali,2,2,2,2000,150000
+ Machakos, Athi River,4,4,2,,215000
+ Mombasa, Nyali,2,2,2,1900,85000
+,,6,6,7,2,725000
+ Kajiado, Kitengela,4,3,3,2,90000
+ Mombasa, Nyali,3,2,3,1900,45000
+ Kiambu, Kikuyu,,,,,38000
+ Nairobi, Westlands,2,2,,,70000
+ Nairobi, Westlands,1,1,1,1,8000000
+,,2,2,2,,70000
+ Nairobi, Kilimani,3,3,4,2,120000
+,,3,2,2,2,65000
+ Mombasa, Nyali,3,2,3,1800,50000
+ Karen, Off Ngong Road,3,3,3,,150000
+ Mombasa, Nyali,3,3,2,2000,60000
+ Kilifi, Mtwapa,2,2,1,,28000
+ Nairobi, Kileleshwa,1,1,1,,45000
+ Nairobi, Kileleshwa,3,2,2,,80000
+ Nairobi, Kileleshwa,4,3,3,,100000
+ Kilimani,  Yaya Centre,3,2,3,115,100000
+ Kilimani, Argwings Kodhek Road,1,1,1,1,55000
+ Nairobi, Parklands,4,4,5,2,170000
+ Kiambu, Ruaka,2,2,2,1,48000
+ Nairobi, Karen,5,5,5,2,350000
+ Kitengela, Yukos,3,2,2,2,35000
+ Nairobi, Westlands,8,8,25,3504,650000
+ Nairobi, Kileleshwa,3,3,3,2,75000
+ Mombasa, Nyali,3,3,2,2000,65000
+,,5,6,6,,5000
+ Nairobi, Lavington,2,1,1,,65000
+ Kilifi, Mtwapa,3,4,4,,120000
+ Nairobi, Westlands,1,1,1,1,75000
+ Kiambu, Ruaka,3,2,2,2,50000
+ Kiambu, Ruaka,2,2,2,2,50000
+ Nairobi Central,off Thika Road,5,6,6,,170000
+ Nairobi Central,  Limuru Road,4,5,5,,140000
+ Nairobi, Westlands,2,2,3,1,95000
+ Mombasa, Nyali,3,4,2500,,65000
+ Lavington, Off Gitanga Road,2,2,15,500,300000
+ Uasin Gishu, Eldoret,4,5,5,,35000
+ Nairobi, Kilimani,3,5,198,,130000
+ Mombasa, Nyali,6,6,5,3000,150000
+ Mombasa, Nyali,3,3,2500,,66000
+ Nairobi, Nairobi Central,4,4,4,,450000
+ Nairobi, Kilimani,6,3,3,6,200000
+ Mombasa, Nyali,3,2,1800,,55000
+ Mombasa, Nyali,3,3,2,2000,70000
+ Mombasa, Nyali,3,3,2,,55000
+,,3,2,2,,100000
+ Mombasa, Nyali,1,1,1800,,80000
+ Nairobi, Westlands,2,2,2,2,95000
+ Nairobi, Kilimani,2,2,2,2,170000
+ Kilimani,  Near Uchumi Hyper,1,1,1,1,35000
+ Nairobi, Parklands,4,5,6,,350000
+ Westlands, Runda,2,1,1,,100000
+,,5,5,5,,230000
+ Nairobi, Kileleshwa,2,2,2,1,65000
+ Mombasa, Nyali,2,1,2,1750,42000
+ Mombasa, Nyali,3,2,2,2500,70000
+ Mombasa, Nyali,3,4,2,2000,67000
+ Mombasa, Nyali,3,2,1750,,80000
+,,3,4,4,2,250000
+ Nairobi, Kileleshwa,2,1,1,1,65000
+ Nairobi, Westlands,3,2,2,,65000
+ Nairobi, Kilimani,2,2,2,2,180000
+ Nairobi, Karen,6,7,7,,600000
+ Nairobi, Karen,350000,,,,350000
+,,6,7,7,,170000
+ Nairobi, Karen,4,4,4,,250000
+ Nairobi Central, Thika Road,2,2,2,,110000
+ Nairobi, Karen,6,7,7,,150000
+ Westlands, Runda,4,7,7,,280000
+ Nairobi, Kilimani,3,3,2,,85000
+ Nairobi, Lavington,4,4,4,2,240000
+ Nairobi, Kileleshwa,3,3,3,120,96000
+ Nairobi, Parklands,1,1,2,,50000
+ Nairobi, Kileleshwa,4,4,5,2,160000
+ Nairobi, Westlands,2,2,2,2,80000
+ Nairobi, Westlands,2,2,2,2,130000
+ Nairobi, Westlands,1,1,1,1,50000
+ Nairobi, Kilimani,2,2,2,2,140000
+ Nairobi, Kilimani,1,1,1,1,120000
+ Nairobi, Westlands,3,3,3,2,90000
+ Nairobi, Westlands,1,1,1,1,130000
+,,4,6,2023,,250000
+ Nairobi, Kilimani,1,1,1,1,38000
+ Kiambu, Ruiru,4,4,4,2,150000
+ Nairobi, Kileleshwa,3,2,3,2,80000
+ Nairobi, Kileleshwa,2,2,2,1,65000
+ Nairobi, Kileleshwa,1,1,1,1,50000
+ Kiambu, Githiga (Githunguri),4,3,4,2,140000
+ Nairobi, Westlands,3,2,2,2,75000
+ Westlands, Runda,5,6,6,,5500
+ Nairobi, Parklands,3,3,3,,119500
+ Kiambu, Ruaka,1,1,1,,35000
+ Nairobi, Kileleshwa,2,2,2,2,70000
+ Nairobi, Westlands,3,3,3,3,2400
+ Nairobi, Westlands,2,2,2,2,2000
+ Nairobi, Westlands,4,4,4,,120000
+ Kilimani, Off Argwings Kodhek Road,4,6,8,450,300000
+ Nairobi, Kilimani,1,1,1,,130000
+ Kilimani,  Lenana Road,3,3,3,,110000
+ Westlands, Runda,4,4,,,190000
+ Kiambu, Ruaka,2,2,2,1,40000
+,,3,2,2,2,60000
+ Nairobi, Westlands,5,5,6,2,300000
+ Nairobi, Westlands,5,7,2023,,500000
+ Athi River, Green Park,3,,,,63000
+ Nairobi, Westlands,4,2023,,,230000
+ Nairobi, Westlands,3,3,3,3,90000
+ Kajiado, Ngong,3,3,3,,65000
+ Runda, Runda Estate,1,1,1,1,90000
+ Runda, Garden Drive,1,1,1,1,100000
+ Nairobi, Westlands,1,1,1,1,100000
+ Nairobi, Westlands,3,2,3,2,90000
+ Nairobi, Westlands,3,2,3,3,104000
+ Nairobi, Westlands,2,2,2,3,104000
+ Mombasa, Nyali,3,4,2500,,100000
+ Nairobi Central, Thika Road,2,2,2,,165000
+ Nairobi, Westlands,3,2,2,2,70000
+ Nairobi, Westlands,3,3,4,2,140000
+ Nairobi, Lavington,4,3,4,4,250000
+ Nairobi, Lavington,2,2,2,,75000
+ Nairobi, Kilimani,3,3,3,,155000
+ Nairobi, Westlands,1,1,1,1,75000
+ Mombasa, Nyali,3,2,2,2,45000
+ Nairobi, Lavington,2,2,2,1,80000
+ Nairobi, Thindigua,1,1,1,1,30000
+ Nairobi, Lavington,5,5,6,2,250000
+ Westlands, Lower Kabete Road,4,5,,,330000
+ Nairobi, Westlands,1,2,2,,130000
+ Nairobi, Kilimani,2,1,1,,120000
+ Nairobi, Kilimani,4,3,4,2,120000
+ Nairobi, Kileleshwa,5,6,5,3,250000
+ Nairobi, Westlands,3,3,3,3,150000
+ Nairobi, Westlands,3,3,3,3,150000
+ Kisumu, Market Milimani,1,1,1,,65000
+ Kisumu, Market Milimani,1,1,1,,75000
+ Kisumu, Central Kisumu,1,1,1,,60000
+ Nairobi, Kileleshwa,4,4,5,2,170000
+ Nairobi, Westlands,4,3,3,4,170000
+ Nairobi, Thindigua,3,2,2,,65000
+ Nairobi, Westlands,3,2,2,2,70000
+ Kiambu, Ruaka,3,2,2,,55000
+ Nairobi, Kilimani,3,4,5,,120000
+ Nairobi, Muthaiga,4,5,5,2023,210000
+ Nairobi, Kileleshwa,3,2,2,2,75000
+ Nairobi, Kileleshwa,3,3,4,,150000
+ Kiambu, Ruaka,3,2,2,,45000
+ Nairobi, Kilimani,2,1,1,1,60000
+ Nairobi, Karen,4,5,5,,290000
+ Nairobi, Kileleshwa,1,1,1,,80000
+ Nairobi, Kitisuru,1,1,1,,90000
+ Nairobi, Westlands,2,2,2,,100000
+ Machakos, Syokimau/Mulolongo,2,2,2,,120000
+ Westlands, Runda,1,1,1,,60000
+ Machakos, Syokimau/Mulolongo,3,4,4,,90000
+ Kiambu, Membley Estate,5,5,5,,100000
+ Kiambu, Membley Estate,3,4,4,,60000
+,,3,3,3,,65000
+,,5,7,,,500000
+,,4,6,,,300000
+,,2,2,3,,145000
+ Machakos, Syokimau/Mulolongo,3,2,2,,50000
+ Nairobi, Westlands,4,5,6,,300000
+ Nairobi, Karen,3,2,,,120000
+ Nairobi, Karen,1,1,1,,35000
+,,3,2,2,2,65000
+ Nairobi, Westlands,4,5,,,350000
+ Nairobi, Kilimani,2,2,2,2,170000
+ Lavington, Lavington Estate,2,2,2,3,75000
+ Westlands, Westlands Estate,3,3,3,3,190000
+ Westlands, Westlands Estate,3,3,3,3,190000
+ Westlands, Runda,4,7,7,4,400000
+,,3,2,3,2,90000
+ Nairobi, Kileleshwa,2,2,3,1,85000
+ Ruiru, New Rain Estate,3,3,3,3,65000
+,,2,2,2,1,75000
+ Nairobi, Lavington,4,4,4,,230000
+ Nairobi Central, Thika Road,2,2,2,,110000
+ Nairobi, Westlands,4,5,,,33000
+ Embakasi, Industrial Area,1,2,2,2,7500
+ Nairobi, Westlands,5,7,,,400000
+ Nairobi Central, Thika Road,1,1,1,,85000
+,,2,1,1,,80000
+,,2,1,1,,85000
+ Nairobi, Lavington,4,5,5,,170000
+ Lavington, Thompstone Estate,3,3,4,2,100000
+ Nairobi, Parklands,4,4,5,,150000
+ Nairobi, Westlands,5,6,,,350000
+ Nairobi, Muthaiga,5,6,,,170000
+ Nairobi, Westlands,5,6,,,250000
+ Nairobi, Westlands,5,2023,2023,,280000
+ Nairobi, Kilimani,3,3,4,2,135000
+ Nairobi, Westlands,4,4,5,2,250000
+ Westlands, Runda,4,4,5,2,180000
+,,3,3,4,2,2500
+,,4,5,,,200000
+ Machakos, Athi River,2,1,1,,70000
+ Machakos, Syokimau/Mulolongo,4,4,5,2,65000
+ Nairobi, Kilimani,4,4,6,4580,134000
+ Nairobi, Westlands,2,2,2,2805,100000
+ Nairobi, Parklands,3,3,3,3580,75000
+,,4,4,4,4,300000
+ Nairobi, Kilimani,3,4,4,,150000
+,,1,1,1,,2400
+ Nairobi, Kileleshwa,2,2,2,1,65000
+ Nairobi, Kileleshwa,2,2,2,1,75000
+ Nairobi, Kileleshwa,3,2,3,2,80000
+ Nairobi, Kileleshwa,2,2,2,1,70000
+ Nairobi, Kilimani,3,2,3,2,85000
+ Nairobi, Westlands,4,4,5,2,250000
+ Nairobi, Westlands,3,3,4,2,160000
+ Machakos, Syokimau/Mulolongo,3,2,2,2,38000
+ Machakos, Syokimau/Mulolongo,4,3,3,2,60000
+ Nairobi, Westlands,4,4,5,3,170000
+ Nairobi, Kilimani,2,2,2,,100000
+ Nairobi, Kitisuru,4,4,5,2,3500
+ Nairobi, Mountain View,2,2,2,1,55000
+ Nairobi, Mountain View,3,2,3,2,60000
+ Nairobi, Lavington,3,3,4,2,120000
+ Nairobi, Kilimani,3,3,5,210,120000
+ Nairobi, Westlands,3,2,2,2,190000
+ Nairobi, Kilimani,3,3,3,3,100000
+ Nairobi, Kilimani,4,4,5,2,140000
+ Kiambu, Ruiru,2,2,2,,30000
+ Nairobi, Westlands,3,3,3,2,150000
+ Nairobi, Westlands,1,1,1,1,100000
+ Nairobi, Westlands,2,1,1,,60000
+ Nairobi, Westlands,3,2,2,,75000
+,,5,,,,350000
+,,4,6,,,290000
+,,3,5,,,230000
+,,2,,,,150000
+ Nairobi, Kilimani,3,4,4,,100000
+ Nairobi, Karen,3,3,3,,150000
+ Nairobi, Karen,3,4,4,,120000
+ Nairobi, Lavington,4,3,3,3,120000
+ Nairobi, Lavington,3,3,3,3,110000
+ Nairobi, Kilimani,2,1,1,,55000
+ Nairobi, Kileleshwa,6,6,6,6,430000
+ Nairobi, Westlands,3,3,3,3,150000
+,,2,2,2,1,70000
+ Embakasi, Greenfield,2,1,1,,15000
+ Embakasi, Greenfield,3,3,3,,45000
+,,3,5,,,180000
+,,4,5,,,200000
+ Nairobi, Lavington,6,5,5,,230000
+ Nairobi, Lavington,5,6,6,,200000
+ Nairobi, Karen,5,4,4,,150000
+ Nairobi, Kileleshwa,4,3,3,3,170000
+ Nairobi, Westlands,3,4,4,,330000
+ Nairobi, Westlands,7,9,9,,500000
+ Nairobi, Westlands,4,6,,,350000
+ Westlands, Lower Kabete,4,5,,,300000
+ Nairobi, Westlands,5,7,,,400000
+ Nairobi, Baba Dogo,,,,,45
+ Nairobi, Westlands,1,1,1,1,150000
+ Nairobi, Kilimani,2,2,2,,165000
+ Nairobi, Karen,5,6,6,,300000
+ Nairobi, Lavington,5,4,4,,180000
+ Nairobi, Westlands,5,5,4,,200000
+ Nairobi, Lavington,2,2,2,2,65000
+ Nairobi, Westlands,4,5,,,250000
+ Nairobi, Westlands,6,,,,300000
+ Nairobi, Westlands,4,6,,,300000
+ Nairobi, Lavington,1,1,1,1,35000
+ Nairobi, Lavington,4,4,4,,120000
+ Nairobi, Westlands,1,1,1,,100000
+ Nairobi, Westlands,2,3,3,,100000
+ Nairobi, Westlands,,,,,150000
+,,4,6,6,,260000
+ Nairobi, Kilimani,3,3,3,,70000
+ Nairobi, Kilimani,1,2,2,,140000
+,,2,3,3,,170000
+,,4,5,5,,250000
+ Nairobi, Kilimani,3,2,2,,85000
+ Nairobi, Kilimani,2,2,2,,65000
+ Kajiado, Ongata Rongai,2,1,1,1,25000
+ Nairobi, Westlands,2,2,2,2,170000
+ Nairobi, Parklands,3,2,2,,70000
+ Westlands, Eldama Ravine Road,5,4,,,250000
+ Nairobi, Kileleshwa,2,2,2,1,80000
+ Nairobi, Kilimani,2,2,2,2,65000
+ Nairobi, Kitisuru,4,4,4,4,400000
+ Nairobi, Parklands,4,4,4,4,150000
+ Nairobi, Karen,2,2,2,4,70000
+ Nairobi, Karen,6,7,7,,220000
+ Nairobi, Parklands,5,5,5,4,165000
+ Nairobi, Embakasi,3,3,3,,45000
+ Nairobi, Westlands,2,2,2,2,130000
+ Nairobi, Kilimani,2,2,4,210,130000
+ Nairobi, Kilimani,1,1,2,115,68000
+ Nairobi, Parklands,3,2,2,2,75000
+ Nairobi, Westlands,3,3,3,2,250000
+ Nairobi, Westlands,1,1,1,1,85000
+ Nairobi, Westlands,3,3,3,3,320000
+ Westlands, Runda,1,1,1,1,100000
+ Nairobi, Lavington,5,5,5,5,300000
+ Nairobi, Lavington,4,4,4,4,250000
+ Kilimani,  Off Ngong Road,4,3,5,320,180000
+ Nairobi, Parklands,4,4,4,4,85000
+ Nairobi, Westlands,3,3,3,5688,270000
+ Nairobi, Parklands,4,3,,,110000
+ Nairobi, Nairobi West,2,2,2,1,40000
+ Nairobi, Parklands,3000,,,,250000
+ Kiambu, Ruiru,4,4,4,2,120000
+ Nairobi, Kilimani,3,3,,,140000
+ Nairobi, Kilimani,2,,,,100000
+,,2,2,2,,100000
+ Nairobi, Westlands,4,3,,,135000
+ Kajiado, Ongata Rongai,2,1,1,1,25000
+,,3,4,4,2,150000
+ Westlands, Runda,1,1,1,1,1250
+ Nairobi, Westlands,1,1,1,1,80000
+ Nairobi, Lavington,3,5,15,280,400000
+ Nairobi, Westlands,3,4,4,,2500
+ Nairobi, Nairobi Central,1,1,1,,70000
+ Nairobi, Westlands,2,2,2,2,180000
+ Nairobi, Kilimani,1,1,1,,35000
+ Nairobi, Westlands,2,3,3,,120000
+ Nairobi, Kilimani,1,1,1,,120000
+ Kileleshwa, Off Lenana Road,6,,,,350000
+ Nairobi, Karen,4,5,5,,150000
+ Nairobi, Kilimani,1,1,1,,70000
+ Nairobi, Kileleshwa,3,4,4,,110000
+ Nairobi, Kilimani,1,1,1,1,100000
+ Westlands, Runda,2,2,2,2,150000
+ Nairobi, Westlands,1,1,1,,8000
+ Nairobi, Westlands,5,8,,,550000
+ Nairobi, Westlands,4,5,4,,450000
+ Nairobi, Westlands,1,1,2,1,280000
+ Nairobi, Kilimani,1,1,1,1,140000
+ Nairobi, Kilimani,1,1,1,1,110000
+ Nairobi, Kilimani,1,1,1,1,110000
+ Nairobi, Kilimani,1,1,1,1,110000
+ Nairobi, Kileleshwa,4,4,20,,450000
+ Nairobi, Lavington,2,2,2,5,120000
+ Nairobi, Parklands,3,3,3,3,180000
+ Nairobi, Parklands,3,3,3,3,200000
+ Nairobi, Parklands,2,2,2,2,160000
+ Nairobi, Westlands,4,4,15,,320000
+ Nairobi, Spring Valley,3,3,3,3,250000
+ Nairobi, Westlands,1,1,1,1,150000
+ Nairobi, Westlands,3,2,2,2,130000
+ Nairobi, Westlands,2,2,2,,120000
+ Nairobi, Westlands,1,1,2,1,130000
+ Nairobi, Westlands,1,1,1,1,160000
+ Westlands, Off Rhapta Road,2,2,2,2,180000
+ Nairobi, Westlands,1,1,1,1,70000
+ Nairobi, Kilimani,2,2,2,2,160000
+ Nairobi, Westlands,3,3,3,,90000
+ Nairobi, Parklands,3,2,,,90000
+ Westlands, Runda,1,1,1,1,100000
+ Nairobi, Spring Valley,1,1,1,1,90000
+ Westlands, Runda,1,1,1,1,100000
+ Nairobi, Lavington,4,6,6,,400000
+ Nairobi, Lavington,4,6,6,,230000
+ Nairobi, Kileleshwa,1,1,1,,70000
+ Nairobi, Kilimani,3,4,4,,85000
+ Nairobi, Kilimani,3,4,4,,120000
+ Nairobi, Parklands,,,,,25000
+ Nairobi, Parklands,4,3,,,110000
+ Nairobi, Westlands,1,1,1,1,85000
+ Nairobi, Westlands,1,1,1,1,85000
+ Nairobi, Westlands,2,2,2,2,2000000
+ Nairobi, Parklands,2,2,2,2,150000
+ Nairobi, Westlands,4,4,4,4,220000
+ Nairobi, Muthaiga,3,4,,,200000
+ Nairobi, Kilimani,1,1,1,1,90000
+ Nairobi, Kilimani,3,3,3,,85000
+ Nairobi, Karen,2,1,1,,60000
+,,7,7,,,400000
+ Nairobi, Embakasi,3,2,2,3,120000
+,,,,,,400000
+ Nairobi, Westlands,1,2,2,2,100000
+,,3,3,3,,100000
+ Nairobi, Kilimani,3,4,4,,130000
+ Nairobi, Westlands,5,6,,,370000
+ Kiambu, Ruiru,2,1,1,1,45000
+ Nairobi, Muthaiga,5,5,5,,5500
+ Nairobi, Lavington,4,3,3,,150000
+ Nairobi, Westlands,5,6,,,390000
+ Nairobi, Westlands,5,6,,,300000
+,,3,4,4,,100000
+ Nairobi, Kilimani,2,2,2,,140000
+ Nairobi, Kilimani,1,1,1,,110000
+ Nairobi, Roysambu,5,5,5,,180000
+ Ruiru, Lifestyle Heights,2,1,1,,45000
+ Nairobi, Pangani,1,1,1,,60000
+ Nairobi, Pangani,1,1,1,,45000
+ Nairobi, Westlands,5,6,,,400000
+ Nairobi, Westlands,4,5,,,260000
+ Kiambu, Ruiru,3,3,3,2,65000
+ Nairobi, Karen,2,2,3,,55000
+ Nairobi, Karen,1,1,,,20000
+ Nairobi, Nairobi Central,4,1,1,,75000
+,,3,3,3,,75000
+,,4,5,5,,158000
+ Nairobi, Westlands,6,8,,,400000
+,,4,5,5,,170000
+ Kiambu, Cianda,4,4,4,2,200000
+ Westlands, Runda,1,1,1,1,110000
+ Westlands, Runda,4,4,4,,150000
+ Nairobi, Westlands,2,2,2,2,160000
+ Westlands, Runda,1,1,1,1,90000
+ Nairobi, Westlands,5,5,5,,250000
+ Nairobi, Westlands,5,5,,,350000
+,,4,4,4,,300000
+ Nairobi, Kilimani,2,2,2,,70000
+ Nairobi, Westlands,5,6,6,,600000
+ Nairobi, Westlands,4,5,,,280000
+ Nairobi, Westlands,4,5,,,190000
+ Machakos, Syokimau/Mulolongo,3,3,3,,55000
+ Nairobi, Westlands,5,5,,,400000
+ Nairobi, Kilimani,2,2,2,2,190000
+ Nairobi, Westlands,3,3,3,,120000
+ Ngara, Ngara Road,2,2,,,70000
+ Ruiru, Githunguri Rd,4,4,4,2,105000
+ Nairobi, Kilimani,4,4,4,,180000
+ Nairobi, Karen,10,10,10,,500000
+ Nairobi, Westlands,5,5,5,5,350000
+ Westlands, Runda,4,4,4,10,150000
+ Ngara, Ngara Road,,,,,100
+ Nairobi, Karen,1,1,1,,50000
+ Nairobi, Karen,1,1,1,,35000
+ Nairobi, Kilimani,3,1,1,,70000
+ Nairobi, Westlands,2,2,2,2,160000
+ Nairobi, Westlands,2,2,2,2,150000
+ Nairobi, Westlands,2,3,3,,180000
+ Nairobi, Kileleshwa,6,4,,,500000
+ Nairobi, Westlands,3,4,,,135000
+ Nairobi, Kileleshwa,2,2,2,,170000
+ Machakos, Athi River,4,3,3,,40000
+,,2,4,,,200000
+,,2,3,,,230000
+ Nairobi, Westlands,3,3,3,,80000
+ Nairobi, Westlands,2,2,2,2,75000
+ Nairobi, Westlands,2,2,2,2,170000
+ Kiambu, Ruiru,1,1,1,,23000
+ Westlands, Runda,4,5,5,,250000
+ Nairobi, Westlands,5,5,5,,280000
+,,2,2,2,,160000
+ Nairobi, Kilimani,2,2,2,2,160000
+ Machakos, Syokimau/Mulolongo,1,1,1,,45000
+ Nairobi, Lavington,4,3,4,,120000
+ Nairobi, Kilimani,2,2,2,2,120000
+ Nairobi, Lavington,2,2,2,2,130000
+ Nairobi, Kileleshwa,1,1,1,1,85000
+ Nairobi, Embakasi,3,3,3,,150000
+ Nairobi, Parklands,3,3,3,,85000
+ Imara Daima, Mombasa Road,,,,,50
+ Nairobi, Westlands,1,1,1,1,130000
+ Westlands, Runda Estate,5,5,4,,350000
+ Nairobi, Karen,5,5,5,,350000
+ Nairobi, Kilimani,1,1,,,70000
+ Nairobi, Kileleshwa,1,1,1,,65000
+ Kiambu, Tigoni,1,1,1,,120000
+,,10,8,,,450000
+ Nairobi, Westlands,5,7,,,450000
+ Nairobi, Westlands,1,1,1,1,130000
+ Nairobi, Westlands,2,2,2,2,150000
+ Nairobi, Westlands,2,2,2,1,150000
+ Machakos, Syokimau/Mulolongo,1,1,1,1,30000
+ Nairobi, Westlands,6,7,,,400000
+ Nairobi, Kileleshwa,3,3,2,,160000
+ Ruiru, Tatu City,2,1,1,81,45000
+ Nairobi, Kilimani,3,3,3,,110000
+ Nairobi, Parklands,3,3,4,2,350000
+,,5,6,,,250000
+ Nairobi, Westlands,,,,,115
+ Nairobi, Kilimani,3,3,3,,85000
+ Parklands, Maua Close,,,,,100
+ Kiambu, Uthiru,3,3,3,2,60000
+,,1,1,1,,55000
+ Nairobi, Westlands,3,3,3,,130000
+ Nairobi, Westlands,3,4,,,200000
+ Nairobi, Westlands,2,3,,,150000
+ Nairobi, Westlands,3,4,4,,80000
+ Nairobi, Westlands,3,4,4,,120000
+ Nairobi, Westlands,2,3,3,,60000
+ Nairobi, Westlands,4,5,5,,200000
+ Machakos, Athi River,3,1,1,,27000
+,,4,4,4,,100000
+ Parklands, Taarifa Road,2,2,,,120000
+,,5,6,6,,300000
+ Nairobi, Imara Daima ,4,5,5,,150000
+ Nairobi, Parklands,4,3,3,2,100000
+,,3,1,1,,87000
+,,4,5,5,,250000
+ Nairobi, Kilimani,3,4,4,,98000
+ Nairobi, Lavington,3,3,3,,90000
+ Nairobi, Kileleshwa,2,2,2,,90000
+ Nairobi, Kitisuru,2,2,2,,40000
+ Nairobi, Ruai,,,,,25
+ Nairobi, Kilimani,2,2,2,,120000
+,,3,4,4,,130000
+ Nairobi, Kilimani,2,2,2,,65000
+,,2,2,2,,130000
+,,3,4,4,,120000
+ Nairobi, Kilimani,2,3,3,,120000
+ Athi River, Off Mombasa Road,4,3,3,,45000
+,,2,2,2,,120000
+ Nairobi, Lavington,2,2,2,,140000
+ Nairobi, Kilimani,3,3,3,,160000
+ Nairobi, Kilimani,2,2,2,,65000
+ Nairobi, Kilimani,3,3,3,,75000
+,,4,4,4,,150000
+,,3,,,,400000
+ Kisumu, Central Kisumu,4,2,2,,50000
+ Nairobi, Parklands,2,,,,85000
+ Nairobi, Parklands,4,3,3,,100000
+ Nairobi, Lavington,1,2,2,,75000
+ Nairobi, Parklands,3,3,3,,105000
+ Nairobi, Westlands,1,1,,,200000
+ Nairobi, Kilimani,3,4,4,,140000
+ Nairobi, Kilimani,2,3,3,,95000
+,,2,3,3,2,120000
+,,2,1,1,103,85000
+,,4,4,4,5,250000
+ Kiambu, Ruiru,,,,,4000
+,,3,4,4,,110000
+ Nairobi, Kilimani,2,2,2,,40000
+ Nairobi, Parklands,3,3,,,100000
+ Nairobi, Kileleshwa,3,3,,,90000
+ Kisumu, Central Kisumu,1,1,1,,85000
+ Nairobi, Westlands,4,4,,,160000
+ Athi River,  Daystar Road,4,4,4,,50000
+ Nairobi, Parklands,4,4,4,,130000
+ Nairobi, Westlands,3,4,4,,120000
+ Nairobi, Muthaiga,4,4,4,,450000
+ Nairobi, Westlands,4,4,4,,280000
+,,2,2,3,,85000
+ Nairobi, Nairobi Central,,,,,97000
+ Nairobi, Nairobi Central,,,,,97000
+,,103,,,,87500
+ Runda, Runda Estate,1,1,1,1,80000
+ Westlands, Runda,5,5,5,,500000
+ Westlands, Runda,5,5,5,,280000
+ Westlands, Runda Evergreen,1,1,1,1,90000
+ Nairobi, Ngara,,,,,70
+ Nairobi, Karen,4,4,4,,150000
+ Nairobi, Westlands,4,5,5,,370000
+ Nairobi, Westlands,2,2,2,2,100000
+ Nairobi, Westlands,2,2,2,2,130000
+ Nairobi, Westlands,1,1,1,1,90000
+ Westlands, Runda,2,2,2,2,125000
+ Westlands, Runda,4,4,4,,300000
+ Nairobi, Westlands,2,2,2,2,125000
+ Westlands, Runda,3,3,3,,150000
+ Nairobi, Westlands,2,1,2,,65000
+ Nairobi, Westlands,1,1,,,110000
+ Nairobi, Parklands,,,,,90000
+ Nairobi, Kilimani,4,4,4,,220000
+ Syokimau/Mulolongo, Mombasa Road,3,3,4,,55000
+ Nairobi, Westlands,1,1,1,1,50000
+ Nairobi, Westlands,2,2,2,2,60000
+ Kilimani, Kilimani Estate,1,1,1,1,90000
+ Nairobi, Kileleshwa,3,3,3,,95000
+ Kajiado, Kitengela,4,3,4,5,65000
+ Nairobi, Kilimani,4,4,4,,150000
+ Nairobi, Kileleshwa,3,3,3,,130000
+ Nairobi, Westlands,4,3,3,,90000
+ Nairobi, Westlands,2,2,2,2,80000
+ Nairobi, Westlands,1,1,1,1,60000
+ Nairobi, Parklands,3,1,2,,60000
+,,3,3,3,,95000
+,,3,3,3,,90000
+ Nairobi, Westlands,3,4,4,,140000
+,,1,1,,,45000
+ Nairobi, Kilimani,2,2,2,,70000
+,,6,,,,300000
+ Westlands, Runda,2,2,2,2,130000
+ Westlands, Un Avenue,5,5,5,8,600000
+ Nairobi, Spring Valley,5,4,4,,400000
+,,3,3,3,,105000
+,,3,3,3,,70000
+,,2,2,2,,75000
+ Nairobi, Westlands,2,3,3,,70000
+ Nairobi, Westlands,1,1,1,,55000
+ Nairobi, Kileleshwa,2,2,2,2,130000
+ Nairobi, Kilimani,1,1,1,1,120000
+ Nairobi, Parklands,3,4,4,2,115000
+ Nairobi, Kilimani,1,1,1,1,120000
+ Nairobi, Ngara,1,1,1,1,80000
+,,1,1,1,1,110000
+ Nairobi, Kileleshwa,1,1,1,,65000
+ Nairobi, Kilimani,1,1,1,1,105000
+ Westlands, Runda,2,2,2,2,150000
+ Kisumu, Central Kisumu,1,1,1,,90000
+ Nakuru, Naivasha East,3,3,3,,260000
+ Laikipia, Nanyuki,2,2,2,,180000
+,,3,3,3,,280000
+ Nairobi, Kilimani,3,3,8,,180000
+ Machakos, Syokimau/Mulolongo,4,5,5,,70000
+ Nairobi, Westlands,2,2,2,2,100000
+ Nairobi, Kileleshwa,1,1,1,1,60000
+ Nairobi, Nairobi Central,3,3,3,,90000
+ Nairobi, Nairobi Central,,,,,136000
+ Nairobi, Kilimani,,,,,264000
+ Machakos, Syokimau/Mulolongo,3,3,3,2,150000
+,,2,2,2,,75000
+ Westlands, Runda,1,1,1,1,90000
+ Nairobi, Westlands,1,1,1,1,38000
+ Nairobi, Westlands,2,2,2,1,130000
+ Nairobi, Westlands,1,1,1,2,35000
+ Nairobi, Embakasi,3,2,2,,60000
+ Nairobi, Lavington,3,3,3,,90000
+ Westlands, Loresho,3,3,3,,160000
+ Westlands, Loresho,1,1,,,55000
+ Nairobi, Kilimani,,,,,125000
+ Nairobi, Kilimani,,,,,80000
+ Nairobi, Kilimani,,,,,650000
+ Nairobi, Westlands,,,,,45000
+ Nairobi, Westlands,,,,,105
+ Embakasi, Industrial Area,,,,,55
+ Westlands, Mbabane Road,5,5,3,,350000
+ Nairobi, Kitisuru,4,5,5,,400000
+ Nairobi, Parklands,3,3,3,,90000
+ Nairobi, Westlands,5,5,,,350000
+,,,,,,450000
+ Nairobi, Embakasi,,,,,66
+ Embakasi, Old Mombasa Road,,,,,300000
+ Nairobi, Parklands,,,,,100
+ Nairobi, Parklands,,,,,110
+ Nairobi, Embakasi,,,,,140
+ Westlands, Muthithi Road,,,,,100
+ Parklands, West Park Suites,,,,,100
+ Nairobi, Parklands,3,3,2,,115000
+ Nairobi, Ngara,3,3,2,,110000
+ Mombasa, Nyali,1,1,1,1,75000
+ Nairobi, Karen,3,3,3,,250000
+,,2,1,1,1,25000
+ Mombasa, Nyali,3,4,4,,120000
+ Nairobi, Karen,5,5,5,,280000
+ Kisumu, Central Kisumu,,,,,200
+ Nairobi, Parklands,4,3,2,,105000
+ Westlands, General Mathenge Road,4,4,3,,300000
+ Mombasa, Nyali,1,1,1,1,69000
+ Nairobi, Westlands,1,1,1,,40000
+ Nairobi, Parklands,4,4,4,,120000
+,,4,4,4,,160000
+ Nairobi, Parklands,3,2,3,3,75000
+ Nairobi, Parklands,2,2,3,3,65000
+ Nairobi, Kilimani,1,1,2,110,125000
+ Nairobi, Karen,1,1,1,,35000
+ Nairobi, Karen,5,5,5,,190000
+ Nairobi, Embakasi,3,2,2,,150000
+,,2,2,2,,75000
+,,3,4,4,,95000
+,,1,1,,,75000
+,,4,3,3,,80000
+,,3,3,3,,100000
+,,4,4,4,,130000
+ Nairobi, Nairobi Central,8,4,4,,200000
+ Nairobi, Westlands,4,4,4,,250000
+ Nairobi, Kilimani,3,4,4,,160000
+ Machakos, Syokimau/Mulolongo,4,5,5,,90000
+ Machakos, Athi River,3,4,4,,55000
+,,3,4,4,,250000
+ Nairobi, Lavington,3,4,4,,110000
+ Nairobi, Parklands,3,4,4,,115000
+ Nairobi, Westlands,2,3,3,,85000
+ Nairobi, Kileleshwa,2,2,2,,120000
+ Nairobi, Kilimani,3,5,5,,160000
+ Nairobi, Kilimani,2,3,3,,90000
+ Nairobi, Lavington,3,4,4,,85000
+ Machakos, Syokimau/Mulolongo,2,2,2,,37000
+ Nairobi, Lavington,1,1,1,,70000
+ Machakos, Athi River,4,3,3,,60000
+ Machakos, Athi River,3,3,3,,60000
+ Nairobi, Lavington,3,4,4,,130000
+ Nairobi, Lavington,,,,,450000
+ Nairobi, Karen,4,4,4,,160000
+ Nairobi, Karen,4,4,4,,200000
+ Nairobi, Kilimani,2,1,1,,55000
+ Nairobi, Parklands,4,3,3,,100000
+ Nairobi, Kilimani,3,3,3,,95000
+ Kisumu, Central Kisumu,2,2,2,,47000
+ Kisumu, Central Kisumu,3,4,4,,110000
+ Westlands, Church Road.,2,2,2,1,1050
+ Kisumu, Central Kisumu,,,,,750000
+ Machakos, Athi River,4,3,3,,65000
+ Nairobi, Karen,5,6,5,,350000
+ Nairobi, Lavington,2,2,2,,100000
+ Nairobi, Westlands,1,,,,105000
+ Nairobi, Kileleshwa,3,3,3,,90000
+ Nairobi, Kilimani,3,3,3,,120000
+ Nairobi, Parklands,3,2,2,,65000
+ Machakos, Syokimau/Mulolongo,4,5,5,,90000
+ Nairobi, Karen,10,10,10,,650000
+ Nairobi, Westlands,3,3,3,,150000
+ Nairobi, Parklands,3,4,4,,100000
+ Nairobi, Kileleshwa,3,3,3,,85000
+ Nairobi, Westlands,3,2,2,,110000
+ Nairobi, Kileleshwa,2,2,2,,110000
+ Machakos, Syokimau/Mulolongo,4,5,5,,90000
+ Nairobi, Kitisuru,4,5,5,,420000
+ Nairobi, Westlands,3,4,4,,200000
+,,2,2,2,1,220000
+ Nairobi, Nairobi Central,4,5,5,,220000
+ Nairobi, Nairobi Central,4,4,,,350000
+ Nairobi, Nairobi Central,3,3,3,,150000
+ Nairobi, Parklands,3,3,3,,130000
+ Nairobi, Westlands,3,4,4,,135000
+ Nairobi, Westlands,4,5,5,,130000
+ Nairobi, Westlands,4,5,5,,150000
+ Nairobi, Westlands,3,3,3,2,130000
+ Nairobi, Westlands,1,1,1,1,150000
+ Nairobi Central, Fourways,2,2,2,2,130000
+ Nairobi, Westlands,2,2,2,2,100000
+ Machakos, Athi River,4,3,3,,55000
+ Nairobi, Westlands,3,3,3,,140000
+ Machakos, Athi River,3,3,3,157,60000
+,,2,2,2,,210000
+ Nairobi, Westlands,,,,,400000
+ Uthiru/Ruthimitu, Stage 87,3,4,4,,65000
+ Nairobi, Kilimani,3,3,3,,120000
+ Nairobi, Karen,6,6,6,,500000
+ Nairobi, Nairobi Central,1,1,2,,110
+ Machakos, Athi River,10,7800,,,180000
+ Machakos, Athi River,4,5,5,,45000
+ Mombasa, Nyali,3,4,4,,120000
+ Nairobi, Karen,3,3,20,,120000
+ Nairobi, Westlands,3,4,4,266,180000
+ Westlands, Loresho,1,1,1,1,65000
+ Westlands, Runda,2,2,2,2,130000
+ Westlands, Runda,1,1,1,1,90000
+ Nairobi, Westlands,1,1,1,1,90000
+ Nairobi, Westlands,2,2,1,,55000
+ Nairobi, Kileleshwa,2,2,2,2,110000
+ Nairobi, Kilimani,3,4,4,2,185000
+,,3,3,3,2,200000
+ Nairobi, Parklands,2,4,4,,170000
+ Nairobi, Kileleshwa,3,3,3,2,230000
+ Nairobi, Kileleshwa,1,1,1,1,75000
+ Kiambu, Ruiru,2,,,,40000
+ Nairobi, Westlands,1,1,1,1,130000
+,,2,3,3,2,90000
+ Nairobi, Westlands,3,5,3,3,130000
+ Nairobi, Westlands,3,4,4,3,135000
+ Mombasa, Nyali,3,3,3,2,75000
+ Mombasa, Nyali,2,2,2,2500,140000
+ Nairobi, Lavington,2,2,2,2,120000
+ Nairobi, Westlands,2,2,2,2,55000
+opposite Serena Hotel/minet /shelter Afrique, Mamlaka Rd,1,,,,15000
+ Nairobi, Westlands,2,2,2,2,60000
+ Nairobi, Westlands,2,2,3,,185000
+ Nairobi, Nairobi Central,2,3,3,,55000
+ Nairobi, Parklands,,,,,164000
+ Embakasi, Industrial Area,,,,,36
+ Nairobi, Nairobi Central,,,,,210000000
+ Nairobi, Westlands,10,4,4,30,500000
+ Nairobi, Westlands,10,4,4,30,500000
+ Nairobi, Westlands,3,3,3,2,160000
+ Nairobi, Westlands,1,1,1,1,65000
+ Nairobi, Westlands,1,2,3,100,100000
+ Machakos, Syokimau/Mulolongo,2,1,8,100000,350000
+ Nairobi, Kasarani,1,1,,,8000
+ Nairobi, Karen,5,5,6,3,180000
+ Embakasi, Industrial Area,,,,,35
+ Nairobi, Kitisuru,4,,,,250000
+ Embakasi, Industrial Area,,,,,40
+ Kajiado, Ngong,,,,,40000
+ Nairobi, Westlands,92,,,,120000
+ Nairobi, Westlands,19,,,,20000
+ Nairobi, Kilimani,2,2,2,1,60000
+ Nairobi, Lavington,6,5,5,5,250000
+ Nairobi, Lavington,3,3,4,2,140000
+ Nairobi, Karen,3,2,2,2,60000
+ Nairobi, Nairobi Central,4,4,3,2,180000
+ Nairobi, Kilimani,2,2,2,210,85000
+,,3,3,3,2,70000
+,,3,3,4,,180000
+ Nairobi, Parklands,2,2,2,2,110000
+ Nairobi, Karen,5,5,6,4,350000
+,,3,3,3,2,130000
+ Nairobi, Karen,4,3,3,5,350000
+ Mombasa, Nyali,3,3,,,220000
+ Nairobi, Westlands,3,3,4,1,145000
+ Nairobi, Westlands,2,2,2,1,95000
+ Westlands, Runda,3,3,4,2,150000
+ Westlands, Runda,3,3,4,2,140000
+ Westlands, Runda,3,3,3,1,100000
+ Kiambu, Township C,3,3,3,3,170000
+ Nairobi, Karen,5,6,5,4,350000
+ Nairobi, Lavington,3,3,3,2,95000
+,,4,4,5,4,300000
+,,3,2,3,3,150000
+ Kiambu, Ruaka,4,4,5,2,130000
+ Nairobi, Nairobi Central,5,4,4,,120000
+ Nairobi, Westlands,1,1,1,140,100000
+ Runda, Mimosa,5,5,5,5,5500
+ Nairobi, Westlands,1,2,2,2,130000
+ Kajiado, Ngong,3,2,2,,35000
+ Nairobi, Muthaiga,4,4,4,4,250000
+ Nairobi, Westlands,2,2,2,2,190000
+,,2,2,2,,150000
+,,1,1,2,345,370000
+,,3,3,1,259,70000
+ Nairobi, Lavington,3,3,3,3,150000
+,,4,4,5,2,290000
+,,4,4,5,6,220000
+,,3,1,1,,60000
+ Nairobi, Westlands,2,2,4,4580,90000
+ Embakasi, Industrial Area,,,,,35
+ Nairobi, Kilimani,2,3,3,2,200000
+ Nairobi, Karen,4,4,5,3,250000
+ Nairobi, Westlands,2,2,2,2,150000
+ Nairobi, Westlands,2,2,2,2,100000
+ Nairobi, Westlands,2,2,2,2,160000
+ Nairobi, Westlands,3,3,3,3,130000
+ Nairobi, Kitisuru,5,3,3,15,350000
+ Nairobi, Karen,3,3,4,3,130000
+ Kiambu, Ruiru,1,1,1,1,20000
+ Kirinyaga, Kerugoya,1,1,1,,10000
+ Kiambu, Ruiru,1,1,2,100,150
+ Kiambu, Juja,2,2,2,2,35000
+ Kilimani, Kilimani Estate,1,1,1,1,110000
+,,3,2,2,,70000
+ Nairobi, Kilimani,4,4,5,280,200000
+,,3,3,3,2,67000
+,,3,3,3,,47500
+ Westlands, Loresho,5,5,5,4,750000
+,,5,5,5,3,200000
+ Nairobi, Muthaiga,2,2,2,2,55000
+ Muthaiga, Near Rosters,4,4,4,4,125000
+,,4,5,5,5,3000
+ Nairobi, Ngara,,,,,80
+,,4,4,3,6,250000
+,,3,3,3,2,100000
+,,1,1,1,,20000
+ Kisumu, Market Milimani,3,3,3,,50000
+ Nairobi, Nairobi Central,4,4,4,,180000
+ Kiambu, Thika,2,2,3,2,30000
+ Kiambu, Ruiru,4,4,4,4,170000
+ Machakos, Syokimau/Mulolongo,3,2,2,2,50000
+ Nairobi, Kileleshwa,2,2,2,2,70000
+,,3,2,2,2,60000
+,,2,3,3,2,280000
+,,3,4,4,2,300000
+,,3,2,2,,47500
+,,3,2,2,,55000
+ Nairobi, Nairobi Central,5,5,5,5,180000
+ Nairobi, Westlands,2,2,2,1,120000
+ Nairobi, Westlands,3,3,3,2,150000
+,,2,2,2,,120000
+,,5,4,4,3,160000
+ Nairobi, Karen,5,5,5,,200000
+ Nairobi, Kileleshwa,3,2,2,1,80000
+ Nairobi, Kileleshwa,2,2,2,1,65000
+ Nairobi, Kileleshwa,1,1,40,,40000
+ Nairobi, Lavington,4,4,4,4,300000
+ Kisumu, Market Milimani,,,,,200000
+ Nairobi, Westlands,4,4,4,4,110000
+ Nairobi, Nairobi Central,3,3,5,900,2000000
+,,3,2,2,,60000
+ Nairobi, Parklands,4,3,3,3,90000
+ Machakos, Athi River,4,3,3,,45500
+ Nairobi, Parklands,4,3,3,3,100000
+ Nairobi, Westlands,4,3,3,3,135000
+ Nairobi, Parklands,3,2,2,3,90000
+ Nairobi, Parklands,4,4,4,4,150000
+ Kilimani, Matumbato Road,2,1,1,1,55000
+ Nairobi, Parklands,2,2,2,2,160000
+ Nairobi, Westlands,3,3,3,3,250000
+ Embakasi, Tassia,3,3,3,,40000
+,,3,3,4,2,135000
+,,1,1,1,,25000
+,,3,3,4,,85000
+ Nairobi, Spring Valley,4,4,4,4,250000
+,,3,2,3,,50000
+,,3,2,2,,40000
+ Mombasa, Nyali,3,2,2,,45000
+ Tala, Off Malaa,,,,,10000
+,,3,2,2,,65000
+ Nairobi, Lavington,2,2,2,2,75000
+,,4,3,3,,130000
+,,5,4,5,,100000
+,,3,3,4,,80000
+ Machakos, Athi River,,,,,50000
+ Nairobi Central, Just Off Eden Road,3,3,3,3,100000
+,,3,2,2,2,65000
+,,2,2,3,2,70000
+ Nairobi, Embakasi,610,,,,69312
+ Nairobi, Kilimani,3002,,,,348232
+ Nairobi, Westlands,3,3,3,2,150000
+ Nairobi, Westlands,1,1,1,1,150000
+,,3,2,3,2,21000000
+ Nairobi, Kileleshwa,2,2,2,2,80000
+ Nairobi, Lavington,5,5,5,4,280000
+ Nairobi, Westlands,2,2,2,2,120000
+,,5,4,8,2023,500000
+ Nairobi, Westlands,3,3,3,2,300000
+ Westlands, Runda,3,2,2,2,150000
+ Nairobi, Westlands,3,3,3,2,165000
+,,5,5,5,4,250000
+ Narok, Olorropil,4,4,4,3,225000
+,,2,2,2,2,240000
+,,3,3,3,2,100000
+ Nairobi, Westlands,3,2,2,2,65000
+,,3,3,4,2,67500
+ Nairobi, Westlands,3,3,3,3,95000
+ Mombasa, Nyali,3,4,2,2000,62500
+ Machakos, Athi River,4,4,4,,65000
+ Kiambu, Limuru East,4,4,4,4,200000
+ Nairobi, Parklands,1,1,1,2,55000
+ Nairobi Central,,3,3,3,1,75000
+ Kilimani, Chiromo,3,4,4,3,175000
+ Kiambu, Ruiru,4,4,4,,150000
+ Nairobi, Kileleshwa,5,5,6,2,180000
+ Kiambu, Limuru Central,4,4,4,,150000
+ Nairobi, Westlands,381,,,,492000
+ Nairobi, Karen,,,,,40000
+ Kiambu, Limuru Central,610,,,,3660
+ Embakasi, Industrial Area,,,,,250000
+ Nairobi, Kilimani,2,2,4,4536,110000
+ Nairobi, Kilimani,2,2,4,4603,100000
+ Nairobi, Westlands,1,1,2,4258,70000
+ Nairobi, Westlands,3,3,3,3,165000
+ Nairobi, Kileleshwa,3,3,3,2,170000
+,,2,3,3,2,90000
+ Nairobi, Westlands,2,2,2,,119000
+ Nairobi, Westlands,1,1,1,1,114000
+ Nairobi, Nairobi Central,,,,,25000
+ Nairobi, Kilimani,4,3,3,3,180000
+ Mombasa, Nyali,3,4,3,3,100000
+ Kiambu, Ruiru,4,4,4,4,70000
+ Nairobi, Westlands,5,4,4,4,150000
+ Nairobi, Lavington,5,5,20,,250000
+ Embakasi, Industrial Area,,,,,150000
+ Igoji West, ð¨ðð ðð¡ð¢ð¤ð ðð¨ðð,4,4,4,,120000
+ Nairobi, Nairobi Central,4,4,4,,150000
+ Nairobi, Westlands,5,5,5,5,350000
+ Mombasa, Nyali,3,2,2,2,45000
+ Nairobi, Kileleshwa,1,1,1,1,65000
+ Nairobi, Westlands,3,2,2,2,150000
+ Westlands, Rosslyn,3,3,3,3,300000
+,,3,2,2,2,220000
+ Nairobi, Kileleshwa,1,1,1,1,85000
+,,3,3,3,,85000
+ Nairobi, Parklands,,,,,120
+ Nairobi, Westlands,2,2,2,,180000
+ Embakasi, Industrial Area,,,,,40
+ Kiambu, Thika,5,4,4,2,60000
+ Nairobi, Westlands,5,4,4,4,200000
+ Kiambu, Ruiru,2,2,2,2,54500
+ Nairobi, Lavington,2,2,2,2,120000
+ Nairobi, Westlands,4,3,3,3,250000
+ Nairobi, Westlands,1,1,2,4580,80000
+ Westlands, Runda,1,1,1,1,40000
+,,2,3,3,2,160000
+,,2,1,1,,27000
+,,1,1,1,1,120000
+ Nairobi, Westlands,4,3,3,,200000
+ Nairobi, Parklands,1,1,1,1,130000
+ Nairobi, Westlands,1,1,1,1,165000
+ Nairobi, Westlands,4,4,3,,200000
+ Kiambu, Ruiru,3,3,3,3,55000
+,,1,2,2,2,90000
+ Kiambu, Ruiru,3,3,3,3,110000
+ Kiambu, Kikuyu,1,1,1,1,11000
+ Lavington,  Behind Valley Arcade,5,5,6,3,180000
+,,4,5,5,3,165000
+,,4,4,4,5,260000
+ Nairobi, Lavington,1,1,1,4563,18000
+ Nairobi, Nairobi Central,,,,,20000
+ Mombasa, Nyali,4,3,3,,150000
+ Nairobi, Westlands,4,4,4,3,3000
+ Kiambu, Kinoo,2,3,3,2,35000
+ Kiambu, Kinoo,3,4,4,3,50000
+ Kiambu, Membley Estate,2,2,2,2,35000
+,,3,3,4,2,220000
+ Mombasa, Nyali,3,2,3,2,50000
+ Mombasa, Nyali,2,,,,45000
+ Nairobi, Westlands,1,1,1,1,160000
+ Nyali, Mombasa,3,2,2,1,45000
+ Mombasa, Nyali,4,4,5,2,90000
+ Nairobi, Westlands,2,2,2,,85000
+ Nairobi, Westlands,1,1,1,1,60000
+ Nairobi, Westlands,1,1,1,1,70000
+ Nairobi, Kileleshwa,3,3,3,3,200000
+ Nairobi, Westlands,2,3,3,2,100000
+,,2,2,2,2,40000
+ Kilifi, Malindi Town,,,,,325000
+ Nairobi, Westlands,4,3,3,3,130000
+ Nairobi, Kileleshwa,1,1,1,1,120000
+ Nairobi, Ngara,2,1,1,1,40000
+ Mombasa, Nyali,3,4,3,2500,140000
+ Nairobi, Kilimani,2,3,2,,180000
+ Nairobi, Kilimani,2,3,2,,140000
+ Nairobi, Kileleshwa,3,2,2,2,160000
+ Nairobi, Westlands,5,4,4,4,200000
+ Mombasa, Nyali,2,2,2,2,110000
+ Nairobi, Westlands,3,4,2,,140000
+,,4,5,,,230000
+ Nairobi, Lavington,5,5,5,5,270000
+ Nairobi, Westlands,4,4,,,350000
+,,1,2,2,2,70000
+ Nairobi, Westlands,4,5,5,4,300000
+ Nairobi, Westlands,3,3,3,3,180000
+ Nairobi, Westlands,2,3,3,3,200000
+ Nairobi, Kilimani,,,,,200000
+ Nairobi, Westlands,2,2,2,2,150000
+ Mombasa, Nyali,3,4,3,2800,90000
+ Nairobi, Kileleshwa,3,3,3,3,80000
+ Nairobi, Kileleshwa,3,3,3,3,90000
+,,1,2,2,2,200000
+,,1,1,1,1,120000
+ Nairobi, Lavington,4,4,4,4,180000
+ Nairobi, Parklands,2,2,2,2,65000
+ Nairobi, Kilimani,1,1,1,1,55000
+ Nairobi, Kileleshwa,2,2,2,2,75000
+ Nairobi, Kileleshwa,2,2,2,2,75000
+ Nairobi, Kilimani,3,2,2,3,70000
+ Nairobi, Lavington,1,1,1,1,55000
+ Nairobi, Muthaiga,5,5,,,400000
+,,2,2,2,,45000
+ Mombasa, Nyali,4,3,3,2,55000
+ Nairobi, Westlands,3,3,3,3,250000
+ Nairobi, Westlands,3,4,4,3,260000
+ Nairobi, Westlands,4,5,,,250000
+ Nairobi, Westlands,4,5,5,,250000
+ Nairobi, Westlands,1,1,1,1,40000
+ Nairobi, Westlands,4,5,2,,250000
+ Nairobi, Ngara,2,2,3,3085,210000
+ Nairobi, Westlands,2,2,2,2,110000
+,,2,2,2,2,80000
+,,2,2,2,1,70000
+ Nairobi, Karen,6,6,6,4,400000
+ Nairobi, Westlands,1,1,1,1,45000
+ Nairobi, Westlands,5,7,7,,380000
+ Nairobi, Westlands,5,7,7,,350000
+ Westlands, Runda,2,2,3,1,95000
+,,,,,,300000
+,,3,4,,,120000
+ Nairobi, Muthaiga,4,5,5,,350000
+ Nairobi, Westlands,3,3,3,3,80000
+ Nairobi, Kilimani,2,2,2,1,80000
+ Kiambu, Ruiru,4,4,4,4,140000
+ Spring Valley, General Mathenge,3,4,4,2,2400
+ Nairobi, Kilimani,3,4,5,2,120000
+ Nairobi, Lavington,5,5,5,2,250000
+ Nairobi, Westlands,2,3,,,250000
+,,4,4,4,4,70000
+ Nairobi, Lavington,4,4,15,3035,400000
+,,3,3,3,2,150000
+ Nairobi, Kilimani,3,3,3,2,150000
+,,3,3,3,2,130000
+,,2,2,2,2,85000
+,,3,2,3,5,50000
+,,3,3,3,2,120000
+,,3,2,2,2,90000
+,,3,3,3,2,160000
+,,3,3,3,2,130000
+ Nairobi, Westlands,2,2,,,1
+ Nairobi, Westlands,2,2,,,3
+ Nairobi, Westlands,2,2,3801,,1
+ Nairobi, Kileleshwa,3,2,2,2,80000
+,,2,2,3,2,70000
+ Nairobi, Kileleshwa,6,5,6,4,4000
+ Nairobi, Kilimani,4,5,5,,150000
+ Nairobi, Lavington,3,4,4,,100000
+,,4,5,,,350000
+ Nairobi, Kileleshwa,5,3,3,4,180000
+,,5,7,,,350000
+ Machakos, Syokimau/Mulolongo,2,3,3,,40000
+ Nairobi, Westlands,3,3,3,3,120000
+ Nairobi, Westlands,2,2,2,2,250000
+ Nairobi, Kilimani,3,2,2,3,170000
+ Nairobi, Kilimani,1,1,1,1,45000
+ Nairobi, Kileleshwa,2,2,2,2,65000
+ Nairobi, Kileleshwa,3,3,3,2,75000
+ Nairobi, Westlands,3,3,3,3,190000
+ Nairobi, Westlands,1,1,1,1,120000
+ Nairobi, Kileleshwa,3,3,3,3,160000
+ Nairobi, Parklands,4,2,2,3,80000
+ Kiambu, Uthiru,3,2,2,2,65000
+ Mombasa, Nyali,3,2,3,,52500
+,,2,3,,,200000
+,,4,5,5,,150000
+ Lavington,  Valley Arcade,5,3,3,2,160000
+ Nairobi, Lavington,2,2,2,2,67000
+ Kiambu, Ndenderu,2,2,2,2,50000
+ Kiambu, Ruiru,2,1,1,1,45000
+ Nairobi, Ngara,4,4,4,,170000
+,,1,1,1,1,130000
+,,5,6,6,,230000
+ Nairobi, Westlands,1,1,1,1,80000
+ Kilimani,  Near Makini School,3,2,3,2,13500000
+ Nairobi, Karen,5,6,2023,,150000
+ Kiambu, Gitaru,1,1,1,1,10000
+,,2,2,2,2,80000
+ Nairobi, Kileleshwa,1,1,1,,135000
+ Nairobi, Thindigua,2,2,2,1,45000
+ Ruiru,,4,3,3,3,140000
+,,3,3,3,,85000
+ Ruiru, Engen- Garissa Road,1,1,1,,6500
+ Kiambu, Ruiru,2,2,2,1,31000
+ Ndumberi, Peters Secondary School,2,1,1,1,16000
+ Kiambu, Juja,4047,,,,700000
+ Kiambu, Ruiru,1,1,1,1,15000
+ Kiambu, Ruiru,3,4,4,1,55000
+ Ruiru, Along Ruiru - Kamiti Road,1,1,1,1,23000
+ Kiambu, Ruiru,1,1,1,1,23000
+ Kiambu, Ruiru,5,5,5,3,120000
+ Mombasa, Nyali,3,4,4,2,120000
+ Mombasa, Nyali,2,2,2,1,110000
+ Nairobi, Kilimani,1,1,1,1,130000
+ Westlands,westlands,2,,,,200000
+,,3,,,,150000
+,,3,,,,160000
+,,3,,,,120000
+,,6,7,,,400000
+,,2,20,,,90
+ Westlands, Runda,3,3,3,2,130000
+ Westlands, Loresho,2,1,2,2,130000
+ Nairobi, Westlands,4,3,4,2,75000
+ Nairobi, Lavington,2,2,2,2,100000
+ Nakuru, Gilgil,3561,,,,250000
+ Ruiru, Off The Eastern Bypass.,4,3,3,,100000
+ Nairobi, Westlands,3,3,3,2,150000
+ Nairobi, Westlands,3,4,,,130000
+,,2,2,2,2,65000
+,,1,1,1,1,45000
+,,3,4,,,130000
+,,6,6,,,400000
+ Nairobi, Westlands,5,7,,,590000
+,,4,6,,,400000
+,,4,5,,,250000
+,,2,2,,,160000
+ Nairobi, Westlands,4,5,,,280000
+ Nairobi, Westlands,4,5,3,,270000
+ Nairobi, Kileleshwa,3,2,2,2,90000
+ Nairobi, Kitisuru,5,6,6,3,400000
+ Nairobi, Westlands,4,4,4,4,220000
+ Nairobi, Kileleshwa,1,1,1,1,45000
+ Nairobi, Westlands,2,1,1,2,60000
+ Nairobi, Westlands,1,1,1,1,55000
+ Nairobi, Westlands,3,2,2,2,65000
+ Nairobi, Lavington,3,3,3,3,110000
+ Nairobi, Westlands,1,1,1,1,100000
+ Nairobi, Kileleshwa,1,1,1,1,45000
+ Nairobi, Parklands,4,4,4,3,150000
+ Nairobi, Westlands,4,3,3,3,80000
+ Kiambu, Membley Estate,4,3,3,3,75000
+ Westlands, Peponi Road,4,3,3,4,240000
+,,5,7,,,450000
+ Nairobi, Kitisuru,4,4,4,5,4000
+ Westlands, Loresho,6,5,6,10,350000
+ Nairobi, Westlands,1,2,,,2500000
+ Westlands, Loresho,6,,,,280000
+,,3,3,2,2,150000
+,,4,3,4,3,120000
+ Nairobi, Kitisuru,4,4,4,3,270000
+ Nairobi, Westlands,5,5,5,4,150000
+ Nairobi, Westlands,2,2,2,1,45000
+ Nairobi, Lavington,3,3,3,2,150000
+ Nairobi, Kileleshwa,2,2,2,2,100000
+ Nairobi, Kileleshwa,3,3,3,2,140000
+ Nairobi, Westlands,2,3,3,2,170000
+ Mombasa, Nyali,3,2,2,,43000
+,,1,1,1,1,130000
+ Kiambu, Ruiru,3,3,3,2,55000
+ Kiambu, Ruiru,4,3,3,3,140000
+ Kiambu, Githiga (Githunguri),3,2,2,,40000
+ Kisumu, Market Milimani,3,3,3,,60000
+ Nairobi, Kileleshwa,3,4,4,,220000
+ Nairobi, Kileleshwa,3,4,4,2,140000
+ Machakos, Athi River,2,,,,20000
+ Nairobi, Parklands,3,3,3,3,90000
+ Kiambu, Membley Estate,3,3,3,3,55000
+ Machakos, Athi River,3,3,3,,50000
+ Nairobi, Nairobi Central,3,3,3,2,104000
+ Nairobi, Kileleshwa,2,2,2,2,95000
+ Nairobi, Westlands,2,2,2,2,80000
+ Nairobi, Westlands,2,1,1,1,130000
+ Nairobi, Westlands,2,2,2,2,60000
+ Nairobi, Lavington,3,2,2,3,210000
+,,3,2,2,3,90000
+ Nairobi, Lavington,2,2,2,2,180000
+,,2,2,2,2,180000
+,,3,2,2,2,170000
+,,1,1,1,1,125000
+ Nairobi, Kileleshwa,3,4,4,3,120000
+ Nairobi, Kileleshwa,5,6,6,4,200000
+ Nairobi, Kileleshwa,2,2,2,2,70000
+ Nairobi, Kileleshwa,3,4,4,3,90000
+ Nairobi, Kileleshwa,2,2,2,2,120000
+ Nairobi, Kilimani,2,2,2,2,160000
+ Nairobi, Kileleshwa,3,3,3,3,85000
+ Nairobi, Parklands,1,1,1,1,35000
+ Nairobi, Parklands,1,1,1,39000,25000
+ Machakos, Syokimau/Mulolongo,4,4,4,3,120000
+ Nairobi, Westlands,2,2,2,2,140000
+,,3,3,3,3,300000
+,,3,3,3,3,150000
+ Muthaiga, New Muthaiga,5,6,,,450000
+ Nairobi, Westlands,4,6,,,300000
+ Nairobi, Nairobi Central,,,,,62500
+,,,,,,399500
+ Nairobi, Lavington,4,3,3,3,130000
+ Nairobi Central, Matumbato Road,3,2,2,2,70000
+ Westlands, Rosslyn,2,2,2,2,95000
+ Mombasa, Nyali,1,1,1,1,28000
+ Nairobi, Lavington,3,3,8,4050,270000
+ Nairobi, Westlands,2,2,2,2,130000
+,,2,2,2,2,75000
+,,1,2,2,2,120000
+,,3,1,2,,60000
+ Nairobi, Westlands,4,4,4,4,400000
+ Westlands, Rosslyn,5,5,5,4,450000
+,,6,6,6,5,500000
+ Nairobi, Westlands,2,2,2,3,55000
+,,,,,,250000
+ Nairobi, Karen,5,6,6,,450000
+ Nairobi, Westlands,3,3,3,2,200000
+ Nairobi, Westlands,2,3,3,2,90000
+,,3,3,3,,45000
+,,1,1,1,1,25000
+,,3,3,4,2,100000
+,,1,1,1,,16000
+ Nairobi, Lavington,1,1,1,1,38000
+ Nairobi, Kilimani,2,2,2,2,65000
+ Nairobi, Lavington,5,5,5,3,350000
+ Nairobi, Karen,4,4,5,4,350000
+,,2,3,3,2,180000
+ Nairobi, Lavington,1,1,1,56,35000
+ Nairobi, Karen,5,4,5,5,250000
+,,6,3,3,,250000
+,,3,3,4,2,80000
+ Nairobi, Imara Daima ,,,,,37
+ Nairobi, Parklands,,,,,80
+ Nairobi, Westlands,,,,,100
+ Westlands, Westlands Road,,,,,250000
+ Parklands, 3rd Parklands,,,,,110
+,,,,,,75
+ Nairobi, Kileleshwa,1,1,1,1,140000
+ Nairobi, Kileleshwa,2,2,2,2,80000
+ Nairobi, Lavington,3,2,2,2,70000
+,,3,4,3,,120000
+,,5,5,6,3,110000
+ Nairobi, Westlands,2,2,2,2,70000
+ Nairobi, Westlands,1,1,1,1,50000
+ Mombasa, Nyali,2,1,1,1,26500
+ Mombasa, Nyali,3,3,4,2,190000
+ Nairobi, Parklands,1,1,1,1,40000
+ Nairobi, Ngara,1,1,1,1,30000
+,,4,3,3,2,92000
+ Kisumu, Central Kisumu,1,1,,,75000
+ Nairobi, Nairobi Central,4,,,,30000
+ Nairobi, Kilimani,2,2,2,,130000
+ Nairobi, Westlands,3,1,2,3,60000
+,,4,3,3,,270000
+ Mombasa, Nyali,2,2,2,1,110000
+ Nairobi, Westlands,2,3,3,2,100000
+ Nairobi, Westlands,4,6,6,,260000
+ Nairobi, Parklands,3,2,2,3,100000
+,,3,3,4,2,150000
+ Westlands, Runda,4,4,4,,140000
+ Westlands, Runda,4,4,4,4,135000
+ Kiambu, Ruiru,4,4,4,4,150000
+,,3,3,3,2,250000
+ Nairobi, Westlands,2,3,3,1,220000
+ Nairobi, Westlands,2,2,2,2,48000
+ Nairobi, Westlands,2,2,2,2,55000
+ Nairobi, Westlands,2,2,2,2,45000
+ Kiambu, Ruiru,4,4,4,4,140000
+ Nairobi, Westlands,2,2,2,2,200000
+ Nairobi, Westlands,2,2,2,2,160000
+ Nairobi, Kilimani,3,2,3,3,199999
+ Nairobi, Kilimani,3,3,3,2,200000
+ Kiambu, Kikuyu,1,1,1,1,16000
+,,2,2,2,2,65000
+ Mtwapa, Mombasa,3,2,3,,150000
+,,3,2,3,2,67500
+,,4,5,,,250000
+,,4,4,,,275000
+ Nairobi, Kilimani,4,3,3,3,210000
+ Nairobi, Lavington,3,3,3,3,75000
+ Nairobi, Lavington,4,3,3,3,200000
+,,1,2,2,1,110000
+ Nairobi, Kilimani,2,2,2,2,65000
+ Nairobi, Kileleshwa,2,3,3,2,120000
+,,8,4,4,50,1200000
+ Nairobi, Kileleshwa,4,4,4,2,250000
+ Nairobi, Lavington,3,4,3,2,160000
+,,1,1,1,1,60000
+ Nairobi, Lavington,3,3,3,2,130000
+ Nairobi, Ngara,3,2,2,1,60000
+,,3,4,3,,110000
+ Nairobi, Parklands,3,2,2,2,55000
+ Nairobi, Parklands,3,3,3,3,100000
+ Nairobi, Kilimani,1,2,2,1,130000
+,,3,3,3,2,85000
+ Nairobi, Westlands,1,1,1,1,90000
+ Kiambu, Ruiru,2,2,2,2,45000
+ Nairobi, Parklands,6,,,,250000
+ Mombasa, Nyali,3,4,3,2,90000
+,,1,1,1,1,64000
+,,2,3,3,2,260000
+ Nairobi, Lavington,5,5,5,2,180000
+,,2,2,2,2,200000
+ Nairobi, Kileleshwa,2,2,2,2,190000
+ Mombasa, Nyali,4,5,3,2500,165000
+ Nairobi, Kilimani,2,2,2,2,130000
+,,4,6,,,250000
+ Nairobi, Westlands,4,6,6,,300000
+ Mombasa, Majengo,3,2,2,2,165000
+,,4,6,,,380000
+,,3,2,2,,130000
+ Nairobi, Westlands,2,2,2,2,40000
+ Nairobi, Parklands,1,1,1,1,35000
+ Nairobi, Kileleshwa,2,2,2,2,55000
+,,2,2,3,1,180000
+ Nairobi, Westlands,2,2,2,2,80000
+ Nairobi, Kileleshwa,2,2,1,2,50000
+ Nairobi, Kileleshwa,1,1,1,1,25000
+ Nairobi, Lavington,4,3,3,3,160000
+ Nairobi, Lavington,4,3,3,5,200000
+ Mombasa, Nyali,3,4,4,3,150000
+ Nairobi, Nairobi Central,3,4,4,,300000
+ Mombasa, Nyali,3,4,3,2,65000
+ Nairobi, Nairobi Central,,,,,13000
+ Nairobi, Westlands,1,1,1,1,140000
+ Mombasa, Nyali,4,2,3,2,70000
+ Nairobi, Lavington,4,5,5,3,150000
+,,1,1,1,,70000
+,,3,3,4,2,125000
+,,3,3,3,2,150000
+,,1,1,1,,40000
+,,3,3,4,2,150000
+,,1,1,1,1,40000
+ Kiambu, Township E,5,5,5,4,120000
+,,5,4,4,5,150000
+ Kiambu, Ruiru,4,3,3,,140000
+ Nairobi, Lavington,4,4,4,3,150000
+,,3,2,2,2,80000
+,,6,5,5,6,300000
+ Nairobi, Westlands,4,5,10,480,310000
+ Nairobi, Kileleshwa,5,5,5,3,250000
+ Nairobi, Lavington,3,4,4,2,180000
+ Nairobi, Lavington,2,2,2,2,75000
+ Nairobi, Kileleshwa,3,5,3,2,170000
+ Nairobi, Westlands,3,2,2,2,200000
+ Mombasa, Shimanzi,,,,,120000
+,,1,1,1,1,85000
+ Nairobi, Westlands,5,5,5,,170000
+ Mombasa, Nyali,3,3,2,2500,150000
+,,1,1,1,1,130000
+ Nairobi, Kilimani,4,3,3,3,110000
+ Nairobi, Kilimani,3,3,3,,250000
+,,3,3,3,2,100000
+ Nairobi, Westlands,2,2,2,2,200000
+ Nairobi, Nairobi Central,4,4,5,,300000
+ Nairobi, Kilimani,3,2,2,2,160000
+ Nairobi, Lavington,4,3,3,4,180000
+ Nairobi Central, Along Moi Avenue,1,1,,,250000
+ Westlands, Runda,2,2,2,2,150000
+ Westlands, Runda,1,1,1,1,40000
+ Kiambu, Ruaka,3,2,2,2,54000
+ Nairobi, Githurai,1,1,,,8500
+ Githurai, Githurai 44,,,,,6500
+,,2,3,3,2,70000
+,,3,3,3,3,130000
+,,2,2,2,1,160000
+ Nairobi, Westlands,2,2,2,2,120000
+ Nairobi, Kilimani,1,2,2,1,115000
+ Near Pcea Mukuyu Church, Behind Spur Mall,1,1,1,,13000
+ Ruiru, Near Ku Ruiru Campus,1,1,,,6000
+ Ruiru, Kihunguro Behind Plainsview Hospital,2,2,2,1,23000
+ Nairobi, Westlands,3,3,3,3,180000
+ Nairobi, Westlands,2,2,2,2,70000
+,,1,1,1,1,130000
+ Nairobi, Kileleshwa,5,5,5,5,230000
+ Nairobi, Kasarani,3,2,3,2,55000
+ Nairobi, Kileleshwa,1,1,1,1,50000
+,,3,3,3,3,100000
+ Nairobi, Westlands,3,3,3,3,250000
+ Nairobi, Karen,5,5,5,5,450000
+ Nairobi, Kilimani,2,2,2,3,230000
+ Nairobi, Kilimani,2,2,6,170,80000
+ Nairobi, Westlands,2,2,2,2,40000
+ Nairobi, Ngara,2,1,1,2,40000
+ Nairobi, Westlands,3,4,4,3,150000
+,,1,1,1,1,130000
+ Muthaiga, Muthaiga North,4,2,3,,104000
+ Nairobi, Parklands,3,2,3,2,95000
+ Nairobi, Mountain View,5,6,6,4,190000
+ Nairobi, Kileleshwa,1,1,1,1,110000
+ Nairobi, Kileleshwa,2,2,2,2,200000
+ Nairobi, Westlands,3,2,2,3,90000
+ Nairobi, Lavington,3,3,3,200,90000
+ Mombasa, Nyali,3,4,4,2,100000
+ Westlands, Loresho,4,4,5,4,140000
+ Nairobi, Westlands,4,4,4,3,140000
+ Nairobi, Westlands,2,2,2,2,60000
+ Nairobi, Westlands,3,2,2,2,65000
+ Nairobi, Parklands,3,2,2,2,90000
+ Nairobi, Kileleshwa,3,2,2,2,70000
+,,4,4,4,2,350000
+ Mombasa, Nyali,4,4,4,3,165000
+ Nairobi, Westlands,2,2,2,2,50000
+ Mombasa, Nyali,2,2,2,2,130000
+,,3,3,3,2,100000
+ Nairobi, Nairobi Central,2,2,1,1,50000
+,,1,1,1,1,120000
+,,2,2,2,2,150000
+,,4,4,4,2,160000
+,,2,2,2,2,150000
+ Nairobi, Westlands,3,3,3,2,85000
+ Nairobi, Lavington,3,3,4,2,110000
+ Nairobi, Westlands,2,2,3,2,60500
+,,3,3,3,2,100000
+,,3,3,3,2,90000
+ Nairobi, Westlands,4,4,4,2,100000
+ Nairobi, Westlands,2,2,2,,500000
+,,3,3,3,2,150000
+ Nairobi, Parklands,3,2,2,2,90000
+,,2,3,3,2,110000
+ Nairobi, Kileleshwa,1,2,2,2,65000
+ Nairobi, Westlands,2,2,2,2,100000
+ Nairobi, Westlands,4,5,5,4,250000
+,,2,2,2,2,140000
+ Nairobi, Kileleshwa,3,3,3,3,75000
+ Nairobi, Westlands,3,3,3,3,135000
+ Nairobi, Lavington,3,3,3,3,130000
+ Nairobi, Kileleshwa,5,4,4,3,150000
+ Nairobi, Kilimani,3,3,2,3,80000
+ Mombasa, Nyali,3,4,2,2500,90000
+ Nairobi, Kileleshwa,2,2,2,2,50000
+ Nairobi, Muthaiga,5,4,4,3,250000
+ Mombasa, Nyali,2,2,2,2,85000
+ Nairobi, Westlands,1,1,1,52,40000
+ Nairobi, Westlands,1,1,1,86,50000
+ Nairobi, Westlands,1,1,3,60,35000
+ Nairobi, Kileleshwa,1,1,1,1,50000
+ Nairobi, Kileleshwa,2,2,2,2,70000
+ Nairobi, Lavington,1,1,1,67,20000
+ Nairobi, Westlands,1,1,1,1,45000
+ Nairobi, Kileleshwa,1,1,1,1,50000
+ Nairobi, Kilimani,2,3,3,2,90000
+ Nairobi, Parklands,2,2,2,2,100000
+,,2,2,2,2,90000
+ Nairobi, Kilimani,2,2,2,2,80000
+ Kiambu, Thika,4,4,4,4,130000
+,,1,2,2,3,65000
+ Nairobi, Ngara,3,3,3,2,70000
+ Nairobi, Westlands,5,3,4,3,225000
+ Nairobi, Westlands,3,3,3,254,225000
+ Nairobi, Westlands,4,4,5,4,230000
+ Nairobi, Westlands,1,1,1,1,85000
+ Nairobi, Westlands,2,2,2,2,140000
+ Nairobi, Westlands,1,1,1,1,110000
+ Nairobi, Westlands,3,3,3,3,65000
+ Nairobi, Kilimani,3,2,2,2,80000
+ Nairobi, Westlands,3,2,2,3,85000
+ Nairobi, Westlands,2,2,2,2,65000
+ Nairobi, Westlands,3,2,2,2,65000
+ Nairobi, Westlands,4,3,3,3,150000
+ Kiambu, Thika,3,2,2,2,75000
+ Nairobi, Westlands,3,2,2,2,65000
+ Nairobi, Westlands,2,2,2,2,45000
+ Nairobi, Ngara,3,2,2,2,60000
+ Nairobi, Ngara,2,2,2,2,40000
+ Nairobi, Parklands,3,1,1,133,55000
+ Nairobi, Parklands,1,1,1,1,35000
+ Nairobi, Ngara,1,1,1,1,35000
+ Nairobi, Ngara,2,2,2,2,40000
+ Nairobi, Parklands,1,1,1,2,38000
+ Nairobi, Parklands,3,3,3,2,95000
+ Nairobi, Parklands,2,2,1,1,50000
+ Nairobi, Ngara,2,1,1,1,40000
+ Nairobi, Westlands,1,1,1,1,45000
+ Nairobi, Parklands,3,1,1,2,50000
+ Nairobi, Parklands,3,2,2,2,55000
+ Nairobi, Westlands,1,1,1,1,50000
+ Nairobi, Lavington,3,3,3,3,105000
+ Nairobi, Westlands,2,2,2,2,95000
+ Nairobi, Westlands,2,2,2,2,175000
+ Nairobi, Kilimani,1,1,1,1,140000
+ Nairobi, Embakasi,3,3,3,3,50000
+ Mombasa, Nyali,1,1,1,2,65000
+ Nairobi, Westlands,4,3,3,3,190000
+ Nairobi, Westlands,3,3,3,3,110000
+,,2,2,2,2,140000
+ Nairobi, Kileleshwa,3,3,3,2,90000
+ Kiambu, Kikuyu,2,2,2,2,25000
+ Kiambu, Kikuyu,2,1,1,2,23000
+ Nairobi, Westlands,2,2,2,2,120000
+ Nairobi, Lavington,3,3,3,3,90000
+ Mombasa, Nyali,3,4,4,3,175000
+ Mombasa, Nyali,3,4,3,3,88000
+ Mombasa, Nyali,3,4,4,3,150000
+,,2,2,2,2,80000
+ Nairobi, Westlands,3,2,2,3,65000
+ Nairobi, Parklands,3,2,2,2,55000
+ Nairobi, Parklands,3,2,2,2,60000
+ Nairobi, Westlands,1,1,1,2,120000
+ Nairobi, Westlands,2,2,2,2,140000
+ Nairobi, Westlands,2,2,1,2,50000
+ Nairobi, Parklands,4,3,3,3,80000
+ Parklands, Near Diamond Plaza,2,1,1,1,50000
+ Nairobi, Westlands,1,2,2,1,150000
+ Kiambu, Kikuyu,2,2,2,2,23000
+ Kiambu, Kikuyu,1,1,1,1,18500
+ Nairobi, Lavington,5,5,6,,200000
+ Nairobi, Westlands,1,1,1,69,70000
+ Nairobi, Lavington,4,4,3,3,90000
+ Nairobi, Kilimani,2,2,2,2,65000
+ Nairobi, Lavington,3,2,2,3,90000
+ Nairobi, Westlands,2,1,1,2,110000
+,,1,2,2,1,130000
+,,3,2,2,,140000
+,,2,2,2,,150000
+,,2,2,2,2,75000
+,,3,4,4,3,85000
+ Mombasa, Nyali,3,4,4,3,165000
+ Nairobi, Parklands,4,3,3,2,100000
+ Nairobi, Westlands,3,2,2,2,85000
+ Nairobi, Kilimani,2,3,3,2,85000
+ Nairobi, Kileleshwa,2,2,2,2,65000
+ Nairobi, Westlands,3,3,3,2,80000
+ Nairobi, Westlands,1,1,1,1,30000
+ Nairobi, Westlands,4,3,3,3,95000
+ Nairobi, Westlands,3,2,2,3,70000
+ Nairobi, Kileleshwa,5,4,4,4,275000
+ Mombasa, Nyali,3,4,4,3,215000
+ Westlands, Runda,5,4,4,4,250000
+ Mombasa, Nyali,3,4,4,3,165000
+,,3,3,3,2,80000
+ Kilimani, Chiromo,2,2,2,2,100000
+ Mombasa, Nyali,3,4,4,3,110000
+ Kilimani, Chiromo,2,2,2,2,70000
+,,2,3,3,2,80000
+,,3,3,3,2,230000
+,,1,1,1,1,105000
+ Nairobi, Lavington,4,4,4,3,120000
+,,3,2,2,2,190000
+,,1,1,1,1,120000
+,,1,2,2,1,105000
+ Nairobi, Westlands,4,4,4,,150000
+ Nairobi, Westlands,3,4,4,,130000
+ Nairobi, Westlands,4,3,3,3,250000
+ Nairobi, Westlands,3,3,3,3,150000
+,,1,1,1,1,120000
+ Nairobi, Spring Valley,5,6,6,4,280000
+ Nairobi, Westlands,3,4,4,3,160000
+ Nairobi, Githurai,2,1,,,10000
+ Nairobi, Westlands,3,4,4,2,150000
+,,1,2,2,1,110000
+,,1,2,2,1,130000
+ Nairobi, Westlands,3,4,4,3,230000
+,,3,3,3,2,120000
+ Nairobi, Githurai,1,,,,6500
+ Nairobi, Kasarani,3,,,,45000
+ Nairobi, Githurai,2,1,1,,10000
+ Nairobi, Kilimani,2,2,2,2,65000
+,,4,3,3,3,105000
+ Nairobi, Kilimani,3,3,3,2,95000
+,,1,1,1,1,60000
+ Nairobi, Westlands,3,2,2,2,75000
+ Nairobi, Westlands,2,3,3,2,80000
+ Nairobi, Westlands,4,2,2,2,130000
+ Nairobi, Westlands,2,3,3,2,90000
+ Westlands, Runda,3,3,3,2,140000
+ Nairobi, Westlands,3,3,3,2,190000
+ Nairobi, Westlands,3,3,4,2,200000
+ Nairobi, Nairobi West,3,4,4,2,160000
+ Nairobi, Nairobi West,3,4,4,2,130000
+ Nairobi, Nairobi West,2,3,3,2,130000
+ Nairobi, Westlands,2,3,3,2,120000
+ Nairobi, Westlands,2,3,3,2,110000
+ Nairobi, Nairobi West,4,5,5,3,150000
+ Nairobi, Westlands,3,4,4,3,220000
+,,4,4,5,3,180000
+,,4,5,5,3,180000
+ Nairobi, Nairobi West,2,3,3,2,200000
+ Nairobi, Westlands,2,3,3,2,200000
+ Westlands, Runda,3,4,4,3,230000
+ Nairobi, Westlands,3,4,4,3,130000
+ Mombasa, Nyali,1,1,1,2,120000
+ Mombasa, Nyali,3,3,3,2,60000
+ Nairobi, Westlands,2,2,2,2,65000
+ Nairobi, Githurai,1,1,1,,8000
+ Githurai, Githurai 44,2,1,1,,12000
+ Nairobi, Kileleshwa,2,1,1,3,60000
+ Mombasa, Nyali,3,3,3,2,90000
+ Mombasa, Nyali,1,1,2,2,100000
+ Mombasa, Nyali,2,2,2,2000,45000
+ Mombasa, Nyali,3,2,2,2,45000
+,,4,3,3,4,180000
+ Mombasa, Nyali,3,3,3,3,180000
+ Kiambu, Kikuyu,2,2,2,2,42000
+ Kiambu, Kikuyu,1,1,1,,20000
+ Kiambu, Kikuyu,1,1,1,1,15000
+ Nairobi, Lavington,2,3,3,2,80000
+ Kiambu, Kikuyu,3,2,2,2,60000
+ Kiambu, Kikuyu,2,2,2,,30000
+ Kiambu, Kikuyu,1,1,1,,25000
+,,3,4,4,,240000
+,,2,2,2,,100000
+ Mombasa, Nyali,2,2,2,2500,120000
+,,3,2,2,,110000
+,,3,3,3,,110000
+ Nairobi, Westlands,3,3,3,,100000
+ Nairobi, Kilimani,1,2,2,,70000
+ Nairobi, Kilimani,2,3,3,,80000
+ Nairobi, Westlands,2,33,,,80000
+,,2,2,2,,80000
+ Nairobi, Westlands,2,3,3,,1200002
+ Nairobi, Spring Valley,3,3,3,3,180000
+,,2,3,3,2,75000
+,,5,6,6,5,400000
+,,3,3,4,,170000
+,,5,6,6,3,230000
+ Mombasa, Nyali,3,3,3,2500,65000
+ Mombasa, Nyali,3,3,25000,,50000
+,,2,3,3,3,160000
+ Nairobi, Kilimani,2,2,2,2,90000
+ Ruiru, Kihunguro,2,1,1,,26000
+ Ruiru, Thika  Road,1,1,1,1,23000
+,,4,5,2,,150000
+ Mombasa, Bamburi,3,3,2,,120000
+ Nairobi, Githurai,1,,,,6500
+ Nairobi, Githurai,1,1,1,,10000
+ Nairobi, Spring Valley,2,3,3,3,90000
+ Nairobi, Westlands,3,2,2,2,75000
+,,2,2,2,2,200000
+ Nairobi, Westlands,3,3,3,3,80000
+,,3,3,4,3,150000
+ Nairobi, Kitisuru,4,4,4,5,170000
+ Nairobi, Westlands,2,2,2,2,65000
+,,2,2,2,1,65000
+,,3,4,4,2,200000
+,,3,2,2,3,65000
+,,3,3,3,3,80000
+,,3,4,4,3,85000
+,,4,3,3,6,350000
+,,4,4,4,5,200000
+,,3,3,3,4,180000
+ Nairobi, Westlands,3,3,3,2,135000
+ Nairobi, Lavington,3,2,2,2,110000
+ Nairobi, Parklands,2,2,2,2,80000
+ Nairobi, Kileleshwa,5,3,4,2,100000
+ Nairobi, Kileleshwa,1,1,1,2,110000
+ Nairobi, Umoja,3035,,,,300000
+ Nairobi Central, Kiambu Road,3,2,3,4,100000
+ Nairobi, Westlands,3,2,2,3,85000
+ Westlands, Loresho,5,3,3,,200000
+,,,,,,70000
+,,1,2,2,,100000
+,,,,,,83000
+,,,,,,65000
+,,2,3,3,,65000
+ Nairobi, Lavington,3,4,4,,90000
+,,3,3,3,,75000
+,,3,3,3,,75000
+,,3,4,4,,115000
+ Nairobi, Westlands,3,4,4,,115000
+,,3,3,3,,90000
+ Nairobi, Westlands,2,2,2,,60000
+,,4,3,3,,120000
+,,4,3,4,,120000
+ Nairobi, Westlands,3,3,3,,80000
+ Nairobi, Westlands,3,3,3,3,65000
+,,2,3,3,2,80000
+ Nairobi, Westlands,2,3,3,,175000
+ Nairobi, Westlands,2,3,3,,65000
+ Westlands, Runda,5,6,6,4,250000
+ Nairobi, Kileleshwa,3,3,3,,75000
+ Nairobi, Kileleshwa,4,3,3,3,120000
+ Nairobi, Kileleshwa,3,3,4,3,70000
+ Nairobi, Westlands,5,6,6,4,380000
+ Nairobi, Westlands,3,2,2,3,70000
+,,3,3,3,,100000
+,,3,3,4,2,95000
+,,2,3,3,2,150000
+ Kiambu, Ruiru,1,1,1,,19500
+ Ruiru, Kahawa Sukari Engen,2,,,,30000
+ Ruiru, Near Total Petrol Station,2,2,,,23000
+ Kiambu, Ruiru,2,1,1,,18800
+ Kiambu, Ruiru,1,1,1,,23000
+ Nairobi, Westlands,3,,,,180000
+ Nairobi, Parklands,,,,,110
+ Kiambu, Limuru Central,,,,,130
+ Nairobi, Westlands,,,,,90
+ Westlands, Runda,,,,,100
+ Nairobi, Makadara,,,,,42
+ Nairobi, Westlands,,,,,90
+ Nairobi, Embakasi,,,,,48
+ Machakos, Syokimau/Mulolongo,,,,,350000
+ Nakuru, Dundori,,,,,55
+ Nairobi, Parklands,,,,,160
+ Nairobi, Karura,2,2,,,2900

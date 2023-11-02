@@ -1,0 +1,5264 @@
+City,Location,Bedrooms,Bathrooms,Parking,Price
+Westlands,Spring Valley,4,0,1.0,3000.0
+Westlands,Westlands Area,2,2,1.0,150000.0
+Westlands,Riverside,3,3,1.0,200000.0
+Nairobi,Upper Hill,1,1,1.0,100000.0
+Westlands,Brookside,4,3,1.0,120000.0
+Westlands,Riverside,2,2,1.0,210000.0
+Westlands,Riverside,2,2,1.0,180000.0
+Westlands,Riverside,3,3,1.0,300000.0
+Nairobi,Kilimani,3,3,1.0,200000.0
+Westlands,Riverside,4,4,1.0,160000.0
+Westlands,Riverside,3,3,1.0,325000.0
+Westlands,Westlands Area,3,3,1.0,137000.0
+Nairobi,Lavington,3,3,1.0,140000.0
+Westlands,General Mathenge,3,3,1.0,330000.0
+Westlands,Riverside,2,2,1.0,140000.0
+Westlands,Parklands,3,3,1.0,250000.0
+Westlands,General Mathenge,3,3,1.0,150000.0
+Westlands,Brookside,3,4,1.0,225000.0
+Westlands,Riverside,3,4,1.0,120000.0
+Westlands,Parklands,3,3,1.0,300000.0
+Westlands,Parklands,2,2,1.0,200000.0
+Westlands,Spring Valley,2,2,1.0,150000.0
+Westlands,Spring Valley,4,4,1.0,400000.0
+Westlands,Spring Valley,3,3,1.0,190000.0
+Westlands,Westlands Area,2,2,1.0,200000.0
+Westlands,Mountain View,2,2,1.0,55000.0
+Westlands,Rosslyn,1,1,1.0,150000.0
+Westlands,Mountain View,3,3,1.0,60000.0
+Westlands,Gigiri,2,2,1.0,200000.0
+Westlands,Loresho,3,2,1.0,60000.0
+Westlands,Westlands Area,2,2,1.0,350000.0
+Nairobi,Kilimani,2,2,1.0,170000.0
+Westlands,Riverside,2,2,1.0,300000.0
+Westlands,General Mathenge,3,3,1.0,120000.0
+Nyali,Nyali Area,3,4,1.0,120000.0
+Nairobi,Kilimani,3,3,1.0,140000.0
+Westlands,General Mathenge,4,4,1.0,450000.0
+Westlands,Rosslyn,2,2,1.0,220000.0
+Westlands,Spring Valley,4,4,1.0,450000.0
+Nairobi,State House,3,3,1.0,350000.0
+Nairobi,Lavington,3,3,1.0,280000.0
+Nairobi,Kileleshwa,3,3,1.0,150000.0
+Westlands,Westlands Area,3,3,1.0,170000.0
+Westlands,Spring Valley,2,2,1.0,95000.0
+Westlands,Riverside,3,3,1.0,150000.0
+Westlands,Riverside,3,3,1.0,350000.0
+Westlands,Runda,2,2,1.0,170000.0
+Westlands,General Mathenge,3,3,1.0,130000.0
+Westlands,Spring Valley,3,3,1.0,400000.0
+Nairobi,Kileleshwa,4,4,1.0,270000.0
+Westlands,Riverside,3,4,1.0,350000.0
+Nairobi,Lavington,2,2,1.0,220000.0
+Nairobi,Lavington,2,2,1.0,200000.0
+Westlands,General Mathenge,3,4,1.0,150000.0
+Westlands,Spring Valley,3,3,1.0,180000.0
+Westlands,Westlands Area,3,4,1.0,250000.0
+Westlands,Westlands Area,3,3,1.0,150000.0
+Nairobi,Kilimani,2,2,1.0,250000.0
+Westlands,Riverside,3,3,1.0,230000.0
+Nairobi,Westlands,0,0,0.0,0.0
+Nairobi,Kilimani,0,0,0.0,0.0
+Nairobi,Lavington,3,3,1.0,220000.0
+Westlands,Spring Valley,4,4,1.0,3300.0
+Nairobi,Kilimani,2,2,1.0,95000.0
+Westlands,Riverside,3,3,1.0,180000.0
+Westlands,Westlands Area,4,4,1.0,180000.0
+Westlands,Westlands Area,1,1,1.0,180000.0
+Westlands,Westlands Area,2,2,1.0,180000.0
+Westlands,Westlands Area,2,2,1.0,55000.0
+Westlands,Westlands Area,3,3,1.0,60000.0
+Kiambu County,Ruaka,2,2,1.0,35000.0
+Westlands,Waiyaki Way,3,3,1.0,60000.0
+Westlands,Waiyaki Way,2,2,1.0,55000.0
+Westlands,Brookside,3,3,1.0,2750.0
+Nairobi,Kiambu Road,3,3,1.0,55000.0
+Westlands,Westlands Area,2,2,1.0,250000.0
+Nairobi,Lavington,3,4,1.0,100000.0
+Nairobi,Kileleshwa,3,4,1.0,110000.0
+Nairobi,Kilimani,2,2,1.0,200000.0
+Westlands,General Mathenge,3,3,1.0,145000.0
+Nairobi,Kilimani,2,2,1.0,130000.0
+Nairobi,Kilimani,3,2,1.0,85000.0
+Nairobi,Kileleshwa,0,0,0.0,0.0
+Westlands,Parklands,3,4,1.0,280000.0
+Westlands,Westlands Area,3,4,1.0,150000.0
+Nairobi,Thika Road,2,2,0.0,170000.0
+Kiambu County,Kiambu Town,2,1,1.0,33000.0
+Nairobi,Thika Road,2,2,0.0,140000.0
+Westlands,Gigiri,3,3,1.0,250000.0
+Kiambu County,Ruaka,2,2,1.0,50000.0
+Nairobi,Kilimani,2,2,1.0,180000.0
+Westlands,Westlands Area,3,3,1.0,200000.0
+Nairobi,Riara Road,3,2,1.0,75000.0
+Nairobi,Muthaiga,2,3,1.0,250000.0
+Westlands,Westlands Area,3,3,1.0,85000.0
+Westlands,Riverside,4,4,0.0,200000.0
+Mombasa Island,Mombasa CBD,4,5,1.0,150000.0
+Westlands,Rosslyn,2,2,1.0,200000.0
+Nairobi,Kilimani,2,2,1.0,100000.0
+Roysambu,Garden Estate,2,2,1.0,100000.0
+Nairobi,Kilimani,2,2,1.0,180000.0
+Westlands,Riverside,3,2,1.0,90000.0
+Nyali,Nyali Area,3,4,1.0,110000.0
+Nairobi,Kilimani,3,3,1.0,289000.0
+Westlands,Westlands Area,2,2,1.0,140000.0
+Kiambu County,Ruaka,2,0,1.0,40000.0
+Nairobi,Kileleshwa,3,3,0.0,250000.0
+Westlands,Westlands Area,3,3,0.0,130000.0
+Nairobi,Kilimani,3,3,1.0,160000.0
+Westlands,Riverside,4,5,1.0,300000.0
+Westlands,Westlands Area,3,4,1.0,75000.0
+Westlands,Westlands Area,0,1,1.0,90000.0
+Nairobi,Kileleshwa,3,3,1.0,135000.0
+Westlands,Parklands,3,3,1.0,125000.0
+Westlands,Parklands,3,2,1.0,180000.0
+Westlands,General Mathenge,4,4,1.0,250000.0
+Nairobi,Kilimani,3,4,1.0,230000.0
+Nairobi,Kileleshwa,3,3,1.0,80000.0
+Westlands,Parklands,3,3,1.0,280000.0
+Nyali,Nyali Area,3,4,1.0,200000.0
+Westlands,Gigiri,3,0,1.0,180000.0
+Mombasa Island,Mombasa CBD,3,3,1.0,75000.0
+Nairobi,Kilimani,3,2,1.0,75000.0
+Nairobi,Utawala,1,1,1.0,16000.0
+Nairobi,Lavington,3,3,1.0,150000.0
+Nairobi,Kileleshwa,3,4,0.0,130000.0
+Machakos County,Athi River,2,2,1.0,290000.0
+Westlands,Parklands,3,3,1.0,400000.0
+Nairobi,Nairobi CBD,1,1,0.0,110000.0
+Nairobi,Kileleshwa,1,1,1.0,55000.0
+Nairobi,Kilimani,3,3,0.0,160000.0
+Westlands,Westlands Area,3,3,1.0,300000.0
+Westlands,Parklands,2,2,1.0,160000.0
+Nairobi,Kileleshwa,3,3,1.0,250000.0
+Nairobi,Kilimani,2,2,1.0,200000.0
+Nairobi,Lavington,2,2,1.0,70000.0
+Westlands,Riverside,3,2,1.0,135000.0
+Mombasa Island,Tudor,2,3,1.0,12000.0
+Nyali,Nyali Area,1,1,1.0,4500.0
+Nairobi,Kilimani,2,3,1.0,80000.0
+Nairobi,South C,3,3,1.0,160000.0
+Westlands,General Mathenge,3,4,1.0,250000.0
+Nairobi,Muthaiga,3,2,1.0,170000.0
+Nairobi,Kileleshwa,3,3,1.0,320000.0
+Nairobi,Kilimani,3,4,1.0,150000.0
+Kilifi County,Mtwapa,2,2,1.0,28000.0
+Nairobi,Kileleshwa,3,2,1.0,85000.0
+Nairobi,Kileleshwa,3,3,1.0,180000.0
+Westlands,Brookside,2,2,1.0,100000.0
+Nairobi,Lavington,3,3,1.0,95000.0
+Westlands,Westlands Area,2,2,1.0,280000.0
+Westlands,Mountain View,2,2,1.0,55000.0
+Westlands,General Mathenge,3,3,0.0,140000.0
+Westlands,Westlands Area,3,4,1.0,650000.0
+Westlands,Rhapta Road,3,3,1.0,130000.0
+Nyali,Nyali Area,3,4,1.0,115000.0
+Nairobi,Lavington,1,1,1.0,160000.0
+Nairobi,Ngong Road,3,2,1.0,65000.0
+Nairobi,Kilimani,2,0,1.0,190000.0
+Nairobi,Upper Hill,1,1,1.0,150000.0
+Nairobi,Kileleshwa,2,2,1.0,65000.0
+Westlands,Kitisuru,2,2,1.0,230000.0
+Nairobi,Lavington,5,5,1.0,130000.0
+Westlands,Westlands Area,4,2,0.0,95000.0
+Ruiru,Tatu City,3,3,1.0,180000.0
+Westlands,Rosslyn,2,2,1.0,240000.0
+Westlands,Brookside,3,3,1.0,90000.0
+Westlands,Westlands Area,4,4,1.0,440000.0
+Westlands,Westlands Area,2,3,1.0,110000.0
+Westlands,Westlands Area,4,4,1.0,450000.0
+Nairobi,Kileleshwa,2,2,1.0,78000.0
+Westlands,Rhapta Road,2,2,1.0,90000.0
+Nairobi,Kilimani,3,3,1.0,100000.0
+Westlands,Westlands Area,3,3,1.0,300000.0
+Nairobi,Kilimani,1,1,1.0,100000.0
+Westlands,Westlands Area,2,2,1.0,210000.0
+Westlands,Parklands,4,4,1.0,280000.0
+Westlands,Westlands Area,3,3,1.0,130000.0
+Westlands,Westlands Area,1,1,1.0,95000.0
+Nairobi,Kilimani,2,2,1.0,150000.0
+Limuru,Tigoni,2,2,1.0,35000.0
+Nairobi,Upper Hill,2,2,0.0,220000.0
+Westlands,Riverside,3,0,1.0,250000.0
+Nairobi,Kileleshwa,2,2,1.0,165000.0
+Westlands,Westlands Area,2,2,1.0,230000.0
+Nairobi,Kilimani,2,2,1.0,75000.0
+Nairobi,Kilimani,3,4,1.0,110000.0
+Nairobi,Kilimani,4,4,1.0,90000.0
+Nairobi,Kileleshwa,2,2,1.0,110000.0
+Nairobi,Kileleshwa,3,3,1.0,180000.0
+Nairobi,Lavington,3,3,1.0,170000.0
+Westlands,Riverside,3,2,0.0,250000.0
+Westlands,Spring Valley,3,3,1.0,320000.0
+Westlands,Brookside,3,2,1.0,185000.0
+Westlands,Rhapta Road,1,1,1.0,60000.0
+Nyali,Mkomani,3,4,0.0,105000.0
+Westlands,Brookside,2,2,1.0,200000.0
+Roysambu,Garden Estate,2,2,1.0,130000.0
+Westlands,Rhapta Road,1,1,1.0,160000.0
+Nyali,Nyali Area,1,2,1.0,100000.0
+Kiambu County,Ruaka,2,2,1.0,50000.0
+Westlands,Parklands,2,2,1.0,200000.0
+Nairobi,Kileleshwa,4,4,1.0,160000.0
+Nairobi,Lavington,4,4,1.0,140000.0
+Nairobi,Lavington,1,1,1.0,150000.0
+Nairobi,Lavington,3,4,1.0,120000.0
+Westlands,Brookside,2,3,1.0,300000.0
+Westlands,General Mathenge,4,4,1.0,250000.0
+Nairobi,Kileleshwa,1,1,0.0,130000.0
+Westlands,Parklands,3,4,1.0,175000.0
+Westlands,General Mathenge,3,3,1.0,160000.0
+Nairobi,Upper Hill,2,2,1.0,200000.0
+Westlands,Westlands Area,4,5,1.0,350000.0
+Nairobi,Kileleshwa,1,1,1.0,120000.0
+Nyali,Nyali Area,3,2,1.0,50000.0
+Westlands,Waiyaki Way,1,1,0.0,23000.0
+Nairobi,Lavington,3,3,1.0,160000.0
+Nairobi,Lavington,2,3,1.0,220000.0
+Westlands,Rhapta Road,2,2,1.0,200000.0
+Westlands,Westlands Area,1,1,1.0,120000.0
+Mombasa,Bamburi,3,3,1.0,15000.0
+Nairobi,Kileleshwa,2,3,0.0,260000.0
+Nairobi,Kileleshwa,3,3,1.0,120000.0
+Nairobi,Kilimani,1,1,1.0,140000.0
+Westlands,General Mathenge,3,3,1.0,180000.0
+Nairobi,Kileleshwa,3,3,1.0,340000.0
+Westlands,Riverside,3,4,1.0,230000.0
+Nairobi,Kileleshwa,2,3,1.0,220000.0
+Westlands,Waiyaki Way,3,2,0.0,60000.0
+Nairobi,Kileleshwa,2,2,1.0,75000.0
+Westlands,Kitisuru,2,3,1.0,230000.0
+Nairobi,Kileleshwa,2,3,1.0,80000.0
+Westlands,Westlands Area,4,4,1.0,180000.0
+Westlands,Gigiri,3,2,1.0,375000.0
+Nairobi,Kilimani,3,2,1.0,70000.0
+Westlands,Rhapta Road,4,3,1.0,120000.0
+Westlands,Spring Valley,2,2,1.0,230000.0
+Westlands,Rhapta Road,3,2,1.0,70000.0
+Nairobi,Kileleshwa,3,4,1.0,250000.0
+Nairobi,Kilimani,3,3,1.0,120000.0
+Westlands,Kitisuru,2,0,1.0,180000.0
+Nairobi,Kilimani,2,2,1.0,180000.0
+Nairobi,Kilimani,2,2,1.0,100000.0
+Nairobi,Kileleshwa,3,4,1.0,130000.0
+Nairobi,Lavington,2,2,1.0,75000.0
+Westlands,Westlands Area,3,3,1.0,250000.0
+Nairobi,Kilimani,2,2,1.0,65000.0
+Westlands,Parklands,3,3,1.0,120000.0
+Westlands,Gigiri,2,3,1.0,247000.0
+Mombasa Island,Tudor,3,4,1.0,100000.0
+Nairobi,Utawala,2,1,1.0,25000.0
+Nairobi,Kileleshwa,1,2,1.0,6500.0
+Westlands,General Mathenge,3,0,0.0,170000.0
+Nairobi,Kileleshwa,3,0,0.0,60000.0
+Nairobi,Lavington,2,3,1.0,200000.0
+Westlands,Rhapta Road,2,3,1.0,145000.0
+Westlands,Westlands Area,4,4,1.0,170000.0
+Nairobi,Kilimani,2,0,1.0,120000.0
+Westlands,Westlands Area,2,2,1.0,220000.0
+Nairobi,Kilimani,2,2,1.0,100000.0
+Nairobi,Ngara,2,1,0.0,38000.0
+Westlands,Kitisuru,2,2,1.0,240000.0
+Nairobi,Kilimani,2,2,1.0,230000.0
+Westlands,Parklands,2,2,1.0,250000.0
+Westlands,Riverside,2,0,1.0,140000.0
+Westlands,Riverside,1,2,0.0,90000.0
+Westlands,Parklands,2,2,0.0,160000.0
+Westlands,Westlands Area,2,2,1.0,170000.0
+Westlands,Riverside,3,3,1.0,140000.0
+Nairobi,Kileleshwa,3,4,1.0,180000.0
+Mombasa Island,Tudor,3,4,1.0,70000.0
+Nairobi,Lavington,3,3,1.0,100000.0
+Westlands,Westlands Area,3,4,1.0,200000.0
+Nairobi,Muthaiga,3,2,1.0,300000.0
+Westlands,Parklands,3,4,1.0,164000.0
+Nyali,Nyali Area,2,2,1.0,6000.0
+Westlands,Kitisuru,2,3,1.0,250000.0
+Machakos County,Athi River,2,2,0.0,28000.0
+Nairobi,Kilimani,3,4,1.0,170000.0
+Westlands,Rhapta Road,1,0,1.0,120000.0
+Nairobi,Kilimani,2,2,1.0,324000.0
+Nairobi,Lavington,3,4,1.0,140000.0
+Westlands,Spring Valley,1,1,1.0,200000.0
+Nairobi,Kileleshwa,2,3,1.0,100000.0
+Nairobi,Kileleshwa,2,2,1.0,55000.0
+Westlands,Brookside,2,2,1.0,100000.0
+Westlands,Riverside,3,3,1.0,130000.0
+Nyali,Nyali Area,3,2,1.0,50000.0
+Nairobi,Kilimani,2,2,1.0,85000.0
+Westlands,Westlands Area,2,2,1.0,180000.0
+Nairobi,Kileleshwa,3,3,1.0,95000.0
+Nairobi,Kilimani,4,4,1.0,330000.0
+Nairobi,Lavington,2,2,1.0,190000.0
+Nairobi,Thika Road,2,2,1.0,89000.0
+Westlands,Riverside,5,6,1.0,370000.0
+Nairobi,Kileleshwa,1,1,1.0,110000.0
+Nairobi,Kileleshwa,3,3,0.0,150000.0
+Nyali,Nyali Area,3,4,1.0,120000.0
+Westlands,Westlands Area,2,2,1.0,65000.0
+Nairobi,Kilimani,2,2,1.0,160000.0
+Nyali,Nyali Area,3,4,1.0,180000.0
+Westlands,Brookside,3,4,1.0,350000.0
+Nairobi,Upper Hill,3,0,1.0,75000.0
+Nairobi,Kileleshwa,2,2,1.0,75000.0
+Kiambu County,Ruaka,2,2,1.0,25000.0
+Nairobi,Naivasha Road,1,1,1.0,40000.0
+Nairobi,Kilimani,2,2,1.0,150000.0
+Kikuyu,Kikuyu Town,2,1,0.0,27500.0
+Nairobi,Kilimani,3,3,1.0,245000.0
+Nairobi,Kilimani,3,3,0.0,100000.0
+Westlands,Spring Valley,3,3,1.0,350000.0
+Nairobi,Kileleshwa,3,3,1.0,170000.0
+Nairobi,Naivasha Road,2,2,1.0,40000.0
+Westlands,Parklands,2,2,1.0,120000.0
+Mombasa Island,Mombasa CBD,3,2,1.0,100000.0
+Nairobi,Kileleshwa,2,3,1.0,200000.0
+Westlands,Riverside,4,4,1.0,280000.0
+Nairobi,Kilimani,3,2,1.0,85000.0
+Nairobi,Kilimani,2,2,1.0,150000.0
+Nyali,Nyali Area,3,4,1.0,170000.0
+Nairobi,Kilimani,1,1,1.0,140000.0
+Mombasa Island,Mombasa CBD,3,3,1.0,200000.0
+Westlands,Mountain View,3,2,1.0,60000.0
+Kiambu County,Ruaka,2,2,1.0,42000.0
+Nairobi,Kileleshwa,3,3,1.0,160000.0
+Nairobi,Kilimani,2,2,1.0,120000.0
+Westlands,Riverside,3,3,1.0,95000.0
+Westlands,Brookside,3,3,0.0,250000.0
+Westlands,Spring Valley,3,3,0.0,225000.0
+Westlands,Riverside,3,4,1.0,120000.0
+Nairobi,Kileleshwa,4,4,1.0,80000.0
+Nairobi,Upper Hill,2,2,1.0,75000.0
+Nairobi,Kileleshwa,4,4,1.0,140000.0
+Westlands,General Mathenge,3,3,1.0,180000.0
+Kiambu County,Ruaka,2,2,1.0,45000.0
+Nairobi,Embakasi,3,2,1.0,80000.0
+Nairobi,Lavington,0,1,1.0,120000.0
+Nairobi,Lavington,3,0,0.0,250000.0
+Nyali,Nyali Area,1,1,1.0,85000.0
+Westlands,General Mathenge,3,4,1.0,160000.0
+Nairobi,Kilimani,3,3,1.0,130000.0
+Nairobi,Kileleshwa,2,2,1.0,110000.0
+Nairobi,Upper Hill,1,2,1.0,140000.0
+Nairobi,Lavington,2,2,1.0,180000.0
+Westlands,Westlands Area,2,2,1.0,195000.0
+Nairobi,Kilimani,3,3,1.0,95000.0
+Nairobi,Lavington,1,1,1.0,180000.0
+Nairobi,Muthaiga,2,2,1.0,220000.0
+Nairobi,Kileleshwa,3,2,1.0,100000.0
+Nairobi,Lavington,3,3,1.0,120000.0
+Nairobi,Kilimani,4,3,1.0,110000.0
+Westlands,Westlands Area,2,2,1.0,160000.0
+Kiambu County,Ruaka,2,3,1.0,35000.0
+Nyali,Nyali Area,2,2,1.0,15000.0
+Westlands,Riverside,3,4,1.0,250000.0
+Nairobi,Lavington,2,2,0.0,297000.0
+Nairobi,Uthiru,2,1,0.0,16000.0
+Westlands,Parklands,3,4,1.0,250000.0
+Nairobi,Lavington,3,0,1.0,200000.0
+Nairobi,Lavington,2,2,1.0,120000.0
+Nyali,Nyali Area,3,2,1.0,100000.0
+Nairobi,Kiambu Road,3,2,1.0,65000.0
+Nyali,Nyali Area,3,4,1.0,65000.0
+Mombasa Island,Mombasa CBD,2,3,0.0,25000.0
+Nairobi,Kilimani,3,2,1.0,130000.0
+Westlands,Westlands Area,1,1,1.0,100000.0
+Nairobi,Kileleshwa,2,0,0.0,50000.0
+Nairobi,Kilimani,3,2,1.0,90000.0
+Westlands,Rhapta Road,2,2,1.0,250000.0
+Nairobi,Kileleshwa,3,3,1.0,110000.0
+Nairobi,Kileleshwa,3,2,1.0,85000.0
+Nairobi,Kileleshwa,2,0,0.0,150000.0
+Westlands,Spring Valley,3,4,1.0,400000.0
+Nairobi,Lavington,2,2,1.0,175000.0
+Nairobi,Kilimani,3,3,1.0,75000.0
+Nairobi,Kilimani,1,1,1.0,150000.0
+Nairobi,Kilimani,4,4,1.0,639000.0
+Nyali,Nyali Area,3,3,1.0,55000.0
+Nairobi,Kileleshwa,2,2,1.0,75000.0
+Westlands,Brookside,3,4,1.0,210000.0
+Nairobi,Lavington,4,4,0.0,150000.0
+Nyali,Nyali Area,1,1,1.0,5000.0
+Westlands,Westlands Area,3,3,1.0,135000.0
+Nairobi,Kilimani,2,2,1.0,270000.0
+Westlands,Riverside,3,0,0.0,150000.0
+Westlands,Spring Valley,4,5,1.0,400000.0
+Westlands,Westlands Area,2,2,1.0,230000.0
+Westlands,Rosslyn,3,4,1.0,180000.0
+Nairobi,Kilimani,3,3,0.0,140000.0
+Westlands,Westlands Area,1,1,1.0,125000.0
+Nyali,Mkomani,4,3,1.0,95000.0
+Nairobi,Lavington,2,2,1.0,90000.0
+Nairobi,Upper Hill,2,2,1.0,180000.0
+Nairobi,Kilimani,3,3,1.0,95000.0
+Kiambu County,Ruaka,1,1,1.0,33000.0
+Westlands,Westlands Area,2,3,1.0,220000.0
+Nyali,Nyali Area,2,0,1.0,12000.0
+Nairobi,Thika Road,2,2,0.0,95000.0
+Westlands,Parklands,3,2,0.0,119500.0
+Westlands,Nyari,2,2,1.0,250000.0
+Westlands,Rhapta Road,2,2,1.0,125000.0
+Westlands,Spring Valley,3,4,1.0,305000.0
+Nairobi,Kilimani,1,1,1.0,65000.0
+Westlands,Runda,4,4,1.0,400000.0
+Westlands,General Mathenge,3,4,1.0,200000.0
+Nairobi,Lavington,3,3,1.0,150000.0
+Westlands,Parklands,4,5,1.0,250000.0
+Nairobi,Thika Road,3,3,1.0,85000.0
+Nairobi,Kilimani,2,2,1.0,70000.0
+Nairobi,Kilimani,2,2,1.0,290000.0
+Kiambu County,Ruaka,0,1,1.0,10000.0
+Nairobi,Kilimani,2,2,1.0,160000.0
+Nairobi,Muthaiga,3,3,1.0,250000.0
+Westlands,Westlands Area,2,2,1.0,240000.0
+Nairobi,Lavington,2,0,0.0,75000.0
+Nairobi,Kileleshwa,3,0,1.0,85000.0
+Nyali,Nyali Area,3,3,0.0,180000.0
+Roysambu,Garden Estate,3,2,1.0,65000.0
+Nyali,Nyali Area,2,2,1.0,10000.0
+Nairobi,Kilimani,2,2,1.0,120000.0
+Nairobi,Lavington,3,3,1.0,95000.0
+Westlands,Westlands Area,3,3,1.0,90000.0
+Nyali,Kongowea,1,1,0.0,4500.0
+Westlands,Westlands Area,3,2,1.0,130000.0
+Nairobi,Kileleshwa,2,2,1.0,85000.0
+Nairobi,Lavington,3,4,1.0,150000.0
+Nairobi,Kilimani,3,3,1.0,110000.0
+Westlands,Westlands Area,4,4,1.0,190000.0
+Nairobi,Riara Road,3,2,0.0,50000.0
+Nairobi,Karen,0,0,0.0,15000.0
+Nairobi,Kileleshwa,2,3,1.0,120000.0
+Westlands,Kitisuru,1,1,1.0,70000.0
+Kiambu County,Ruaka,2,2,1.0,35000.0
+Nairobi,Kilimani,3,4,1.0,140000.0
+Westlands,Brookside,3,3,1.0,135000.0
+Westlands,Riverside,4,2,0.0,190000.0
+Westlands,General Mathenge,3,4,0.0,175000.0
+Nairobi,Kilimani,2,2,1.0,200000.0
+Nairobi,Kileleshwa,3,3,1.0,130000.0
+Nairobi,Kilimani,3,3,1.0,170000.0
+Kiambu County,Kiambu Town,3,2,1.0,30000.0
+Nairobi,Kileleshwa,3,2,1.0,100000.0
+Nairobi,Kileleshwa,1,1,1.0,200000.0
+Nairobi,Lavington,4,3,1.0,230000.0
+Westlands,Westlands Area,0,1,1.0,100000.0
+Nyali,Mkomani,2,2,1.0,120000.0
+Nyali,Nyali Area,4,5,1.0,165000.0
+Westlands,Parklands,2,2,1.0,130000.0
+Westlands,Westlands Area,2,2,1.0,220000.0
+Nairobi,Kilimani,3,3,1.0,130000.0
+Westlands,Westlands Area,4,5,0.0,250000.0
+Nyali,Nyali Area,3,3,1.0,95000.0
+Westlands,Riverside,1,1,1.0,150000.0
+Westlands,Riverside,1,0,1.0,85000.0
+Nairobi,Kilimani,2,2,1.0,70000.0
+Westlands,Spring Valley,3,3,1.0,331000.0
+Nairobi,Kileleshwa,4,3,0.0,170000.0
+Nairobi,Lavington,4,5,1.0,120000.0
+Nairobi,Kilimani,3,3,1.0,120000.0
+Westlands,Riverside,3,4,1.0,180000.0
+Kiambu County,Ruiru,3,2,1.0,45000.0
+Nairobi,Upper Hill,1,2,1.0,130000.0
+Nyali,Nyali Area,1,1,1.0,65000.0
+Westlands,Riverside,3,2,1.0,85000.0
+Westlands,Waiyaki Way,1,1,1.0,120000.0
+Westlands,Westlands Area,2,2,1.0,215000.0
+Ruiru,Kamakis,2,2,1.0,30000.0
+Nairobi,Kilimani,3,3,1.0,170000.0
+Westlands,Riverside,3,3,1.0,180000.0
+Nairobi,Lavington,3,4,1.0,95000.0
+Westlands,Riverside,3,3,1.0,145000.0
+Westlands,General Mathenge,2,2,1.0,200000.0
+Westlands,Nyari,2,1,0.0,160000.0
+Westlands,Brookside,1,1,1.0,70000.0
+Nairobi,Langata,3,2,1.0,35000.0
+Westlands,Gigiri,2,3,1.0,270000.0
+Kikuyu,Kikuyu Town,2,2,0.0,23000.0
+Nairobi,Kilimani,2,2,1.0,180000.0
+Nairobi,Kilimani,3,5,1.0,120000.0
+Nairobi,Lavington,2,2,1.0,130000.0
+Nairobi,Thika Road,2,2,0.0,100000.0
+Nairobi,Kileleshwa,2,3,1.0,8000.0
+Nairobi,State House,3,3,1.0,300000.0
+Westlands,Rhapta Road,2,0,1.0,130000.0
+Nyali,Nyali Area,3,4,1.0,90000.0
+Westlands,Riverside,3,4,1.0,330000.0
+Nairobi,Lavington,3,4,1.0,110000.0
+Westlands,Parklands,3,0,1.0,115000.0
+Nairobi,Kilimani,3,3,1.0,110000.0
+Westlands,Riverside,3,3,1.0,180000.0
+Westlands,Spring Valley,3,2,1.0,220000.0
+Nairobi,Ngong Road,2,2,1.0,65000.0
+Nairobi,Kilimani,3,3,0.0,150000.0
+Nairobi,Kilimani,3,3,1.0,82000.0
+Nairobi,Thika Road,3,3,1.0,120000.0
+Nyali,Nyali Area,3,4,1.0,60000.0
+Nyali,Nyali Area,1,2,1.0,80000.0
+Nairobi,Riara Road,2,2,1.0,85000.0
+Nyali,Nyali Area,3,4,1.0,100000.0
+Nairobi,Kilimani,3,2,0.0,65000.0
+Nairobi,Karen,2,0,0.0,55000.0
+Nairobi,Kilimani,4,4,1.0,200000.0
+Nairobi,Kileleshwa,2,3,0.0,85000.0
+Nairobi,Kileleshwa,3,4,1.0,140000.0
+Nairobi,Kileleshwa,3,3,1.0,150000.0
+Westlands,Rhapta Road,1,1,0.0,120000.0
+Embu,,0,1,1.0,7000.0
+Westlands,Westlands Area,1,1,1.0,150000.0
+Nairobi,South B,2,2,1.0,55000.0
+Nairobi,Lavington,3,4,1.0,70000.0
+Nairobi,Kileleshwa,2,2,1.0,180000.0
+Westlands,Parklands,2,3,1.0,200000.0
+Nairobi,Kileleshwa,2,1,0.0,110000.0
+Westlands,Riverside,3,3,1.0,110000.0
+Nairobi,Kileleshwa,3,3,1.0,150000.0
+Nairobi,Kilimani,3,3,1.0,90000.0
+Westlands,Westlands Area,2,2,1.0,160000.0
+Nairobi,Kileleshwa,2,2,0.0,140000.0
+Nairobi,Kilimani,2,2,1.0,150000.0
+Westlands,Waiyaki Way,4,4,1.0,100000.0
+Westlands,Spring Valley,3,3,1.0,350000.0
+Westlands,Westlands Area,1,2,1.0,130000.0
+Nairobi,Kilimani,3,4,1.0,250000.0
+Nyali,Nyali Area,1,2,1.0,10000.0
+Nairobi,Kileleshwa,3,2,0.0,140000.0
+Nairobi,Karen,2,2,1.0,45000.0
+Westlands,Spring Valley,3,4,1.0,300000.0
+Westlands,Westlands Area,2,2,0.0,321000.0
+Westlands,Westlands Area,3,3,1.0,135000.0
+Machakos County,Mlolongo,0,0,0.0,6000.0
+Westlands,Runda,5,0,1.0,551600.0
+Nairobi,Lavington,4,4,1.0,170000.0
+Nairobi,Kilimani,1,1,1.0,45000.0
+Nairobi,Ngong Road,3,4,1.0,85000.0
+Westlands,Riverside,3,4,1.0,200000.0
+Westlands,Westlands Area,3,4,1.0,400000.0
+Westlands,Rhapta Road,2,2,1.0,100000.0
+Nyali,Kongowea,3,4,0.0,13000.0
+Nairobi,Lavington,3,3,1.0,85000.0
+Westlands,Spring Valley,2,2,1.0,250000.0
+Nairobi,Kilimani,3,3,1.0,130000.0
+Nairobi,Kileleshwa,3,4,0.0,200000.0
+Westlands,Westlands Area,2,2,1.0,90000.0
+Westlands,Westlands Area,3,3,1.0,270000.0
+Nairobi,Kiambu Road,2,2,1.0,55000.0
+Westlands,Parklands,2,2,1.0,160000.0
+Nairobi,Lavington,4,4,1.0,150000.0
+Nairobi,Lavington,3,3,1.0,150000.0
+Nairobi,Kilimani,4,5,1.0,400000.0
+Nairobi,Kileleshwa,3,3,1.0,100000.0
+Westlands,Parklands,3,4,1.0,270000.0
+Nairobi,Kiambu Road,2,2,1.0,56600.0
+Nairobi,Kileleshwa,1,1,0.0,130000.0
+Westlands,Lower Kabete,4,4,1.0,160000.0
+Westlands,Westlands Area,3,3,1.0,135000.0
+Westlands,Riverside,4,5,1.0,300000.0
+Westlands,General Mathenge,4,4,1.0,150000.0
+Westlands,Riverside,2,0,1.0,165000.0
+Westlands,Spring Valley,3,4,1.0,250000.0
+Westlands,Westlands Area,3,2,1.0,90000.0
+Westlands,Riverside,2,2,1.0,250000.0
+Mombasa Island,Tudor,3,2,1.0,70000.0
+Nairobi,Kileleshwa,3,3,0.0,150000.0
+Nairobi,Kileleshwa,2,2,1.0,140000.0
+Nairobi,Kilimani,2,3,1.0,180000.0
+Nairobi,Kilimani,1,0,1.0,120000.0
+Kilifi County,Malindi,2,1,1.0,5000.0
+Nairobi,Kilimani,2,2,1.0,120000.0
+Nairobi,Kileleshwa,1,1,0.0,60000.0
+Nairobi,Kilimani,3,3,1.0,160000.0
+Nairobi,Kileleshwa,2,2,1.0,65000.0
+Westlands,Westlands Area,2,2,1.0,150000.0
+Nairobi,Kilimani,1,1,1.0,150000.0
+Nairobi,Kilimani,3,3,1.0,200000.0
+Nairobi,Lavington,6,4,1.0,200000.0
+Kiambu County,Ruaka,2,2,0.0,40000.0
+Kiambu County,Ruaka,2,2,1.0,33000.0
+Westlands,Kitisuru,4,5,1.0,90000.0
+Nyali,Nyali Area,1,1,1.0,70000.0
+Nairobi,Kilimani,4,4,1.0,150000.0
+Westlands,Runda,1,2,1.0,120000.0
+Westlands,Westlands Area,3,0,0.0,250000.0
+Nairobi,Kileleshwa,4,4,1.0,140000.0
+Westlands,Spring Valley,2,3,1.0,200000.0
+Nairobi,Kilimani,3,3,1.0,150000.0
+Westlands,Nyari,2,2,1.0,150000.0
+Westlands,Westlands Area,3,3,1.0,220000.0
+Nairobi,Kilimani,2,2,1.0,70000.0
+Westlands,General Mathenge,2,2,1.0,150000.0
+Westlands,Westlands Area,3,3,1.0,250000.0
+Nairobi,Lavington,2,2,1.0,100000.0
+Nairobi,Kilimani,2,2,1.0,75000.0
+Westlands,Parklands,2,3,1.0,150000.0
+Westlands,Riverside,3,3,1.0,250000.0
+Nyali,Nyali Area,3,4,1.0,180000.0
+Nairobi,Kileleshwa,4,4,1.0,150000.0
+Westlands,Westlands Area,2,0,1.0,170000.0
+Westlands,Karura,4,4,1.0,320000.0
+Westlands,Westlands Area,2,2,1.0,240000.0
+Nairobi,Kilimani,3,2,1.0,320000.0
+Westlands,Brookside,4,4,1.0,150000.0
+Nairobi,Lavington,3,2,1.0,220000.0
+Westlands,Rosslyn,1,1,1.0,100000.0
+Nairobi,Lavington,3,4,1.0,150000.0
+Nyali,Nyali Area,3,4,1.0,105000.0
+Westlands,Spring Valley,3,3,1.0,150000.0
+Nairobi,Ngong Road,3,2,1.0,65000.0
+Westlands,Runda,1,1,1.0,70000.0
+Nyali,Nyali Area,3,4,1.0,15000.0
+Nyali,Nyali Area,3,2,1.0,15000.0
+Nairobi,Kileleshwa,3,3,1.0,220000.0
+Westlands,Westlands Area,3,3,1.0,250000.0
+Westlands,Westlands Area,1,1,1.0,150000.0
+Nairobi,Kileleshwa,3,3,1.0,120000.0
+Nairobi,Lavington,4,4,1.0,230000.0
+Westlands,Westlands Area,2,2,1.0,150000.0
+Nairobi,Kileleshwa,2,2,0.0,75000.0
+Nairobi,Kileleshwa,1,1,1.0,100000.0
+Nairobi,Kileleshwa,2,2,1.0,85000.0
+Westlands,Westlands Area,3,3,1.0,340000.0
+Westlands,Riverside,4,4,1.0,150000.0
+Nairobi,Kileleshwa,3,4,0.0,320000.0
+Westlands,General Mathenge,4,5,1.0,220000.0
+Westlands,Westlands Area,3,0,0.0,
+Nairobi,Upper Hill,2,2,1.0,180000.0
+Westlands,Westlands Area,0,1,1.0,27000.0
+Nairobi,Thika Road,1,1,1.0,68000.0
+Nairobi,Kilimani,2,3,1.0,130000.0
+Westlands,Brookside,2,3,1.0,95000.0
+Westlands,Spring Valley,4,4,1.0,570000.0
+Westlands,Spring Valley,3,4,1.0,250000.0
+Nairobi,Kilimani,2,3,1.0,85000.0
+Nairobi,Lavington,3,3,1.0,100000.0
+Nairobi,Kilimani,3,4,0.0,180000.0
+Nairobi,Lavington,2,2,1.0,55000.0
+Westlands,Riverside,3,3,1.0,280000.0
+Westlands,Westlands Area,3,3,1.0,337500.0
+Westlands,General Mathenge,3,3,1.0,190000.0
+Westlands,Westlands Area,4,4,0.0,267000.0
+Nairobi,Kileleshwa,3,2,1.0,95000.0
+Nairobi,Kileleshwa,2,2,1.0,55000.0
+Nairobi,Kilimani,2,2,1.0,9000.0
+Westlands,Westlands Area,3,3,1.0,180000.0
+Nairobi,Kilimani,2,0,1.0,220000.0
+Nairobi,Lavington,0,0,0.0,0.0
+Nairobi,Lavington,3,2,1.0,65000.0
+Westlands,Westlands Area,2,2,1.0,140000.0
+Nairobi,Lavington,3,2,1.0,55000.0
+Nairobi,Kiambu Road,2,2,1.0,135000.0
+Westlands,Westlands Area,3,3,1.0,120000.0
+Westlands,Riverside,2,2,1.0,270000.0
+Mombasa Island,Tudor,3,4,0.0,70000.0
+Nairobi,Kileleshwa,3,2,1.0,80000.0
+Nairobi,Kilimani,3,3,1.0,150000.0
+Westlands,Karura,4,5,1.0,550000.0
+Westlands,Riverside,4,3,1.0,120000.0
+Westlands,Westlands Area,3,3,1.0,260000.0
+Nairobi,Ngong Road,2,2,0.0,65000.0
+Nairobi,Kileleshwa,3,3,1.0,250000.0
+Westlands,Riverside,3,0,1.0,300000.0
+Westlands,Rhapta Road,1,1,1.0,160000.0
+Nairobi,Lavington,3,3,1.0,100000.0
+Westlands,Rhapta Road,2,3,0.0,200000.0
+Westlands,Westlands Area,3,3,1.0,350000.0
+Westlands,Riverside,3,3,1.0,200000.0
+Nairobi,Kileleshwa,2,2,0.0,45000.0
+Nairobi,Kiambu Road,2,2,1.0,120000.0
+Nairobi,Kileleshwa,3,3,1.0,130000.0
+Nairobi,Ngong Road,2,0,1.0,150000.0
+Nairobi,Kileleshwa,2,2,1.0,70000.0
+Westlands,Westlands Area,1,1,1.0,130000.0
+Nairobi,Kilimani,2,3,0.0,160000.0
+Nyali,Nyali Area,3,4,1.0,110000.0
+Nairobi,Kilimani,3,3,1.0,150000.0
+Westlands,Brookside,4,4,1.0,150000.0
+Nyali,Nyali Area,2,2,1.0,100000.0
+Nairobi,Kilimani,2,2,1.0,65000.0
+Nairobi,Upper Hill,1,1,1.0,10000.0
+Mombasa Island,Tudor,3,3,1.0,180000.0
+Westlands,Rhapta Road,2,3,1.0,250000.0
+Nairobi,Kilimani,2,2,1.0,130000.0
+Nairobi,Kilimani,2,1,1.0,55000.0
+Nairobi,Lavington,3,4,1.0,120000.0
+Westlands,Parklands,4,0,1.0,270000.0
+Nairobi,Kilimani,3,2,1.0,75000.0
+Westlands,Riverside,3,3,1.0,350000.0
+Nairobi,Kilimani,2,2,1.0,130000.0
+Nyali,Nyali Area,3,3,1.0,80000.0
+Nairobi,Kileleshwa,3,3,1.0,90000.0
+Westlands,Westlands Area,2,0,1.0,180000.0
+Westlands,Westlands Area,3,3,1.0,380000.0
+Westlands,Rhapta Road,2,2,1.0,175000.0
+Westlands,Westlands Area,3,4,1.0,200000.0
+Nairobi,Kileleshwa,3,3,1.0,300000.0
+Nairobi,Kilimani,2,2,1.0,75000.0
+Westlands,Rosslyn,1,1,1.0,130000.0
+Westlands,Westlands Area,2,1,1.0,70000.0
+Nyali,Mkomani,2,2,1.0,85000.0
+Nairobi,Kileleshwa,2,2,1.0,70000.0
+Westlands,Runda,3,4,1.0,230000.0
+Westlands,General Mathenge,3,4,1.0,165000.0
+Westlands,Spring Valley,3,2,0.0,170000.0
+Westlands,Westlands Area,3,3,1.0,300000.0
+Nyali,Nyali Area,2,3,1.0,100000.0
+Westlands,Westlands Area,3,3,1.0,300000.0
+Westlands,Brookside,2,0,1.0,165000.0
+Westlands,Riverside,3,0,0.0,200000.0
+Nairobi,Kilimani,2,3,0.0,95000.0
+Nairobi,Muthaiga,3,2,1.0,200000.0
+Westlands,Westlands Area,0,0,1.0,164340.0
+Nairobi,Ngara,3,2,1.0,90000.0
+Nairobi,Kilimani,1,1,1.0,105000.0
+Nyali,Kongowea,3,4,1.0,90000.0
+Nairobi,Kileleshwa,3,3,1.0,170000.0
+Machakos County,Athi River,3,0,1.0,35000.0
+Nairobi,Nairobi West,1,1,1.0,85000.0
+Nairobi,Kasarani,3,3,0.0,200000.0
+Nairobi,Kileleshwa,3,2,0.0,90000.0
+Nyali,Nyali Area,4,5,1.0,200000.0
+Kiambu County,Ruaka,2,2,1.0,22000.0
+Westlands,Parklands,1,1,1.0,125000.0
+Nairobi,Kilimani,2,2,1.0,80000.0
+Westlands,Kitisuru,2,2,1.0,230000.0
+Westlands,Westlands Area,1,1,1.0,90000.0
+Nairobi,Kiambu Road,0,0,1.0,14000.0
+Nairobi,Kilimani,2,0,0.0,80000.0
+Westlands,Riverside,3,2,1.0,110000.0
+Roysambu,Mirema,1,1,1.0,25000.0
+Nairobi,Kilimani,3,3,1.0,200000.0
+Westlands,Riverside,3,3,1.0,150000.0
+Westlands,Mountain View,3,2,1.0,110000.0
+Westlands,Brookside,2,2,1.0,250000.0
+Nairobi,Lavington,1,2,1.0,150000.0
+Nairobi,Lavington,2,3,1.0,120000.0
+Nairobi,Kileleshwa,6,6,0.0,160000.0
+Nairobi,Lavington,3,4,1.0,260000.0
+Westlands,Rhapta Road,3,4,1.0,150000.0
+Kiambu County,Ruaka,1,1,1.0,35000.0
+Westlands,Rosslyn,3,0,1.0,220000.0
+Westlands,Waiyaki Way,4,3,1.0,75000.0
+Westlands,General Mathenge,3,3,0.0,200000.0
+Westlands,Rosslyn,1,1,1.0,100000.0
+Westlands,Riverside,4,5,1.0,300000.0
+Westlands,Nyari,3,3,1.0,435750.0
+Nyali,Nyali Area,3,4,1.0,65000.0
+Nairobi,Lavington,5,5,1.0,250000.0
+Westlands,Brookside,2,2,0.0,235000.0
+Westlands,Westlands Area,1,1,1.0,90000.0
+Nairobi,Kilimani,3,2,1.0,95000.0
+Nairobi,Kileleshwa,4,4,0.0,250000.0
+Nyali,Nyali Area,2,3,1.0,20000.0
+Nairobi,Kilimani,2,2,1.0,75000.0
+Nairobi,Lavington,3,3,1.0,90000.0
+Westlands,Westlands Area,2,2,1.0,170000.0
+Nairobi,Lavington,3,3,1.0,100000.0
+Westlands,Westlands Area,1,1,1.0,45000.0
+Nyali,Nyali Area,4,5,1.0,200000.0
+Kiambu County,Ruaka,3,2,1.0,55000.0
+Nyali,Kongowea,3,4,1.0,90000.0
+Westlands,Riverside,3,3,1.0,280000.0
+Westlands,Spring Valley,2,2,1.0,265000.0
+Nairobi,Ngong Road,3,2,1.0,60000.0
+Nairobi,Kileleshwa,3,1,1.0,65000.0
+Westlands,Rhapta Road,2,3,1.0,140000.0
+Westlands,Westlands Area,4,4,1.0,250000.0
+Westlands,Nyari,3,3,1.0,563200.0
+Nyali,Nyali Area,2,2,1.0,35000.0
+Nairobi,Kilimani,1,2,1.0,70000.0
+Nairobi,Kilimani,2,3,0.0,170000.0
+Westlands,Parklands,3,4,1.0,230000.0
+Nairobi,Lavington,2,2,1.0,75000.0
+Westlands,Westlands Area,2,2,1.0,100000.0
+Nairobi,Kileleshwa,3,4,1.0,150000.0
+Westlands,Rhapta Road,3,3,1.0,100000.0
+Westlands,Westlands Area,3,3,1.0,220000.0
+Westlands,Westlands Area,2,2,1.0,260000.0
+Nairobi,Kilimani,1,1,1.0,65000.0
+Westlands,General Mathenge,4,0,0.0,270000.0
+Nairobi,Lavington,3,3,0.0,350000.0
+Nairobi,Kileleshwa,2,2,0.0,140000.0
+Nairobi,Karen Hardy,3,3,1.0,150000.0
+Nairobi,Kasarani,1,1,0.0,14000.0
+Nairobi,Kilimani,2,3,1.0,120000.0
+Westlands,Waiyaki Way,4,4,1.0,160000.0
+Westlands,General Mathenge,4,5,1.0,220000.0
+Nairobi,Kileleshwa,4,5,1.0,160000.0
+Nairobi,Kileleshwa,2,2,1.0,190000.0
+Westlands,Loresho,2,2,1.0,55000.0
+Kiambu County,Ruaka,1,1,1.0,18000.0
+Westlands,Riverside,4,3,1.0,130000.0
+Westlands,General Mathenge,3,4,0.0,130000.0
+Westlands,Parklands,3,3,0.0,
+Nyali,Mkomani,3,2,1.0,100000.0
+Westlands,Riverside,1,2,1.0,190000.0
+Westlands,Rhapta Road,3,3,1.0,240000.0
+Westlands,General Mathenge,1,1,1.0,270000.0
+Nairobi,Kilimani,2,2,1.0,100000.0
+Westlands,Brookside,4,4,1.0,220000.0
+Nyali,Nyali Area,3,3,1.0,98000.0
+Westlands,Parklands,3,3,1.0,220000.0
+Nairobi,Thika Road,3,3,1.0,150000.0
+Nairobi,Kilimani,2,0,1.0,90000.0
+Westlands,Nyari,2,3,1.0,150000.0
+Westlands,Spring Valley,3,4,1.0,330000.0
+Nairobi,Valley Arcade,3,3,1.0,130000.0
+Nairobi,Kilimani,2,3,1.0,160000.0
+Nairobi,Kilimani,3,4,1.0,150000.0
+Nyali,Nyali Area,3,3,1.0,108000.0
+Westlands,Brookside,4,5,1.0,400000.0
+Nairobi,Kilimani,2,3,1.0,220000.0
+Nairobi,Kilimani,2,3,1.0,70000.0
+Westlands,Riverside,3,4,1.0,150000.0
+Nairobi,Lavington,3,3,1.0,90000.0
+Nairobi,Kilimani,3,3,1.0,83000.0
+Mombasa,Bamburi,1,1,1.0,17500.0
+Nairobi,Lavington,4,4,1.0,170000.0
+Nairobi,Kileleshwa,3,3,1.0,100000.0
+Westlands,Westlands Area,3,4,1.0,250000.0
+Nairobi,Kilimani,2,2,1.0,65000.0
+Nairobi,Kileleshwa,2,2,1.0,47000.0
+Nairobi,Kilimani,3,4,1.0,150000.0
+Westlands,Gigiri,1,1,1.0,200000.0
+Westlands,Riverside,4,5,1.0,650000.0
+Nairobi,Kileleshwa,3,2,1.0,130000.0
+Nyali,Nyali Area,4,5,1.0,230000.0
+Westlands,Westlands Area,1,1,1.0,140000.0
+Nairobi,Lavington,2,2,1.0,70000.0
+Mombasa,Bamburi,2,0,1.0,25000.0
+Nairobi,Kilimani,3,3,1.0,80000.0
+Nairobi,Upper Hill,3,3,1.0,250000.0
+Nairobi,Kileleshwa,3,4,1.0,170000.0
+Nairobi,Kilimani,2,3,1.0,150000.0
+Nairobi,Kilimani,2,0,1.0,65000.0
+Westlands,Riverside,3,3,1.0,250000.0
+Westlands,Rhapta Road,1,2,1.0,100000.0
+Westlands,Westlands Area,3,3,1.0,85000.0
+Westlands,Westlands Area,2,3,1.0,117500.0
+Nairobi,Lavington,5,6,0.0,300000.0
+Westlands,Westlands Area,3,3,1.0,250000.0
+Kiambu County,Ruaka,2,0,0.0,35000.0
+Nairobi,Kileleshwa,2,3,1.0,180000.0
+Kikuyu,Kikuyu Town,1,1,1.0,12500.0
+Westlands,Westlands Area,3,3,1.0,240000.0
+Nairobi,Kileleshwa,3,3,1.0,140000.0
+Nyali,Nyali Area,3,4,1.0,100000.0
+Nairobi,Kileleshwa,2,2,1.0,85000.0
+Westlands,Parklands,3,3,1.0,180000.0
+Nairobi,Kileleshwa,2,3,1.0,120000.0
+Nyali,Nyali Area,3,2,1.0,30000.0
+Westlands,Parklands,3,4,1.0,200000.0
+Nyali,Nyali Area,3,4,1.0,130000.0
+Westlands,Runda,4,6,1.0,290000.0
+Westlands,Westlands Area,3,4,1.0,155000.0
+Westlands,Westlands Area,1,1,1.0,110000.0
+Westlands,Parklands,3,3,1.0,250000.0
+Nairobi,Kilimani,1,1,1.0,130000.0
+Westlands,Parklands,4,5,1.0,165000.0
+Nairobi,Kilimani,2,0,1.0,130000.0
+Nairobi,Thika Road,1,1,0.0,64000.0
+Westlands,Riverside,4,4,1.0,110000.0
+Westlands,Westlands Area,3,3,1.0,150000.0
+Nyali,Nyali Area,3,4,1.0,100000.0
+Westlands,Westlands Area,2,3,1.0,150000.0
+Westlands,Parklands,3,4,1.0,300000.0
+Mombasa Island,Tudor,3,4,1.0,80000.0
+Westlands,Spring Valley,3,3,1.0,320000.0
+Westlands,Riverside,1,1,1.0,200000.0
+Kiambu County,Ruaka,2,2,1.0,40000.0
+Westlands,Riverside,3,3,1.0,100000.0
+Westlands,Riverside,3,3,0.0,300000.0
+Kiambu County,Thika,2,1,1.0,20000.0
+Roysambu,Garden Estate,2,3,1.0,9000.0
+Westlands,Parklands,2,2,1.0,60000.0
+Nairobi,Muthaiga,3,4,1.0,250000.0
+Nyali,Nyali Area,3,4,1.0,120000.0
+Nyali,Nyali Area,4,5,1.0,45000.0
+Kiambu County,Ruaka,2,2,1.0,45000.0
+Westlands,Westlands Area,2,2,1.0,250000.0
+Nairobi,Kilimani,1,0,1.0,170000.0
+Westlands,Westlands Area,2,1,1.0,380000.0
+Westlands,Riverside,2,3,1.0,80000.0
+Westlands,Westlands Area,2,2,1.0,200000.0
+Nyali,Nyali Area,3,4,1.0,110000.0
+Nairobi,Kilimani,3,3,1.0,230000.0
+Westlands,Riverside,3,4,1.0,250000.0
+Nairobi,Kilimani,3,3,1.0,350000.0
+Westlands,General Mathenge,3,4,1.0,250000.0
+Nyali,Nyali Area,4,5,1.0,160000.0
+Westlands,Riverside,2,0,0.0,200000.0
+Nyali,Nyali Area,3,2,1.0,130000.0
+Westlands,Kitisuru,2,2,1.0,200000.0
+Nairobi,Muthaiga,3,2,0.0,200000.0
+Nairobi,Lavington,3,2,1.0,80000.0
+Nairobi,Kilimani,0,1,1.0,110000.0
+Westlands,Westlands Area,1,2,1.0,100000.0
+Nyali,Nyali Area,3,4,1.0,185000.0
+Westlands,Kitisuru,3,3,1.0,250000.0
+Nairobi,Kileleshwa,6,6,1.0,170000.0
+Nairobi,Lavington,3,3,1.0,70000.0
+Nairobi,Waithaka,4,4,1.0,390000.0
+Nairobi,Lavington,2,2,1.0,75000.0
+Nairobi,Lavington,1,1,0.0,65000.0
+Nairobi,Kilimani,3,3,1.0,170000.0
+Nairobi,Kileleshwa,3,2,1.0,75000.0
+Kiambu County,Ruaka,3,3,1.0,55000.0
+Nairobi,Lavington,2,2,1.0,85000.0
+Kilifi County,Mtwapa,3,3,1.0,85000.0
+Westlands,Westlands Area,1,1,1.0,100000.0
+Nairobi,Lavington,4,4,1.0,170000.0
+Nairobi,Kileleshwa,2,2,1.0,75000.0
+Westlands,Riverside,3,3,1.0,170000.0
+Nairobi,State House,3,3,1.0,130000.0
+Nairobi,Upper Hill,2,2,0.0,200000.0
+Nyali,Nyali Area,2,2,1.0,120000.0
+Nyali,Mkomani,2,1,1.0,55000.0
+Nyali,Nyali Area,4,6,1.0,180000.0
+Kiambu County,Ruaka,2,2,0.0,45000.0
+Westlands,Westlands Area,2,2,1.0,70000.0
+Nairobi,Kilimani,2,3,1.0,90000.0
+Nairobi,Kilimani,2,2,1.0,9000.0
+Westlands,Waiyaki Way,2,2,1.0,260000.0
+Westlands,Parklands,3,3,1.0,85000.0
+Westlands,Westlands Area,3,4,1.0,445000.0
+Nairobi,Lavington,1,2,1.0,120000.0
+Nairobi,Kileleshwa,2,2,1.0,72000.0
+Nairobi,Kileleshwa,4,4,1.0,200000.0
+Nairobi,Lavington,4,4,1.0,245000.0
+Westlands,Rhapta Road,3,3,1.0,100000.0
+Westlands,Westlands Area,2,2,1.0,190000.0
+Nairobi,Madaraka,2,2,0.0,90000.0
+Nairobi,Kilimani,2,2,1.0,100000.0
+Nairobi,Riara Road,3,4,1.0,150000.0
+Nairobi,Kilimani,2,2,1.0,160000.0
+Westlands,Westlands Area,3,3,1.0,200000.0
+Nyali,Nyali Area,3,3,1.0,40000.0
+Nairobi,Kileleshwa,3,3,0.0,140000.0
+Westlands,Kitisuru,2,1,0.0,17000.0
+Westlands,Brookside,4,5,1.0,200000.0
+Nairobi,Kilimani,2,2,1.0,200000.0
+Nairobi,Kilimani,2,3,1.0,150000.0
+Nairobi,Kileleshwa,3,3,1.0,85000.0
+Westlands,Riverside,3,2,1.0,240000.0
+Nairobi,Langata,2,2,1.0,50000.0
+Westlands,Kitisuru,1,1,1.0,23000.0
+Nairobi,Kilimani,4,4,1.0,110000.0
+Westlands,Spring Valley,3,2,0.0,200000.0
+Nairobi,Kiambu Road,3,3,1.0,55000.0
+Nairobi,Kilimani,3,3,1.0,100000.0
+Nairobi,Lavington,2,2,1.0,80000.0
+Westlands,Parklands,3,3,1.0,250000.0
+Nairobi,Kileleshwa,1,1,1.0,150000.0
+Nairobi,Kileleshwa,1,1,1.0,110000.0
+Nairobi,Kilimani,2,2,1.0,170000.0
+Nairobi,Kilimani,2,2,1.0,65000.0
+Nyali,Nyali Area,3,2,1.0,60000.0
+Nyali,Nyali Area,2,2,1.0,100000.0
+Westlands,Parklands,2,2,1.0,155000.0
+Westlands,Riverside,3,0,1.0,220000.0
+Westlands,Brookside,4,3,1.0,220000.0
+Nairobi,Thika Road,2,2,0.0,145000.0
+Westlands,Riverside,1,1,1.0,190000.0
+Westlands,Parklands,2,2,0.0,75000.0
+Nairobi,Kilimani,2,3,1.0,220000.0
+Westlands,Riverside,3,3,1.0,150000.0
+Westlands,Kitisuru,3,2,1.0,100000.0
+Nairobi,Kileleshwa,4,5,1.0,160000.0
+Westlands,Westlands Area,3,4,1.0,180000.0
+Westlands,Riverside,1,2,1.0,190000.0
+Nairobi,Kilimani,2,2,1.0,112000.0
+Westlands,Kitisuru,2,2,1.0,170000.0
+Westlands,Rhapta Road,3,4,1.0,275000.0
+Westlands,General Mathenge,2,3,1.0,280000.0
+Westlands,Westlands Area,2,2,1.0,140000.0
+Nairobi,Lavington,4,4,1.0,130000.0
+Nairobi,Kilimani,2,3,1.0,80000.0
+Kiambu County,Thindigua,2,2,1.0,45000.0
+Nairobi,Kilimani,3,4,1.0,140000.0
+Nairobi,Lavington,2,0,1.0,200000.0
+Nairobi,Lavington,3,4,1.0,120000.0
+Roysambu,Kahawa West,2,2,1.0,35000.0
+Westlands,General Mathenge,3,4,1.0,350000.0
+Nairobi,Hurlingham,2,0,1.0,200000.0
+Westlands,Rhapta Road,3,3,1.0,85000.0
+Nairobi,Kileleshwa,3,3,1.0,85000.0
+Nairobi,Kilimani,2,2,1.0,90000.0
+Westlands,Westlands Area,3,3,0.0,
+Nairobi,State House,2,0,0.0,130000.0
+Westlands,Parklands,4,4,1.0,280000.0
+Westlands,Westlands Area,1,1,0.0,150000.0
+Nyali,Nyali Area,4,4,1.0,120000.0
+Westlands,Westlands Area,1,1,0.0,130000.0
+Nairobi,Riara Road,2,1,0.0,25000.0
+Nairobi,Thika Road,2,0,0.0,50000.0
+Nairobi,Kilimani,2,2,1.0,70000.0
+Westlands,Parklands,1,1,1.0,50000.0
+Nairobi,Kileleshwa,3,3,1.0,230000.0
+Nyali,Nyali Area,3,4,1.0,220000.0
+Kiambu County,Ruaka,1,0,0.0,20000.0
+Kilifi County,Mtwapa,3,2,1.0,35000.0
+Nairobi,Kilimani,2,2,1.0,160000.0
+Nairobi,Lavington,3,2,1.0,75000.0
+Roysambu,Garden Estate,3,4,1.0,150000.0
+Nairobi,Kilimani,2,3,1.0,85000.0
+Westlands,Parklands,3,2,1.0,130000.0
+Westlands,Parklands,4,5,0.0,205000.0
+Westlands,Westlands Area,2,2,1.0,140000.0
+Nyali,Mkomani,3,4,1.0,90000.0
+Westlands,Westlands Area,1,1,1.0,95000.0
+Nairobi,Utawala,2,2,1.0,25000.0
+Westlands,Westlands Area,3,4,1.0,170000.0
+Westlands,Westlands Area,3,3,1.0,300000.0
+Westlands,Westlands Area,2,2,1.0,250000.0
+Nairobi,Kilimani,4,3,1.0,135000.0
+Westlands,Gigiri,1,1,1.0,120000.0
+Westlands,Rhapta Road,2,2,1.0,160000.0
+Westlands,Westlands Area,2,2,1.0,230000.0
+Westlands,Westlands Area,3,3,1.0,280000.0
+Nairobi,Kilimani,2,0,1.0,150000.0
+Westlands,Karura,3,4,1.0,300000.0
+Nairobi,Kilimani,1,1,1.0,120000.0
+Nairobi,Lavington,3,0,1.0,150000.0
+Westlands,Brookside,3,3,1.0,100000.0
+Roysambu,Garden Estate,3,3,1.0,160000.0
+Nairobi,Kileleshwa,3,4,1.0,250000.0
+Westlands,General Mathenge,3,3,0.0,180000.0
+Nairobi,Kilimani,3,3,1.0,180000.0
+Westlands,Westlands Area,2,2,1.0,280000.0
+Nairobi,Lavington,1,1,0.0,150000.0
+Nairobi,Kilimani,2,2,1.0,65000.0
+Kiambu County,Ruaka,2,2,1.0,30000.0
+Kiambu County,Ruaka,2,2,1.0,100000.0
+Westlands,Runda,2,1,1.0,
+Nairobi,Ngong Road,3,2,1.0,75000.0
+Nyali,Nyali Area,4,5,1.0,145000.0
+Westlands,Loresho,2,3,0.0,55000.0
+Westlands,General Mathenge,3,3,1.0,330000.0
+Kiambu County,Kiambu Town,3,2,1.0,45000.0
+Westlands,Brookside,2,2,1.0,75000.0
+Nairobi,Ruaraka,2,2,0.0,200000.0
+Nyali,Nyali Area,3,4,1.0,100000.0
+Nairobi,Kileleshwa,4,4,1.0,140000.0
+Nyali,Nyali Area,3,4,1.0,160000.0
+Westlands,Rhapta Road,2,2,1.0,150000.0
+Westlands,Westlands Area,1,2,1.0,
+Westlands,Westlands Area,0,1,1.0,90000.0
+Nairobi,Lavington,3,3,0.0,90000.0
+Kajiado County,Ongata Rongai,2,1,1.0,25000.0
+Nairobi,Lavington,3,3,1.0,85000.0
+Nairobi,Kilimani,3,3,1.0,270000.0
+Nairobi,Kilimani,2,3,1.0,160000.0
+Nairobi,Kilimani,3,3,1.0,125000.0
+Westlands,Riverside,3,0,0.0,220000.0
+Kiambu County,Thika,1,1,1.0,7500.0
+Westlands,Westlands Area,1,1,1.0,100000.0
+Westlands,Spring Valley,3,3,1.0,300000.0
+Nairobi,Lavington,2,0,0.0,70000.0
+Westlands,Westlands Area,3,3,1.0,85000.0
+Kiambu County,Ruaka,2,2,1.0,45000.0
+Nairobi,Upper Hill,3,3,1.0,200000.0
+Westlands,Parklands,2,2,1.0,70000.0
+Westlands,Rhapta Road,4,4,1.0,140000.0
+Nairobi,Kilimani,3,2,1.0,70000.0
+Nyali,Nyali Area,4,4,0.0,293000.0
+Nyali,Nyali Area,4,5,1.0,150000.0
+Nairobi,Kilimani,2,3,1.0,10000.0
+Nairobi,Kilimani,3,3,1.0,80000.0
+Kilifi County,Mtwapa,3,3,1.0,85000.0
+Westlands,Parklands,4,4,1.0,320000.0
+Westlands,Runda,3,3,1.0,250000.0
+Westlands,Loresho,2,2,1.0,65000.0
+Westlands,Westlands Area,2,2,1.0,150000.0
+Nairobi,Kilimani,3,0,1.0,160000.0
+Roysambu,Garden Estate,2,2,1.0,190000.0
+Westlands,Westlands Area,3,3,1.0,130000.0
+Nairobi,Kileleshwa,4,4,1.0,230000.0
+Nairobi,Kilimani,2,2,1.0,170000.0
+Nairobi,Highrise,2,2,0.0,38000.0
+Nairobi,Kilimani,3,3,1.0,115000.0
+Nairobi,Kileleshwa,3,4,1.0,150000.0
+Westlands,Rhapta Road,3,3,0.0,150000.0
+Nairobi,Lavington,2,2,1.0,75000.0
+Westlands,Rosslyn,2,2,1.0,150000.0
+Mombasa Island,Mombasa CBD,3,2,0.0,50000.0
+Kilifi County,Mtwapa,3,3,1.0,8000.0
+Nairobi,Kilimani,3,3,1.0,87000.0
+Westlands,Westlands Area,3,2,1.0,120000.0
+Westlands,Riverside,3,0,1.0,170000.0
+Westlands,Rhapta Road,3,3,0.0,190000.0
+Nairobi,Kilimani,2,2,1.0,170000.0
+Westlands,Gigiri,3,4,1.0,260000.0
+Westlands,Brookside,2,3,1.0,95000.0
+Nyali,Nyali Area,3,3,1.0,15000.0
+Roysambu,Garden Estate,2,2,1.0,95000.0
+Westlands,Spring Valley,2,2,1.0,200000.0
+Westlands,Riverside,3,3,1.0,160000.0
+Nyali,Nyali Area,3,4,1.0,65000.0
+Westlands,Parklands,4,0,1.0,90000.0
+Nyali,Nyali Area,3,3,1.0,88000.0
+Westlands,Riverside,3,3,1.0,150000.0
+Nairobi,Kileleshwa,1,1,1.0,115000.0
+Kiambu County,Ruaka,2,2,0.0,30000.0
+Nairobi,Kileleshwa,3,4,1.0,100000.0
+Nairobi,Kileleshwa,2,3,1.0,80000.0
+Westlands,Westlands Area,2,2,1.0,95000.0
+Roysambu,Garden Estate,2,2,1.0,180000.0
+Westlands,Brookside,2,2,0.0,230000.0
+Nyali,Nyali Area,3,3,1.0,90000.0
+Nairobi,Kilimani,3,3,0.0,375000.0
+Westlands,Kitisuru,2,0,1.0,240000.0
+Nairobi,Kilimani,1,1,1.0,130000.0
+Westlands,Westlands Area,3,2,1.0,90000.0
+Westlands,Kitisuru,1,1,1.0,180000.0
+Nairobi,Kileleshwa,1,1,1.0,125000.0
+Nyali,Nyali Area,1,2,0.0,55000.0
+Nairobi,Kileleshwa,2,2,1.0,115000.0
+Nairobi,Kilimani,3,3,1.0,80000.0
+Nairobi,Kilimani,2,2,1.0,75000.0
+Nairobi,Kileleshwa,3,4,1.0,90000.0
+Nairobi,Valley Arcade,2,2,0.0,70000.0
+Kiambu County,Ruaka,1,1,1.0,15000.0
+Westlands,Rosslyn,3,3,1.0,300000.0
+Westlands,Spring Valley,4,0,1.0,440100.0
+Nairobi,Kileleshwa,3,3,1.0,130000.0
+Nairobi,Kileleshwa,2,2,1.0,70000.0
+Nairobi,Kiambu Road,3,2,1.0,160000.0
+Nairobi,Thika Road,2,3,1.0,140000.0
+Nyali,Nyali Area,3,3,1.0,16000.0
+Westlands,Westlands Area,3,4,1.0,140000.0
+Roysambu,Roysambu Area,4,3,1.0,80000.0
+Kilifi County,Mtwapa,3,1,0.0,25000.0
+Nairobi,Lavington,3,2,1.0,90000.0
+Nairobi,Kileleshwa,3,3,1.0,
+Nairobi,Kilimani,3,3,1.0,189000.0
+Nairobi,Kileleshwa,3,4,1.0,130000.0
+Westlands,Westlands Area,1,1,1.0,75000.0
+Westlands,Westlands Area,2,2,1.0,225127.0
+Nairobi,Kileleshwa,3,3,0.0,125000.0
+Ruiru,Tatu City,2,2,1.0,45000.0
+Westlands,Gigiri,3,3,1.0,500000.0
+Nairobi,Kilimani,0,1,1.0,60000.0
+Westlands,General Mathenge,2,0,1.0,90000.0
+Westlands,General Mathenge,4,5,1.0,300000.0
+Westlands,Westlands Area,2,2,1.0,100000.0
+Westlands,Brookside,2,2,1.0,200000.0
+Westlands,Brookside,2,2,1.0,180000.0
+Nairobi,Kilimani,4,4,0.0,150000.0
+Nairobi,Kilimani,2,3,1.0,180000.0
+Nyali,Nyali Area,3,4,1.0,98000.0
+Nyali,Nyali Area,5,4,1.0,100000.0
+Nairobi,Kileleshwa,3,5,0.0,140000.0
+Nyali,Nyali Area,3,4,1.0,135000.0
+Kiambu County,Ruaka,1,1,1.0,25000.0
+Machakos County,Syokimau,2,0,1.0,23000.0
+Westlands,Westlands Area,2,2,1.0,120000.0
+Westlands,Parklands,3,0,1.0,250000.0
+Westlands,Westlands Area,1,1,1.0,95000.0
+Westlands,Westlands Area,2,3,1.0,90000.0
+Nairobi,Lavington,3,4,1.0,250000.0
+Westlands,General Mathenge,3,3,0.0,140000.0
+Westlands,Westlands Area,2,2,1.0,200000.0
+Westlands,Karura,3,4,1.0,330000.0
+Nairobi,Kileleshwa,1,1,1.0,
+Nairobi,Lavington,3,3,1.0,230000.0
+Nairobi,Kilimani,3,3,1.0,180000.0
+Nairobi,Kilimani,3,2,1.0,180000.0
+Westlands,Parklands,3,3,1.0,280000.0
+Westlands,Spring Valley,2,0,1.0,150000.0
+Westlands,General Mathenge,3,2,1.0,160000.0
+Nairobi,Valley Arcade,4,5,1.0,230000.0
+Westlands,Westlands Area,3,3,1.0,300000.0
+Nyali,Nyali Area,3,4,1.0,90000.0
+Nairobi,Lavington,3,2,1.0,105000.0
+Nairobi,Kilimani,1,1,1.0,120000.0
+Nairobi,Kileleshwa,3,3,0.0,75000.0
+Nairobi,Lavington,3,3,1.0,130000.0
+Westlands,Kitisuru,2,2,1.0,244460.0
+Westlands,Westlands Area,2,2,1.0,160000.0
+Westlands,Westlands Area,0,0,0.0,117000.0
+Nairobi,Kileleshwa,3,3,1.0,130000.0
+Nairobi,Muthaiga,3,3,1.0,190000.0
+Nairobi,Lavington,1,1,1.0,180000.0
+Westlands,Westlands Area,1,1,1.0,200000.0
+Machakos County,Syokimau,4,4,1.0,100000.0
+Nairobi,Kilimani,2,3,1.0,190000.0
+Nyali,Nyali Area,2,2,1.0,110000.0
+Westlands,Westlands Area,3,3,1.0,330000.0
+Westlands,Spring Valley,2,2,1.0,230000.0
+Nairobi,Kileleshwa,3,4,1.0,120000.0
+Nairobi,Ruaraka,2,1,1.0,17000.0
+Nairobi,Kilimani,1,1,1.0,110000.0
+Nairobi,Kileleshwa,2,3,1.0,120000.0
+Westlands,General Mathenge,3,3,1.0,150000.0
+Westlands,Parklands,3,4,1.0,250000.0
+Nairobi,Kileleshwa,4,4,1.0,150000.0
+Roysambu,Garden Estate,3,3,1.0,80000.0
+Nyali,Nyali Area,3,4,1.0,85000.0
+Nairobi,Lavington,3,2,1.0,150000.0
+Westlands,Westlands Area,4,4,1.0,270000.0
+Nairobi,Kilimani,2,2,1.0,140000.0
+Nairobi,Kilimani,2,2,1.0,170000.0
+Nairobi,Kilimani,2,2,1.0,260000.0
+Nairobi,Kileleshwa,1,1,1.0,130000.0
+Westlands,Westlands Area,3,4,1.0,170000.0
+Nairobi,Kilimani,3,3,1.0,170000.0
+Westlands,Gigiri,2,2,1.0,200000.0
+Westlands,Westlands Area,2,2,1.0,200000.0
+Kiambu County,Kiambu Town,1,1,1.0,3000.0
+Nairobi,Lavington,4,5,1.0,250000.0
+Nyali,Nyali Area,3,4,1.0,181000.0
+Nairobi,Kileleshwa,3,3,0.0,200000.0
+Nairobi,Lavington,2,3,1.0,260000.0
+Westlands,Parklands,3,2,1.0,119000.0
+Westlands,Rhapta Road,3,4,1.0,120000.0
+Nairobi,Kileleshwa,2,3,1.0,75000.0
+Westlands,Rhapta Road,1,1,1.0,100000.0
+Nairobi,Kileleshwa,3,3,1.0,80000.0
+Nyali,Nyali Area,3,3,1.0,125000.0
+Westlands,Parklands,3,4,0.0,240000.0
+Westlands,Nyari,1,0,1.0,120000.0
+Nyali,Nyali Area,2,2,1.0,90000.0
+Nairobi,Kilimani,3,3,1.0,110000.0
+Nairobi,Lavington,4,3,1.0,
+Westlands,Riverside,2,2,0.0,120000.0
+Nairobi,Kasarani,1,1,0.0,15000.0
+Westlands,Runda,2,2,1.0,200000.0
+Westlands,Parklands,3,0,0.0,120000.0
+Westlands,General Mathenge,3,3,1.0,100000.0
+Westlands,Kitisuru,0,1,1.0,70000.0
+Westlands,Nyari,2,2,1.0,252000.0
+Nairobi,Kileleshwa,3,2,1.0,85000.0
+Nairobi,Kilimani,2,1,1.0,110000.0
+Nairobi,Thika Road,2,2,1.0,70000.0
+Westlands,Riverside,3,3,1.0,160000.0
+Westlands,Riverside,5,2,1.0,300000.0
+Nyali,Kongowea,3,3,0.0,150000.0
+Westlands,Westlands Area,4,3,1.0,150000.0
+Nairobi,Kilimani,3,4,1.0,280000.0
+Nairobi,Lavington,3,3,1.0,95000.0
+Nyali,Nyali Area,2,2,1.0,100000.0
+Nairobi,Kileleshwa,3,3,1.0,130000.0
+Roysambu,Kahawa Sukari,3,3,1.0,70000.0
+Nairobi,Kileleshwa,2,0,1.0,220000.0
+Roysambu,Garden Estate,2,2,1.0,130000.0
+Nairobi,Kilimani,2,2,1.0,85000.0
+Kiambu County,Ruaka,3,2,1.0,50000.0
+Westlands,Parklands,2,2,1.0,150000.0
+Nyali,Nyali Area,3,4,1.0,140000.0
+Nairobi,Lavington,4,4,1.0,100000.0
+Nyali,Nyali Area,3,2,1.0,90000.0
+Nairobi,Kilimani,0,2,1.0,120000.0
+Mombasa,Shanzu,2,2,1.0,15000.0
+Nyali,Nyali Area,3,3,1.0,100000.0
+Nyali,Nyali Area,3,4,1.0,200000.0
+Westlands,Riverside,2,3,1.0,110000.0
+Nairobi,Kiambu Road,2,2,1.0,180000.0
+Westlands,Brookside,3,4,1.0,220000.0
+Nairobi,Kilimani,2,3,1.0,190000.0
+Westlands,Parklands,2,2,1.0,120000.0
+Nyali,Nyali Area,4,5,1.0,150000.0
+Nairobi,Kileleshwa,2,2,1.0,120000.0
+Nairobi,Kilimani,3,4,1.0,110000.0
+Nairobi,Kileleshwa,3,3,0.0,180000.0
+Nairobi,Kileleshwa,2,2,1.0,220000.0
+Westlands,Westlands Area,3,3,0.0,140000.0
+Westlands,Westlands Area,2,2,1.0,160000.0
+Westlands,Lower Kabete,1,1,0.0,9000.0
+Nairobi,Langata,3,3,1.0,75000.0
+Nairobi,Kilimani,1,1,1.0,100000.0
+Westlands,Riverside,3,3,1.0,354000.0
+Westlands,Parklands,2,2,1.0,150000.0
+Nyali,Nyali Area,2,2,1.0,55000.0
+Westlands,Parklands,2,2,0.0,200000.0
+Westlands,Waiyaki Way,2,2,1.0,50000.0
+Nairobi,Lavington,3,4,1.0,140000.0
+Nairobi,Kileleshwa,3,3,0.0,175000.0
+Westlands,Parklands,3,3,1.0,125000.0
+Westlands,Westlands Area,3,3,0.0,120000.0
+Nairobi,Lavington,2,3,1.0,65000.0
+Nyali,Kongowea,3,3,0.0,14000.0
+Westlands,Westlands Area,2,0,1.0,200000.0
+Nairobi,Lavington,2,2,1.0,90000.0
+Westlands,Runda,2,2,0.0,150000.0
+Kilifi County,Kikambala,3,3,1.0,95000.0
+Nairobi,Kilimani,2,1,1.0,5000.0
+Westlands,General Mathenge,3,3,1.0,150000.0
+Westlands,General Mathenge,4,5,1.0,220000.0
+Nairobi,Mombasa Road,3,3,1.0,100000.0
+Nairobi,Kileleshwa,3,4,1.0,200000.0
+Nairobi,Kileleshwa,0,1,1.0,90000.0
+Nyali,Nyali Area,2,2,0.0,10000.0
+Kiambu County,Ruaka,2,2,0.0,40000.0
+Westlands,Runda,2,2,0.0,371000.0
+Westlands,Kitisuru,5,5,1.0,660000.0
+Nairobi,Kileleshwa,2,2,0.0,65000.0
+Westlands,Westlands Area,2,2,1.0,55000.0
+Westlands,Riverside,3,3,1.0,350000.0
+Westlands,Rosslyn,2,2,1.0,180000.0
+Nairobi,Muthaiga,2,2,1.0,200000.0
+Nyali,Nyali Area,2,3,1.0,60000.0
+Nairobi,Lavington,4,5,1.0,130000.0
+Nairobi,Kilimani,1,1,1.0,80000.0
+Nairobi,Kilimani,2,2,1.0,359125.0
+Westlands,Westlands Area,1,1,1.0,150000.0
+Westlands,Westlands Area,1,1,1.0,120000.0
+Westlands,Westlands Area,4,4,1.0,270000.0
+Nairobi,Lavington,4,0,0.0,110000.0
+Nairobi,Thika Road,1,2,1.0,65000.0
+Nyali,Nyali Area,3,4,0.0,60000.0
+Nairobi,Kiambu Road,2,2,1.0,50000.0
+Westlands,Westlands Area,2,2,1.0,110000.0
+Nairobi,Kileleshwa,3,4,1.0,130000.0
+Nairobi,Kilimani,2,2,1.0,65000.0
+Nairobi,Kileleshwa,4,3,0.0,100000.0
+Westlands,Riverside,2,0,0.0,250000.0
+Westlands,Westlands Area,2,3,1.0,220000.0
+Nyali,Nyali Area,3,0,1.0,30000.0
+Nairobi,Naivasha Road,2,2,0.0,40000.0
+Nairobi,Lavington,3,3,1.0,160000.0
+Nairobi,Kileleshwa,3,3,1.0,7000.0
+Nairobi,Kawangware,2,1,1.0,20000.0
+Nairobi,Upper Hill,3,2,1.0,90000.0
+Nairobi,Kilimani,3,3,1.0,105000.0
+Nairobi,Kileleshwa,3,2,1.0,60000.0
+Nairobi,Kilimani,3,4,1.0,170000.0
+Westlands,Riverside,2,2,1.0,150000.0
+Westlands,Parklands,2,1,0.0,75000.0
+Nairobi,Kilimani,4,3,1.0,200000.0
+Westlands,Westlands Area,2,2,1.0,210000.0
+Nairobi,Kilimani,1,1,1.0,130000.0
+Ruiru,Tatu City,2,2,1.0,54200.0
+Westlands,Spring Valley,1,1,1.0,75000.0
+Westlands,Runda,3,3,1.0,260000.0
+Nyali,Nyali Area,4,3,1.0,125000.0
+Nairobi,Lavington,5,6,1.0,350000.0
+Westlands,Riverside,4,4,1.0,300000.0
+Nairobi,Kileleshwa,2,2,1.0,130000.0
+Kiambu County,Ruaka,2,2,1.0,35000.0
+Westlands,Parklands,3,2,1.0,165000.0
+Westlands,Parklands,2,3,1.0,150000.0
+Nairobi,Kileleshwa,3,3,1.0,250000.0
+Westlands,Westlands Area,1,1,0.0,100000.0
+Nairobi,Upper Hill,1,1,1.0,130000.0
+Nairobi,Kiambu Road,3,4,1.0,55000.0
+Westlands,Westlands Area,2,1,0.0,85000.0
+Westlands,Rosslyn,3,3,1.0,260000.0
+Nairobi,Kilimani,2,2,1.0,220000.0
+Westlands,Riverside,3,2,1.0,200000.0
+Nairobi,Kileleshwa,3,4,1.0,130000.0
+Nairobi,Kileleshwa,3,4,1.0,150000.0
+Nyali,Mkomani,3,4,1.0,110000.0
+Nairobi,Lavington,3,3,1.0,110000.0
+Westlands,Westlands Area,2,2,1.0,90000.0
+Nyali,Mkomani,3,4,1.0,100000.0
+Westlands,Riverside,3,3,1.0,200000.0
+Nairobi,Lavington,3,3,1.0,115000.0
+Nyali,Nyali Area,4,4,1.0,120000.0
+Nairobi,Lavington,0,1,1.0,110000.0
+Nairobi,Kileleshwa,1,1,1.0,120000.0
+Nairobi,Kilimani,1,0,1.0,130000.0
+Nyali,Nyali Area,1,1,1.0,65000.0
+Nairobi,Upper Hill,2,2,1.0,200000.0
+Westlands,General Mathenge,3,3,1.0,240000.0
+Westlands,Brookside,2,2,1.0,150000.0
+Nairobi,Karen,1,1,1.0,110000.0
+Westlands,Westlands Area,2,2,1.0,280000.0
+Westlands,Riverside,2,2,1.0,280000.0
+Nyali,Nyali Area,3,3,1.0,230000.0
+Westlands,Westlands Area,2,3,1.0,200000.0
+Westlands,Rhapta Road,3,2,1.0,65000.0
+Nairobi,Kilimani,2,2,1.0,150000.0
+Westlands,Loresho,3,4,1.0,85000.0
+Nairobi,Kilimani,2,0,0.0,130000.0
+Westlands,Westlands Area,2,2,1.0,180000.0
+Westlands,Parklands,2,0,1.0,150000.0
+Westlands,Rhapta Road,2,2,1.0,180000.0
+Nairobi,Lavington,3,3,1.0,80000.0
+Westlands,Brookside,3,4,1.0,160000.0
+Westlands,Gigiri,1,2,1.0,175000.0
+Nairobi,Kilimani,1,1,0.0,105000.0
+Westlands,Westlands Area,3,0,1.0,190000.0
+Westlands,Westlands Area,3,3,1.0,145000.0
+Westlands,General Mathenge,2,2,1.0,250000.0
+Westlands,General Mathenge,4,4,0.0,265000.0
+Westlands,Westlands Area,2,0,1.0,
+Westlands,Westlands Area,2,2,1.0,95000.0
+Nairobi,Muthaiga,2,2,0.0,511000.0
+Nairobi,Kilimani,3,3,1.0,95000.0
+Nairobi,Kilimani,0,1,1.0,120000.0
+Kiambu County,Ruiru,1,1,1.0,10000.0
+Westlands,Riverside,3,3,1.0,90000.0
+Kilifi County,Vipingo,3,2,1.0,32000.0
+Nairobi,Kileleshwa,2,1,1.0,55000.0
+Westlands,General Mathenge,3,0,1.0,150000.0
+Westlands,Westlands Area,4,4,1.0,180000.0
+Westlands,Brookside,3,3,1.0,130000.0
+Nairobi,Ngong Road,3,2,1.0,70000.0
+Nairobi,Kiambu Road,2,2,1.0,135000.0
+Nairobi,Kilimani,1,1,1.0,100000.0
+Nairobi,Kileleshwa,0,1,1.0,4500.0
+Westlands,Lower Kabete,3,3,1.0,135000.0
+Westlands,Karura,3,3,1.0,200000.0
+Mombasa,Bamburi,1,1,1.0,18000.0
+Westlands,Westlands Area,3,4,1.0,250000.0
+Nairobi,Kilimani,2,2,1.0,250000.0
+Roysambu,Thome,1,1,1.0,64000.0
+Nairobi,Kilimani,3,2,1.0,80000.0
+Westlands,Westlands Area,2,2,1.0,250000.0
+Nairobi,Kilimani,2,2,1.0,80000.0
+Nairobi,Lavington,5,6,1.0,230000.0
+Nairobi,Kilimani,3,3,1.0,100000.0
+Nyali,Mkomani,3,4,1.0,98000.0
+Westlands,Kitisuru,2,2,1.0,270000.0
+Kiambu County,Thika,1,2,1.0,14000.0
+Nairobi,Kileleshwa,3,3,1.0,80000.0
+Nairobi,Kilimani,3,4,1.0,120000.0
+Kiambu County,Ruaka,3,3,0.0,54000.0
+Nairobi,Nairobi West,4,4,1.0,230000.0
+Nairobi,Muthaiga,3,3,1.0,180000.0
+Nyali,Nyali Area,1,1,1.0,65000.0
+Nairobi,Kilimani,3,2,1.0,95000.0
+Nairobi,Kileleshwa,3,4,1.0,250000.0
+Nairobi,Kiambu Road,3,2,1.0,150000.0
+Nairobi,Kilimani,4,0,1.0,140000.0
+Westlands,Parklands,3,0,0.0,120000.0
+Kiambu County,Ruaka,2,1,1.0,35000.0
+Nairobi,Kilimani,4,4,1.0,110000.0
+Westlands,Riverside,3,4,1.0,150000.0
+Westlands,Riverside,3,2,1.0,120000.0
+Nyali,Nyali Area,3,3,1.0,20000.0
+Westlands,Parklands,2,2,1.0,120000.0
+Nyali,Nyali Area,3,5,1.0,140000.0
+Kilifi County,Mtwapa,4,3,1.0,90000.0
+Nairobi,Kileleshwa,2,2,1.0,145000.0
+Westlands,Westlands Area,4,4,1.0,400000.0
+Nairobi,Lavington,3,4,1.0,100000.0
+Westlands,Brookside,3,4,1.0,170000.0
+Westlands,Rhapta Road,1,1,1.0,120000.0
+Nairobi,Kiambu Road,3,4,1.0,55000.0
+Westlands,Riverside,3,4,1.0,145000.0
+Nairobi,Kileleshwa,2,0,0.0,67000.0
+Westlands,Waiyaki Way,2,2,1.0,100000.0
+Westlands,Westlands Area,4,4,1.0,350000.0
+Nairobi,Ngong Road,3,3,1.0,75000.0
+Westlands,Westlands Area,2,2,1.0,200000.0
+Westlands,Westlands Area,3,3,1.0,250000.0
+Kajiado County,Ongata Rongai,1,1,1.0,11000.0
+Nairobi,Riara Road,3,4,1.0,130000.0
+Westlands,Parklands,3,0,1.0,85000.0
+Nairobi,Kilimani,4,5,1.0,140000.0
+Nyali,Nyali Area,3,5,1.0,185000.0
+Westlands,Westlands Area,3,3,1.0,250000.0
+Nairobi,Kileleshwa,2,2,1.0,130000.0
+Nairobi,Kileleshwa,3,2,1.0,80000.0
+Westlands,Westlands Area,2,2,1.0,200000.0
+Nairobi,Kilimani,1,2,1.0,160000.0
+Westlands,Westlands Area,3,3,0.0,292000.0
+Westlands,General Mathenge,3,4,1.0,140000.0
+Kiambu County,Ruaka,3,2,0.0,55000.0
+Westlands,Westlands Area,3,3,1.0,240000.0
+Kiambu County,Thika,1,1,1.0,15000.0
+Nairobi,Kilimani,2,3,1.0,130000.0
+Westlands,Westlands Area,2,2,1.0,105000.0
+Nyali,Nyali Area,3,3,1.0,120000.0
+Nairobi,Kileleshwa,1,2,1.0,110000.0
+Nairobi,Kileleshwa,0,1,1.0,60000.0
+Roysambu,Garden Estate,2,3,1.0,89000.0
+Nairobi,Kileleshwa,2,2,1.0,75000.0
+Nyali,Nyali Area,3,4,1.0,98000.0
+Roysambu,Thome,3,3,1.0,80000.0
+Nairobi,Thika Road,3,3,1.0,100000.0
+Westlands,Brookside,2,2,1.0,100000.0
+Westlands,Riverside,2,3,1.0,130000.0
+Nairobi,Kileleshwa,1,1,1.0,65000.0
+Nairobi,Lavington,4,4,1.0,270000.0
+Nairobi,Kileleshwa,3,2,1.0,85000.0
+Westlands,Waiyaki Way,2,2,1.0,250000.0
+Westlands,Westlands Area,3,3,1.0,310000.0
+Nairobi,Kilimani,3,3,0.0,100000.0
+Westlands,General Mathenge,2,2,1.0,90000.0
+Nairobi,Kileleshwa,2,2,1.0,50000.0
+Nyali,Nyali Area,3,2,1.0,65000.0
+Nairobi,Kilimani,1,2,1.0,130000.0
+Nairobi,Kileleshwa,3,4,1.0,140000.0
+Nairobi,Lavington,3,4,1.0,90000.0
+Nairobi,Kilimani,3,4,1.0,230000.0
+Nyali,Nyali Area,3,4,1.0,85000.0
+Westlands,Parklands,3,3,1.0,300000.0
+Westlands,Lower Kabete,2,3,1.0,205000.0
+Westlands,Spring Valley,2,3,1.0,280000.0
+Nairobi,Kileleshwa,3,2,0.0,110000.0
+Nairobi,Kilimani,3,2,0.0,80000.0
+Nairobi,Kiambu Road,3,2,1.0,150000.0
+Nyali,Nyali Area,3,3,1.0,120000.0
+Kiambu County,Thindigua,3,2,0.0,60000.0
+Nairobi,Kilimani,2,2,0.0,160000.0
+Nairobi,Kilimani,3,3,1.0,300000.0
+Nairobi,Kileleshwa,4,3,1.0,120000.0
+Roysambu,Garden Estate,3,3,1.0,80000.0
+Nairobi,Kilimani,3,3,1.0,90000.0
+Nairobi,Lavington,3,3,1.0,75000.0
+Westlands,Westlands Area,2,3,1.0,220000.0
+Westlands,General Mathenge,3,3,1.0,180000.0
+Nairobi,Thika Road,2,3,1.0,140000.0
+Nairobi,Lavington,3,0,1.0,230000.0
+Westlands,Kitisuru,2,2,1.0,80000.0
+Westlands,Westlands Area,3,0,0.0,330000.0
+Nairobi,Muthaiga,2,3,1.0,150000.0
+Nairobi,Kilimani,2,2,1.0,60000.0
+Nairobi,Thika Road,2,0,1.0,170000.0
+Westlands,Rosslyn,1,1,1.0,250000.0
+Nairobi,Lavington,1,2,1.0,140000.0
+Nyali,Mkomani,3,2,1.0,45000.0
+Westlands,Westlands Area,3,3,1.0,110000.0
+Nairobi,Muthaiga,3,3,1.0,250000.0
+Westlands,Rhapta Road,2,0,0.0,180000.0
+Nyali,Nyali Area,3,3,1.0,220000.0
+Kilifi County,Mtwapa,2,3,1.0,35000.0
+Westlands,General Mathenge,3,0,1.0,160000.0
+Nairobi,Thika Road,3,3,0.0,70000.0
+Westlands,Riverside,4,5,1.0,300000.0
+Westlands,Parklands,3,3,1.0,250000.0
+Westlands,General Mathenge,4,4,1.0,460000.0
+Westlands,Loresho,3,2,1.0,80000.0
+Westlands,Westlands Area,2,2,1.0,150000.0
+Westlands,Lower Kabete,3,3,1.0,330000.0
+Westlands,Parklands,3,2,1.0,85000.0
+Westlands,Riverside,3,0,0.0,170000.0
+Nairobi,Kilimani,3,3,1.0,290000.0
+Westlands,Riverside,2,2,1.0,100000.0
+Nairobi,Kileleshwa,2,3,1.0,145000.0
+Nairobi,Kilimani,2,3,1.0,75000.0
+Nairobi,Lavington,3,4,1.0,120000.0
+Nairobi,Lavington,4,4,1.0,120000.0
+Nairobi,Kilimani,2,2,0.0,120000.0
+Westlands,Brookside,2,2,1.0,65000.0
+Nairobi,Kilimani,2,2,1.0,70000.0
+Westlands,General Mathenge,4,5,1.0,400000.0
+Westlands,Riverside,4,3,1.0,170000.0
+Nairobi,Karen Hardy,2,2,0.0,150000.0
+Nyali,Nyali Area,2,3,1.0,180000.0
+Nairobi,Kiambu Road,2,2,1.0,120000.0
+Kiambu County,Thindigua,2,0,0.0,30000.0
+Kilifi County,Vipingo,2,2,1.0,25000.0
+Westlands,Westlands Area,1,1,1.0,150000.0
+Westlands,Westlands Area,2,0,0.0,150000.0
+Westlands,Brookside,3,4,1.0,150000.0
+Westlands,Brookside,3,3,1.0,220000.0
+Nairobi,Kilimani,2,2,1.0,90000.0
+Westlands,Kyuna,1,1,1.0,80000.0
+Westlands,Spring Valley,2,3,1.0,335000.0
+Nairobi,Kilimani,2,0,0.0,180000.0
+Nyali,Nyali Area,3,4,1.0,135000.0
+Westlands,General Mathenge,4,4,0.0,275000.0
+Westlands,Riverside,3,3,1.0,150000.0
+Nyali,Nyali Area,3,3,1.0,190000.0
+Nairobi,Upper Hill,3,4,1.0,220000.0
+Westlands,Riverside,1,2,1.0,100000.0
+Westlands,Westlands Area,2,2,1.0,170000.0
+Westlands,Riverside,3,3,1.0,170000.0
+Westlands,Westlands Area,3,3,1.0,140000.0
+Westlands,Brookside,3,3,1.0,240000.0
+Nairobi,Kilimani,3,4,1.0,85000.0
+Westlands,Westlands Area,2,2,1.0,230000.0
+Nairobi,Lavington,3,3,1.0,90000.0
+Nairobi,Upper Hill,2,3,0.0,170000.0
+Nairobi,Kilimani,2,2,1.0,130000.0
+Westlands,Riverside,3,2,1.0,180000.0
+Nairobi,Kileleshwa,2,3,1.0,110000.0
+Nyali,Nyali Area,3,4,1.0,230000.0
+Westlands,Parklands,1,1,1.0,120000.0
+Nairobi,Kilimani,4,4,1.0,140000.0
+Nairobi,Kileleshwa,2,2,1.0,250000.0
+Westlands,General Mathenge,3,3,1.0,220000.0
+Westlands,Parklands,6,6,1.0,220000.0
+Nyali,Nyali Area,3,4,1.0,140000.0
+Nairobi,Kileleshwa,2,0,1.0,200000.0
+Westlands,General Mathenge,3,3,1.0,170000.0
+Westlands,Brookside,2,2,1.0,130000.0
+Westlands,Parklands,1,1,1.0,130000.0
+Nairobi,Hurlingham,2,1,1.0,70000.0
+Nyali,Nyali Area,2,3,1.0,185000.0
+Ruiru,Tatu City,2,2,1.0,50000.0
+Nairobi,Kiambu Road,3,3,1.0,120000.0
+Westlands,Westlands Area,4,4,1.0,230000.0
+Nairobi,Muthaiga,2,2,1.0,170000.0
+Westlands,Westlands Area,2,2,1.0,220000.0
+Nairobi,Kilimani,2,1,1.0,80000.0
+Nyali,Nyali Area,3,3,1.0,15000.0
+Nairobi,Kileleshwa,1,2,1.0,140000.0
+Nairobi,Lavington,3,3,1.0,140000.0
+Westlands,Westlands Area,2,2,1.0,180000.0
+Nairobi,Lavington,3,2,1.0,90000.0
+Westlands,Parklands,1,1,1.0,140000.0
+Nairobi,Kilimani,1,1,1.0,60000.0
+Nairobi,Kilimani,2,3,1.0,120000.0
+Nairobi,Karen,2,2,1.0,120000.0
+Nairobi,Kilimani,3,3,1.0,105000.0
+Westlands,Rosslyn,2,2,1.0,170000.0
+Westlands,General Mathenge,4,4,1.0,180000.0
+Nairobi,Kileleshwa,3,2,1.0,95000.0
+Nairobi,Karen,1,1,1.0,70000.0
+Nyali,Nyali Area,2,2,0.0,12000.0
+Westlands,Kitisuru,2,0,0.0,80000.0
+Nairobi,Lavington,3,2,1.0,75000.0
+Nairobi,Kilimani,4,4,1.0,630000.0
+Nairobi,Kileleshwa,4,4,1.0,170000.0
+Nairobi,Kilimani,3,3,1.0,250000.0
+Westlands,Riverside,3,4,1.0,150000.0
+Nairobi,Lavington,3,2,1.0,95000.0
+Westlands,Spring Valley,3,4,1.0,350000.0
+Nairobi,Kileleshwa,3,3,0.0,200000.0
+Westlands,Westlands Area,3,2,1.0,120000.0
+Nairobi,Kileleshwa,3,2,1.0,110000.0
+Westlands,Spring Valley,4,5,1.0,450000.0
+Kiambu County,Ruaka,3,2,0.0,45000.0
+Westlands,Riverside,3,3,1.0,150000.0
+Westlands,Westlands Area,3,3,1.0,160000.0
+Kilifi County,Mtwapa,3,3,1.0,120000.0
+Nairobi,Kilimani,2,3,1.0,120000.0
+Ruiru,Tatu City,2,2,1.0,54500.0
+Nyali,Mkomani,3,3,1.0,65000.0
+Nairobi,Kileleshwa,3,3,1.0,75000.0
+Nairobi,Kilimani,3,2,1.0,75000.0
+Nairobi,Kileleshwa,3,2,1.0,70000.0
+Nairobi,Kilimani,2,0,0.0,220000.0
+Nyali,Nyali Area,3,4,1.0,181000.0
+Nairobi,Kileleshwa,3,3,1.0,250000.0
+Nairobi,Karen,1,1,0.0,100000.0
+Westlands,Rhapta Road,2,3,1.0,140000.0
+Nairobi,Kileleshwa,3,4,1.0,120000.0
+Nairobi,Kileleshwa,2,2,1.0,220000.0
+Nairobi,Kiambu Road,2,2,1.0,56000.0
+Westlands,Parklands,3,3,1.0,250000.0
+Nairobi,Kilimani,3,3,1.0,190000.0
+Westlands,Riverside,3,3,1.0,135000.0
+Nairobi,Kilimani,2,2,1.0,85000.0
+Nairobi,Thika Road,2,2,1.0,180000.0
+Nairobi,Kilimani,1,1,0.0,120000.0
+Nairobi,Kilimani,4,0,0.0,
+Nairobi,Lavington,4,3,1.0,100000.0
+Nairobi,Kilimani,2,2,1.0,120000.0
+Kiambu County,Ruaka,2,3,1.0,30000.0
+Westlands,Riverside,4,2,1.0,200000.0
+Nyali,Nyali Area,3,4,1.0,215000.0
+Westlands,Westlands Area,3,4,1.0,250000.0
+Nairobi,Kilimani,2,2,1.0,150000.0
+Westlands,Brookside,3,2,1.0,100000.0
+Nairobi,Kiambu Road,1,1,1.0,100000.0
+Westlands,Westlands Area,1,2,1.0,120000.0
+Machakos County,Athi River,2,2,1.0,22000.0
+Westlands,Riverside,3,3,1.0,300000.0
+Nyali,Nyali Area,3,2,1.0,50000.0
+Westlands,Riverside,2,2,1.0,180000.0
+Nairobi,Kileleshwa,2,2,1.0,126000.0
+Westlands,Brookside,4,4,1.0,200000.0
+Nairobi,Kileleshwa,4,3,1.0,78000.0
+Nairobi,Kileleshwa,0,1,1.0,110000.0
+Nairobi,Kilimani,2,2,1.0,110000.0
+Nairobi,Lavington,1,0,0.0,190000.0
+Nairobi,Thika Road,2,2,1.0,79000.0
+Westlands,General Mathenge,4,5,1.0,400000.0
+Nyali,Nyali Area,4,4,1.0,190000.0
+Westlands,Spring Valley,4,4,1.0,400000.0
+Nyali,Nyali Area,3,4,1.0,100000.0
+Nairobi,Lavington,2,0,0.0,60000.0
+Westlands,Riverside,2,2,1.0,140000.0
+Westlands,Runda,2,2,1.0,200000.0
+Nairobi,Kilimani,3,3,1.0,110000.0
+Westlands,General Mathenge,3,4,1.0,250000.0
+Westlands,Parklands,4,4,1.0,300000.0
+Nairobi,Kilimani,3,2,1.0,120000.0
+Kwale County,Diani,2,3,1.0,12000.0
+Nairobi,Lavington,4,3,1.0,170000.0
+Nairobi,Kilimani,3,3,1.0,75000.0
+Westlands,Westlands Area,2,2,1.0,12000.0
+Nairobi,Kileleshwa,2,3,1.0,100000.0
+Nairobi,Kilimani,3,0,1.0,130000.0
+Westlands,Westlands Area,3,2,1.0,125000.0
+Nairobi,Kilimani,2,2,1.0,100000.0
+Westlands,Westlands Area,1,2,1.0,75000.0
+Nairobi,Lavington,0,1,1.0,120000.0
+Westlands,Riverside,4,4,1.0,350000.0
+Nairobi,Kileleshwa,3,4,1.0,
+Westlands,Kitisuru,3,0,0.0,100000.0
+Nairobi,Lavington,2,2,1.0,75000.0
+Westlands,Waiyaki Way,2,2,1.0,35000.0
+Nairobi,Lavington,2,3,1.0,75000.0
+Westlands,Kitisuru,2,2,0.0,248000.0
+Westlands,Riverside,3,4,1.0,300000.0
+Nairobi,Kilimani,3,3,1.0,130000.0
+Kiambu County,Limuru,2,1,0.0,48000.0
+Westlands,Riverside,3,3,1.0,14000.0
+Nyali,Nyali Area,3,4,1.0,120000.0
+Nairobi,Kilimani,2,0,1.0,180000.0
+Westlands,General Mathenge,5,6,1.0,270000.0
+Nairobi,Kilimani,3,4,1.0,140000.0
+Westlands,Westlands Area,1,2,1.0,150000.0
+Nairobi,Kileleshwa,3,3,1.0,180000.0
+Nairobi,Kileleshwa,2,2,1.0,70000.0
+Westlands,Westlands Area,3,3,0.0,120000.0
+Westlands,Westlands Area,1,2,1.0,70000.0
+Westlands,Parklands,3,3,0.0,120000.0
+Westlands,Riverside,3,0,0.0,280000.0
+Westlands,Westlands Area,2,2,0.0,165000.0
+Nairobi,Kileleshwa,1,1,1.0,190000.0
+Westlands,Waiyaki Way,3,0,0.0,75000.0
+Nairobi,Kilimani,2,2,1.0,85000.0
+Westlands,Westlands Area,0,1,1.0,33000.0
+Nairobi,Kileleshwa,5,4,1.0,150000.0
+Nairobi,Kileleshwa,2,0,0.0,55000.0
+Nairobi,Kileleshwa,3,2,1.0,130000.0
+Nairobi,Riara Road,4,4,1.0,130000.0
+Nyali,Nyali Area,3,4,1.0,95000.0
+Westlands,Westlands Area,2,2,1.0,150000.0
+Westlands,Riverside,2,3,0.0,120000.0
+Nairobi,Upper Hill,0,1,1.0,80000.0
+Westlands,Parklands,3,3,1.0,90000.0
+Nyali,Nyali Area,3,4,1.0,60000.0
+Westlands,Riverside,3,2,0.0,100000.0
+Nairobi,Uthiru,3,2,1.0,55000.0
+Nairobi,Kilimani,3,2,1.0,70000.0
+Westlands,General Mathenge,4,4,0.0,460500.0
+Nairobi,Lavington,2,2,1.0,120000.0
+Nairobi,Ngara,2,2,1.0,42000.0
+Westlands,Westlands Area,2,2,1.0,95000.0
+Nairobi,Kilimani,2,2,1.0,70000.0
+Westlands,Brookside,2,3,0.0,230000.0
+Nairobi,Kileleshwa,3,4,1.0,160000.0
+Nairobi,Kilimani,3,3,1.0,95000.0
+Westlands,General Mathenge,4,4,1.0,430000.0
+Nyali,Nyali Area,1,1,1.0,65000.0
+Nairobi,Kilimani,3,3,1.0,160000.0
+Nairobi,Thika Road,3,2,1.0,80000.0
+Westlands,Riverside,2,2,1.0,160000.0
+Nairobi,Ngong Road,1,1,1.0,30000.0
+Westlands,Westlands Area,2,3,1.0,350000.0
+Nairobi,Kileleshwa,3,4,1.0,130000.0
+Nyali,Nyali Area,3,2,1.0,110000.0
+Westlands,Parklands,4,5,0.0,180000.0
+Nairobi,Kilimani,4,5,1.0,340000.0
+Nairobi,Lavington,4,4,1.0,240000.0
+Nairobi,Karen,0,0,0.0,11000.0
+Westlands,Westlands Area,1,1,1.0,160000.0
+Mombasa Island,Mombasa CBD,3,2,1.0,65000.0
+Nairobi,Kilimani,3,4,1.0,330000.0
+Nairobi,Kilimani,3,2,0.0,75000.0
+Nairobi,Kileleshwa,3,2,1.0,160000.0
+Machakos County,Athi River,2,0,0.0,20000.0
+Nairobi,Kilimani,3,3,1.0,120000.0
+Nyeri,2 Bed,2,2,1.0,15000.0
+Westlands,Westlands Area,2,2,1.0,220000.0
+Nairobi,Kileleshwa,2,2,1.0,110000.0
+Nairobi,Lavington,2,0,0.0,200000.0
+Nairobi,Lavington,1,1,0.0,140000.0
+Nairobi,Kileleshwa,3,4,1.0,100000.0
+Westlands,General Mathenge,2,2,1.0,180000.0
+Westlands,Parklands,3,3,1.0,110000.0
+Westlands,Westlands Area,2,2,1.0,230000.0
+Westlands,Westlands Area,4,3,1.0,95000.0
+Nairobi,Lavington,2,2,0.0,80000.0
+Westlands,Rhapta Road,2,2,1.0,65000.0
+Nyali,Nyali Area,4,5,1.0,230000.0
+Westlands,Parklands,3,3,0.0,220000.0
+Nairobi,Kileleshwa,1,1,1.0,90000.0
+Westlands,Westlands Area,2,3,1.0,250000.0
+Nairobi,Kileleshwa,1,1,1.0,150000.0
+Nairobi,Dennis Pritt,2,2,1.0,85000.0
+Nairobi,Kilimani,3,3,0.0,170000.0
+Nairobi,Valley Arcade,2,2,1.0,160000.0
+Nairobi,Kileleshwa,3,3,1.0,120000.0
+Nairobi,Kileleshwa,1,2,0.0,100000.0
+Westlands,General Mathenge,3,3,1.0,235000.0
+Nairobi,Kilimani,2,2,0.0,80000.0
+Nairobi,Kilimani,1,1,1.0,130000.0
+Kiambu County,Ruaka,2,2,0.0,40000.0
+Nairobi,Kileleshwa,2,2,1.0,75000.0
+Westlands,Westlands Area,3,3,0.0,130000.0
+Westlands,Westlands Area,2,2,1.0,297000.0
+Westlands,General Mathenge,3,3,1.0,220000.0
+Westlands,Rhapta Road,2,2,1.0,110000.0
+Nairobi,Kiambu Road,2,2,1.0,110000.0
+Nairobi,Kileleshwa,3,4,1.0,150000.0
+Nairobi,Kilimani,3,3,1.0,90000.0
+Nairobi,Kilimani,3,4,1.0,160000.0
+Westlands,Westlands Area,2,2,1.0,120000.0
+Westlands,Westlands Area,1,1,1.0,160000.0
+Westlands,Kitisuru,3,3,0.0,400000.0
+Nyali,Nyali Area,4,5,1.0,150000.0
+Nyali,Nyali Area,3,3,1.0,120000.0
+Nairobi,Kileleshwa,1,2,1.0,55000.0
+Westlands,Westlands Area,2,2,0.0,180000.0
+Nairobi,Kilimani,3,4,1.0,100000.0
+Westlands,Rosslyn,3,3,0.0,220000.0
+Westlands,Runda,3,2,1.0,150000.0
+Westlands,Westlands Area,3,3,1.0,350000.0
+Westlands,Brookside,3,3,1.0,150000.0
+Westlands,Waiyaki Way,2,2,1.0,100000.0
+Westlands,Parklands,2,0,0.0,45000.0
+Westlands,Parklands,2,2,1.0,150000.0
+Nairobi,Nairobi West,3,2,1.0,65000.0
+Nairobi,Kilimani,2,2,0.0,140000.0
+Westlands,Riverside,3,4,1.0,150000.0
+Westlands,Westlands Area,2,0,0.0,110000.0
+Nairobi,Kilimani,2,2,1.0,280000.0
+Roysambu,Garden Estate,3,4,1.0,150000.0
+Nairobi,Upper Hill,0,1,1.0,7000.0
+Westlands,Riverside,4,4,1.0,370000.0
+Westlands,Kitisuru,3,2,1.0,95000.0
+Westlands,Riverside,1,0,1.0,150000.0
+Nairobi,Lavington,3,4,1.0,120000.0
+Nairobi,Lavington,1,2,1.0,95000.0
+Westlands,General Mathenge,3,3,1.0,270.0
+Nairobi,Kilimani,3,3,0.0,180000.0
+Nairobi,Kileleshwa,3,3,1.0,76000.0
+Westlands,Westlands Area,2,2,1.0,170000.0
+Nairobi,Kilimani,2,2,1.0,90000.0
+Westlands,Parklands,3,4,1.0,
+Westlands,Runda,2,2,1.0,140000.0
+Nairobi,Karen,1,1,0.0,25000.0
+Westlands,Parklands,3,0,1.0,72500.0
+Nairobi,Kilimani,1,2,1.0,120000.0
+Nairobi,Kileleshwa,2,2,0.0,150000.0
+Nairobi,Lavington,3,3,1.0,86000.0
+Nyali,Nyali Area,3,4,1.0,110000.0
+Westlands,Westlands Area,3,3,0.0,250000.0
+Nairobi,Kilimani,2,3,1.0,85000.0
+Westlands,Parklands,2,2,0.0,110000.0
+Nairobi,Kileleshwa,2,2,1.0,100000.0
+Nairobi,Kileleshwa,4,3,1.0,85000.0
+Nairobi,Riara Road,3,3,1.0,130000.0
+Westlands,General Mathenge,4,3,1.0,150000.0
+Nairobi,Kilimani,2,2,1.0,300000.0
+Nairobi,Kileleshwa,2,2,1.0,60000.0
+Nyali,Nyali Area,3,2,0.0,70000.0
+Nairobi,Upper Hill,3,3,0.0,200000.0
+Nairobi,Kilimani,1,1,1.0,130000.0
+Limuru,Tigoni,3,2,1.0,66000.0
+Nairobi,Muthaiga,2,2,1.0,150000.0
+Westlands,Runda,2,2,1.0,150000.0
+Nyali,Nyali Area,2,2,1.0,85000.0
+Nairobi,Kileleshwa,2,3,1.0,80000.0
+Mombasa,Shanzu,3,4,1.0,20000.0
+Nairobi,Muthaiga,3,3,1.0,220000.0
+Nairobi,Kilimani,1,1,1.0,150000.0
+Westlands,Westlands Area,3,4,1.0,200000.0
+Nairobi,Lavington,3,3,1.0,130000.0
+Westlands,Rhapta Road,3,2,1.0,85000.0
+Westlands,Waiyaki Way,3,4,1.0,140000.0
+Nyali,Nyali Area,3,4,1.0,100000.0
+Nairobi,Kilimani,2,2,1.0,100000.0
+Nyali,Mkomani,3,3,1.0,13000.0
+Westlands,Rhapta Road,3,4,1.0,130000.0
+Westlands,Brookside,3,3,1.0,140000.0
+Nairobi,Lavington,1,1,1.0,130000.0
+Nairobi,Lavington,4,4,1.0,250000.0
+Nyali,Nyali Area,3,2,1.0,65000.0
+Westlands,Rosslyn,4,4,1.0,300000.0
+Nairobi,Lavington,3,4,1.0,270000.0
+Roysambu,Kahawa West,1,1,0.0,12000.0
+Westlands,Westlands Area,1,1,1.0,180000.0
+Westlands,Spring Valley,3,3,1.0,280000.0
+Nairobi,Embakasi,3,2,1.0,95000.0
+Kilifi County,Malindi,2,0,1.0,10000.0
+Nairobi,Kilimani,1,2,1.0,7500.0
+Nyali,Nyali Area,3,4,1.0,250000.0
+Westlands,Rhapta Road,3,3,1.0,90000.0
+Westlands,Westlands Area,1,1,1.0,100000.0
+Nairobi,Kilimani,3,3,1.0,90000.0
+Nairobi,Kileleshwa,3,1,1.0,185000.0
+Nairobi,Kileleshwa,3,3,1.0,85000.0
+Nyali,Nyali Area,3,4,1.0,230000.0
+Nairobi,Karen,1,0,1.0,30000.0
+Nairobi,Kileleshwa,1,2,1.0,70000.0
+Kilifi County,Mtwapa,10,10,1.0,3500.0
+Nyali,Nyali Area,3,4,1.0,140000.0
+Westlands,Westlands Area,4,0,1.0,270000.0
+Westlands,Parklands,2,2,1.0,150000.0
+Nyali,Nyali Area,2,2,1.0,57500.0
+Westlands,Runda,2,3,1.0,230000.0
+Westlands,Brookside,2,3,1.0,75000.0
+Kiambu County,Ruaka,0,1,1.0,85000.0
+Westlands,Parklands,4,3,0.0,140000.0
+Westlands,Westlands Area,5,5,1.0,350000.0
+Nairobi,Upper Hill,1,0,0.0,120000.0
+Nyali,Nyali Area,1,1,1.0,60000.0
+Westlands,Riverside,3,3,1.0,180000.0
+Nairobi,Kileleshwa,3,4,0.0,300000.0
+Roysambu,Garden Estate,2,2,1.0,99000.0
+Westlands,Westlands Area,1,0,0.0,100000.0
+Nairobi,Kileleshwa,2,2,1.0,115000.0
+Nyali,Nyali Area,4,5,1.0,240000.0
+Westlands,Riverside,3,4,1.0,150000.0
+Ruiru,Tatu City,2,2,1.0,50000.0
+Westlands,Parklands,3,4,1.0,250000.0
+Westlands,Westlands Area,4,4,1.0,300000.0
+Nairobi,Kilimani,2,2,1.0,285130.0
+Nairobi,Kilimani,3,2,1.0,120000.0
+Nairobi,Lavington,4,3,1.0,200000.0
+Nairobi,Lavington,4,4,1.0,250000.0
+Westlands,Rhapta Road,1,1,1.0,160000.0
+Nairobi,Kilimani,2,3,1.0,230000.0
+Nairobi,Kilimani,2,3,0.0,100000.0
+Nairobi,Kilimani,3,0,1.0,250000.0
+Nairobi,Kileleshwa,2,2,1.0,170000.0
+Kiambu County,Thika,3,2,0.0,25000.0
+Kilifi County,Mtwapa,2,3,1.0,35000.0
+Nairobi,Kileleshwa,3,3,1.0,150000.0
+Westlands,Westlands Area,1,1,1.0,120000.0
+Nairobi,Kileleshwa,4,4,1.0,325000.0
+Nairobi,Kileleshwa,1,1,1.0,120000.0
+Nairobi,Kileleshwa,3,3,1.0,200000.0
+Westlands,Parklands,2,2,1.0,210000.0
+Nairobi,Kilimani,3,3,1.0,75000.0
+Kilifi County,Mtwapa,3,3,1.0,65000.0
+Nairobi,Kileleshwa,3,3,1.0,90000.0
+Westlands,Parklands,3,3,1.0,120000.0
+Westlands,Westlands Area,4,4,1.0,320000.0
+Kiambu County,Thindigua,2,2,1.0,30000.0
+Nairobi,Hurlingham,3,0,0.0,180000.0
+Nairobi,Kileleshwa,3,3,0.0,130000.0
+Westlands,Westlands Area,1,2,1.0,150000.0
+Nairobi,Kileleshwa,3,0,0.0,65000.0
+Westlands,Parklands,3,3,1.0,130000.0
+Nairobi,Kilimani,2,0,1.0,160000.0
+Westlands,Riverside,2,3,1.0,85000.0
+Nyali,Nyali Area,3,3,1.0,140000.0
+Westlands,General Mathenge,4,4,1.0,485000.0
+Nyali,Nyali Area,4,5,1.0,160000.0
+Westlands,Lower Kabete,4,5,1.0,280000.0
+Westlands,Westlands Area,3,2,1.0,185000.0
+Nairobi,Muthaiga,4,5,1.0,350000.0
+Westlands,Westlands Area,2,3,1.0,90000.0
+Nyali,Nyali Area,3,4,1.0,60000.0
+Westlands,Parklands,3,2,1.0,115000.0
+Nyali,Nyali Area,3,2,1.0,10000.0
+Kilifi County,Mtwapa,3,3,1.0,65000.0
+Nyali,Mkomani,3,4,1.0,250000.0
+Nairobi,Kileleshwa,1,0,1.0,190000.0
+Westlands,Nyari,1,1,1.0,145000.0
+Nairobi,Kileleshwa,1,1,1.0,110000.0
+Nairobi,Kileleshwa,2,2,1.0,75000.0
+Westlands,Rhapta Road,2,2,1.0,90000.0
+Nyali,Nyali Area,2,2,1.0,22000.0
+Westlands,Nyari,2,2,1.0,300000.0
+Westlands,Loresho,2,2,1.0,70000.0
+Nairobi,Ridgeways,2,1,0.0,70000.0
+Nairobi,Kilimani,3,2,1.0,65000.0
+Westlands,Parklands,3,4,1.0,200000.0
+Nairobi,Kilimani,3,2,0.0,100000.0
+Westlands,Riverside,4,4,1.0,110000.0
+Westlands,Riverside,1,1,1.0,110000.0
+Westlands,Karura,2,3,1.0,160000.0
+Nairobi,Ruaraka,2,2,0.0,140000.0
+Nairobi,Kilimani,3,3,1.0,130000.0
+Nairobi,Thika Road,3,3,1.0,113000.0
+Westlands,Waiyaki Way,2,2,1.0,330000.0
+Westlands,Westlands Area,2,2,1.0,70000.0
+Westlands,General Mathenge,3,3,1.0,200000.0
+Nyali,Nyali Area,3,4,1.0,110000.0
+Nairobi,Kiambu Road,2,1,1.0,50000.0
+Westlands,Westlands Area,1,2,1.0,90000.0
+Westlands,General Mathenge,4,4,1.0,270000.0
+Nairobi,Kilimani,2,2,1.0,200000.0
+Westlands,Riverside,1,0,1.0,140000.0
+Nairobi,Kilimani,3,4,1.0,200000.0
+Westlands,General Mathenge,2,2,1.0,280000.0
+Westlands,Westlands Area,2,2,1.0,200000.0
+Nairobi,Kilimani,2,4,1.0,190000.0
+Westlands,General Mathenge,4,5,1.0,300000.0
+Nairobi,Muthaiga,4,5,0.0,300000.0
+Nairobi,Karen,2,0,0.0,38000.0
+Nairobi,Kilimani,2,0,1.0,190000.0
+Nairobi,Kilimani,2,0,1.0,200000.0
+Westlands,Brookside,2,0,1.0,100000.0
+Nyali,Nyali Area,2,2,1.0,70000.0
+Nairobi,Kilimani,2,2,1.0,230000.0
+Kiambu County,Ruaka,3,2,0.0,48000.0
+Nairobi,Thika Road,2,2,1.0,96000.0
+Westlands,Westlands Area,3,3,1.0,400000.0
+Kikuyu,Kinoo,3,3,1.0,55000.0
+Nyali,Nyali Area,3,2,1.0,70000.0
+Nairobi,Kileleshwa,2,3,1.0,85000.0
+Nairobi,Kileleshwa,2,2,1.0,75000.0
+Westlands,Rhapta Road,2,2,1.0,180000.0
+Nairobi,Upper Hill,1,1,1.0,90000.0
+Nairobi,Kileleshwa,2,3,1.0,200000.0
+Westlands,Riverside,2,3,1.0,130000.0
+Nairobi,Kilimani,2,2,1.0,200000.0
+Westlands,Westlands Area,1,2,1.0,75000.0
+Kajiado County,Ongata Rongai,2,2,1.0,25000.0
+Nairobi,Kilimani,2,3,1.0,150000.0
+Westlands,General Mathenge,2,3,1.0,220000.0
+Nyali,Nyali Area,4,5,1.0,150000.0
+Westlands,Westlands Area,3,3,1.0,220000.0
+Westlands,General Mathenge,2,2,0.0,253000.0
+Nairobi,Kilimani,3,3,1.0,275000.0
+Westlands,Riverside,4,4,0.0,270000.0
+Westlands,Riverside,2,2,0.0,160000.0
+Nairobi,Utawala,2,1,1.0,25000.0
+Nairobi,Hurlingham,4,4,1.0,150000.0
+Westlands,Westlands Area,2,3,0.0,220000.0
+Westlands,Karura,3,4,1.0,250000.0
+Ruiru,Membley,3,3,1.0,55000.0
+Nairobi,Ngong Road,1,1,1.0,35000.0
+Westlands,Westlands Area,4,4,1.0,140000.0
+Roysambu,Garden Estate,3,2,1.0,80000.0
+Mombasa Island,Mombasa CBD,3,2,1.0,55000.0
+Westlands,General Mathenge,4,4,1.0,400000.0
+Nairobi,Kilimani,3,3,1.0,90000.0
+Nairobi,Kileleshwa,2,2,1.0,120000.0
+Nairobi,Thika Road,3,3,1.0,200000.0
+Westlands,Riverside,3,3,1.0,180000.0
+Nairobi,Kilimani,3,3,1.0,180000.0
+Nairobi,Lavington,4,4,1.0,330000.0
+Westlands,General Mathenge,3,4,1.0,250000.0
+Westlands,Riverside,3,2,1.0,100000.0
+Nairobi,Kileleshwa,3,2,1.0,85000.0
+Nairobi,Lavington,4,5,1.0,250000.0
+Nyali,Nyali Area,3,2,1.0,100000.0
+Westlands,General Mathenge,3,4,1.0,145000.0
+Nairobi,Kilimani,1,1,1.0,120000.0
+Nairobi,Kilimani,2,3,1.0,80000.0
+Nyali,Nyali Area,4,5,1.0,110000.0
+Nyali,Nyali Area,3,3,1.0,120000.0
+Westlands,Brookside,3,3,1.0,150000.0
+Westlands,Westlands Area,3,3,1.0,165000.0
+Westlands,Westlands Area,3,3,1.0,135000.0
+Westlands,Westlands Area,1,1,1.0,40000.0
+Nyali,Nyali Area,4,5,1.0,150000.0
+Roysambu,Kahawa West,2,2,1.0,33000.0
+Nyali,Nyali Area,2,3,1.0,15000.0
+Nairobi,Kilimani,3,5,1.0,200000.0
+Westlands,Runda,2,2,0.0,371000.0
+Nairobi,Kileleshwa,3,3,1.0,130000.0
+Nairobi,Kilimani,3,4,1.0,140000.0
+Mombasa Island,Mombasa CBD,4,3,1.0,75000.0
+Westlands,Westlands Area,2,2,1.0,70000.0
+Nairobi,Kiambu Road,2,2,1.0,120000.0
+Westlands,Brookside,2,2,1.0,100000.0
+Nairobi,Kileleshwa,3,2,1.0,85000.0
+Mombasa Island,Mombasa CBD,4,5,1.0,140000.0
+Nairobi,Kileleshwa,3,3,1.0,180000.0
+Westlands,Parklands,1,1,1.0,50000.0
+Nairobi,Valley Arcade,1,1,1.0,60000.0
+Westlands,Kitisuru,2,2,1.0,240000.0
+Nairobi,Lavington,0,1,1.0,45000.0
+Westlands,Westlands Area,4,4,1.0,310000.0
+Westlands,Westlands Area,2,2,1.0,90000.0
+Nairobi,Kilimani,2,3,1.0,170000.0
+Kiambu County,Ruaka,2,0,1.0,27000.0
+Nairobi,Kilimani,2,0,1.0,170000.0
+Westlands,Rhapta Road,2,3,1.0,150000.0
+Kikuyu,Kikuyu Town,2,2,1.0,20000.0
+Nairobi,Kilimani,2,2,0.0,250000.0
+Westlands,Brookside,2,2,1.0,160000.0
+Nairobi,Kilimani,2,3,1.0,80000.0
+Nairobi,Lavington,1,1,1.0,25000.0
+Nairobi,Kasarani,1,1,1.0,21000.0
+Nyali,Nyali Area,3,3,1.0,220000.0
+Nyali,Mkomani,3,4,1.0,200000.0
+Nairobi,Lavington,3,3,1.0,140000.0
+Nairobi,Kilimani,3,2,0.0,120000.0
+Westlands,Westlands Area,2,2,0.0,150000.0
+Westlands,Rhapta Road,3,3,1.0,220000.0
+Westlands,Westlands Area,2,2,1.0,
+Nairobi,Kileleshwa,3,0,0.0,150000.0
+Nairobi,Lavington,4,4,1.0,180000.0
+Nairobi,Kilimani,2,2,1.0,180000.0
+Nairobi,Kilimani,2,2,1.0,170000.0
+Westlands,Brookside,4,4,1.0,150000.0
+Nairobi,Kilimani,2,3,1.0,80000.0
+Nairobi,Lavington,1,1,1.0,60000.0
+Westlands,Westlands Area,1,2,1.0,160000.0
+Westlands,Riverside,2,2,1.0,120000.0
+Westlands,Parklands,3,3,1.0,300000.0
+Kiambu County,Ruaka,2,2,1.0,40000.0
+Westlands,Riverside,4,5,1.0,300000.0
+Westlands,Brookside,3,3,1.0,250000.0
+Nairobi,Kilimani,1,1,1.0,100000.0
+Nairobi,Kilimani,3,2,1.0,110000.0
+Nairobi,Kileleshwa,2,2,1.0,150000.0
+Westlands,Westlands Area,2,2,1.0,200000.0
+Westlands,Westlands Area,4,5,1.0,160000.0
+Westlands,Karura,0,1,1.0,65000.0
+Nairobi,Kilimani,2,0,1.0,220000.0
+Westlands,Riverside,3,3,1.0,350000.0
+Westlands,Riverside,3,3,1.0,300000.0
+Nairobi,Lavington,1,1,0.0,70000.0
+Westlands,Parklands,1,2,0.0,120000.0
+Nairobi,Lavington,4,0,1.0,250000.0
+Nairobi,Kileleshwa,3,3,1.0,85000.0
+Nyali,Nyali Area,3,3,1.0,60000.0
+Nyali,Nyali Area,3,3,1.0,90000.0
+Nyali,Nyali Area,3,3,1.0,70000.0
+Westlands,General Mathenge,3,0,1.0,280000.0
+Nairobi,Kilimani,2,3,1.0,170000.0
+Nairobi,Kilimani,0,1,1.0,5500.0
+Nairobi,Kileleshwa,3,4,1.0,250000.0
+Nairobi,Thika Road,2,2,1.0,89000.0
+Westlands,General Mathenge,2,3,1.0,180000.0
+Nyali,Nyali Area,3,4,1.0,120000.0
+Westlands,Westlands Area,1,1,1.0,75000.0
+Westlands,General Mathenge,4,5,1.0,450000.0
+Nairobi,Kileleshwa,2,2,0.0,170000.0
+Westlands,Parklands,2,2,1.0,200000.0
+Nairobi,Lavington,1,1,1.0,120000.0
+Nairobi,Lavington,3,3,1.0,170000.0
+Roysambu,Kahawa West,2,2,0.0,35000.0
+Mombasa Island,Tudor,2,2,1.0,150000.0
+Nairobi,Kilimani,5,5,1.0,200000.0
+Westlands,Riverside,1,1,1.0,130000.0
+Nairobi,Kawangware,1,1,1.0,15000.0
+Westlands,Westlands Area,3,3,0.0,100000.0
+Nairobi,Kilimani,2,0,1.0,140000.0
+Westlands,Waiyaki Way,3,2,1.0,65000.0
+Nairobi,Kilimani,2,2,1.0,145000.0
+Westlands,Westlands Area,2,3,1.0,150000.0
+Westlands,Runda,1,1,1.0,150000.0
+Westlands,Riverside,1,1,1.0,160000.0
+Nairobi,Kileleshwa,3,4,1.0,115000.0
+Nairobi,Thika Road,2,2,1.0,160000.0
+Nairobi,Kilimani,3,4,0.0,210000.0
+Nyali,Nyali Area,0,1,1.0,3500.0
+Nairobi,Kileleshwa,3,3,1.0,130000.0
+Nyali,Nyali Area,4,4,1.0,150000.0
+Nairobi,Kiambu Road,3,2,1.0,75000.0
+Nairobi,Kileleshwa,3,3,1.0,75000.0
+Nairobi,Kileleshwa,3,3,1.0,185000.0
+Nyali,Nyali Area,3,4,1.0,200000.0
+Nairobi,Kileleshwa,3,3,1.0,85000.0
+Westlands,Kitisuru,2,0,1.0,190000.0
+Nyali,Nyali Area,3,4,1.0,110000.0
+Nairobi,Kilimani,3,4,1.0,100000.0
+Westlands,Parklands,3,3,1.0,130000.0
+Westlands,Westlands Area,1,1,1.0,120000.0
+Westlands,Brookside,3,3,1.0,300000.0
+Nairobi,Kilimani,3,2,1.0,90000.0
+Nairobi,Kileleshwa,2,2,1.0,65000.0
+Roysambu,Garden Estate,1,1,1.0,3000.0
+Westlands,Nyari,2,2,1.0,170000.0
+Nairobi,Thika Road,3,3,0.0,200000.0
+Kiambu County,Ruaka,1,0,1.0,25000.0
+Nairobi,Kileleshwa,3,3,0.0,115000.0
+Westlands,Brookside,2,2,1.0,100000.0
+Westlands,Westlands Area,3,2,1.0,150000.0
+Westlands,Parklands,2,2,1.0,170000.0
+Nairobi,Lavington,3,3,1.0,85000.0
+Nyali,Nyali Area,3,2,1.0,65000.0
+Nairobi,Lavington,2,3,1.0,70000.0
+Nairobi,South C,1,1,1.0,120000.0
+Westlands,General Mathenge,3,5,1.0,280000.0
+Nyali,Nyali Area,3,4,1.0,95000.0
+Westlands,Brookside,3,4,1.0,135000.0
+Westlands,Rhapta Road,1,1,1.0,120000.0
+Nairobi,Kilimani,2,3,1.0,180000.0
+Nairobi,Lavington,4,4,1.0,190000.0
+Nairobi,Kileleshwa,2,0,1.0,150000.0
+Nairobi,Muthaiga,2,2,1.0,150000.0
+Westlands,Rhapta Road,2,3,1.0,220000.0
+Nairobi,Kilimani,2,2,1.0,140000.0
+Nairobi,Upper Hill,3,2,0.0,150000.0
+Westlands,Riverside,3,3,1.0,130000.0
+Nairobi,Karen Hardy,3,4,1.0,150000.0
+Kajiado County,Ongata Rongai,1,1,0.0,15000.0
+Westlands,Westlands Area,2,3,1.0,160000.0
+Nairobi,Naivasha Road,3,3,1.0,70000.0
+Westlands,Westlands Area,3,3,1.0,350000.0
+Nairobi,Kilimani,2,0,1.0,150000.0
+Westlands,Nyari,3,3,1.0,420000.0
+Nairobi,Lavington,3,3,1.0,70000.0
+Nyali,Nyali Area,4,5,1.0,165000.0
+Westlands,Westlands Area,2,2,1.0,100000.0
+Nairobi,Kilimani,3,3,1.0,350000.0
+Nyali,Nyali Area,3,4,1.0,88000.0
+Westlands,Riverside,4,5,1.0,
+Nairobi,Kileleshwa,2,2,1.0,140000.0
+Nyali,Nyali Area,3,3,1.0,200000.0
+Nairobi,Kilimani,2,2,1.0,140000.0
+Nyali,Nyali Area,3,4,1.0,135000.0
+Westlands,Riverside,3,4,1.0,280000.0
+Nairobi,Kilimani,3,3,1.0,180000.0
+Nairobi,Kilimani,3,4,1.0,130000.0
+Nairobi,Karen,1,1,0.0,47000.0
+Nairobi,Kilimani,1,1,1.0,120000.0
+Nairobi,Kileleshwa,1,1,1.0,110000.0
+Westlands,Waiyaki Way,2,2,1.0,55000.0
+Kajiado County,Ongata Rongai,3,2,1.0,40000.0
+Nairobi,Muthaiga,3,4,1.0,250000.0
+Nairobi,Lavington,4,4,1.0,270000.0
+Nyali,Nyali Area,3,4,1.0,20000.0
+Nairobi,Lavington,5,5,1.0,290000.0
+Nairobi,Muthaiga,3,3,0.0,583000.0
+Westlands,Westlands Area,1,1,1.0,95000.0
+Nairobi,Kileleshwa,3,3,1.0,90000.0
+Nairobi,Kilimani,3,4,1.0,120000.0
+Nairobi,Lavington,2,2,1.0,170000.0
+Nairobi,Lavington,3,4,1.0,85000.0
+Westlands,Riverside,3,3,1.0,300000.0
+Nairobi,Kilimani,3,4,1.0,200000.0
+Westlands,Spring Valley,3,3,1.0,350000.0
+Westlands,Parklands,3,3,1.0,230000.0
+Ruiru,Tatu City,2,2,0.0,52500.0
+Nairobi,Kileleshwa,2,2,1.0,75000.0
+Westlands,Parklands,4,3,1.0,90000.0
+Nairobi,Nairobi CBD,1,1,1.0,45000.0
+Westlands,Westlands Area,2,3,1.0,195000.0
+Westlands,Thigiri,2,2,1.0,300000.0
+Nairobi,Kasarani,2,0,0.0,20000.0
+Kiambu County,Ruaka,1,2,1.0,28000.0
+Nairobi,Kilimani,3,3,1.0,364000.0
+Roysambu,Garden Estate,3,3,1.0,80000.0
+Westlands,Riverside,2,0,0.0,200000.0
+Nairobi,Kilimani,3,2,1.0,95000.0
+Westlands,Parklands,2,2,1.0,220000.0
+Westlands,Kitisuru,3,3,1.0,320000.0
+Westlands,Riverside,4,4,0.0,170000.0
+Westlands,Kitisuru,2,2,1.0,248115.0
+Westlands,Westlands Area,2,2,1.0,140000.0
+Westlands,Westlands Area,1,1,0.0,233000.0
+Nairobi,Lavington,2,1,0.0,150000.0
+Westlands,Westlands Area,3,3,0.0,155000.0
+Nairobi,Kileleshwa,1,1,1.0,80000.0
+Westlands,Parklands,2,2,1.0,160000.0
+Westlands,Riverside,4,4,1.0,200000.0
+Nyali,Nyali Area,3,4,1.0,100000.0
+Nairobi,Lavington,2,3,1.0,180000.0
+Nairobi,Kilimani,3,3,1.0,75000.0
+Westlands,Lower Kabete,3,4,1.0,350000.0
+Nairobi,Kileleshwa,3,4,1.0,120000.0
+Westlands,Karura,3,4,1.0,310000.0
+Westlands,Westlands Area,3,3,1.0,330000.0
+Westlands,Westlands Area,2,2,1.0,250000.0
+Westlands,Riverside,3,3,0.0,180000.0
+Westlands,Westlands Area,3,3,1.0,320000.0
+Westlands,Spring Valley,3,3,1.0,360000.0
+Nyali,Nyali Area,3,4,1.0,100000.0
+Nairobi,Kilimani,1,2,1.0,160000.0
+Nyali,Nyali Area,3,4,0.0,185000.0
+Westlands,Gigiri,2,0,0.0,320000.0
+Nairobi,South B,1,1,1.0,26000.0
+Nyali,Nyali Area,3,3,1.0,120000.0
+Nyali,Nyali Area,3,5,1.0,110000.0
+Nairobi,Kilimani,3,4,1.0,140000.0
+Nairobi,Kilimani,3,3,1.0,150000.0
+Nairobi,Imara Daima,3,4,1.0,50000.0
+Nairobi,Lavington,2,3,1.0,75000.0
+Westlands,Westlands Area,2,2,1.0,
+Nyali,Nyali Area,2,3,1.0,140000.0
+Westlands,Riverside,2,2,1.0,140000.0
+Nairobi,Kilimani,3,4,1.0,150000.0
+Nairobi,Lavington,4,5,1.0,110000.0
+Nyali,Mkomani,4,4,1.0,150000.0
+Nairobi,Kilimani,2,2,0.0,120000.0
+Nairobi,Lavington,3,3,1.0,115000.0
+Westlands,Parklands,1,0,0.0,350000.0
+Westlands,Riverside,1,1,1.0,150000.0
+Kilifi County,Mtwapa,1,1,1.0,5000.0
+Nairobi,Kileleshwa,2,2,1.0,120000.0
+Westlands,Westlands Area,4,4,1.0,400000.0
+Nairobi,Kileleshwa,3,3,1.0,200000.0
+Westlands,Westlands Area,2,2,1.0,
+Nyali,Nyali Area,2,2,1.0,45000.0
+Nairobi,Kileleshwa,3,3,1.0,200000.0
+Nairobi,Lavington,3,3,1.0,280000.0
+Roysambu,Kahawa,4,2,1.0,56500.0
+Westlands,Westlands Area,1,1,1.0,160000.0
+Nairobi,Lavington,2,2,1.0,75000.0
+Westlands,General Mathenge,4,4,1.0,165000.0
+Westlands,Brookside,3,4,1.0,95000.0
+Nyali,Nyali Area,4,4,1.0,75000.0
+Nairobi,Valley Arcade,3,3,1.0,200000.0
+Nairobi,Kiambu Road,3,0,0.0,50000.0
+Westlands,Westlands Area,2,3,1.0,110000.0
+Nairobi,Kilimani,1,1,0.0,80000.0
+Westlands,Riverside,3,4,1.0,280000.0
+Westlands,Riverside,1,1,1.0,140000.0
+Westlands,Westlands Area,2,2,1.0,140000.0
+Westlands,Westlands Area,2,0,1.0,150000.0
+Nairobi,Kilimani,3,3,1.0,250000.0
+Nairobi,Naivasha Road,3,2,1.0,50000.0
+Westlands,Riverside,3,4,1.0,300000.0
+Westlands,Rhapta Road,3,3,1.0,120000.0
+Nairobi,Lavington,3,0,0.0,75000.0
+Westlands,Westlands Area,4,4,1.0,480000.0
+Nairobi,Lavington,4,3,1.0,160000.0
+Westlands,Spring Valley,3,3,1.0,300000.0
+Nyali,Nyali Area,2,3,1.0,65000.0
+Nairobi,Utawala,2,2,1.0,26000.0
+Nyali,Mkomani,2,1,1.0,50000.0
+Westlands,Karura,2,2,1.0,150000.0
+Nairobi,Kileleshwa,3,2,0.0,85000.0
+Nairobi,Kileleshwa,2,3,1.0,80000.0
+Kilifi County,Mtwapa,2,0,1.0,35000.0
+Westlands,Spring Valley,3,3,0.0,365000.0
+Westlands,Westlands Area,2,0,0.0,174000.0
+Nairobi,Kilimani,4,4,0.0,110000.0
+Westlands,Westlands Area,4,4,1.0,150000.0
+Nairobi,Kilimani,3,3,1.0,200000.0
+Kiambu County,Kiambu Town,1,1,0.0,12000.0
+Westlands,General Mathenge,2,2,0.0,180000.0
+Nairobi,Kileleshwa,3,3,1.0,90000.0
+Nairobi,Kilimani,2,3,1.0,220000.0
+Nairobi,Kileleshwa,3,3,1.0,95000.0
+Nairobi,Lavington,3,2,1.0,75000.0
+Westlands,Parklands,4,4,1.0,160000.0
+Westlands,Rhapta Road,2,3,1.0,200000.0
+Nairobi,Kilimani,1,2,1.0,60000.0
+Nairobi,Kilimani,3,3,1.0,95000.0
+Nairobi,Kileleshwa,3,3,1.0,85000.0
+Nairobi,Kilimani,2,2,1.0,95000.0
+Westlands,Riverside,2,1,0.0,170000.0
+Westlands,Brookside,3,3,1.0,260000.0
+Westlands,Brookside,2,2,1.0,140000.0
+Mombasa,Bamburi,1,1,1.0,18000.0
+Nairobi,Lavington,3,2,1.0,90000.0
+Westlands,Westlands Area,2,3,1.0,200000.0
+Nairobi,Kileleshwa,3,3,1.0,200000.0
+Mombasa Island,Mombasa CBD,3,4,0.0,20000.0
+Westlands,Riverside,0,1,1.0,22000.0
+Westlands,Riverside,3,3,0.0,235000.0
+Nyali,Nyali Area,2,2,1.0,90000.0
+Westlands,Westlands Area,0,1,1.0,150000.0
+Kiambu County,Ruaka,3,3,1.0,40000.0
+Westlands,General Mathenge,3,4,1.0,120000.0
+Westlands,Rhapta Road,1,1,1.0,170000.0
+Westlands,Riverside,3,3,1.0,290000.0
+Nairobi,Lavington,4,3,1.0,75000.0
+Westlands,Westlands Area,3,3,0.0,165000.0
+Westlands,Rosslyn,4,4,1.0,300000.0
+Nyali,Nyali Area,3,4,1.0,300000.0
+Westlands,Rhapta Road,2,2,1.0,70000.0
+Nairobi,Lavington,8,9,1.0,160000.0
+Westlands,Brookside,3,3,1.0,140000.0
+Nairobi,Kilimani,3,4,1.0,130000.0
+Nairobi,Kileleshwa,3,4,1.0,210000.0
+Westlands,Westlands Area,1,1,0.0,100000.0
+Roysambu,Garden Estate,2,2,1.0,70000.0
+Westlands,Westlands Area,1,1,1.0,160000.0
+Nairobi,Lavington,3,3,1.0,170000.0
+Westlands,Westlands Area,2,2,1.0,100000.0
+Westlands,Westlands Area,2,3,1.0,95000.0
+Nyali,Nyali Area,3,3,1.0,75000.0
+Nairobi,Kileleshwa,4,4,1.0,140000.0
+Nairobi,Kileleshwa,3,3,1.0,110000.0
+Westlands,Spring Valley,3,3,1.0,300000.0
+Nairobi,Kileleshwa,4,4,1.0,140000.0
+Nairobi,Naivasha Road,2,2,0.0,45000.0
+Westlands,Westlands Area,2,2,1.0,12000.0
+Westlands,Brookside,2,3,1.0,230000.0
+Westlands,Westlands Area,2,3,1.0,280000.0
+Nairobi,Ruaraka,4,4,1.0,80000.0
+Westlands,Riverside,3,3,1.0,110000.0
+Nairobi,Kileleshwa,4,5,1.0,380000.0
+Nyali,Nyali Area,4,0,1.0,250000.0
+Westlands,Parklands,3,3,1.0,180000.0
+Westlands,Riverside,3,4,1.0,200000.0
+Nairobi,Kilimani,1,1,0.0,80000.0
+Nairobi,Kilimani,3,3,1.0,80000.0
+Westlands,Parklands,3,3,1.0,325000.0
+Westlands,Rhapta Road,3,3,0.0,90000.0
+Westlands,Riverside,3,4,1.0,120000.0
+Westlands,General Mathenge,3,3,1.0,150000.0
+Nairobi,Kilimani,2,3,1.0,160000.0
+Westlands,Riverside,3,3,1.0,130000.0
+Westlands,Parklands,2,2,1.0,250000.0
+Westlands,Kitisuru,2,2,1.0,240000.0
+Westlands,General Mathenge,3,3,1.0,280000.0
+Nyali,Nyali Area,4,5,1.0,230000.0
+Nairobi,Kileleshwa,3,4,1.0,120000.0
+Westlands,General Mathenge,4,4,1.0,170000.0
+Westlands,Rhapta Road,3,3,1.0,120000.0
+Nyali,Nyali Area,3,4,1.0,110000.0
+Westlands,Parklands,3,4,1.0,120000.0
+Nairobi,Kilimani,1,2,1.0,7000.0
+Westlands,Gigiri,3,4,1.0,150000.0
+Nairobi,Kileleshwa,4,5,1.0,150000.0
+Westlands,Runda,1,1,1.0,75000.0
+Westlands,Rhapta Road,3,3,1.0,150000.0
+Westlands,Riverside,3,4,1.0,180000.0
+Westlands,Loresho,3,3,1.0,80000.0
+Westlands,Westlands Area,1,1,1.0,150000.0
+Westlands,Rhapta Road,3,3,1.0,140000.0
+Nairobi,Uthiru,2,2,1.0,38000.0
+Nairobi,Kilimani,2,0,1.0,70000.0
+Nairobi,Thika Road,1,2,1.0,70000.0
+Westlands,Lower Kabete,2,0,0.0,280000.0
+Westlands,Riverside,3,3,1.0,150000.0
+Westlands,Riverside,4,5,1.0,140000.0
+Nyali,Nyali Area,3,3,1.0,120000.0
+Nairobi,Kileleshwa,3,4,1.0,110000.0
+Westlands,Westlands Area,1,0,1.0,100000.0
+Westlands,Riverside,3,4,1.0,130000.0
+Nairobi,Ngong Road,1,1,1.0,45000.0
+Westlands,Westlands Area,3,3,1.0,200000.0
+Westlands,Westlands Area,2,2,1.0,1700.0
+Nairobi,Kilimani,3,3,1.0,170000.0
+Nairobi,Kilimani,0,1,1.0,90000.0
+Nyali,Nyali Area,4,4,1.0,250000.0
+Westlands,Westlands Area,3,3,1.0,300000.0
+Nairobi,Kileleshwa,2,2,1.0,80000.0
+Nairobi,Kileleshwa,3,4,1.0,150000.0
+Nairobi,Kilimani,3,4,1.0,280000.0
+Westlands,Nyari,2,2,1.0,290000.0
+Nairobi,Thika Road,2,2,0.0,85000.0
+Nairobi,Naivasha Road,1,1,1.0,40000.0
+Nairobi,Lavington,3,4,1.0,120000.0
+Westlands,Brookside,2,3,1.0,222000.0
+Ruiru,Tatu City,2,2,1.0,40000.0
+Westlands,Westlands Area,2,2,1.0,100000.0
+Westlands,Rhapta Road,1,1,1.0,150000.0
+Westlands,Westlands Area,3,0,0.0,90000.0
+Westlands,General Mathenge,2,3,1.0,250000.0
+Westlands,General Mathenge,3,3,1.0,270000.0
+Kiambu County,Ruaka,1,1,0.0,27000.0
+Nairobi,Madaraka,3,0,0.0,60000.0
+Westlands,Riverside,4,5,0.0,453000.0
+Westlands,Riverside,2,2,1.0,170000.0
+Nairobi,Kilimani,4,3,1.0,150000.0
+Westlands,Kitisuru,2,3,1.0,170000.0
+Kiambu County,Ruaka,2,2,1.0,40000.0
+Nyali,Nyali Area,2,3,1.0,150000.0
+Nairobi,Kileleshwa,2,2,1.0,55000.0
+Nairobi,Kilimani,3,3,1.0,195000.0
+Nairobi,Kileleshwa,3,3,1.0,130000.0
+Nairobi,Kilimani,2,2,0.0,150000.0
+Westlands,General Mathenge,3,3,1.0,150000.0
+Westlands,Spring Valley,4,5,1.0,400000.0
+Westlands,Westlands Area,2,2,1.0,230000.0
+Nairobi,Kileleshwa,5,5,1.0,150000.0
+Nairobi,Riara Road,4,4,1.0,120000.0
+Nyali,Nyali Area,3,3,1.0,80000.0
+Westlands,Westlands Area,2,0,0.0,150000.0
+Westlands,Westlands Area,1,1,0.0,125000.0
+Nairobi,Kileleshwa,4,2,1.0,90000.0
+Nairobi,Riara Road,3,3,1.0,180000.0
+Nairobi,Thika Road,3,3,0.0,220000.0
+Nairobi,Lavington,1,1,1.0,150000.0
+Nairobi,Kileleshwa,3,3,1.0,75000.0
+Nairobi,Kileleshwa,4,5,1.0,300000.0
+Nairobi,Kileleshwa,4,4,1.0,145000.0
+Nairobi,Lavington,7,7,1.0,300000.0
+Westlands,Westlands Area,2,2,1.0,110000.0
+Kiambu County,Thindigua,3,2,0.0,50000.0
+Nairobi,Thika Road,3,2,0.0,104000.0
+Westlands,Riverside,3,0,0.0,190000.0
+Westlands,Riverside,3,4,1.0,160000.0
+Westlands,Nyari,1,1,1.0,120000.0
+Mombasa,Shanzu,2,4,1.0,15000.0
+Westlands,Kitisuru,2,2,1.0,230000.0
+Westlands,Riverside,4,4,1.0,
+Nairobi,Kileleshwa,1,1,1.0,72000.0
+Nairobi,Kilimani,3,3,1.0,120000.0
+Nairobi,Kiambu Road,2,2,1.0,56600.0
+Nairobi,Lavington,2,2,1.0,65000.0
+Nairobi,Kilimani,2,2,1.0,100000.0
+Nairobi,Kileleshwa,3,4,1.0,240000.0
+Nairobi,Kileleshwa,3,4,1.0,200000.0
+Nairobi,Kileleshwa,4,3,0.0,160000.0
+Nairobi,Lavington,3,3,1.0,145000.0
+Nairobi,Kilimani,2,3,1.0,140000.0
+Nairobi,Lavington,3,2,1.0,100000.0
+Nairobi,Kileleshwa,2,2,1.0,85000.0
+Westlands,Rhapta Road,3,4,1.0,140000.0
+Nairobi,Kileleshwa,3,2,1.0,85000.0
+Machakos County,Athi River,2,2,0.0,23000.0
+Westlands,Parklands,2,2,1.0,58000.0
+Westlands,Westlands Area,3,2,1.0,120000.0
+Kiambu County,Ruaka,2,2,1.0,35000.0
+Westlands,Westlands Area,2,2,1.0,115000.0
+Nairobi,Lavington,3,0,1.0,120000.0
+Westlands,Westlands Area,3,3,1.0,130000.0
+Nyali,Kongowea,3,3,1.0,110000.0
+Nairobi,Lavington,1,2,1.0,60000.0
+Westlands,Westlands Area,1,2,0.0,130000.0
+Kiambu County,Kabete,2,2,1.0,28000.0
+Nairobi,Kilimani,2,2,1.0,95000.0
+Nairobi,Kilimani,4,4,1.0,130000.0
+Nairobi,Kilimani,3,3,1.0,100000.0
+Westlands,Kitisuru,2,2,1.0,170000.0
+Nairobi,Kilimani,2,2,0.0,250000.0
+Nairobi,Kileleshwa,3,4,1.0,150000.0
+Westlands,Westlands Area,2,2,1.0,110000.0
+Westlands,Riverside,3,3,1.0,200000.0
+Westlands,Westlands Area,2,2,0.0,219000.0
+Nairobi,Kilimani,0,1,1.0,2500.0
+Westlands,Westlands Area,3,3,1.0,350000.0
+Westlands,Runda,2,2,1.0,
+Westlands,Rhapta Road,3,3,1.0,125000.0
+Kiambu County,Ruaka,2,2,1.0,100000.0
+Nairobi,Kilimani,3,2,1.0,100000.0
+Nairobi,Lavington,2,0,1.0,170000.0
+Nairobi,Lavington,2,2,1.0,140000.0
+Westlands,General Mathenge,3,3,1.0,135000.0
+Westlands,Westlands Area,3,3,1.0,160000.0
+Nairobi,Kileleshwa,0,1,0.0,40000.0
+Nairobi,Kilimani,2,2,1.0,78000.0
+Westlands,Riverside,3,3,1.0,140000.0
+Westlands,Westlands Area,2,2,1.0,240000.0
+Nairobi,Kileleshwa,4,4,1.0,95000.0
+Nairobi,Kiambu Road,3,2,1.0,70000.0
+Nairobi,Kileleshwa,3,2,1.0,90000.0
+Westlands,Spring Valley,2,2,1.0,240000.0
+Westlands,Loresho,4,3,1.0,65000.0
+Nairobi,Kileleshwa,2,2,1.0,220000.0
+Nairobi,State House,3,2,1.0,120000.0
+Westlands,Riverside,3,4,1.0,200000.0
+Nairobi,Lavington,3,3,1.0,120000.0
+Nairobi,Kileleshwa,3,3,0.0,70000.0
+Nairobi,Thika Road,4,3,0.0,80000.0
+Nairobi,Hurlingham,3,3,1.0,180000.0
+Nairobi,Kiambu Road,2,2,1.0,55000.0
+Nairobi,Kilimani,2,2,1.0,65000.0
+Westlands,Westlands Area,1,1,1.0,110000.0
+Kiambu County,Kabete,2,1,0.0,23000.0
+Westlands,Karura,3,4,1.0,295000.0
+Nairobi,Ridgeways,2,2,0.0,130000.0
+Westlands,Spring Valley,2,2,1.0,250000.0
+Westlands,Rhapta Road,2,2,1.0,100000.0
+Westlands,Westlands Area,2,3,1.0,250000.0
+Nairobi,Kileleshwa,4,4,1.0,150000.0
+Westlands,Riverside,3,3,1.0,260000.0
+Nyali,Nyali Area,3,4,1.0,300000.0
+Westlands,Riverside,4,4,1.0,300000.0
+Nairobi,Lavington,3,3,1.0,290000.0
+Nyali,Mkomani,2,3,1.0,55000.0
+Nairobi,Lavington,3,4,1.0,140000.0
+Westlands,General Mathenge,3,4,0.0,140000.0
+Nairobi,Kileleshwa,2,2,1.0,80000.0
+Nairobi,Ruaraka,1,2,1.0,64000.0
+Nairobi,Kileleshwa,2,3,1.0,140000.0
+Nairobi,Kilimani,3,3,1.0,120000.0
+Nairobi,Lavington,3,2,1.0,80000.0
+Westlands,Waiyaki Way,3,2,1.0,60000.0
+Kilifi County,Mtwapa,2,2,1.0,65000.0
+Nairobi,Kilimani,2,2,1.0,170000.0
+Westlands,Parklands,3,3,0.0,250000.0
+Westlands,Parklands,4,4,1.0,135000.0
+Nairobi,Kilimani,3,4,1.0,80000.0
+Westlands,General Mathenge,3,3,1.0,170000.0
+Nairobi,Kibera,2,1,0.0,7500.0
+Westlands,Rhapta Road,2,2,1.0,110000.0
+Westlands,Westlands Area,2,2,1.0,200000.0
+Nyali,Nyali Area,2,2,1.0,12000.0
+Westlands,Riverside,2,2,1.0,80000.0
+Westlands,Westlands Area,1,1,1.0,90000.0
+Nairobi,Kileleshwa,2,2,1.0,
+Westlands,Rhapta Road,2,2,1.0,130000.0
+Kilifi County,Vipingo,2,2,1.0,80000.0
+Kilifi County,Mtwapa,3,3,1.0,90000.0
+Westlands,Riverside,3,3,1.0,100000.0
+Westlands,Riverside,3,4,1.0,300000.0
+Nairobi,Karen,2,2,1.0,120000.0
+Westlands,Westlands Area,4,4,1.0,160000.0
+Kiambu County,Ruaka,2,2,1.0,32000.0
+Westlands,Riverside,1,2,0.0,90000.0
+Westlands,Kitisuru,2,2,1.0,220000.0
+Westlands,Parklands,3,3,1.0,135000.0
+Nairobi,Kilimani,2,3,1.0,90000.0
+Nairobi,Muthaiga,3,3,1.0,200000.0
+Nairobi,Thika Road,2,2,1.0,79000.0
+Nyali,Nyali Area,3,3,1.0,110000.0
+Nairobi,Kileleshwa,4,4,1.0,120000.0
+Ruiru,Tatu City,2,2,1.0,7000.0
+Nairobi,Kilimani,1,2,1.0,130000.0
+Kiambu County,Ruaka,2,2,1.0,50000.0
+Nyali,Nyali Area,3,4,1.0,120000.0
+Nairobi,Ngong Road,3,4,0.0,100000.0
+Westlands,Loresho,3,4,1.0,75000.0
+Nairobi,Kileleshwa,3,3,0.0,175000.0
+Westlands,Riverside,3,4,1.0,280000.0
+Westlands,Westlands Area,3,3,1.0,140000.0
+Nyali,Nyali Area,3,3,1.0,120000.0
+Westlands,Westlands Area,2,2,1.0,170000.0
+Westlands,Westlands Area,1,1,1.0,75000.0
+Kiambu County,Ruiru,1,1,1.0,17000.0
+Nairobi,Kilimani,2,2,1.0,250000.0
+Westlands,Westlands Area,2,2,1.0,150000.0
+Nairobi,Kilimani,3,4,0.0,260000.0
+Westlands,Westlands Area,1,1,1.0,70000.0
+Westlands,Riverside,4,4,1.0,130000.0
+Westlands,Westlands Area,3,3,1.0,130000.0
+Westlands,Rhapta Road,3,4,1.0,
+Westlands,Rhapta Road,1,1,0.0,90000.0
+Kiambu County,Ruaka,3,2,1.0,60000.0
+Westlands,Parklands,4,4,1.0,300000.0
+Nairobi,Kilimani,2,2,0.0,180000.0
+Nairobi,Kilimani,3,2,1.0,180000.0
+Westlands,Westlands Area,2,2,1.0,215000.0
+Westlands,General Mathenge,3,3,1.0,180000.0
+Kiambu County,Ruaka,2,2,1.0,43500.0
+Westlands,Lower Kabete,1,1,1.0,22000.0
+Nairobi,Kilimani,3,3,1.0,200000.0
+Kiambu County,Thika,2,2,1.0,33000.0
+Westlands,Riverside,2,2,0.0,75000.0
+Westlands,Westlands Area,1,0,0.0,150000.0
+Nairobi,Donholm,3,2,1.0,48000.0
+Westlands,Westlands Area,1,1,0.0,45000.0
+Nairobi,Kileleshwa,0,1,1.0,45000.0
+Nyali,Nyali Area,4,3,1.0,260000.0
+Nairobi,Muthaiga,3,3,1.0,95000.0
+Westlands,Brookside,2,2,1.0,80000.0
+Westlands,Westlands Area,2,2,1.0,250000.0
+Nairobi,Kilimani,3,4,0.0,110000.0
+Westlands,Rhapta Road,1,1,1.0,100000.0
+Nairobi,Kibera,2,0,0.0,20000.0
+Westlands,Riverside,2,2,0.0,75000.0
+Westlands,Riverside,2,3,0.0,75000.0
+Nairobi,Kilimani,3,3,0.0,200000.0
+Westlands,Riverside,4,4,1.0,130000.0
+Westlands,Rhapta Road,3,4,1.0,100000.0
+Nairobi,Lavington,2,2,1.0,85000.0
+Westlands,Riverside,2,2,1.0,140000.0
+Nyali,Nyali Area,3,3,1.0,20000.0
+Kiambu County,Redhill,1,1,0.0,146000.0
+Westlands,Runda,2,2,1.0,200000.0
+Nairobi,Kileleshwa,1,1,1.0,55000.0
+Nairobi,Kilimani,2,3,1.0,65000.0
+Nairobi,Lavington,1,1,0.0,140000.0
+Nairobi,South B,3,3,1.0,100000.0
+Westlands,Parklands,2,1,0.0,48000.0
+Nairobi,Kilimani,3,3,0.0,140000.0
+Westlands,Riverside,2,1,0.0,38000.0
+Westlands,Parklands,1,1,1.0,3500.0
+Kilifi County,Mtwapa,2,2,1.0,27000.0
+Westlands,Lower Kabete,3,2,0.0,55000.0
+Westlands,Brookside,2,2,1.0,95000.0
+Nairobi,Ngong Road,3,2,0.0,55000.0
+Nairobi,Kiambu Road,4,4,1.0,65000.0
+Nairobi,Ngong Road,2,3,1.0,50000.0
+Roysambu,Garden Estate,2,2,1.0,89000.0
+Nairobi,Mombasa Road,3,2,1.0,28000.0
+Kiambu County,Ruaka,3,2,1.0,56000.0
+Nairobi,Kiambu Road,2,2,1.0,105000.0
+Nairobi,Kiambu Road,4,4,1.0,70000.0
+Nairobi,Lavington,3,0,1.0,320000.0
+Westlands,Brookside,3,2,1.0,300000.0
+Nairobi,Kilimani,3,2,1.0,100000.0
+Nairobi,Lavington,2,2,1.0,65000.0
+Nairobi,Kileleshwa,4,4,1.0,200000.0
+Westlands,Brookside,3,3,1.0,180000.0
+Nairobi,Kileleshwa,0,1,1.0,95000.0
+Nairobi,Kilimani,3,4,1.0,85000.0
+Nairobi,Dennis Pritt,1,2,1.0,135000.0
+Westlands,Rhapta Road,2,2,1.0,85000.0
+Nairobi,Kileleshwa,2,2,1.0,65000.0
+Kikuyu,Kikuyu Town,3,2,1.0,50000.0
+Nairobi,Lavington,4,5,1.0,140000.0
+Westlands,Westlands Area,3,3,1.0,280000.0
+Nyali,Nyali Area,3,3,1.0,130000.0
+Kikuyu,Gikambura,3,2,1.0,35000.0
+Nairobi,Kileleshwa,2,2,1.0,150000.0
+Nairobi,Kileleshwa,3,4,1.0,130000.0
+Nairobi,Kileleshwa,4,5,1.0,160000.0
+Nairobi,Kileleshwa,2,3,1.0,7000.0
+Westlands,Riverside,1,1,1.0,220000.0
+Westlands,Riverside,1,1,1.0,230000.0
+Westlands,Spring Valley,2,4,1.0,220000.0
+Nairobi,Kileleshwa,2,0,1.0,160000.0
+Nairobi,Valley Arcade,4,3,1.0,240000.0
+Nairobi,Dennis Pritt,2,2,1.0,230000.0
+Westlands,Rhapta Road,1,1,1.0,150000.0
+Nairobi,Lavington,3,2,1.0,100000.0
+Westlands,Kitisuru,2,2,1.0,80000.0
+Nairobi,Kilimani,2,2,1.0,250000.0
+Nairobi,Lavington,4,4,1.0,280000.0
+Nairobi,Langata,3,2,1.0,55000.0
+Nairobi,Kileleshwa,3,3,1.0,130000.0
+Nairobi,Lavington,3,4,1.0,170000.0
+Westlands,Riverside,3,3,1.0,220000.0
+Westlands,Rhapta Road,2,2,1.0,100000.0
+Westlands,Waiyaki Way,3,3,1.0,70000.0
+Nairobi,Ngong Road,3,2,1.0,60000.0
+Nairobi,Naivasha Road,1,1,1.0,40000.0
+Westlands,Runda,1,1,1.0,90000.0
+Westlands,Waiyaki Way,3,3,1.0,80000.0
+Westlands,Runda,2,2,1.0,180000.0
+Nairobi,Ngong Road,2,2,1.0,55000.0
+Westlands,Westlands Area,1,1,1.0,160000.0
+Westlands,Rhapta Road,2,2,1.0,180000.0
+Westlands,Parklands,3,3,1.0,2400.0
+Westlands,Riverside,4,3,1.0,200000.0
+Westlands,Riverside,2,2,1.0,2000.0
+Kiambu County,Ruiru,3,4,1.0,120000.0
+Kiambu County,Ruiru,2,2,1.0,52500.0
+Westlands,Runda,1,1,1.0,90000.0
+Westlands,Riverside,2,2,1.0,290000.0
+Nairobi,Kilimani,4,4,1.0,170000.0
+Nairobi,Karen,2,1,1.0,45000.0
+Westlands,Riverside,3,2,0.0,75000.0
+Nairobi,Muthaiga,4,3,1.0,400000.0
+Nairobi,Lavington,4,4,1.0,130000.0
+Westlands,Riverside,1,2,1.0,150000.0
+Westlands,Riverside,2,2,1.0,200000.0
+Westlands,Rhapta Road,2,2,1.0,155000.0
+Nairobi,Lavington,3,2,1.0,165000.0
+Nairobi,Lavington,1,1,0.0,32000.0
+Kiambu County,Ruiru,2,1,0.0,13000.0
+Westlands,Rosslyn,1,1,1.0,110000.0
+Westlands,Parklands,2,2,1.0,160000.0
+Nyali,Nyali Area,4,0,0.0,145000.0
+Nairobi,Uthiru,2,2,0.0,38000.0
+Westlands,Runda,2,2,1.0,100000.0
+Nyali,Nyali Area,3,2,1.0,110000.0
+Kiambu County,Ruiru,2,2,1.0,52000.0
+Nyali,Nyali Area,2,2,1.0,7000.0
+Westlands,Waiyaki Way,2,2,1.0,180000.0
+Nairobi,Kilimani,4,3,0.0,90000.0
+Westlands,Runda,1,2,1.0,145000.0
+Westlands,Westlands Area,2,3,1.0,230000.0
+Westlands,Kitisuru,1,1,1.0,23000.0
+Westlands,Runda,2,2,1.0,160000.0
+Nairobi,Ridgeways,2,2,1.0,100000.0
+Westlands,Gigiri,1,1,1.0,100000.0
+Nairobi,Lavington,3,3,1.0,140000.0
+Kajiado County,Kisaju,1,1,1.0,18000.0
+Nyali,Nyali Area,3,2,1.0,10000.0
+Westlands,Lower Kabete,2,2,1.0,250000.0
+Nairobi,Kileleshwa,3,3,1.0,170000.0
+Nairobi,Upper Hill,2,2,1.0,150000.0
+Westlands,Waiyaki Way,1,1,1.0,18000.0
+Nairobi,Uthiru,2,2,1.0,45000.0
+Nyali,Nyali Area,2,2,1.0,170000.0
+Nyali,Nyali Area,2,0,1.0,7000.0
+Mombasa,Bamburi,1,0,1.0,3000.0
+Nyali,Nyali Area,3,0,1.0,88000.0
+Nyali,Nyali Area,3,0,1.0,180000.0
+Nyali,Nyali Area,1,1,1.0,70000.0
+Nairobi,Kiambu Road,3,2,1.0,75000.0
+Mombasa,Bamburi,3,2,1.0,4500.0
+Nyali,Nyali Area,2,2,1.0,6000.0
+Kilifi County,Mtwapa,2,3,1.0,35000.0
+Nairobi,Kiambu Road,2,2,1.0,50000.0
+Nairobi,Kileleshwa,3,3,1.0,120000.0
+Westlands,Westlands Area,2,2,0.0,200000.0
+Westlands,Westlands Area,2,2,0.0,265000.0
+Westlands,Westlands Area,1,1,0.0,150000.0
+Westlands,Westlands Area,2,2,0.0,180000.0
+Westlands,Waiyaki Way,2,2,0.0,180000.0
+Nairobi,Kileleshwa,1,1,0.0,220000.0
+Nairobi,Lavington,1,1,0.0,230000.0
+Nairobi,Kiambu Road,1,1,1.0,17000.0
+Nairobi,Kileleshwa,3,0,1.0,80000.0
+Nairobi,Hurlingham,2,2,0.0,220000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+ Mombasa,Shanzu,1,1,,55000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Nairobi,Kilimani,2,3,,65000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Kilimani,3,3,,75000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+ Nairobi, Riverside,3,3,,200000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+,,3,3,,78000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi, Riverside,3,3,,200000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+,,3,3,,78000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Nairobi,Kilimani,2,3,,65000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Lavington,3,3,,80000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,3,3,,78000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+,,3,3,,78000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+,,3,3,,78000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Mombasa,Shanzu,1,1,,55000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+,,3,2,,45000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi,Westlands,2,2,,100000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kilimani,3,3,,75000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi,Kilimani,2,3,,65000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+,,2,2,,75000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+,,3,2,,45000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,3,2,,45000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+,,3,3,,78000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+,,3,3,,78000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+,,3,2,,45000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Mombasa, Nyali,3,2,,38000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+,,2,2,,75000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi, Kileleshwa,3,3,,100000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Lavington,3,3,,125000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+,,3,2,,45000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+ Mombasa,Shanzu,1,1,,55000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+,,3,2,,45000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Westlands,2,2,,100000.0
+ Nairobi, Kilimani,3,3,,80000.0
+ Nairobi, Riverside,3,3,,200000.0
+ Nairobi,Kileleshwa,3,4,,70000.0
+ Mombasa, Nyali,3,2,,38000.0
+ Nairobi,Kileleshwa,1,1,,110000.0
+ Nairobi, Kahawa Wendani,4,2,,57750.0
+ Nairobi,Kilimani,2,3,,65000.0
+,,3,3,,78000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Mombasa,Nyali,1,1,,150000.0
+ Nairobi,Westlands,4,2,,165000.0
+ Kikuyu, Kikuyu,3,3,,55000.0
+ Mombasa,Shanzu,1,1,,55000.0
+ Nairobi, Westlands,2,2,,75000.0
+,,2,2,,75000.0
+ Nairobi, Kileleshwa,2,2,,55000.0
+ Nairobi,Kilimani,3,3,,75000.0
+,,3,2,,45000.0
+ Nairobi, Spring Valley,2,3,,65000.0
+ Nairobi,Muthaiga,4,5,,300000.0
+ Nairobi,Westlands,2,2,,100000.0
